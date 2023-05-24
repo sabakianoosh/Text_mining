@@ -1,4 +1,4 @@
-# Text-Minning
+# Text-Mining
 A Text minning project coded in c sharp <br/>
 Finding Words and Special patterns in text <br/>
 Create Graph and Trees out of discovered patterns and relations <br/>
