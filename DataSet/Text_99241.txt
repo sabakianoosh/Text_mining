@@ -1,0 +1,99 @@
+MediumSlateBlue LightSlateBlue Gainsboro MediumVioletRed LightSteelBlue DarkFuchsia Indigo Chartreuse Lime BlueViolet
+LightSalmon Fuchsia Coral Yellow Tomato MediumSpringGreen PaleGoldenrod OliveDrab GreenYellow LightBlue
+Teal Honeydew Violet LightGoldenrodYellow Navy Cornsilk PapayaWhip LightSlateBlue Olive PaleVioletRed
+PaleGoldenrod MediumSpringGreen Yellow PaleGoldenrod LightGray LightCyan MediumAquamarine Linen DarkSlateGray FloralWhite
+WhiteSmoke PaleTurquoise Black Firebrick PeachPuff Cornsilk SlateGray MistyRose LemonChiffon Moccasin
+Black LightCyan Green PaleGoldenrod Green Gainsboro DarkOrchid OldLace DarkOrchid MediumOrchid
+MidnightBlue Brown Black White MediumAquamarine PowderBlue Orange LightGreen LightSlateGray Azure
+IndianRed WhiteSmoke BlanchedAlmond LimeGreen LightSalmon BlueViolet LavenderBlush DarkBlue DimGray FloralWhite
+MediumPurple LightGoldenrodYellow LightSlateBlue Cornsilk DarkSlateBlue DarkGreen SaddleBrown RoyalBlue DimGray LightGoldenrodYellow
+Orange DimGray DarkGoldenrod Brown Moccasin Cyan DeepPink MediumBlue GhostWhite Seashell
+LightSteelBlue Peru MistyRose WhiteSmoke SteelBlue SpringGreen SteelBlue Aquamarine Peru Chartreuse
+massacre punitive punishment spy assault criminality trafficking statutory structuralism offence
+shootings action victim hijack fraud mob gangster noir murder crime
+offenses kill gangster trafficking blackmail theft racism barratry sin mafia
+mafia police suspense slay guilty country gangsterism lift smuggle mob
+investigation criminality assault revenge corruption sentence incarceration violence blackmail muggings
+mob serial criminals suspense serial shoplift forensic offense arrest mafia
+accident psychological snitching illegal victim sin transgression gang bloodshed punitive
+abuse liberty forensic law-breaking slayings threats illegal murders guilty guilty
+psychological accident drug thriller felony offence offenses rape homicides misdemeanour
+political mafia sentence sin genocide slay kill police forensic felony
+gun sentence spy drugs lift homelessness guilt drug police mystery
+BinaryNumber_1000011 BinaryNumber_0100101 BinaryNumber_0100001 BinaryNumber_0001011 BinaryNumber_0010111 BinaryNumber_1011110 BinaryNumber_0110111 BinaryNumber_1000101 BinaryNumber_0111001 BinaryNumber_1001010
+BinaryNumber_0110110 BinaryNumber_1100010 BinaryNumber_1011000 BinaryNumber_0100110 BinaryNumber_0000111 BinaryNumber_0010101 BinaryNumber_0001000 BinaryNumber_0010110 BinaryNumber_0011110 BinaryNumber_0010110
+BinaryNumber_0001011 BinaryNumber_0000001 BinaryNumber_0101011 BinaryNumber_1010111 BinaryNumber_0111010 BinaryNumber_0101111 BinaryNumber_0101001 BinaryNumber_0110001 BinaryNumber_0100100 BinaryNumber_1100000
+BinaryNumber_0101011 BinaryNumber_0001111 BinaryNumber_1001111 BinaryNumber_0001101 BinaryNumber_1011001 BinaryNumber_1001101 BinaryNumber_1000000 BinaryNumber_0010000 BinaryNumber_0000111 BinaryNumber_0011101
+BinaryNumber_1010101 BinaryNumber_0011101 BinaryNumber_1010011 BinaryNumber_1011010 BinaryNumber_0101010 BinaryNumber_0100010 BinaryNumber_1011011 BinaryNumber_1000100 BinaryNumber_1100001 BinaryNumber_1100011
+BinaryNumber_1010110 BinaryNumber_0100100 BinaryNumber_0111001 BinaryNumber_0000010 BinaryNumber_0001100 BinaryNumber_1001000 BinaryNumber_0101100 BinaryNumber_1001001 BinaryNumber_0110100 BinaryNumber_0011010
+BinaryNumber_1011011 BinaryNumber_0001001 BinaryNumber_0000001 BinaryNumber_0001001 BinaryNumber_0011011 BinaryNumber_0101101 BinaryNumber_0111010 BinaryNumber_0001100 BinaryNumber_1001110 BinaryNumber_0000100
+BinaryNumber_0000111 BinaryNumber_0101110 BinaryNumber_1001000 BinaryNumber_0000011 BinaryNumber_0001101 BinaryNumber_1010010 BinaryNumber_0100110 BinaryNumber_1010010 BinaryNumber_0100101 BinaryNumber_0101111
+BinaryNumber_0110010 BinaryNumber_0101100 BinaryNumber_1000100 BinaryNumber_1010010 BinaryNumber_1000000 BinaryNumber_1100010 BinaryNumber_1011001 BinaryNumber_0111111 BinaryNumber_1000001 BinaryNumber_0111000
+BinaryNumber_0110111 BinaryNumber_0110010 BinaryNumber_0111010 BinaryNumber_1000110 BinaryNumber_0101100 BinaryNumber_0111000 BinaryNumber_0110111 BinaryNumber_0011010 BinaryNumber_0011011 BinaryNumber_0011100
+BinaryNumber_0111100 BinaryNumber_1100001 BinaryNumber_1100010 BinaryNumber_1001101 BinaryNumber_0101100 BinaryNumber_1000011 BinaryNumber_1010011 BinaryNumber_1001100 BinaryNumber_0110101 BinaryNumber_1010010
+SquareNumber_4761 SquareNumber_7569 SquareNumber_3969 SquareNumber_1764 SquareNumber_2401 SquareNumber_3481 SquareNumber_7921 SquareNumber_10000 SquareNumber_2209 SquareNumber_3025
+SquareNumber_5625 SquareNumber_5776 SquareNumber_3969 SquareNumber_3249 SquareNumber_8464 SquareNumber_1681 SquareNumber_3249 SquareNumber_8649 SquareNumber_4624 SquareNumber_1369
+SquareNumber_8464 SquareNumber_4356 SquareNumber_6084 SquareNumber_400 SquareNumber_7056 SquareNumber_625 SquareNumber_1089 SquareNumber_3364 SquareNumber_8464 SquareNumber_1849
+SquareNumber_196 SquareNumber_1681 SquareNumber_8100 SquareNumber_1089 SquareNumber_529 SquareNumber_6241 SquareNumber_1600 SquareNumber_4900 SquareNumber_169 SquareNumber_3844
+SquareNumber_441 SquareNumber_1225 SquareNumber_441 SquareNumber_2401 SquareNumber_784 SquareNumber_3600 SquareNumber_1681 SquareNumber_3600 SquareNumber_9409 SquareNumber_10000
+SquareNumber_7744 SquareNumber_2916 SquareNumber_3969 SquareNumber_7569 SquareNumber_625 SquareNumber_1296 SquareNumber_64 SquareNumber_64 SquareNumber_144 SquareNumber_9
+SquareNumber_1024 SquareNumber_3481 SquareNumber_576 SquareNumber_3844 SquareNumber_4225 SquareNumber_676 SquareNumber_729 SquareNumber_900 SquareNumber_5184 SquareNumber_484
+SquareNumber_225 SquareNumber_3136 SquareNumber_5476 SquareNumber_2304 SquareNumber_1936 SquareNumber_2809 SquareNumber_484 SquareNumber_144 SquareNumber_1936 SquareNumber_81
+SquareNumber_5041 SquareNumber_3025 SquareNumber_1764 SquareNumber_2704 SquareNumber_3249 SquareNumber_1369 SquareNumber_6724 SquareNumber_1024 SquareNumber_3364 SquareNumber_361
+SquareNumber_5041 SquareNumber_4 SquareNumber_361 SquareNumber_9801 SquareNumber_2809 SquareNumber_3136 SquareNumber_576 SquareNumber_1849 SquareNumber_441 SquareNumber_676
+SquareNumber_576 SquareNumber_2809 SquareNumber_4096 SquareNumber_3364 SquareNumber_2500 SquareNumber_1369 SquareNumber_9025 SquareNumber_25 SquareNumber_5041 SquareNumber_9
+21:44 15:42 18:25 16:23 19:33 18:25 18:20 10:16 12:16 19:49
+16:29 23:36 11:54 16:31 11:50 23:21 12:10 23:29 16:20 21:44
+14:46 15:24 13:36 18:57 18:49 13:54 22:54 22:34 14:23 19:42
+11:15 13:36 13:16 14:35 15:33 12:17 21:16 19:26 15:42 14:10
+20:23 15:26 16:53 22:16 17:12 11:19 20:36 19:11 18:35 23:15
+10:33 19:40 15:44 14:35 20:22 14:10 15:51 15:27 21:16 21:27
+18:34 15:38 10:36 22:56 17:12 13:59 15:40 22:20 18:44 18:12
+22:34 12:48 21:56 19:37 17:18 18:48 19:43 17:38 14:23 19:48
+19:49 17:40 20:24 21:31 10:13 19:19 14:12 12:56 22:46 12:59
+22:46 10:56 19:45 16:29 12:45 21:36 13:22 10:14 21:13 10:48
+23:17 13:27 21:24 20:40 21:32 19:49 21:32 21:27 13:47 15:28
+analogcomputer smartphone router downloader browser cybertechnology pc daw pc data
+mechanicalcomputer digitalcomputer compatible turingmachine virtualreality smartphone algorithm peripheral compatible electrical
+centralprocessing unit pc desktoppcs mobile digitalaudioplayer analogcomputer watch digital homecomputer software
+computing peripheral memory proprietary watch desktop peripheral supercomputer eniac centralprocessing unit
+computercide electromechanical abacus expansionslot dataconverter digitalaudioplayer abacus social microprocessor information
+digital internet cyber vacuumtube desktopcomputer visualdisplayunit programming inputdevice social machine
+microprocessor computerscience integratedcircuit computation office game computerhardware watch bit social
+browser vacuumtube expansionslot von neumann machine eniac keyboard computing compatible sliderule internet
+imac visualdisplayunit diskette astrolabe automation daw tablet turingmachine office compatible
+game automation computercide visualdisplayunit camera floppydisk smartphone integratedcircuit ibook inputdevice
+office integratedcircuit transistor computing integratedcircuit inputdevice digitalaudioplayer cyber computerprogram astrolabe
+fruit cheese animal nourishment rice drinks drinks nourishment sushi cooking
+nutrient nutrition provender drinks fruit meat fruits vegetables nutrition provender cereal
+nutrition restaurant nutrient nutrition milk victuals nourishment vegetable meat edible
+restaurant plant meat animal drinks drinks cooking seafood eat animal
+milk cooking sushi restaurant provender provender nutrient beef animal fruits vegetables
+vegetable fruits vegetables pasta fruit rice soup meal rice eat vegetable
+chicken eat cooking edible beef nourishment eat chicken victuals cheese
+eat cereal seafood animal pasta sushi meal soup vegetable plant
+fruit plant fruits vegetables meals victuals beef nourishment meal eat edible
+vegetable fruits vegetables eat seafood drinks meat meal nourishment animal eat
+meals milk victuals sushi plant nourishment meals meat nourishment provender
+bird eukaryotic reptile thoroughbred sheep varmint object deer bobcat workanimal
+zoo birds feline dinosaur object iguana epizootic animalkingdom zooplankton animalia
+insectivorous rodent amphibians sensual domesticate fish dinosaur pigs exoticanimals protist
+animal welfare insect zoology mammal raccoon tufted primate cats primate environmental
+insectivore sensual protist pigs octopuses insectivorous meat bear mammal biped
+exoticanimals biped llamas llamas cats puppy pups hourse fleshly sensual
+reptile darter embryo fish llamas insectivorous workanimal insect puppy feline
+sheep livestock rodent porifera ladybug rodent animalkingdom darter clams primate
+metazoan animal welfare bobcat sensual pigs meat demon raccoon carnal animalkingdom
+multicellular demon sensual puppy embryo tiger marineanimal reptiles farming octopuses
+insect bug livestock embryo creature mammal clams raccoon animal welfare mammals
+improvisation genres bassline hiphop soundtracks bhangra conduct sound cello tweedle
+compositions orchestra atonality tuba pizzicato action bluegrass banjo timbre section
+creative time voice carol dance language film editing jazz metal
+poetry entertainment harp media percussion single record symphonic recapitulation classical
+musicians rockabilly visual arts editing musicology film funk harmonize popular music
+euphony sonata bugle tempo films interlude karaoke scale violoncello subdivision
+release melody voices band metre ragtime funk sounds arts album
+popular music dixieland poetry movie medicine harp muse part harmonise tonality
+tweedle chord podcast tabs tempo bar dynamics recapitulation performance sing
+playlist bpm lute soul improvisation instrumental theatre song vocals art
+singers opera clarinet culture rhapsody phenomenon sound works album noises

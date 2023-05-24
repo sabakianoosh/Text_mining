@@ -1,0 +1,99 @@
+BinaryNumber_1010101 BinaryNumber_0101010 BinaryNumber_0111100 BinaryNumber_1010110 BinaryNumber_0111001 BinaryNumber_1000111 BinaryNumber_1100000 BinaryNumber_1100001 BinaryNumber_0011001 BinaryNumber_1011011
+BinaryNumber_0100111 BinaryNumber_1011110 BinaryNumber_1010000 BinaryNumber_0001000 BinaryNumber_0101010 BinaryNumber_1000011 BinaryNumber_0101100 BinaryNumber_1011110 BinaryNumber_0101010 BinaryNumber_1010000
+BinaryNumber_0100101 BinaryNumber_0010101 BinaryNumber_0111100 BinaryNumber_1011011 BinaryNumber_0000100 BinaryNumber_0100000 BinaryNumber_0100001 BinaryNumber_1000100 BinaryNumber_0000010 BinaryNumber_0001111
+BinaryNumber_0011001 BinaryNumber_1010000 BinaryNumber_1100000 BinaryNumber_1001101 BinaryNumber_0010000 BinaryNumber_1010000 BinaryNumber_1001001 BinaryNumber_0101101 BinaryNumber_0101101 BinaryNumber_0010010
+BinaryNumber_0100010 BinaryNumber_0001101 BinaryNumber_0101110 BinaryNumber_0100000 BinaryNumber_1000010 BinaryNumber_1001011 BinaryNumber_0001111 BinaryNumber_0111000 BinaryNumber_0001110 BinaryNumber_1011111
+BinaryNumber_0110010 BinaryNumber_0011011 BinaryNumber_1000110 BinaryNumber_0010110 BinaryNumber_0011011 BinaryNumber_0010000 BinaryNumber_0110100 BinaryNumber_0101110 BinaryNumber_0101001 BinaryNumber_0100011
+BinaryNumber_1011100 BinaryNumber_1000010 BinaryNumber_0010001 BinaryNumber_0101111 BinaryNumber_0110110 BinaryNumber_0010111 BinaryNumber_1011110 BinaryNumber_0110001 BinaryNumber_0001000 BinaryNumber_1010110
+BinaryNumber_0101000 BinaryNumber_0001010 BinaryNumber_0100011 BinaryNumber_0110000 BinaryNumber_1001101 BinaryNumber_0011010 BinaryNumber_0011111 BinaryNumber_0000100 BinaryNumber_1000100 BinaryNumber_1000110
+BinaryNumber_0101101 BinaryNumber_0100100 BinaryNumber_1011100 BinaryNumber_0111011 BinaryNumber_0010101 BinaryNumber_0000111 BinaryNumber_1011101 BinaryNumber_0100100 BinaryNumber_0110100 BinaryNumber_1001001
+BinaryNumber_0100101 BinaryNumber_0010011 BinaryNumber_0101100 BinaryNumber_0001111 BinaryNumber_0110010 BinaryNumber_0101010 BinaryNumber_0111001 BinaryNumber_1001100 BinaryNumber_0111110 BinaryNumber_0001011
+BinaryNumber_0100110 BinaryNumber_0011100 BinaryNumber_0001011 BinaryNumber_0101100 BinaryNumber_0000100 BinaryNumber_1000001 BinaryNumber_0111011 BinaryNumber_0010001 BinaryNumber_1001010 BinaryNumber_0111011
+SquareNumber_81 SquareNumber_10000 SquareNumber_6084 SquareNumber_49 SquareNumber_676 SquareNumber_2209 SquareNumber_289 SquareNumber_4624 SquareNumber_9604 SquareNumber_8464
+SquareNumber_7056 SquareNumber_2916 SquareNumber_6084 SquareNumber_2704 SquareNumber_9801 SquareNumber_4761 SquareNumber_9801 SquareNumber_9 SquareNumber_144 SquareNumber_6724
+SquareNumber_6561 SquareNumber_36 SquareNumber_5476 SquareNumber_5929 SquareNumber_5625 SquareNumber_9 SquareNumber_7225 SquareNumber_529 SquareNumber_1225 SquareNumber_784
+SquareNumber_4 SquareNumber_961 SquareNumber_1936 SquareNumber_361 SquareNumber_1681 SquareNumber_64 SquareNumber_484 SquareNumber_2116 SquareNumber_441 SquareNumber_4624
+SquareNumber_144 SquareNumber_5476 SquareNumber_400 SquareNumber_9025 SquareNumber_1296 SquareNumber_4096 SquareNumber_196 SquareNumber_2116 SquareNumber_324 SquareNumber_81
+SquareNumber_9025 SquareNumber_4900 SquareNumber_5329 SquareNumber_1600 SquareNumber_9409 SquareNumber_1369 SquareNumber_2116 SquareNumber_7921 SquareNumber_2500 SquareNumber_2209
+SquareNumber_1369 SquareNumber_1089 SquareNumber_5476 SquareNumber_441 SquareNumber_1936 SquareNumber_100 SquareNumber_5184 SquareNumber_1849 SquareNumber_9409 SquareNumber_2209
+SquareNumber_8100 SquareNumber_3136 SquareNumber_36 SquareNumber_5476 SquareNumber_64 SquareNumber_3481 SquareNumber_6084 SquareNumber_3844 SquareNumber_3600 SquareNumber_2401
+SquareNumber_5041 SquareNumber_5041 SquareNumber_1024 SquareNumber_729 SquareNumber_6889 SquareNumber_2304 SquareNumber_144 SquareNumber_9 SquareNumber_6724 SquareNumber_1369
+SquareNumber_5476 SquareNumber_3364 SquareNumber_4624 SquareNumber_5041 SquareNumber_5041 SquareNumber_3025 SquareNumber_3844 SquareNumber_9409 SquareNumber_5625 SquareNumber_6400
+SquareNumber_1156 SquareNumber_7396 SquareNumber_8649 SquareNumber_25 SquareNumber_1225 SquareNumber_81 SquareNumber_5329 SquareNumber_2500 SquareNumber_5329 SquareNumber_144
+soup plant fruits vegetables restaurant nutrient milk victuals rice sushi animal
+meals rice victuals eat cooking rice sushi animal cheese cooking
+provender nutrition fruits vegetables provender beef pasta plant restaurant fruits vegetables restaurant
+drinks vegetable beef vegetable eat victuals pasta fruits vegetables drinks cereal
+meat cooking cereal nourishment sushi rice nutrition edible soup meal
+cheese provender provender animal cooking meat nutrition cereal nutrition nourishment
+meal fruit fruits vegetables fruits vegetables soup meal vegetable fruit eat pasta
+sushi vegetable fruits vegetables rice vegetable milk pasta meals plant drinks
+eat animal chicken drinks cheese vegetable nourishment drinks milk drinks
+plant cheese vegetable fruit drinks rice drinks vegetable beef rice
+fruit pasta meals soup nourishment cooking cooking nutrient meat sushi
+dinosaur invertebrate predatoryanimal hourse dinosaur zooplankton mammal insectivore carnal fantasy
+shelter fantasy carnal vegan animals varmint fauna hourse varmint animal welfare
+cat varmint chordate biped bear heterotroph bird amphibians bird puppy
+bobcat frog workanimal bug hourse tufted wildlife mythical epizootic beast
+amphibians shelter sheep rabbit pups mammals monster deer pet eukaryotic
+multicellular plant tame farming sheep hourse invertebrate bear meat thoroughbred
+embryo workanimal thoroughbred sensual protist fleshly varmint monster insectivorous exoticanimals
+domesticate insectivorous farming invertebrate tiger deer darter raccoon object sheep
+reptiles environmental pet mammal eukaryotic mythical shelter porifera insectivore metazoan
+eukaryotic domesticate mythical jellyfish thoroughbred epizootic feline meat demon heterotroph
+fish sensual metazoan carnivore zoo iguana protist rabbit fish animatebeing
+carol interlude piano reading polyphony soulful carol performance voices rhythm
+albums language flute ragtime culture rock works clapping lights singer
+band instrument clarinet concerto work bands genre streaming playlists genres
+lights tuba tonic choir genres soul film roulade sonata artists
+section musicality harmonize monophony tabs pitch audio compositions bpm arts
+cadence metal art music party chord double bass editing muses melodies roulade
+tempo instrument bebop culture time rhythm subtonic bassline ska graphics
+pizzicato sfx improvisation improvisation bugle chaconne graphics beats works concertize
+singing sound oboe albums arts writing euphony rockabilly score jazz
+muse phone muses hymn madrigal recapitulation talking bands spotify triple-tongue
+banjo silence voices rhythm concerts bhangra recording score instrumental tonality
+Television Futon Couch Zitan Inlay Hutch Sofa Pliant Bookcase Armoire
+Antique Breakfront Mirror Fan Mantle Sofabed Breakfront Ottoman Couch Drapes
+Bergere Rug Sofabed Footstool Hassock Island Television Fauteuil Vitrine Footrest
+Furniture Volute Dresser Etagère Island Fauteuil Bureau Hassock Headboard Pillow
+Furnishings Bureau Breakfront Secretary Hassock Air-conditioner Mattress Waterbed Loveseat Sofa
+Furnishings Throne Chair Antique Sideboard Sofabed Volute Settee Castor Bookcase
+Console Pliant Daybed Cupboard Secretary Clock Pillow Mantle Buffet Clock
+Vitrine Headboard Marquetry Volute Fauteuil Rattle Bookcase Fluting Zitan Table
+Bed Mantle Ottoman Mattress Lamp Loveseat Cot Clock Bookshelf Pantry
+Couch Vanity Cradle Cupboard Chandelier Pillow Curtains Ottoman Jardinière Curtains
+Regency Dresser Waterbed Fluting Rack Loveseat Cushions Cabriole Tansu Ottoman
+highjack criminal guilty structuralism kill victim death accident illegal mystery
+felony safety war rape punishment evidence arrest transgression terrorism terrorism
+snitching kill vandalism blackmail forensic incarceration racism poverty forensic supernatural
+homicides criminality robbery gang arrest homicide gangsterism victim sin slayings
+threats thriller vandalism massacre barratry guilty murder homicide mystery racism
+theft thrillers poverty theft trafficking poverty offenses abuse gangsterism incarceration
+slay trial fraud dark police supernatural offenders law offence noir
+police structuralism misdemeanour investigation homicide blackmail country gang misdemeanour homicide
+gangs law homeless legal structuralism cases muggings genocide punishment offenses
+robbery fraud safety corruption arrest justice brutality imprisonment offenses skyjack
+blackmail justice thriller muggings shoplift prostitution arrest gangster terrorism gangs
+romp ineligible luge badminton rollick suit boulder play gymnastics polo
+lark active frisk community hunting hiking fitness offside skateboarding athletes
+chess bouldering club coach athletic dynamic blazers hunting safari activity
+rowing hunters offside sport sportsmanship pack triathlon supersport lifestyle hunting
+sportsmanship comfort field position competitive bouldering exercises movement team waterski
+club cross judo position skylark gambol events safari sportsman multisport
+hunting activity sports video rowing extracurricular culture career video performance
+action tournament hiking games work frolic athletes comfort gamely bouldering
+hockey motorsports lead dynamic tournament triathlon hobbies challenge hockey activities
+muscle polo team tennis work soccerball badminton activity sports video
+skateboard activities fun soccerball horseracing standard goal limited offside comfort
+computerprogramming digitalcomputer electromechanical centralprocessing unit pornographicimages internet diskette imac cell chip
+laptopcomputer escapekey turingmachine software mobiledevice watch inputdevice browser computercircuit memory
+ibook digital microcomputer computation computing camera integratedcircuit floppydisk downloader digitalcomputer
+visualdisplayunit game homecomputer tablet information browser daw daw hardware laptop
+software programmer astrolabe xbox computerprogramming inputdevice virtualreality astrolabe computerprogram computerscience
+proprietary inputdevice laptopcomputer desktop computing inputdevice automation mainframe cell computation
+computerprogramming inputdevice computerhardware programming spyware pc computing peripheral game vacuumtube
+cell electromechanical cell digitalaudioplayer bit laptopcomputer laptop expansionslot integratedcircuit hardware
+computercircuit microcomputer digitalaudioplayer compatible software desktoppcs eniac von neumann machine information virtualreality
+cpu programmer mobiledevice memory internet dataconverter microprocessor internet analogcomputer calculator
+mobile laptopcomputer desktoppcs mobile desktoppcs digitalaudioplayer microcomputer cyber spyware watch

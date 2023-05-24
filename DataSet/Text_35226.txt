@@ -1,0 +1,99 @@
+IndianRed Salmon Lavender Beige HotPink SlateBlue Navy Chocolate SpringGreen BlueViolet
+Coral SandyBrown Orange CadetBlue SkyBlue SkyBlue ForestGreen SkyBlue Gainsboro Brown
+Olive LightSeaGreen SandyBrown FloralWhite DeepSkyBlue DarkOrchid White VioletRed Silver SpringGreen
+Cyan SeaGreen DarkOliveGreen Lime Brown LightSkyBlue LimeGreen LightGoldenrodYellow AntiqueWhite AntiqueWhite
+LightCoral MediumSlateBlue Moccasin DarkSalmon SteelBlue Aquamarine PeachPuff PapayaWhip Aquamarine Wheat
+Navy MediumPurple Gray Orange Purple LightGoldenrodYellow Tan Lime HotPink CadetBlue
+LightSlateGray White DodgerBlue Brown SlateBlue MidnightBlue SeaGreen DarkSlateGray SeaGreen Goldenrod
+Moccasin Pink MediumSlateBlue LightGreen Turquoise Orchid LightSteelBlue MediumBlue SpringGreen LightCoral
+LightSkyBlue LightSlateBlue Goldenrod Seashell CadetBlue PaleTurquoise Navy DarkOrchid Linen PaleVioletRed
+Linen LemonChiffon Turquoise Gainsboro MistyRose RoyalBlue LightCyan Black Firebrick LightBlue
+White Yellow LightCoral LightSkyBlue MediumBlue MediumBlue Tomato GhostWhite HotPink Green
+CubeNumber_24389 CubeNumber_19683 CubeNumber_175616 CubeNumber_804357 CubeNumber_216 CubeNumber_262144 CubeNumber_21952 CubeNumber_46656 CubeNumber_8 CubeNumber_4913
+CubeNumber_117649 CubeNumber_571787 CubeNumber_226981 CubeNumber_205379 CubeNumber_238328 CubeNumber_46656 CubeNumber_97336 CubeNumber_438976 CubeNumber_85184 CubeNumber_2744
+CubeNumber_125 CubeNumber_68921 CubeNumber_64000 CubeNumber_729 CubeNumber_13824 CubeNumber_778688 CubeNumber_157464 CubeNumber_74088 CubeNumber_658503 CubeNumber_2744
+CubeNumber_5832 CubeNumber_13824 CubeNumber_140608 CubeNumber_21952 CubeNumber_636056 CubeNumber_4096 CubeNumber_8 CubeNumber_216000 CubeNumber_10648 CubeNumber_4913
+CubeNumber_91125 CubeNumber_373248 CubeNumber_85184 CubeNumber_8000 CubeNumber_729 CubeNumber_216000 CubeNumber_97336 CubeNumber_216000 CubeNumber_46656 CubeNumber_493039
+CubeNumber_614125 CubeNumber_2197 CubeNumber_4913 CubeNumber_250047 CubeNumber_753571 CubeNumber_91125 CubeNumber_328509 CubeNumber_6859 CubeNumber_19683 CubeNumber_373248
+CubeNumber_32768 CubeNumber_512000 CubeNumber_830584 CubeNumber_912673 CubeNumber_15625 CubeNumber_343000 CubeNumber_68921 CubeNumber_729 CubeNumber_405224 CubeNumber_2197
+CubeNumber_46656 CubeNumber_300763 CubeNumber_15625 CubeNumber_438976 CubeNumber_64000 CubeNumber_274625 CubeNumber_912673 CubeNumber_912673 CubeNumber_216 CubeNumber_226981
+CubeNumber_97336 CubeNumber_729000 CubeNumber_226981 CubeNumber_884736 CubeNumber_64 CubeNumber_421875 CubeNumber_166375 CubeNumber_512000 CubeNumber_166375 CubeNumber_778688
+CubeNumber_13824 CubeNumber_132651 CubeNumber_125000 CubeNumber_373248 CubeNumber_15625 CubeNumber_21952 CubeNumber_59319 CubeNumber_3375 CubeNumber_287496 CubeNumber_32768
+CubeNumber_405224 CubeNumber_571787 CubeNumber_85184 CubeNumber_4096 CubeNumber_17576 CubeNumber_250047 CubeNumber_373248 CubeNumber_357911 CubeNumber_474552 CubeNumber_636056
+temperature__34c temperature__49c temperature__11c temperature__14c temperature__22c temperature__44c temperature__58c temperature__98c temperature__105c temperature__47c
+temperature__90c temperature__52c temperature__17c temperature__85c temperature__92c temperature__0c temperature__42c temperature__21c temperature__53c temperature__92c
+temperature__147c temperature__52c temperature__131c temperature__65c temperature__63c temperature__93c temperature__144c temperature__46c temperature__136c temperature__35c
+temperature__124c temperature__69c temperature__0c temperature__111c temperature__2c temperature__131c temperature__36c temperature__58c temperature__8c temperature__109c
+temperature__93c temperature__140c temperature__147c temperature__141c temperature__124c temperature__44c temperature__132c temperature__77c temperature__35c temperature__136c
+temperature__11c temperature__8c temperature__7c temperature__11c temperature__78c temperature__54c temperature__141c temperature__109c temperature__129c temperature__14c
+temperature__12c temperature__44c temperature__39c temperature__40c temperature__30c temperature__100c temperature__84c temperature__108c temperature__21c temperature__6c
+temperature__108c temperature__85c temperature__69c temperature__142c temperature__130c temperature__63c temperature__52c temperature__26c temperature__64c temperature__11c
+temperature__2c temperature__136c temperature__39c temperature__145c temperature__65c temperature__7c temperature__93c temperature__28c temperature__106c temperature__138c
+temperature__53c temperature__39c temperature__79c temperature__10c temperature__78c temperature__87c temperature__86c temperature__68c temperature__17c temperature__58c
+temperature__49c temperature__35c temperature__44c temperature__34c temperature__34c temperature__146c temperature__59c temperature__87c temperature__59c temperature__87c
+Trachea Urethra Mouth Cochlea Placenta Lymphaticvessel Cochlea Tongue Retina Stomach
+Sensoryorgans Urethra Midbrain Cecum Liver Vulva Mouth Kidneys Tongue Ear
+Muscle Cecum Pharynx Ovaries Tongue Joints Jejunum Fallopiantubes Cerebrum Earlobe
+Largeintestine Kidneys Rectum Ear Capillaries Pons Thymus Sensoryorgans Lips skeleton
+Pancreas Earlobe Esophagus Outerear Veins Interstitium Tongue Interstitium Sensoryorgans Ovaries
+Hypothalamus Eye Brain Trachea Kidneys Trachea Scrotum Nerves Gallbladder Trachea
+Bronchi Joints Lens Cerebrum Stomach Stomach Placenta Ganglia Ciliarybody Duodenum
+Fallopiantubes Stomach Largeintestine Bone  Cornea Kidneys Cecum Trachea Bronchi skeleton
+Ovaries Earlobe Veins Pons Eye Arteries Ossicles Outerear Rectum Lymphaticvessel
+Innerear skeleton Joints Largeintestine Cervix Interstitium Spinalnerves Iris Cecum Tonsils
+Spinalnerves Liver Cranialnerves Tendons Kidneys Veins Innerear Thalamus Earlobe Bone 
+imac astrolabe compatible computercide proprietary browser expansionslot digitalcomputer arithmetic vacuumtube
+watch daw incompatible smartphone diskette laptopcomputer eniac watch computation eniac
+eniac sliderule computation dataconverter computerhardware floppydisk router chip monitor hardware
+screen algorithm desktopcomputer integratedcircuit programming electromechanical machinecode compatible peripheral computerhardware
+algorithm cyber mechanicalcomputer watch mobile visualdisplayunit compatible desktop xbox electronics
+digital inputdevice mobile ibook escapekey computercide electromechanical von neumann machine personalcomputer mobiledevice
+von neumann machine desktoppcs sliderule chip abacus dataconverter floppydisk computercide microprocessor mobile
+internet transistor algorithm mechanicalcomputer spyware mechanicalcomputer device integratedcircuit cybertechnology personalcomputer
+computercircuit laptop digitalaudioplayer pornographicimages data digitalcommunication pc vacuumtube bit screen
+electronics mobiledevice smartphone mainframe desktop diskette data electromechanical bit dataconverter
+von neumann machine router ibook android machinecode cell chip proprietary cpu automation
+pasta meals rice rice fruits vegetables nutrient rice chicken cheese soup
+victuals drinks meals nourishment fruits vegetables milk nutrient pasta nutrition meals
+nutrient rice milk milk provender plant nutrient vegetable drinks fruits vegetables
+edible chicken beef soup cheese eat nutrient fruits vegetables meals sushi
+chicken fruits vegetables nutrition eat cheese chicken nourishment victuals fruits vegetables plant
+plant nutrient drinks eat meals seafood soup meals fruits vegetables meat
+soup edible milk meat fruits vegetables chicken fruits vegetables animal milk edible
+victuals vegetable meat nourishment cheese cheese beef rice meal animal
+soup restaurant fruits vegetables meat nutrition rice sushi fruit soup plant
+meal nutrient restaurant cooking drinks nourishment meat soup edible nourishment
+milk fruits vegetables fruits vegetables drinks nutrition restaurant cooking restaurant cooking drinks
+sentence drug slay pirate conspiracy suspense tort blackmail imprisonment terrorism
+police heist hijack law slay country highjack homicides homicides country
+cases homelessness shootings structuralism guilt death misdemeanor investigation serial sin
+punishment slay law smuggle criminals illegal forensic murders murders criminality
+gangs criminality thriller poverty corrupt evidence tort criminals genocide illegal
+safety prostitution homelessness liberty legal cop illegal spy snitching guilt
+jurisdiction offense shootings gangster thriller story trafficking offense hijack mutilation
+murders corrupt transgression barratry punishment fraud misdemeanor genocide misdemeanor criminals
+detective homicide brutality revenge muggings skyjack drama drug homicides poverty
+spy corrupt offence liberty serial dark legal lift statutory shoplift
+muggings abuse trial muggings sin offenders thriller felony vandalism imprisonment
+fragile upset foolish fantastic scary wrong impossible graceful smiling courageous
+disgusted shy brainy adventurous clean sleepy blue-eyed enthusiastic agreeable exuberant
+expensive filthy zealous thankful dangerous disgusted powerful precious aggressive graceful
+precious grieving blue inexpensive bewildered alert uptight poor attractive expensive
+joyous calm lucky evil average easy bloody different old-fashioned wild
+fair dizzy super fragile creepy black defiant long strange clumsy
+foolish bewildered easy fantastic homeless wide-eyed vast charming dark concerned
+annoying glorious angry plain successful jealous spotless envious difficult dull
+black foolish repulsive gleaming disgusted dull famous confused obedient inquisitive
+unsightly cute confused foolish frail thoughtless envious relieved odd doubtful
+smoggy repulsive outstanding embarrassed bad comfortable blue spotless witty helpless
+acolyte deficit alliance proxy patronage retaliation tainted authoritarian deception unjust
+persecution benefit impunity denigrate dictatorship privilege extortion obscure tainted engagement
+hypocrisy laconic blame coercion subterfuge plagiarism patriarchy reckless engagement malfeasance
+authoritarian defamation reputation alliance malfeasance claim beleaguer chicanery unsavory feud
+saga benefit chicanery demagogue opportunist engagement deflect fiasco unjust corruption
+opportunist coterie demagogue endorsement fray patronage prestidigitation anonymity engagement deny
+scapegoat tainted persecution revelation temptation subterfuge engagement corruption intimidation hypocrisy
+dictatorship extortion endorsement mendacity deny prestidigitation prestidigitation benefit expose accusation
+fiasco claim benefit unsavory impunity acolyte partial patriarchy illegal retaliation
+covert cadre impunity laconic deception embezzlement chicanery claim rebut ignorant
+plagiarism anonymity debacle scandal onerous proxy integrity reputation malfeasance endorsement

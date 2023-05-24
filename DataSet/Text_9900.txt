@@ -1,0 +1,99 @@
+temperature__106c temperature__141c temperature__21c temperature__87c temperature__74c temperature__7c temperature__138c temperature__14c temperature__109c temperature__79c
+temperature__57c temperature__6c temperature__126c temperature__33c temperature__74c temperature__5c temperature__132c temperature__36c temperature__130c temperature__100c
+temperature__109c temperature__24c temperature__49c temperature__69c temperature__91c temperature__53c temperature__35c temperature__105c temperature__23c temperature__105c
+temperature__111c temperature__54c temperature__39c temperature__51c temperature__108c temperature__142c temperature__106c temperature__144c temperature__30c temperature__74c
+temperature__59c temperature__68c temperature__34c temperature__124c temperature__26c temperature__53c temperature__33c temperature__100c temperature__27c temperature__68c
+temperature__122c temperature__65c temperature__111c temperature__11c temperature__144c temperature__28c temperature__108c temperature__91c temperature__147c temperature__78c
+temperature__21c temperature__6c temperature__28c temperature__42c temperature__49c temperature__16c temperature__27c temperature__79c temperature__44c temperature__116c
+temperature__49c temperature__28c temperature__8c temperature__108c temperature__119c temperature__28c temperature__58c temperature__105c temperature__118c temperature__111c
+temperature__70c temperature__47c temperature__52c temperature__41c temperature__22c temperature__116c temperature__14c temperature__120c temperature__85c temperature__11c
+temperature__141c temperature__148c temperature__129c temperature__93c temperature__64c temperature__42c temperature__139c temperature__12c temperature__65c temperature__74c
+temperature__78c temperature__53c temperature__27c temperature__85c temperature__122c temperature__124c temperature__69c temperature__85c temperature__10c temperature__30c
+animal welfare domesticate fauna fish animalia dinosaur epizootic metazoan embryo dinosaur
+animalia primate animals fish beast vegan fauna amphibians bird metazoan
+reptiles animal welfare mythical eukaryotic dog octopuses clams poikilotherm environmental marineanimal
+workanimal pigs fantasy iguana eukaryotic wildlife feline farming scavenger deer
+ladybug rabbit cats animalkingdom invertebrate animal welfare darter environmental protist octopuses
+exoticanimals insectivorous shelter animal welfare bobcat animalia birds scavenger carnal domesticate
+zoology iguana chickens bird multicellular tame epizootic invertebrate embryo tiger
+wild llamas zoology plant creature heterotroph multicellular cats superdog pet
+insectivorous farming bear thoroughbred chickens workanimal farming cat predatoryanimal rabbit
+chordate workanimal biped porifera chordate deer mammal bear tiger insectivorous
+tiger domesticate reptile bird cats beast hourse feline wildlife vertebrate
+virtualreality machine mainframe microprocessor camera computation incompatible peripheral information homecomputer
+visualdisplayunit integratedcircuit xbox computercircuit memory escapekey computerprogram spyware android diskette
+compatible mobiledevice microcomputer bit incompatible computerprogram hardware mobiledevice eniac astrolabe
+homecomputer floppydisk ibook camera cybertechnology desktoppcs diskette cpu computercircuit virtualreality
+arithmetic cell astrolabe computation computerscience digitalaudioplayer data digitalaudioplayer phone mobile
+dataconverter supercomputer office diskette computerscience imac centralprocessing unit tablet transistor cell
+software mechanicalcomputer vacuumtube digitalaudioplayer keyboard desktopcomputer laptopcomputer computerscience android downloader
+smartphone camera computerprogram tablet digitalcomputer inputdevice daw camera electromechanical imac
+screen spyware laptop mechanicalcomputer eniac game downloader desktoppcs abacus data
+tablet computerhardware laptopcomputer homecomputer antivirus bit analogcomputer transistor internet programming
+computerprogramming floppydisk centralprocessing unit cybertechnology computerhardware integratedcircuit machines incompatible processor downloader
+vegetable drinks plant edible beef nutrition sushi meat meat vegetable
+eat sushi pasta victuals restaurant eat beef cooking eat seafood
+cooking nutrition pasta sushi nutrient animal animal restaurant chicken pasta
+beef fruits vegetables cereal nutrient fruit plant meat fruits vegetables animal plant
+rice beef fruits vegetables fruits vegetables restaurant chicken rice vegetable chicken seafood
+beef meat meat fruits vegetables rice milk milk eat meals meals
+meal fruit vegetable cereal milk provender seafood soup meals drinks
+animal nutrition plant rice cereal provender edible fruit vegetable edible
+edible beef soup eat edible cheese soup cheese drinks nutrition
+plant seafood meals meals vegetable edible meal pasta chicken chicken
+cereal meal rice plant cheese plant restaurant provender sushi fruits vegetables
+Pear Jujube Passionfruit Kumquat Kiwano Marionberry Orange Prune Gooseberry Pineberry
+Salmonberry Yuzu Lychee Pomelo Boysenberry Banana Akebi Elderberry Blackcurrant Elderberry
+Longan Jostaberry Jostaberry Honeyberry Sapote Persimmon Raisin Mulberry Apple Araza
+Boysenberry Prune Apricot Blackcurrant Plum Pineapple Gooseberry Melon Apple Mangosteen
+Marionberry Quince Melon Clementine Durian Sapote Akebi Quince Coconut Cloudberry
+Honeyberry Cloudberry Feijoa Ackee Currant Tayberry Prune Longan Cherry Apricot
+Canistel Pineapple Huckleberry Elderberry Apricot Sapote Redcurrant Marionberry Araza Prune
+Kiwifruit Redcurrant Cempedak Quince Apple Mulberry Jackfruit Pineberry Cranberry Redcurrant
+Loganberry Pear Banana Coconut Nectarine Akebi Strawberry Jujube Banana Strawberry
+Tangelo Pineapple Acerola Lime Kumquat Araza Watermelon Honeyberry Plumcot Plantain
+Coconut Blackberry Pineapple Tamarind Currant Nance Banana Blueberry Elderberry Rambutan 
+BinaryNumber_0001100 BinaryNumber_0010101 BinaryNumber_0000011 BinaryNumber_0000100 BinaryNumber_0010100 BinaryNumber_0010000 BinaryNumber_0000010 BinaryNumber_0001011 BinaryNumber_0111000 BinaryNumber_0111110
+BinaryNumber_1011001 BinaryNumber_0100100 BinaryNumber_1010001 BinaryNumber_0001111 BinaryNumber_1011111 BinaryNumber_0111111 BinaryNumber_0100010 BinaryNumber_1001111 BinaryNumber_1100010 BinaryNumber_1010011
+BinaryNumber_0101101 BinaryNumber_1011100 BinaryNumber_0101111 BinaryNumber_0101100 BinaryNumber_1000110 BinaryNumber_0100000 BinaryNumber_0101000 BinaryNumber_1011011 BinaryNumber_1000101 BinaryNumber_1001001
+BinaryNumber_0000000 BinaryNumber_1010111 BinaryNumber_0001101 BinaryNumber_0111010 BinaryNumber_0100000 BinaryNumber_0010110 BinaryNumber_0101010 BinaryNumber_1001111 BinaryNumber_0011100 BinaryNumber_1000010
+BinaryNumber_1000111 BinaryNumber_0111000 BinaryNumber_0110100 BinaryNumber_0001101 BinaryNumber_0011101 BinaryNumber_1100010 BinaryNumber_0010100 BinaryNumber_1100010 BinaryNumber_1100010 BinaryNumber_1010010
+BinaryNumber_0111001 BinaryNumber_0111100 BinaryNumber_1001101 BinaryNumber_0011110 BinaryNumber_0100010 BinaryNumber_0111011 BinaryNumber_0001101 BinaryNumber_0010001 BinaryNumber_1000101 BinaryNumber_1100001
+BinaryNumber_0010100 BinaryNumber_1010111 BinaryNumber_0000111 BinaryNumber_0001111 BinaryNumber_0110110 BinaryNumber_0111001 BinaryNumber_0101111 BinaryNumber_0000101 BinaryNumber_0100110 BinaryNumber_0100010
+BinaryNumber_0000001 BinaryNumber_1011100 BinaryNumber_0010100 BinaryNumber_0101010 BinaryNumber_0011110 BinaryNumber_1011001 BinaryNumber_0110100 BinaryNumber_1001001 BinaryNumber_0000001 BinaryNumber_1000000
+BinaryNumber_1001110 BinaryNumber_0000000 BinaryNumber_0000101 BinaryNumber_0000011 BinaryNumber_0101111 BinaryNumber_1010011 BinaryNumber_0111010 BinaryNumber_0010000 BinaryNumber_0000011 BinaryNumber_0000010
+BinaryNumber_0001010 BinaryNumber_1010110 BinaryNumber_1010110 BinaryNumber_1011010 BinaryNumber_1001101 BinaryNumber_0011111 BinaryNumber_0001000 BinaryNumber_0100011 BinaryNumber_1010110 BinaryNumber_1011001
+BinaryNumber_1000100 BinaryNumber_1000100 BinaryNumber_1001111 BinaryNumber_0011110 BinaryNumber_0000100 BinaryNumber_0101000 BinaryNumber_0101011 BinaryNumber_0111100 BinaryNumber_1010111 BinaryNumber_1000010
+detective threats transgression hijack thrillers slay guilty illegal muggings action
+transgression statutory blackmail investigation massacre shoplift serial offenses criminal lift
+serial highjack criminal lift mob legislature evidence snitching punitive shootings
+offenses offense action drug imprisonment misdemeanour revenge law shoplift criminals
+rape slay guilt misdemeanour spy theft transgression accident threats police
+suspense cop cases missing highjack mutilation skyjack mystery vandalism law-breaking
+massacre homicides crisis misdemeanor unsolved law political gangsterism hijack felony
+homeless drama arsons gangs homeless transgression offence shootings kill political
+evidence legislature prison action bloodshed lift drugs corruption evidence homelessness
+serial legislature punishment jurisdiction sentence jurisdiction racism offenses drama violence
+evidence abuse story investigation gangster bloodshed psychological police government shoplift
+nervous itchy awful gorgeous mysterious terrible disturbed expensive doubtful lucky
+friendly funny kind prickly fantastic successful famous vivacious smoggy jittery
+annoyed foolish muddy scary jittery helpless jolly cruel gifted naughty
+lazy graceful ugly dull nasty confused stupid condemned splendid repulsive
+crowded dangerous comfortable tame brave cautious friendly anxious spotless wicked
+unsightly tough delightful dead upset motionless thoughtful hungry exuberant vivacious
+lazy poised proud clear ugliest inexpensive wide-eyed outstanding alive panicky
+aggressive tired lonely panicky proud doubtful determined gifted open drab
+wrong horrible inquisitive stormy puzzled ill handsome envious unusual cautious
+worrisome tough open puzzled adorable brainy disturbed thoughtless jittery unusual
+strange victorious panicky hungry gifted scary dull wandering clumsy clever
+challenge sport triathlon badminton skill muscle ineligible casual athletics show
+form offside multisport multisport triathlon kill skating funambulism rowing dive
+goal events skateboard pro esport hobby skill dirt community health
+eco eco pack position activities combat sportsmanship work competition cross
+concert judo downfield show athlete hobbies safari diver motorcycling funambulism
+rowing challenge gambol class schuss exercises bike luge sportaccord supersport
+offside skateboarding schuss active eco pro company exercise job form
+position safari motorcycling competitive skiing career exercise running movement dirt
+action tournament yoga esport supersport pack hunting community sports goal
+career dance industry challenge bike boulder champion fitness waterski safari
+extracurricular teams players kill skill wipeout exercises gamely champion rowing

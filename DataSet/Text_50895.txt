@@ -1,0 +1,99 @@
+temperature__65c temperature__137c temperature__93c temperature__88c temperature__56c temperature__31c temperature__57c temperature__33c temperature__6c temperature__122c
+temperature__49c temperature__130c temperature__78c temperature__129c temperature__16c temperature__148c temperature__51c temperature__16c temperature__108c temperature__59c
+temperature__41c temperature__30c temperature__61c temperature__129c temperature__59c temperature__28c temperature__138c temperature__85c temperature__35c temperature__92c
+temperature__123c temperature__23c temperature__111c temperature__22c temperature__138c temperature__118c temperature__27c temperature__6c temperature__88c temperature__111c
+temperature__11c temperature__120c temperature__84c temperature__14c temperature__44c temperature__23c temperature__79c temperature__129c temperature__131c temperature__36c
+temperature__126c temperature__122c temperature__53c temperature__12c temperature__56c temperature__26c temperature__147c temperature__71c temperature__5c temperature__79c
+temperature__71c temperature__78c temperature__112c temperature__116c temperature__27c temperature__118c temperature__111c temperature__93c temperature__40c temperature__31c
+temperature__6c temperature__65c temperature__148c temperature__31c temperature__22c temperature__28c temperature__50c temperature__24c temperature__59c temperature__136c
+temperature__84c temperature__59c temperature__91c temperature__59c temperature__77c temperature__14c temperature__147c temperature__5c temperature__119c temperature__95c
+temperature__124c temperature__93c temperature__82c temperature__36c temperature__52c temperature__11c temperature__24c temperature__39c temperature__148c temperature__35c
+temperature__34c temperature__124c temperature__57c temperature__123c temperature__119c temperature__0c temperature__92c temperature__95c temperature__41c temperature__71c
+PrimeNumber_509 PrimeNumber_83 PrimeNumber_101 PrimeNumber_83 PrimeNumber_2 PrimeNumber_173 PrimeNumber_419 PrimeNumber_53 PrimeNumber_167 PrimeNumber_37
+PrimeNumber_107 PrimeNumber_47 PrimeNumber_397 PrimeNumber_337 PrimeNumber_313 PrimeNumber_139 PrimeNumber_71 PrimeNumber_419 PrimeNumber_127 PrimeNumber_41
+PrimeNumber_347 PrimeNumber_29 PrimeNumber_479 PrimeNumber_23 PrimeNumber_11 PrimeNumber_457 PrimeNumber_43 PrimeNumber_139 PrimeNumber_547 PrimeNumber_19
+PrimeNumber_499 PrimeNumber_103 PrimeNumber_211 PrimeNumber_419 PrimeNumber_487 PrimeNumber_337 PrimeNumber_41 PrimeNumber_163 PrimeNumber_31 PrimeNumber_193
+PrimeNumber_433 PrimeNumber_521 PrimeNumber_397 PrimeNumber_71 PrimeNumber_199 PrimeNumber_193 PrimeNumber_47 PrimeNumber_383 PrimeNumber_2 PrimeNumber_491
+PrimeNumber_3 PrimeNumber_233 PrimeNumber_409 PrimeNumber_269 PrimeNumber_397 PrimeNumber_101 PrimeNumber_463 PrimeNumber_97 PrimeNumber_421 PrimeNumber_379
+PrimeNumber_29 PrimeNumber_311 PrimeNumber_199 PrimeNumber_7 PrimeNumber_29 PrimeNumber_191 PrimeNumber_23 PrimeNumber_229 PrimeNumber_547 PrimeNumber_149
+PrimeNumber_101 PrimeNumber_59 PrimeNumber_313 PrimeNumber_271 PrimeNumber_41 PrimeNumber_163 PrimeNumber_211 PrimeNumber_7 PrimeNumber_113 PrimeNumber_2
+PrimeNumber_401 PrimeNumber_89 PrimeNumber_131 PrimeNumber_353 PrimeNumber_5 PrimeNumber_419 PrimeNumber_3 PrimeNumber_73 PrimeNumber_269 PrimeNumber_373
+PrimeNumber_191 PrimeNumber_311 PrimeNumber_353 PrimeNumber_257 PrimeNumber_191 PrimeNumber_373 PrimeNumber_353 PrimeNumber_397 PrimeNumber_269 PrimeNumber_521
+PrimeNumber_61 PrimeNumber_113 PrimeNumber_137 PrimeNumber_163 PrimeNumber_397 PrimeNumber_389 PrimeNumber_281 PrimeNumber_467 PrimeNumber_503 PrimeNumber_373
+CubeNumber_658503 CubeNumber_300763 CubeNumber_729 CubeNumber_64 CubeNumber_85184 CubeNumber_389017 CubeNumber_357911 CubeNumber_157464 CubeNumber_216 CubeNumber_389017
+CubeNumber_328509 CubeNumber_405224 CubeNumber_2197 CubeNumber_46656 CubeNumber_8 CubeNumber_175616 CubeNumber_636056 CubeNumber_24389 CubeNumber_941192 CubeNumber_216000
+CubeNumber_195112 CubeNumber_373248 CubeNumber_35937 CubeNumber_4913 CubeNumber_474552 CubeNumber_343000 CubeNumber_551368 CubeNumber_125 CubeNumber_357911 CubeNumber_8000
+CubeNumber_46656 CubeNumber_132651 CubeNumber_29791 CubeNumber_175616 CubeNumber_132651 CubeNumber_438976 CubeNumber_3375 CubeNumber_140608 CubeNumber_39304 CubeNumber_614125
+CubeNumber_857375 CubeNumber_389017 CubeNumber_32768 CubeNumber_97336 CubeNumber_27000 CubeNumber_389017 CubeNumber_421875 CubeNumber_357911 CubeNumber_729 CubeNumber_39304
+CubeNumber_157464 CubeNumber_357911 CubeNumber_24389 CubeNumber_912673 CubeNumber_658503 CubeNumber_614125 CubeNumber_512000 CubeNumber_2744 CubeNumber_216 CubeNumber_29791
+CubeNumber_512 CubeNumber_24389 CubeNumber_1000 CubeNumber_64 CubeNumber_614125 CubeNumber_117649 CubeNumber_8000 CubeNumber_592704 CubeNumber_250047 CubeNumber_97336
+CubeNumber_125 CubeNumber_175616 CubeNumber_74088 CubeNumber_636056 CubeNumber_250047 CubeNumber_68921 CubeNumber_857375 CubeNumber_474552 CubeNumber_8 CubeNumber_614125
+CubeNumber_8 CubeNumber_8000 CubeNumber_27000 CubeNumber_54872 CubeNumber_493039 CubeNumber_357911 CubeNumber_804357 CubeNumber_54872 CubeNumber_125000 CubeNumber_27
+CubeNumber_531441 CubeNumber_357911 CubeNumber_474552 CubeNumber_571787 CubeNumber_2197 CubeNumber_117649 CubeNumber_357911 CubeNumber_140608 CubeNumber_50653 CubeNumber_753571
+CubeNumber_614125 CubeNumber_9261 CubeNumber_3375 CubeNumber_804357 CubeNumber_54872 CubeNumber_185193 CubeNumber_42875 CubeNumber_29791 CubeNumber_32768 CubeNumber_157464
+16:38 23:41 16:20 19:22 18:15 15:21 22:51 13:41 21:17 15:22
+20:17 14:19 20:51 14:39 19:49 22:35 11:34 18:59 20:38 17:43
+23:58 19:31 12:33 19:49 11:15 11:32 18:51 13:46 17:12 11:50
+21:19 16:12 11:54 12:54 20:33 21:16 15:38 21:40 14:24 11:35
+11:51 15:34 10:20 10:57 13:16 19:11 22:11 10:11 21:36 12:45
+23:45 10:18 12:47 12:49 14:53 22:13 16:19 16:55 20:53 21:44
+23:58 23:41 20:32 15:15 18:47 19:48 23:11 13:35 23:30 13:51
+23:51 21:46 14:27 15:38 21:24 10:58 15:52 19:17 18:16 13:28
+12:41 21:15 19:50 20:57 22:30 20:16 10:28 12:52 13:24 12:44
+18:23 15:56 12:20 14:39 15:47 10:26 12:33 13:42 20:48 10:29
+18:31 18:46 20:10 14:37 18:33 14:52 21:58 10:31 17:49 18:23
+information centralprocessing unit camera algorithm programming laptop astrolabe hardware browser automation
+information social inputdevice mobiledevice mechanicalcomputer visualdisplayunit vacuumtube downloader vacuumtube floppydisk
+cybertechnology von neumann machine centralprocessing unit computation programming laptop mechanicalcomputer phone mobile cyber
+office dataconverter data android peripheral phone sliderule escapekey computercide peripheral
+dataconverter console calculator calculator digitalaudioplayer internet peripheral digital arithmetic abacus
+virtualreality computerprogram cyber digitalcomputer personalcomputer proprietary cybertechnology game information desktop
+analogcomputer digitalcomputer machinecode monitor electrical homecomputer cyber incompatible digitalcomputer pc
+desktopcomputer electrical microcomputer software xbox automation digital centralprocessing unit computerprogram screen
+imac diskette expansionslot desktoppcs tablet astrolabe programming transistor automation transistor
+mobiledevice chip machines memory integratedcircuit software von neumann machine screen integratedcircuit server
+laptopcomputer xbox computerscience screen processor microcomputer browser hardware supercomputer device
+nutrition drinks restaurant plant seafood meat provender meal meat nutrition
+meal rice nutrient vegetable drinks meal edible plant vegetable provender
+pasta vegetable drinks soup cereal soup cooking nutrient fruits vegetables restaurant
+beef eat animal meals cooking fruit nutrient cooking cheese rice
+soup provender meat milk cheese meal drinks meals plant sushi
+fruits vegetables meat milk soup eat chicken milk nutrition provender beef
+provender vegetable seafood pasta nutrient provender cereal plant restaurant meat
+soup edible restaurant restaurant plant pasta nutrition nourishment fruit fruits vegetables
+plant seafood nutrition victuals nutrient restaurant victuals meal pasta nutrient
+drinks sushi drinks nutrition animal pasta meat rice meal sushi
+cooking rice plant seafood eat edible restaurant sushi drinks cooking
+SquareNumber_361 SquareNumber_9 SquareNumber_3364 SquareNumber_4624 SquareNumber_3136 SquareNumber_1936 SquareNumber_2304 SquareNumber_484 SquareNumber_1849 SquareNumber_4
+SquareNumber_4624 SquareNumber_4096 SquareNumber_2601 SquareNumber_576 SquareNumber_256 SquareNumber_1225 SquareNumber_1600 SquareNumber_3249 SquareNumber_289 SquareNumber_25
+SquareNumber_6400 SquareNumber_4356 SquareNumber_49 SquareNumber_1225 SquareNumber_2116 SquareNumber_1849 SquareNumber_1225 SquareNumber_1936 SquareNumber_324 SquareNumber_4761
+SquareNumber_289 SquareNumber_2704 SquareNumber_64 SquareNumber_2116 SquareNumber_9216 SquareNumber_3844 SquareNumber_1849 SquareNumber_676 SquareNumber_2916 SquareNumber_961
+SquareNumber_9801 SquareNumber_9216 SquareNumber_841 SquareNumber_9216 SquareNumber_2304 SquareNumber_1444 SquareNumber_4761 SquareNumber_225 SquareNumber_8464 SquareNumber_6889
+SquareNumber_7056 SquareNumber_4761 SquareNumber_3844 SquareNumber_1156 SquareNumber_1521 SquareNumber_169 SquareNumber_2401 SquareNumber_2401 SquareNumber_676 SquareNumber_9409
+SquareNumber_576 SquareNumber_2916 SquareNumber_6084 SquareNumber_2809 SquareNumber_3721 SquareNumber_7396 SquareNumber_4096 SquareNumber_7056 SquareNumber_6400 SquareNumber_1681
+SquareNumber_9025 SquareNumber_529 SquareNumber_900 SquareNumber_100 SquareNumber_1089 SquareNumber_256 SquareNumber_1681 SquareNumber_10000 SquareNumber_6724 SquareNumber_10000
+SquareNumber_4761 SquareNumber_289 SquareNumber_8281 SquareNumber_625 SquareNumber_2209 SquareNumber_4900 SquareNumber_1369 SquareNumber_5329 SquareNumber_3721 SquareNumber_2116
+SquareNumber_6561 SquareNumber_3249 SquareNumber_9409 SquareNumber_2916 SquareNumber_1369 SquareNumber_1296 SquareNumber_1936 SquareNumber_81 SquareNumber_8836 SquareNumber_225
+SquareNumber_36 SquareNumber_3600 SquareNumber_1296 SquareNumber_7921 SquareNumber_961 SquareNumber_400 SquareNumber_169 SquareNumber_9025 SquareNumber_6889 SquareNumber_400
+singer artist trio muses editing lute flute dance release sing
+mediant pianist singing rhapsody rhapsody symphonise concerto label pianist folk
+headphones concert ragtime recording fermata ambience streaming instrument art music media
+language concertize soundtracks intonation vocal dynamics chaconne voice film podcasts
+popular music graduation ragtime atonality film rockabilly scale tone dixieland studio
+part dixieland story double bass muses trio part atonality party studio
+lyric talking madrigal jazzfunk intonation section cultural madrigal ensemble melody
+song vocal chord literature podcast concert choir hyperpop playing carol
+clarion poetry madrigal songwriter chaconne radio percussion muse bhangra musicology
+symphony tune ensemble reharmonize atonal concerto concert beat timbre performance
+harmony gospel electronica instruments dynamics percussion guitar symphonic noises jazz
+assault serial felony justice liberty sin offenses abuse homicide transgression
+structuralism homicides gangs law government cybercrime poison assault gangs murders
+corruption genocide homelessness homicides offenses crime story safety trafficking fraud
+felony shoplift massacre crisis action hijack statutory suspense police mob
+conspiracy fraud crime theft muggings offenses homicides tort death poverty
+blackmail brutality political mob drug dark mutilation criminal fraud justice
+sin serial trial legal skyjack homelessness revenge offenders drug revenge
+murders story theft statutory war law-breaking gangster legal mafia arsons
+violence legal death safety homeless misdemeanour murders lift evidence death
+smuggle terrorism missing drama hijack mafia rape law-breaking revenge safety
+mystery fraud psychological muggings corruption arrest shootings hijack serial war

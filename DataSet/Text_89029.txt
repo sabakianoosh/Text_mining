@@ -1,0 +1,99 @@
+gentle lonely foolish victorious mysterious encouraging naughty poised old-fashioned lazy
+impossible alert pleasant excited depressed wandering wicked cooperative powerful lazy
+black depressed thoughtful eager careful grumpy alive joyous cloudy alive
+quaint defeated defeated pleasant lucky brainy bad modern elated gleaming
+confused selfish nasty unsightly motionless arrogant witty prickly healthy zany
+cooperative stormy famous vivacious anxious talented nervous colorful lovely happy
+shiny zealous sore careful funny encouraging important awful drab poor
+thoughtless brainy wandering bloody awful gentle itchy zany confused ugliest
+annoyed uptight frail comfortable tired arrogant energetic hurt concerned handsome
+famous hungry dizzy delightful outrageous repulsive motionless cloudy clumsy encouraging
+upset hilarious ugliest dangerous silly tasty worrisome odd filthy brave
+Cempedak Plantain Ackee Kumquat Nectarine Ackee Tangelo Gooseberry Fig Sapodilla
+Tayberry Boysenberry Salmonberry Clementine Kiwano Salmonberry Lemon Tamarillo Coconut Cloudberry
+Jostaberry Apricot Currant Jostaberry Passionfruit Mulberry Huckleberry Kumquat Avocado Raisin
+Currant Durian Currant Melon Avocado Pear Jambul Tangerine Marionberry Cranberry
+Banana Cantaloupe Lime Elderberry Cherimoya Lemon Raspberry Mango Araza Araza
+Pomegranate Longan Plum Tamarind Salak Coconut Blackcurrant Passionfruit Araza Mangosteen
+Blackberry Cempedak Currant Jujube Mangosteen Sapote Apple Loganberry Tangerine Date
+Yuzu Avocado Honeydew Nance Cherimoya Pawpaw Jostaberry Cloudberry Passionfruit Tamarind
+Marionberry Orange Plum Passionfruit Kiwano Cempedak Cranberry Boysenberry Tamarind Durian
+Durian Honeydew Lemon Kiwano Soursop Longan Plantain Cantaloupe Rambutan  Redcurrant
+Cherimoya Cherimoya Orange Elderberry Blueberry Satsuma Jambul Ackee Date Elderberry
+CubeNumber_328509 CubeNumber_97336 CubeNumber_216000 CubeNumber_185193 CubeNumber_3375 CubeNumber_216000 CubeNumber_15625 CubeNumber_125 CubeNumber_205379 CubeNumber_274625
+CubeNumber_474552 CubeNumber_185193 CubeNumber_857375 CubeNumber_729000 CubeNumber_6859 CubeNumber_24389 CubeNumber_753571 CubeNumber_474552 CubeNumber_614125 CubeNumber_493039
+CubeNumber_8 CubeNumber_15625 CubeNumber_59319 CubeNumber_64 CubeNumber_64 CubeNumber_912673 CubeNumber_551368 CubeNumber_551368 CubeNumber_8 CubeNumber_2197
+CubeNumber_6859 CubeNumber_125000 CubeNumber_262144 CubeNumber_250047 CubeNumber_421875 CubeNumber_24389 CubeNumber_314432 CubeNumber_373248 CubeNumber_125 CubeNumber_205379
+CubeNumber_117649 CubeNumber_132651 CubeNumber_474552 CubeNumber_35937 CubeNumber_357911 CubeNumber_79507 CubeNumber_125 CubeNumber_830584 CubeNumber_64 CubeNumber_19683
+CubeNumber_592704 CubeNumber_592704 CubeNumber_474552 CubeNumber_39304 CubeNumber_778688 CubeNumber_884736 CubeNumber_778688 CubeNumber_42875 CubeNumber_29791 CubeNumber_1331
+CubeNumber_592704 CubeNumber_132651 CubeNumber_8 CubeNumber_314432 CubeNumber_85184 CubeNumber_205379 CubeNumber_551368 CubeNumber_941192 CubeNumber_753571 CubeNumber_474552
+CubeNumber_328509 CubeNumber_438976 CubeNumber_64000 CubeNumber_804357 CubeNumber_21952 CubeNumber_216 CubeNumber_140608 CubeNumber_59319 CubeNumber_9261 CubeNumber_132651
+CubeNumber_681472 CubeNumber_157464 CubeNumber_125000 CubeNumber_74088 CubeNumber_148877 CubeNumber_85184 CubeNumber_50653 CubeNumber_729 CubeNumber_42875 CubeNumber_636056
+CubeNumber_175616 CubeNumber_4096 CubeNumber_592704 CubeNumber_64000 CubeNumber_103823 CubeNumber_148877 CubeNumber_389017 CubeNumber_32768 CubeNumber_32768 CubeNumber_884736
+CubeNumber_830584 CubeNumber_314432 CubeNumber_27 CubeNumber_39304 CubeNumber_729000 CubeNumber_29791 CubeNumber_3375 CubeNumber_35937 CubeNumber_8000 CubeNumber_110592
+BinaryNumber_1000000 BinaryNumber_0110011 BinaryNumber_1100010 BinaryNumber_1010001 BinaryNumber_0011000 BinaryNumber_0111110 BinaryNumber_1100011 BinaryNumber_1001111 BinaryNumber_1000100 BinaryNumber_1001000
+BinaryNumber_1100010 BinaryNumber_0000010 BinaryNumber_1000010 BinaryNumber_0001101 BinaryNumber_1011001 BinaryNumber_1001001 BinaryNumber_0011111 BinaryNumber_1011000 BinaryNumber_0010010 BinaryNumber_1010011
+BinaryNumber_0111111 BinaryNumber_0110100 BinaryNumber_0010101 BinaryNumber_1000101 BinaryNumber_1010110 BinaryNumber_0000000 BinaryNumber_0111110 BinaryNumber_0011111 BinaryNumber_0000000 BinaryNumber_0110100
+BinaryNumber_0001111 BinaryNumber_1001100 BinaryNumber_1010101 BinaryNumber_0001101 BinaryNumber_0000010 BinaryNumber_0001101 BinaryNumber_1001000 BinaryNumber_1010100 BinaryNumber_0010111 BinaryNumber_1001000
+BinaryNumber_0100001 BinaryNumber_1000110 BinaryNumber_1001001 BinaryNumber_1000001 BinaryNumber_0100101 BinaryNumber_0100110 BinaryNumber_0101101 BinaryNumber_0000101 BinaryNumber_0001111 BinaryNumber_1100011
+BinaryNumber_0111110 BinaryNumber_1000001 BinaryNumber_1010100 BinaryNumber_0110111 BinaryNumber_1011111 BinaryNumber_0011001 BinaryNumber_0010110 BinaryNumber_1001100 BinaryNumber_0011110 BinaryNumber_1000010
+BinaryNumber_0101101 BinaryNumber_1011011 BinaryNumber_0001011 BinaryNumber_0000000 BinaryNumber_1000110 BinaryNumber_1100011 BinaryNumber_0111000 BinaryNumber_0011000 BinaryNumber_0111100 BinaryNumber_1000011
+BinaryNumber_1000110 BinaryNumber_0001001 BinaryNumber_1010011 BinaryNumber_1000010 BinaryNumber_0010100 BinaryNumber_1000001 BinaryNumber_1001010 BinaryNumber_0001101 BinaryNumber_1100010 BinaryNumber_0110011
+BinaryNumber_0000110 BinaryNumber_1010010 BinaryNumber_0000101 BinaryNumber_1011111 BinaryNumber_1000101 BinaryNumber_1011100 BinaryNumber_0000101 BinaryNumber_0000001 BinaryNumber_0101100 BinaryNumber_0111111
+BinaryNumber_1100011 BinaryNumber_0111101 BinaryNumber_0101011 BinaryNumber_1000001 BinaryNumber_0010100 BinaryNumber_0000010 BinaryNumber_1000000 BinaryNumber_1011101 BinaryNumber_1000010 BinaryNumber_1011110
+BinaryNumber_0100111 BinaryNumber_0000011 BinaryNumber_0010101 BinaryNumber_0101110 BinaryNumber_0100110 BinaryNumber_1100001 BinaryNumber_0100001 BinaryNumber_0110010 BinaryNumber_0010001 BinaryNumber_0101100
+xbox digital office phone electrical supercomputer desktop machine office computercircuit
+browser information downloader dataconverter mainframe expansionslot peripheral von neumann machine vacuumtube antivirus
+centralprocessing unit machine vacuumtube computercircuit data machinecode homecomputer laptop computercide software
+programmer centralprocessing unit desktoppcs laptop integratedcircuit downloader data computing dataconverter computerscience
+machinecode imac mobile digital diskette server machine tablet laptop android
+camera eniac xbox machine computerscience tablet chip office transistor computerhardware
+camera processor centralprocessing unit internet digital tablet router digitalcommunication algorithm electrical
+microcomputer microprocessor router hardware hardware imac homecomputer device digitalcommunication electronics
+watch supercomputer programming von neumann machine machines mainframe supercomputer microcomputer digital digital
+watch keyboard dataconverter transistor analogcomputer computercircuit astrolabe watch computerscience desktopcomputer
+microcomputer smartphone digital smartphone cybertechnology server hardware smartphone desktopcomputer arithmetic
+nutrition meals animal meat seafood drinks vegetable sushi meat plant
+rice plant soup fruit plant fruits vegetables rice sushi seafood cheese
+nourishment soup cooking animal drinks rice nutrient nutrient vegetable nutrition
+nutrient plant fruits vegetables milk rice cooking eat sushi nourishment fruits vegetables
+victuals fruits vegetables rice nutrition milk cheese cheese chicken fruits vegetables sushi
+soup chicken victuals restaurant cheese sushi vegetable meat nourishment cooking
+meat victuals meat meal provender drinks sushi meals rice chicken
+meat milk cereal provender victuals meal provender fruits vegetables vegetable animal
+provender nourishment soup edible pasta chicken edible nutrition drinks soup
+milk soup provender drinks fruits vegetables cooking meal meal provender nutrition
+milk nutrition restaurant provender rice rice victuals nutrient meat cheese
+misdemeanour illegal hijack mystery shootings gang supernatural incarceration incarceration action
+snitching illegal country terrorism pirate theft action murders serial highjack
+abuse dark homelessness thriller misdemeanor highjack brutality noir story gangs
+muggings arsons justice punitive detective death theft drugs supernatural snitching
+death cybercrime political imprisonment skyjack structuralism legislature rape offenders drama
+tort death mob transgression slayings massacre punishment felony serial punitive
+suspense rape jurisdiction drug bloodshed structuralism statutory homelessness sin structuralism
+misdemeanor mob slay crime investigation corruption structuralism law death tort
+unsolved drama cases crime gangster gangster bloodshed poison gangs barratry
+legislature police assault murders incarceration slay pirate drama smuggle guilty
+government country detective barratry gangster unsolved heist conspiracy sin muggings
+clams cat jellyfish wildlife dogs clams zooplankton pigs jellyfish dinosaur
+embryo fantasy epizootic pups animalkingdom wildlife animalkingdom sheep animalia environmental
+fauna mythical invertebrate domesticate sensual marineanimal zoology fleshly eukaryotic object
+porifera heterotroph fantasy mammal varmint porifera pet rodent animal welfare pitbull
+puppy varmint fish pups tame scavenger rodent demon insects wildlife
+llamas farming multicellular fantasy multicellular primate multicellular puppy zoo plant
+animalkingdom porifera carnivore fish insect livestock octopuses multicellular vegan hourse
+bird animalkingdom superdog environmental hourse rodent biped primate tiger zooplankton
+zooplankton superdog sensual plant sheep predatoryanimal exoticanimals livestock dog dinosaur
+frog carnal domesticate protist puppy domesticate bug rabbit bird exoticanimals
+reptile animatebeing elephants mammal reptiles animalia protist tufted marineanimal varmint
+19:46 10:47 10:22 18:42 14:35 16:55 17:44 10:15 16:26 12:57
+15:10 12:17 13:51 12:54 16:59 18:23 15:46 10:53 18:57 10:45
+20:25 21:19 14:54 12:56 14:57 17:45 15:25 10:35 20:43 11:45
+23:53 23:35 18:48 22:31 21:53 19:13 20:47 20:51 23:14 20:44
+18:21 23:38 11:57 15:15 21:39 15:18 20:17 16:24 13:18 21:39
+14:40 20:11 16:55 15:56 10:17 15:21 16:27 20:54 20:11 14:38
+17:44 23:16 14:40 21:52 13:26 23:58 16:18 22:43 22:45 17:51
+17:58 22:56 15:43 15:31 17:59 17:47 20:32 11:39 16:50 10:45
+16:43 15:48 11:25 12:13 18:42 10:25 20:55 14:14 11:42 16:38
+19:51 11:28 14:12 23:29 17:54 13:47 17:43 21:40 18:50 23:59
+15:54 17:58 12:37 17:58 22:24 11:45 20:42 12:18 19:32 20:49

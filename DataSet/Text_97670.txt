@@ -1,0 +1,99 @@
+temperature__140c temperature__65c temperature__40c temperature__16c temperature__124c temperature__77c temperature__33c temperature__49c temperature__91c temperature__12c
+temperature__5c temperature__3c temperature__57c temperature__70c temperature__41c temperature__58c temperature__8c temperature__141c temperature__50c temperature__16c
+temperature__31c temperature__120c temperature__71c temperature__4c temperature__118c temperature__3c temperature__84c temperature__95c temperature__41c temperature__16c
+temperature__74c temperature__24c temperature__98c temperature__91c temperature__44c temperature__59c temperature__12c temperature__6c temperature__69c temperature__5c
+temperature__7c temperature__91c temperature__68c temperature__71c temperature__137c temperature__23c temperature__74c temperature__122c temperature__109c temperature__86c
+temperature__57c temperature__139c temperature__12c temperature__61c temperature__65c temperature__27c temperature__108c temperature__36c temperature__106c temperature__3c
+temperature__108c temperature__124c temperature__6c temperature__52c temperature__71c temperature__28c temperature__42c temperature__69c temperature__23c temperature__132c
+temperature__87c temperature__106c temperature__87c temperature__26c temperature__5c temperature__53c temperature__129c temperature__10c temperature__52c temperature__22c
+temperature__87c temperature__39c temperature__90c temperature__40c temperature__57c temperature__5c temperature__74c temperature__136c temperature__11c temperature__3c
+temperature__112c temperature__30c temperature__70c temperature__95c temperature__139c temperature__142c temperature__0c temperature__46c temperature__10c temperature__70c
+temperature__132c temperature__59c temperature__51c temperature__8c temperature__28c temperature__122c temperature__28c temperature__74c temperature__57c temperature__42c
+19:59 21:35 17:40 16:52 16:55 12:36 20:17 12:51 11:21 13:55
+22:40 22:20 19:28 11:51 12:54 11:53 22:18 13:35 17:56 11:23
+13:20 10:16 16:32 13:42 15:25 20:36 13:40 22:52 15:20 18:24
+15:55 19:47 20:49 12:39 19:54 11:45 14:49 16:29 12:37 16:56
+16:29 18:28 14:12 12:16 12:54 21:48 11:13 12:23 23:58 22:26
+17:43 21:56 22:11 17:28 14:47 15:16 21:12 12:18 11:12 22:13
+11:11 17:27 15:13 18:26 19:57 16:52 10:16 19:13 20:41 10:31
+23:47 10:28 13:51 21:18 20:27 21:17 21:17 12:45 21:58 22:43
+12:20 15:36 13:44 11:52 12:32 21:12 11:31 20:34 14:24 19:16
+12:15 22:33 16:30 12:56 17:48 19:50 14:22 21:34 19:30 12:29
+11:19 16:37 18:43 11:50 10:36 12:54 16:51 21:25 23:27 12:22
+tuning sound key harmony metal vocal rhythm instruments tweedle poetry
+language ska song carol folk vinyl graphics sonata art music section
+tuba podcasts atmosphere harpsichord melodic noises drum soul hymn classical
+language band roulade concertise electronica lyrics conduct symphony concerto clarion
+instrument pitch tempo instrumental dynamics piano playing monophony bpm soulful
+schubert literature talk harp bassline phenomenon poetry videos creative bars
+movies singers merch lights clapping performance hip score recording subdivision
+bebop guitar musicology theatre ambient playing guitar pitch score instrument
+compositions concertise melody tone bass roulade language euphony visual production
+flute section action single tonic single vibe single orchestra live
+lights festival bpm mediant bars jazzfunk subdivision singing chorus wagner
+eat nutrition nutrition chicken fruits vegetables plant meal meat milk fruit
+nutrition cooking fruits vegetables animal beef sushi edible fruits vegetables pasta restaurant
+vegetable drinks cooking rice restaurant chicken cereal soup victuals edible
+nutrient meat seafood nourishment victuals victuals eat milk pasta cooking
+cooking fruit restaurant edible soup cheese eat eat eat nutrition
+seafood nourishment nourishment sushi cheese fruit restaurant eat cereal nourishment
+victuals meals victuals vegetable cooking seafood eat nutrient sushi cooking
+pasta meat provender soup meals cheese soup provender eat rice
+fruits vegetables drinks cheese meal victuals cheese pasta plant fruit rice
+nutrition drinks sushi fruits vegetables rice cooking fruits vegetables seafood meal meat
+milk milk cheese rice victuals fruit nourishment cooking nutrition nourishment
+BinaryNumber_1100000 BinaryNumber_1010101 BinaryNumber_0100011 BinaryNumber_0111110 BinaryNumber_0110111 BinaryNumber_0100001 BinaryNumber_1000110 BinaryNumber_1001110 BinaryNumber_1001001 BinaryNumber_0100101
+BinaryNumber_1100011 BinaryNumber_0110111 BinaryNumber_1011000 BinaryNumber_1000100 BinaryNumber_0101100 BinaryNumber_0101111 BinaryNumber_1001000 BinaryNumber_1011110 BinaryNumber_0000000 BinaryNumber_0110111
+BinaryNumber_0111101 BinaryNumber_1100001 BinaryNumber_0001111 BinaryNumber_0010110 BinaryNumber_1001111 BinaryNumber_1000111 BinaryNumber_0101001 BinaryNumber_0111010 BinaryNumber_0101111 BinaryNumber_0011001
+BinaryNumber_0000110 BinaryNumber_0101100 BinaryNumber_0100000 BinaryNumber_1011111 BinaryNumber_0011001 BinaryNumber_0111010 BinaryNumber_1001000 BinaryNumber_1011001 BinaryNumber_0101100 BinaryNumber_0111000
+BinaryNumber_1010000 BinaryNumber_0001001 BinaryNumber_0010110 BinaryNumber_0000010 BinaryNumber_0110010 BinaryNumber_1000110 BinaryNumber_1010110 BinaryNumber_0001011 BinaryNumber_0010101 BinaryNumber_0110101
+BinaryNumber_0100111 BinaryNumber_1011011 BinaryNumber_1000110 BinaryNumber_0100010 BinaryNumber_0000001 BinaryNumber_0100000 BinaryNumber_1011101 BinaryNumber_0101001 BinaryNumber_0001111 BinaryNumber_1011111
+BinaryNumber_0011101 BinaryNumber_0100101 BinaryNumber_0100101 BinaryNumber_1010001 BinaryNumber_1011000 BinaryNumber_0001101 BinaryNumber_1001100 BinaryNumber_0110100 BinaryNumber_1001010 BinaryNumber_1100001
+BinaryNumber_1000111 BinaryNumber_0001101 BinaryNumber_0001010 BinaryNumber_0000111 BinaryNumber_0011000 BinaryNumber_0011110 BinaryNumber_0011110 BinaryNumber_1010011 BinaryNumber_0000100 BinaryNumber_0011100
+BinaryNumber_0110010 BinaryNumber_0011000 BinaryNumber_0010011 BinaryNumber_0011001 BinaryNumber_0011011 BinaryNumber_0110000 BinaryNumber_0011100 BinaryNumber_0011110 BinaryNumber_0000000 BinaryNumber_0100101
+BinaryNumber_0111011 BinaryNumber_0001100 BinaryNumber_0011010 BinaryNumber_1010000 BinaryNumber_0001111 BinaryNumber_0011100 BinaryNumber_1010101 BinaryNumber_1000111 BinaryNumber_0110011 BinaryNumber_1000101
+BinaryNumber_0100110 BinaryNumber_0010110 BinaryNumber_0001100 BinaryNumber_0010101 BinaryNumber_1000001 BinaryNumber_0101011 BinaryNumber_0010001 BinaryNumber_0010111 BinaryNumber_1100010 BinaryNumber_0010011
+Loquat Plumcot Apple Plum Cranberry Mango Tayberry Pineapple Peach Coconut
+Kumquat Breadfruit Loganberry Prune Açaí Longan Pomelo Cranberry Honeyberry Durian
+Grapefruit Apple Passionfruit Raspberry Cranberry Mandarine Jackfruit Grapefruit Lychee Clementine
+Loquat Peach Coconut Pomelo Açaí Blueberry Abiu Blackcurrant Orange Acerola
+Prune Jostaberry Rambutan  Gooseberry Cherry Persimmon Mandarine Raspberry Mandarine Papaya
+Jostaberry Elderberry Nance Satsuma Pomelo Peach Yuzu Akebi Strawberry Araza
+Honeyberry Ackee Pomegranate Persimmon Avocado Pear Apricot Mandarine Lychee Mango
+Fig Pear Lemon Plumcot Persimmon Lime Mango Boysenberry Feijoa Tamarind
+Ximenia Lime Sapodilla Pear Durian Mulberry Avocado Raisin Blackberry Kumquat
+Melon Lime Nance Jambul Guava Clementine Fig Lime Grapefruit Gooseberry
+Prune Cloudberry Apricot Raisin Kumquat Mango Kiwifruit Loganberry Abiu Satsuma
+biped sheep dinosaur iguana animalia deer poikilotherm reptile carnivore dog
+thoroughbred sensual bear vegan eukaryotic invertebrate bobcat animalia poikilotherm dogs
+feline environmental primate cat superdog feline primate predatoryanimal jellyfish pups
+fantasy hourse zoology biped bear pups dogs animatebeing thoroughbred predatoryanimal
+hourse animals heterotroph ladybug pups bear monster multicellular workanimal cat
+heterotroph predatoryanimal raccoon zoology animalia porifera pigs birds insect reptile
+reptile creature predatoryanimal animalkingdom multicellular dogs birds fauna vegan animals
+animals fish tame llamas heterotroph environmental predatoryanimal cat domesticate insects
+fantasy primate exoticanimals darter raccoon exoticanimals octopuses bear tiger cat
+octopuses rabbit animalia primate reptiles bobcat animal welfare livestock meat insectivore
+insect cat carnivore creature zoology insect ladybug carnivore bear insect
+CubeNumber_1331 CubeNumber_287496 CubeNumber_166375 CubeNumber_46656 CubeNumber_24389 CubeNumber_287496 CubeNumber_614125 CubeNumber_262144 CubeNumber_74088 CubeNumber_8000
+CubeNumber_216000 CubeNumber_46656 CubeNumber_1728 CubeNumber_2744 CubeNumber_140608 CubeNumber_140608 CubeNumber_103823 CubeNumber_1000 CubeNumber_21952 CubeNumber_704969
+CubeNumber_125000 CubeNumber_884736 CubeNumber_97336 CubeNumber_551368 CubeNumber_2197 CubeNumber_9261 CubeNumber_238328 CubeNumber_5832 CubeNumber_8000 CubeNumber_216
+CubeNumber_250047 CubeNumber_512000 CubeNumber_79507 CubeNumber_884736 CubeNumber_3375 CubeNumber_97336 CubeNumber_74088 CubeNumber_29791 CubeNumber_804357 CubeNumber_300763
+CubeNumber_17576 CubeNumber_17576 CubeNumber_64 CubeNumber_373248 CubeNumber_39304 CubeNumber_13824 CubeNumber_46656 CubeNumber_10648 CubeNumber_140608 CubeNumber_729000
+CubeNumber_17576 CubeNumber_8000 CubeNumber_343000 CubeNumber_614125 CubeNumber_4096 CubeNumber_4913 CubeNumber_512 CubeNumber_804357 CubeNumber_74088 CubeNumber_343
+CubeNumber_68921 CubeNumber_117649 CubeNumber_24389 CubeNumber_658503 CubeNumber_704969 CubeNumber_54872 CubeNumber_729 CubeNumber_941192 CubeNumber_884736 CubeNumber_42875
+CubeNumber_42875 CubeNumber_1331 CubeNumber_804357 CubeNumber_10648 CubeNumber_2744 CubeNumber_64 CubeNumber_1728 CubeNumber_125000 CubeNumber_405224 CubeNumber_27
+CubeNumber_185193 CubeNumber_1728 CubeNumber_15625 CubeNumber_493039 CubeNumber_140608 CubeNumber_512 CubeNumber_405224 CubeNumber_15625 CubeNumber_357911 CubeNumber_74088
+CubeNumber_262144 CubeNumber_97336 CubeNumber_117649 CubeNumber_1728 CubeNumber_262144 CubeNumber_205379 CubeNumber_103823 CubeNumber_59319 CubeNumber_175616 CubeNumber_357911
+CubeNumber_512 CubeNumber_512 CubeNumber_21952 CubeNumber_1728 CubeNumber_226981 CubeNumber_804357 CubeNumber_857375 CubeNumber_103823 CubeNumber_12167 CubeNumber_456533
+expansionslot desktop computerprogramming visualdisplayunit chip analogcomputer pornographicimages dataconverter eniac laptop
+homecomputer electrical browser machinecode centralprocessing unit compatible escapekey microprocessor server analogcomputer
+social digitalcomputer social mainframe integratedcircuit supercomputer electronics astrolabe computercircuit watch
+laptop mobile pc social watch mechanicalcomputer desktopcomputer calculator mainframe information
+turingmachine machines office office transistor digitalcomputer xbox mobiledevice internet microcomputer
+analogcomputer pc personalcomputer sliderule centralprocessing unit machinecode computation proprietary mobiledevice computercircuit
+mobile analogcomputer android computerscience phone von neumann machine computerprogram smartphone social cell
+homecomputer pc integratedcircuit internet xbox dataconverter memory computercircuit electrical desktoppcs
+compatible centralprocessing unit information spyware pornographicimages pc automation watch analogcomputer mobiledevice
+calculator chip digitalcommunication supercomputer diskette downloader integratedcircuit ibook calculator computercircuit
+machinecode computing desktopcomputer smartphone centralprocessing unit expansionslot phone computercide personalcomputer desktop

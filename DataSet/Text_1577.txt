@@ -1,0 +1,99 @@
+BinaryNumber_0000010 BinaryNumber_0001110 BinaryNumber_1001001 BinaryNumber_0111110 BinaryNumber_0111011 BinaryNumber_0010001 BinaryNumber_1010101 BinaryNumber_0001100 BinaryNumber_0111011 BinaryNumber_0110101
+BinaryNumber_0010010 BinaryNumber_0011111 BinaryNumber_0110111 BinaryNumber_1011101 BinaryNumber_1010011 BinaryNumber_1011111 BinaryNumber_1100001 BinaryNumber_0010011 BinaryNumber_0001000 BinaryNumber_0111000
+BinaryNumber_1010111 BinaryNumber_0011011 BinaryNumber_0100110 BinaryNumber_1010101 BinaryNumber_0100110 BinaryNumber_0011000 BinaryNumber_0011111 BinaryNumber_0011101 BinaryNumber_1000010 BinaryNumber_0000111
+BinaryNumber_1011110 BinaryNumber_1010010 BinaryNumber_1000011 BinaryNumber_0010111 BinaryNumber_0110001 BinaryNumber_0101110 BinaryNumber_0010000 BinaryNumber_0001001 BinaryNumber_0011101 BinaryNumber_1000100
+BinaryNumber_1100000 BinaryNumber_0011101 BinaryNumber_0001010 BinaryNumber_0001000 BinaryNumber_1011110 BinaryNumber_1010000 BinaryNumber_0000000 BinaryNumber_1000110 BinaryNumber_1010001 BinaryNumber_1000000
+BinaryNumber_0111100 BinaryNumber_0011101 BinaryNumber_1000100 BinaryNumber_0111100 BinaryNumber_0111011 BinaryNumber_0000111 BinaryNumber_0010110 BinaryNumber_0001001 BinaryNumber_1001000 BinaryNumber_0010111
+BinaryNumber_1011101 BinaryNumber_0110010 BinaryNumber_1011100 BinaryNumber_0000101 BinaryNumber_1000000 BinaryNumber_0001010 BinaryNumber_1010011 BinaryNumber_1010101 BinaryNumber_0010110 BinaryNumber_0010111
+BinaryNumber_1000000 BinaryNumber_0100111 BinaryNumber_0111001 BinaryNumber_1010001 BinaryNumber_0010001 BinaryNumber_1000010 BinaryNumber_0001000 BinaryNumber_1100000 BinaryNumber_0101101 BinaryNumber_0101011
+BinaryNumber_1011000 BinaryNumber_0000111 BinaryNumber_1010110 BinaryNumber_1001000 BinaryNumber_0111001 BinaryNumber_0111101 BinaryNumber_0001110 BinaryNumber_1001000 BinaryNumber_0011011 BinaryNumber_0101001
+BinaryNumber_0011100 BinaryNumber_0011110 BinaryNumber_1001011 BinaryNumber_0100110 BinaryNumber_0101111 BinaryNumber_1001010 BinaryNumber_0110000 BinaryNumber_1011111 BinaryNumber_0000011 BinaryNumber_0010111
+BinaryNumber_0100101 BinaryNumber_0101001 BinaryNumber_0000110 BinaryNumber_1000101 BinaryNumber_0100100 BinaryNumber_1011000 BinaryNumber_1011101 BinaryNumber_1001000 BinaryNumber_0110011 BinaryNumber_1011110
+temperature__70c temperature__129c temperature__123c temperature__31c temperature__142c temperature__144c temperature__78c temperature__14c temperature__105c temperature__64c
+temperature__51c temperature__68c temperature__109c temperature__33c temperature__57c temperature__108c temperature__79c temperature__27c temperature__73c temperature__77c
+temperature__52c temperature__132c temperature__0c temperature__14c temperature__123c temperature__47c temperature__106c temperature__16c temperature__109c temperature__26c
+temperature__24c temperature__3c temperature__23c temperature__141c temperature__35c temperature__82c temperature__70c temperature__34c temperature__137c temperature__40c
+temperature__78c temperature__145c temperature__116c temperature__147c temperature__40c temperature__132c temperature__124c temperature__105c temperature__140c temperature__58c
+temperature__23c temperature__59c temperature__123c temperature__58c temperature__61c temperature__44c temperature__148c temperature__124c temperature__129c temperature__137c
+temperature__47c temperature__138c temperature__105c temperature__50c temperature__36c temperature__12c temperature__63c temperature__41c temperature__78c temperature__44c
+temperature__51c temperature__53c temperature__90c temperature__108c temperature__42c temperature__16c temperature__118c temperature__132c temperature__120c temperature__106c
+temperature__11c temperature__140c temperature__28c temperature__129c temperature__14c temperature__33c temperature__142c temperature__95c temperature__44c temperature__90c
+temperature__71c temperature__12c temperature__142c temperature__90c temperature__8c temperature__71c temperature__3c temperature__118c temperature__79c temperature__11c
+temperature__70c temperature__141c temperature__105c temperature__41c temperature__105c temperature__95c temperature__6c temperature__122c temperature__31c temperature__22c
+SquareNumber_49 SquareNumber_1369 SquareNumber_1024 SquareNumber_4096 SquareNumber_676 SquareNumber_8464 SquareNumber_8649 SquareNumber_5776 SquareNumber_5184 SquareNumber_169
+SquareNumber_3249 SquareNumber_484 SquareNumber_5476 SquareNumber_10000 SquareNumber_6561 SquareNumber_8836 SquareNumber_2209 SquareNumber_6724 SquareNumber_625 SquareNumber_400
+SquareNumber_4 SquareNumber_9 SquareNumber_4356 SquareNumber_9216 SquareNumber_324 SquareNumber_3249 SquareNumber_6889 SquareNumber_4096 SquareNumber_441 SquareNumber_6561
+SquareNumber_4225 SquareNumber_8836 SquareNumber_8649 SquareNumber_5184 SquareNumber_1764 SquareNumber_4489 SquareNumber_3136 SquareNumber_4624 SquareNumber_2809 SquareNumber_8281
+SquareNumber_2704 SquareNumber_1444 SquareNumber_1156 SquareNumber_5041 SquareNumber_6561 SquareNumber_729 SquareNumber_6561 SquareNumber_3969 SquareNumber_7396 SquareNumber_289
+SquareNumber_3136 SquareNumber_16 SquareNumber_4489 SquareNumber_1225 SquareNumber_3969 SquareNumber_7569 SquareNumber_529 SquareNumber_3025 SquareNumber_100 SquareNumber_3969
+SquareNumber_6724 SquareNumber_2116 SquareNumber_2500 SquareNumber_25 SquareNumber_1296 SquareNumber_900 SquareNumber_576 SquareNumber_3481 SquareNumber_256 SquareNumber_2401
+SquareNumber_36 SquareNumber_256 SquareNumber_3025 SquareNumber_3025 SquareNumber_4096 SquareNumber_6084 SquareNumber_4225 SquareNumber_8836 SquareNumber_2916 SquareNumber_529
+SquareNumber_2500 SquareNumber_121 SquareNumber_1024 SquareNumber_7396 SquareNumber_361 SquareNumber_1936 SquareNumber_676 SquareNumber_9801 SquareNumber_9 SquareNumber_400
+SquareNumber_2401 SquareNumber_5776 SquareNumber_900 SquareNumber_3249 SquareNumber_7056 SquareNumber_49 SquareNumber_6241 SquareNumber_2116 SquareNumber_961 SquareNumber_2116
+SquareNumber_4624 SquareNumber_784 SquareNumber_1849 SquareNumber_1764 SquareNumber_5625 SquareNumber_2916 SquareNumber_2304 SquareNumber_324 SquareNumber_4761 SquareNumber_1600
+waterski gym fitness bouldering social soccer multisport soccerball feature cycling
+teams players athlete shoot hobbies judo sportsman volleyball diver active
+kill safari fast skylark eco combat dive career athletes recreation
+rugby lark lead coach feature feature casual active athletic rollick
+fighting gamely hiking art martial boulder soccerball game athletics tradition
+music hunting hobby athletic hunters athlete bike competitive organization fitness
+extracurricular boulder skiing dynamic downfield team badminton rollick safari comfort
+skill exercise tournament premium pack badminton funambulism limited skiing work
+suit funambulism gamely play funambulism running physical tournaments safari judo
+coach industry competition entertainment hobby rugby standard dynamic exercise sportaccord
+judo shoot boast club blazers dive wipeout play extracurricular standard
+beef drinks nutrient cheese nourishment beef meals animal nutrient fruits vegetables
+restaurant restaurant vegetable cooking meal cheese milk seafood fruit victuals
+beef nutrient fruit cooking fruits vegetables meal seafood seafood cooking nourishment
+fruits vegetables restaurant fruits vegetables nutrition rice meal chicken eat beef animal
+eat pasta meat vegetable drinks provender meal provender plant victuals
+animal pasta beef vegetable fruits vegetables eat vegetable nourishment soup cereal
+fruits vegetables seafood provender milk rice beef victuals cheese seafood soup
+fruits vegetables eat animal milk nourishment soup pasta pasta beef nutrition
+fruit fruit meals drinks seafood plant victuals pasta drinks meals
+fruits vegetables fruits vegetables fruit provender eat pasta cooking drinks animal vegetable
+nutrition sushi milk pasta chicken meat chicken animal fruit vegetable
+13:13 18:25 16:29 21:23 23:57 12:17 20:51 10:46 12:57 17:19
+18:56 11:34 13:10 21:54 12:38 10:46 16:28 21:58 22:46 20:37
+23:53 17:18 19:39 20:15 16:56 22:13 12:17 15:52 16:34 14:29
+12:19 11:47 18:32 21:10 12:12 10:46 18:27 12:16 23:24 15:52
+21:17 14:12 23:54 20:23 14:35 21:58 15:58 16:43 14:16 10:39
+22:40 16:59 20:33 10:26 13:49 11:38 10:49 21:49 16:30 21:34
+23:20 23:41 12:22 10:14 16:51 11:34 18:24 19:56 19:34 21:41
+11:28 11:39 19:52 19:37 22:19 12:53 22:36 12:23 13:17 18:32
+14:28 23:55 12:31 16:56 14:50 16:17 21:54 10:10 13:18 21:56
+17:48 11:38 18:13 22:52 20:58 21:43 14:24 21:33 15:19 20:35
+13:50 18:31 10:33 10:36 19:36 23:34 21:16 15:51 14:34 16:16
+escapekey centralprocessing unit console phone processor console daw programming electromechanical cybertechnology
+pc computerscience software virtualreality centralprocessing unit computerprogramming electronics eniac pc programming
+digitalcommunication integratedcircuit computerprogramming algorithm computercircuit centralprocessing unit laptop digitalcommunication processor machine
+astrolabe xbox compatible vacuumtube turingmachine computing digitalcommunication arithmetic visualdisplayunit computing
+digital digitalaudioplayer game programming machine mainframe game computation antivirus centralprocessing unit
+integratedcircuit computing transistor microprocessor vacuumtube computercide antivirus desktop incompatible machinecode
+chip desktopcomputer bit antivirus integratedcircuit router machines eniac escapekey ibook
+calculator console keyboard console antivirus mobile router centralprocessing unit algorithm information
+data computercide data abacus cyber software visualdisplayunit programming sliderule mobiledevice
+personalcomputer escapekey diskette peripheral computerprogramming turingmachine analogcomputer programmer proprietary antivirus
+turingmachine arithmetic proprietary eniac inputdevice electrical mainframe floppydisk browser digitalaudioplayer
+artist orchestra folk prelude muses audio bluegrass bpm harp modulate
+symphony concertize trumpet bebop dance label muse choir euphony movies
+pianist genre writing hip reading instruments art music piano musicians silence
+chaconne clarion atmosphere bassline songwriter bars tonic performance bluegrass scale
+instrument graphics trio single reggae singing videos media tune interlude
+dance section writing movies fugue noise design theme story media
+tune subtonic violoncello maps movies song singing rhapsody mediant dynamics
+subdivision jazz section atonality muses noise prelude radio noise spotify
+texture bass sounds percussion artists metal musical accompaniment musical musical
+films live gospel studio sforzando theatre record reggae dance beats
+reading subdivision euphony movie playlist festival tongue work reharmonize wagner
+Chandelier Sconce Seat Bureau Sconce Tallboy Vitrine Furnishings Cupboard Bed
+Cart Television Clock Cabinet cubbies Volute Seat Footrest Bench Etagère
+Screen Lamp Secretary Jardinière Hokey Pew Bookshelf Cushions Recliner Cart
+Wardrobe Desk Desk Rattle Couch Cart Drapes Sideboard Footrest Castor
+Wheelchair Cot Clock Vitrine Hokey Mantle Upholstery cubbies Lamp Throne
+Throne Rack cubbies Table Footstool Vitrine Bookshelf Carpet Light Chair
+Inlay Baroque Secretary Headboards Rug Sofa Etagère Air-conditioner Recliner Zitan
+Fluting Fauteuil Dresser Vitrine Bookcase Console Carpet Sofabed Hokey Fan
+Chandelier Hutch Headboard Desk Rack Seat Curtains Mantle Wheelchair Tansu
+Sideboard Rattle Cart Mirror Clock Headboard Seat Fan Footrest Headboard
+Bookshelf Bench Settee Mirror Headboards Lamp Sconce Wicker Mattress Volute

@@ -1,0 +1,99 @@
+18:32 21:31 18:39 14:58 13:19 22:52 12:38 14:33 23:14 18:53
+23:37 17:54 23:20 20:13 23:25 19:58 18:52 18:40 20:57 16:20
+13:20 18:54 23:11 21:21 12:57 17:40 20:46 18:59 22:45 18:22
+19:55 10:13 15:12 16:36 22:59 20:59 19:40 12:32 14:27 22:53
+20:39 19:57 23:53 11:41 18:48 19:33 13:34 19:38 12:10 10:42
+11:50 15:35 23:55 15:57 10:41 12:27 21:59 15:36 20:59 20:27
+14:10 12:11 22:46 22:27 14:58 11:23 12:15 14:20 11:43 13:39
+10:34 20:32 16:21 19:17 11:56 12:32 23:25 22:22 23:52 12:30
+20:49 21:32 22:25 20:55 14:14 16:11 18:50 14:48 14:19 20:45
+10:14 16:42 11:58 11:50 13:48 20:31 22:34 13:10 14:45 10:14
+18:58 20:49 10:50 15:50 11:40 16:22 14:57 14:26 13:56 15:46
+BinaryNumber_1001110 BinaryNumber_1000100 BinaryNumber_0011011 BinaryNumber_0001110 BinaryNumber_1000101 BinaryNumber_1100001 BinaryNumber_1001011 BinaryNumber_1010110 BinaryNumber_0001001 BinaryNumber_1000111
+BinaryNumber_0111011 BinaryNumber_0001100 BinaryNumber_0001000 BinaryNumber_0100111 BinaryNumber_1001000 BinaryNumber_0100111 BinaryNumber_0000010 BinaryNumber_0100100 BinaryNumber_1000010 BinaryNumber_0000100
+BinaryNumber_1000011 BinaryNumber_1011101 BinaryNumber_0100011 BinaryNumber_0001000 BinaryNumber_1011000 BinaryNumber_0001110 BinaryNumber_0110000 BinaryNumber_1010111 BinaryNumber_0000010 BinaryNumber_0011011
+BinaryNumber_0011111 BinaryNumber_1010000 BinaryNumber_1000101 BinaryNumber_0000110 BinaryNumber_0011101 BinaryNumber_1010101 BinaryNumber_0011000 BinaryNumber_0101001 BinaryNumber_1001100 BinaryNumber_1001001
+BinaryNumber_1000100 BinaryNumber_0101100 BinaryNumber_1011100 BinaryNumber_0100001 BinaryNumber_1000000 BinaryNumber_0010100 BinaryNumber_1010010 BinaryNumber_0011000 BinaryNumber_0000000 BinaryNumber_1010100
+BinaryNumber_0110101 BinaryNumber_0000010 BinaryNumber_0010001 BinaryNumber_1100011 BinaryNumber_1011000 BinaryNumber_0110011 BinaryNumber_0101011 BinaryNumber_0101110 BinaryNumber_1011011 BinaryNumber_0100111
+BinaryNumber_0000100 BinaryNumber_0001100 BinaryNumber_0010110 BinaryNumber_0100001 BinaryNumber_0101000 BinaryNumber_1000011 BinaryNumber_1001011 BinaryNumber_0010001 BinaryNumber_0001101 BinaryNumber_0001100
+BinaryNumber_0111000 BinaryNumber_0000010 BinaryNumber_1011010 BinaryNumber_0111110 BinaryNumber_1010011 BinaryNumber_0111100 BinaryNumber_0001110 BinaryNumber_0001010 BinaryNumber_1001000 BinaryNumber_0101101
+BinaryNumber_1001010 BinaryNumber_0000011 BinaryNumber_0000000 BinaryNumber_0111110 BinaryNumber_0111011 BinaryNumber_0011101 BinaryNumber_0011111 BinaryNumber_0010000 BinaryNumber_0001101 BinaryNumber_0001111
+BinaryNumber_0110101 BinaryNumber_1000011 BinaryNumber_0010101 BinaryNumber_0011001 BinaryNumber_0000001 BinaryNumber_0000011 BinaryNumber_0101000 BinaryNumber_0011010 BinaryNumber_0111110 BinaryNumber_0001001
+BinaryNumber_1011000 BinaryNumber_0000110 BinaryNumber_0110001 BinaryNumber_0100001 BinaryNumber_1011010 BinaryNumber_0001000 BinaryNumber_1001110 BinaryNumber_1011010 BinaryNumber_0011001 BinaryNumber_0001010
+SquareNumber_4489 SquareNumber_4096 SquareNumber_2809 SquareNumber_3136 SquareNumber_1600 SquareNumber_1681 SquareNumber_1764 SquareNumber_361 SquareNumber_729 SquareNumber_4
+SquareNumber_7056 SquareNumber_1600 SquareNumber_484 SquareNumber_8649 SquareNumber_16 SquareNumber_441 SquareNumber_8649 SquareNumber_6084 SquareNumber_3364 SquareNumber_9
+SquareNumber_7396 SquareNumber_289 SquareNumber_676 SquareNumber_529 SquareNumber_2809 SquareNumber_5184 SquareNumber_1156 SquareNumber_9801 SquareNumber_5041 SquareNumber_225
+SquareNumber_5776 SquareNumber_5625 SquareNumber_4 SquareNumber_4761 SquareNumber_441 SquareNumber_5625 SquareNumber_576 SquareNumber_5776 SquareNumber_2809 SquareNumber_4761
+SquareNumber_8836 SquareNumber_256 SquareNumber_2500 SquareNumber_1600 SquareNumber_7396 SquareNumber_4225 SquareNumber_1024 SquareNumber_64 SquareNumber_1600 SquareNumber_1521
+SquareNumber_8281 SquareNumber_1296 SquareNumber_9025 SquareNumber_6724 SquareNumber_1936 SquareNumber_3969 SquareNumber_529 SquareNumber_4225 SquareNumber_9801 SquareNumber_6889
+SquareNumber_1156 SquareNumber_1600 SquareNumber_8836 SquareNumber_529 SquareNumber_5776 SquareNumber_900 SquareNumber_9604 SquareNumber_676 SquareNumber_144 SquareNumber_9604
+SquareNumber_361 SquareNumber_400 SquareNumber_5476 SquareNumber_3721 SquareNumber_256 SquareNumber_2401 SquareNumber_8100 SquareNumber_64 SquareNumber_5625 SquareNumber_3136
+SquareNumber_7056 SquareNumber_4624 SquareNumber_1024 SquareNumber_9 SquareNumber_1444 SquareNumber_729 SquareNumber_5929 SquareNumber_49 SquareNumber_1156 SquareNumber_9025
+SquareNumber_7744 SquareNumber_8281 SquareNumber_961 SquareNumber_1521 SquareNumber_3969 SquareNumber_196 SquareNumber_1089 SquareNumber_8281 SquareNumber_625 SquareNumber_5625
+SquareNumber_6561 SquareNumber_2116 SquareNumber_9025 SquareNumber_5776 SquareNumber_576 SquareNumber_1764 SquareNumber_2500 SquareNumber_1156 SquareNumber_225 SquareNumber_3025
+Sofabed Stool Furniture Vanity Bookcase Desk Drapery Armchair Volute Carpet
+Highchair cubbies Hammock Pliant Regency Desk Daybed Curtains Headboards Sconce
+Tuffet Bergere Wheelchair Curtains Jardinière Baroque Cushion Lintel Seat Rattle
+Breakfront Volute Credenza Table Lamp Furnishings Headboards Wardrobe Easel Sofa
+Headboards Wicker Settee Footrest Drapes Curtains Dresser Headboard Ottoman Stool
+Footstool Headboards Waterbed Valet Cupboard Crib Upholstery Armchair Footstool Headboards
+Couch Lounger Rug Zitan Headboards Tansu Headboards Air-conditioner Hutch Tansu
+Dresser Zitan Applique Furnishings Chest Armoire Easel Loveseat Hokey Cabriole
+Cradle Sofabed Lintel Bench Table cubbies Television Curtains Recliner Television
+Applique Air-conditioner Frieze Cushion Antique Vanity Volute Hokey Fauteuil Furniture
+Screen Marquetry Lintel Regency Bentwood Breakfront Carpet Daybed Credenza Tansu
+instruments talking single melodies jazz art music blues part clapping bassline
+reharmonize entertainment score song studio piano arts jazz voice bassline
+bassline talk harp song conducting story accompaniment recapitulation electronica works
+videos symphonic bassline bhangra graduation saxophone score writing videos vinyl
+reading lute cadence karaoke rhythm tone hymn clarinet techno vocal
+podcast clarion art music piano saxophone tonic chord euphony vocal vibe
+banjo musicians hymn motif metal bhangra clarinet atonal sonata texture
+hip works musicians single radio modulate live tonality singers wagner
+voice podcasts intonation percussion films tweedle improvisation cultural atmosphere choir
+oboe talking creative tune exposition ska vinyl music noise singing
+literature musicians funk tabs chord popular music studio violin performance funk
+Cherry Acerola Prune Grape Jujube Orange Lulo Breadfruit Grapefruit Honeyberry
+Currant Apricot Feijoa Pineapple Mandarine Loquat Jackfruit Plum Longan Tangelo
+Raspberry Pawpaw Longan Canistel Quince Kumquat Cempedak Damson Abiu Tangerine
+Kiwifruit Guava Strawberry Yuzu Kiwano Watermelon Yuzu Longan Durian Quince
+Açaí Acerola Pawpaw Mangosteen Marionberry Boysenberry Soursop Mangosteen Pawpaw Feijoa
+Nectarine Yuzu Ximenia Strawberry Yuzu Salmonberry Mulberry Kiwano Raspberry Bilberry
+Mango Pomelo Guava Guava Tangerine Tamarind Pineberry Tamarillo Pomelo Acerola
+Feijoa Cherry Coconut Açaí Apple Feijoa Araza Kumquat Salmonberry Blackcurrant
+Sapote Cantaloupe Honeydew Blueberry Loganberry Cloudberry Nance Plum Araza Watermelon
+Mangosteen Rambutan  Kiwano Elderberry Araza Ackee Melon Breadfruit Lemon Rambutan 
+Acerola Raisin Cantaloupe Ximenia Tangerine Mulberry Plumcot Mandarine Durian Longan
+mammal animalkingdom deer domesticate tufted deer vertebrate demon frog animalkingdom
+fauna fleshly iguana scavenger biped hourse object bear farming fauna
+cat llamas fleshly plant wild birds primate multicellular dog rodent
+fantasy frog scavenger fantasy animatebeing pet elephants animatebeing object metazoan
+wild fish porifera bug puppy invertebrate zooplankton pitbull hourse animalia
+mythical plant frog rodent bug shelter chickens zoology porifera shelter
+puppy marineanimal cats tame porifera sheep bobcat metazoan sheep dinosaur
+llamas birds carnivore shelter animal welfare rodent scavenger embryo pig embryo
+carnivore rabbit fleshly poikilotherm cat multicellular puppy dog mammals tufted
+scavenger carnal insectivorous wildlife pigs carnal protist animal welfare plant bear
+darter zooplankton frog reptiles shelter primate bird monster pet tame
+rice animal soup seafood plant fruit meal plant meal rice
+sushi cooking sushi drinks milk rice cheese meals beef seafood
+beef restaurant meat eat cheese drinks drinks fruit chicken fruit
+cereal nutrient cheese meat cheese drinks meals seafood animal restaurant
+meals meal fruits vegetables fruits vegetables restaurant edible vegetable pasta nourishment plant
+meat victuals eat milk fruits vegetables restaurant soup plant meals cereal
+restaurant restaurant cooking nourishment plant edible drinks victuals provender eat
+plant vegetable meals plant chicken vegetable nutrition seafood vegetable meat
+plant meal vegetable fruits vegetables beef restaurant soup soup meals milk
+restaurant animal chicken fruit sushi edible plant cooking vegetable fruits vegetables
+seafood milk drinks fruits vegetables fruits vegetables animal cereal drinks soup sushi
+patronage debacle reckless onerous integrity expose impunity scapegoat tainted mendacity
+impunity covert parry covert cadre corruption tarnish scandal expose scapegoat
+laconic patriarchy unjust privilege expose onerous reputation deficit allegation impunity
+assail mercurial revelation benefit tainted demagogue infringement patronage allegation accusation
+partial manipulate dictatorship defamation fray feud debacle deflect scandalous corruption
+alliance opportunist manipulate saga tainted deny laconic deflect illicit parry
+expose collaboration plutocracy engagement assail prestidigitation coterie benefit anonymity deflect
+subterfuge collaboration intimidation onerous regime beleaguer benefit plagiarism prestidigitation patronage
+laconic blame fiasco mercurial engagement infringement endorsement alliance partial benefit
+debacle scandalous demagogue tycoon manipulate claim claim mendacity collaboration claim
+mercurial career tycoon mendacity privilege solicit opportunist scandalous beleaguer feud

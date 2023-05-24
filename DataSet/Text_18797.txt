@@ -1,0 +1,99 @@
+LightYellow AntiqueWhite Gray Khaki Plum Burlywood RosyBrown MidnightBlue DarkGray Cyan
+Silver IndianRed SeaGreen OliveDrab AntiqueWhite WhiteSmoke DarkGray DarkGreen Snow Honeydew
+OrangeRed PapayaWhip BlueViolet Feldspar HotPink NavajoWhite Sienna PaleGreen Lime PapayaWhip
+Orchid Gainsboro DarkTurquoise LightSeaGreen Honeydew OliveDrab LightPink DarkOliveGreen BlueViolet MintCream
+LightPink SlateGray MediumTurquoise AntiqueWhite Crimson Moccasin MediumSlateBlue Teal Indigo SlateBlue
+DarkRed LightSeaGreen White Wheat Chocolate Snow Honeydew SpringGreen LightSteelBlue DarkBlue
+PaleGreen CadetBlue IndianRed Moccasin PaleVioletRed MediumBlue Red DarkRed MidnightBlue DarkGoldenrod
+MediumSlateBlue Chartreuse BlanchedAlmond Turquoise Crimson LightSalmon AliceBlue Seashell VioletRed MediumSlateBlue
+MediumTurquoise Maroon VioletRed Aquamarine LightCyan VioletRed OliveDrab DarkOliveGreen LightSteelBlue Seashell
+DarkGreen MediumAquamarine DarkTurquoise SlateBlue Chocolate Tan IndianRed Snow PaleTurquoise LightSlateBlue
+PaleTurquoise PaleTurquoise SpringGreen VioletRed PaleGreen LightGray Gold MediumBlue IndianRed Wheat
+Tangerine Mango Avocado Longan Blueberry Pomelo Date Mandarine Açaí Pear
+Bilberry Clementine Tangerine Lulo Nance Pineberry Pineapple Mandarine Persimmon Coconut
+Gooseberry Longan Tangerine Cherimoya Mulberry Pomelo Plum Pear Yuzu Grape
+Honeyberry Satsuma Lime Acerola Sapote Salmonberry Lulo Date Melon Peach
+Soursop Fig Longan Cempedak Cloudberry Plantain Salmonberry Banana Abiu Quince
+Raisin Salmonberry Date Apple Cloudberry Clementine Redcurrant Persimmon Blackberry Salmonberry
+Apricot Abiu Persimmon Fig Loganberry Blackberry Coconut Loganberry Araza Banana
+Nance Plumcot Clementine Mango Feijoa Mulberry Currant Pawpaw Akebi Loquat
+Abiu Salak Banana Honeyberry Guava Tamarillo Tamarillo Guava Tamarillo Lime
+Breadfruit Guava Gooseberry Boysenberry Elderberry Raspberry Plumcot Mulberry Peach Lemon
+Jostaberry Tangelo Ximenia Yuzu Canistel Longan Satsuma Acerola Avocado Jostaberry
+cereal fruit cheese rice fruits vegetables nourishment provender nutrition chicken provender
+seafood nutrient nutrition nutrition drinks edible plant fruits vegetables edible sushi
+soup pasta soup animal drinks fruits vegetables cheese soup soup nourishment
+plant restaurant restaurant plant provender nourishment animal restaurant cereal sushi
+restaurant drinks plant cheese cheese meat eat plant eat chicken
+meals meat meat pasta fruits vegetables seafood drinks meal plant eat
+soup animal eat beef edible seafood animal fruits vegetables animal rice
+sushi cooking eat seafood pasta fruit animal restaurant vegetable edible
+cooking rice seafood vegetable edible restaurant plant nourishment edible rice
+plant eat nutrient nourishment nutrient chicken soup seafood provender nourishment
+nourishment provender soup victuals milk nutrient victuals restaurant chicken meat
+laptop sliderule sliderule mainframe smartphone computerprogramming transistor browser astrolabe transistor
+browser dataconverter von neumann machine calculator chip arithmetic pc digitalcomputer computerhardware android
+camera expansionslot cpu cell computercircuit mechanicalcomputer dataconverter von neumann machine antivirus hardware
+floppydisk daw antivirus smartphone mechanicalcomputer digitalaudioplayer cpu desktoppcs centralprocessing unit tablet
+digital escapekey visualdisplayunit spyware data electromechanical machine computerprogramming downloader visualdisplayunit
+electronics homecomputer cyber supercomputer office personalcomputer proprietary astrolabe computerprogramming compatible
+computerprogramming data smartphone computercircuit calculator laptop von neumann machine peripheral expansionslot imac
+programming mechanicalcomputer memory inputdevice digitalcomputer watch centralprocessing unit processor antivirus eniac
+smartphone computerprogramming compatible watch laptopcomputer programming machines abacus microprocessor computerprogramming
+desktop computerscience machinecode computing imac data expansionslot memory electrical android
+astrolabe expansionslot desktop cell office hardware memory cell chip analogcomputer
+BinaryNumber_0000101 BinaryNumber_0101101 BinaryNumber_1001110 BinaryNumber_0010110 BinaryNumber_0010100 BinaryNumber_0110111 BinaryNumber_1000011 BinaryNumber_0101110 BinaryNumber_0000101 BinaryNumber_1000100
+BinaryNumber_0001011 BinaryNumber_1000000 BinaryNumber_0011010 BinaryNumber_0000010 BinaryNumber_0011001 BinaryNumber_0101010 BinaryNumber_0011100 BinaryNumber_0111011 BinaryNumber_0101110 BinaryNumber_1011111
+BinaryNumber_0010001 BinaryNumber_0111010 BinaryNumber_0010011 BinaryNumber_0011010 BinaryNumber_1000001 BinaryNumber_1001000 BinaryNumber_0011011 BinaryNumber_0100011 BinaryNumber_0011010 BinaryNumber_1100010
+BinaryNumber_1000000 BinaryNumber_1011100 BinaryNumber_0000110 BinaryNumber_1010000 BinaryNumber_0101100 BinaryNumber_0100110 BinaryNumber_1100000 BinaryNumber_1001111 BinaryNumber_1001111 BinaryNumber_0110100
+BinaryNumber_1010110 BinaryNumber_0100011 BinaryNumber_0001011 BinaryNumber_0001100 BinaryNumber_1011110 BinaryNumber_0001000 BinaryNumber_0000100 BinaryNumber_0010001 BinaryNumber_0001100 BinaryNumber_1010110
+BinaryNumber_1010001 BinaryNumber_0101000 BinaryNumber_0111111 BinaryNumber_0000010 BinaryNumber_0101011 BinaryNumber_1000010 BinaryNumber_1100010 BinaryNumber_1011111 BinaryNumber_0111000 BinaryNumber_0111101
+BinaryNumber_1000000 BinaryNumber_1001101 BinaryNumber_0100111 BinaryNumber_0111110 BinaryNumber_0010111 BinaryNumber_0111001 BinaryNumber_0110110 BinaryNumber_0110110 BinaryNumber_0110110 BinaryNumber_0011101
+BinaryNumber_0001000 BinaryNumber_0000111 BinaryNumber_0011001 BinaryNumber_0111101 BinaryNumber_0110000 BinaryNumber_0100010 BinaryNumber_0010001 BinaryNumber_1011011 BinaryNumber_1000110 BinaryNumber_1010111
+BinaryNumber_1001100 BinaryNumber_0101010 BinaryNumber_1011100 BinaryNumber_0100001 BinaryNumber_0101010 BinaryNumber_1000001 BinaryNumber_1001111 BinaryNumber_0001110 BinaryNumber_1001000 BinaryNumber_0000010
+BinaryNumber_0010000 BinaryNumber_1011001 BinaryNumber_0100101 BinaryNumber_1001001 BinaryNumber_1010001 BinaryNumber_0011110 BinaryNumber_0100111 BinaryNumber_1010011 BinaryNumber_1001100 BinaryNumber_1010101
+BinaryNumber_1100000 BinaryNumber_1010010 BinaryNumber_1011110 BinaryNumber_0101111 BinaryNumber_0100101 BinaryNumber_1010011 BinaryNumber_0001000 BinaryNumber_0011110 BinaryNumber_1010010 BinaryNumber_0001101
+homeless smiling lazy ugly filthy nutty annoying average dead light
+eager annoying grieving elated impossible glorious tender old-fashioned relieved homeless
+innocent disgusted defeated attractive envious handsome ill careful doubtful blue-eyed
+brainy dark distinct brave doubtful plain unusual condemned gleaming tasty
+alert cute homeless fair uptight hurt dangerous hilarious super strange
+stormy unusual impossible smiling lively faithful tender lonely combative inquisitive
+poised misty quaint grumpy condemned doubtful brave long frightened envious
+crazy powerful alert hilarious exuberant misty energetic helpful pleasant quaint
+healthy victorious doubtful grieving handsome relieved bored silly lazy famous
+crowded modern calm helpless evil awful tense obedient tough grieving
+blue doubtful real misty stupid successful determined fierce dangerous good
+Joints Nerves Tendons Ovaries Joints Ciliarybody Uterus Fallopiantubes Liver Smallintestine
+Thalamus Nerves Ciliarybody Retina Ear Cerebellum Larynx Veins Teeth Spinalnerves
+Thalamus Lens Stomach Vagina Teeth Earlobe Ear Earlobe Lens Ear
+Eardrum Ossicles Fallopiantubes Bladder Ovaries Jejunum skeleton Ovaries Ileum Stomach
+Hypothalamus Ileum Pancreas Ligaments Urethra Cochlea Mesentery Teeth Arteries Largeintestine
+Sensoryorgans Smallintestine Ureter Bronchi Eye Trachea Bone  Ureter Cornea Gallbladder
+Ovaries Trachea Tongue Stomach Bronchi Eye Eardrum Cochlea Eardrum Capillaries
+Smallintestine Midbrain Placenta Cornea Esophagus Largeintestine Lymphaticvessel Ear Eardrum Interstitium
+Ear Scrotum Pharynx Vulva Cranialnerves Pons Iris Penis Ligaments Earlobe
+Spinalnerves Trachea Muscle Thalamus Muscle Pharynx Larynx Cornea Fallopiantubes Sensoryorgans
+Arteries Penis Scrotum Analcanal Eye Tendons Lips Mesentery Interstitium Uterus
+Jardinière Cabinet Armchair Headboards Fauteuil Cushion Rug Vanity Curtains Frieze
+Regency Vanity Cushion Settee Stool Mirror Desk Easel Antique Vitrine
+Sconce Daybed Air-conditioner Bureau Daybed Baroque Cupboard Armchair Cushion Carpet
+Frieze Sofa Chandelier Daybed Clock Air-conditioner Shelf Pliant Cart Jardinière
+Pew Upholstery Ottoman Crib Sconce Tuffet Table Screen Furniture Credenza
+Dresser Divan cubbies Throne Chair Fauteuil Tuffet Footrest Ottoman Tansu
+Pillow Bureau Cot Armchair Clock Ottoman Rug Mattress Hutch Sconce
+Cushion Cradle Vitrine Tallboy Couch Screen Sofa Headboards Wardrobe Light
+Desk Mantle Desk Tuffet Stool Hutch Cushions Pliant Bentwood Regency
+Carpet Jardinière Tallboy Lamp Footrest Lamp Cushion Television Lintel Screen
+Rattle Screen Settee Recliner Drapery Chair Divan Crib Armoire Mattress
+illegal mendacity scapegoat mendacity retaliation onerous solicit demagogue sloth benefit
+infringement career empire patronage parry hypocrisy deflect tainted incident unjust
+incident fiasco beleaguer plagiarism engagement acolyte empire patronage empire deflect
+debacle ignorant bribe parry saga embezzlement partial conceal scandalous integrity
+lobby illicit accusation chicanery tainted engagement defamation allegation illegal partial
+debacle dictatorship unjust sloth solicit debacle allegation benefit reputation authoritarian
+benefit illegal retaliation ignorant deficit assail feud coercion denigrate coterie
+endorsement subterfuge hypocrisy embezzlement temptation malfeasance unjust engagement illegal intimidation
+scandal plagiarism authoritarian chicanery coercion authoritarian subterfuge retaliation feud illicit
+refute retaliation empire embezzlement saga alliance fiasco privilege laconic revelation
+fray conceal deficit conceal demagogue unsavory demagogue assail scandalous temptation

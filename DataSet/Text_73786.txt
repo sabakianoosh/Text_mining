@@ -1,0 +1,99 @@
+BinaryNumber_0001111 BinaryNumber_1000011 BinaryNumber_1001010 BinaryNumber_0100011 BinaryNumber_0001101 BinaryNumber_0101000 BinaryNumber_1010011 BinaryNumber_0011100 BinaryNumber_0110110 BinaryNumber_0101100
+BinaryNumber_0001010 BinaryNumber_0010101 BinaryNumber_0000111 BinaryNumber_0110000 BinaryNumber_0111101 BinaryNumber_0110010 BinaryNumber_0010011 BinaryNumber_1100010 BinaryNumber_1000110 BinaryNumber_1011101
+BinaryNumber_1000110 BinaryNumber_1001100 BinaryNumber_0100101 BinaryNumber_1000010 BinaryNumber_0001100 BinaryNumber_1000101 BinaryNumber_1001110 BinaryNumber_0010011 BinaryNumber_1001111 BinaryNumber_0000101
+BinaryNumber_0100111 BinaryNumber_1001111 BinaryNumber_0110100 BinaryNumber_1011101 BinaryNumber_1000101 BinaryNumber_0011100 BinaryNumber_0011100 BinaryNumber_0110000 BinaryNumber_0111101 BinaryNumber_0111000
+BinaryNumber_1001101 BinaryNumber_0111000 BinaryNumber_0111001 BinaryNumber_0010000 BinaryNumber_1000010 BinaryNumber_1001111 BinaryNumber_0111100 BinaryNumber_1001100 BinaryNumber_0110111 BinaryNumber_1010011
+BinaryNumber_0011010 BinaryNumber_1010111 BinaryNumber_0000010 BinaryNumber_0101000 BinaryNumber_0110011 BinaryNumber_1000100 BinaryNumber_0111111 BinaryNumber_1011001 BinaryNumber_0011111 BinaryNumber_0000111
+BinaryNumber_0111001 BinaryNumber_0001010 BinaryNumber_1000010 BinaryNumber_0110000 BinaryNumber_0100101 BinaryNumber_0011000 BinaryNumber_0001001 BinaryNumber_1010000 BinaryNumber_1100010 BinaryNumber_0001010
+BinaryNumber_0100000 BinaryNumber_1011101 BinaryNumber_1000111 BinaryNumber_1010010 BinaryNumber_1000101 BinaryNumber_0011001 BinaryNumber_1010101 BinaryNumber_0100011 BinaryNumber_0011101 BinaryNumber_0100010
+BinaryNumber_0110111 BinaryNumber_0100010 BinaryNumber_1001010 BinaryNumber_1001001 BinaryNumber_0110110 BinaryNumber_1001110 BinaryNumber_0011101 BinaryNumber_0001110 BinaryNumber_0101000 BinaryNumber_1000100
+BinaryNumber_0001001 BinaryNumber_0000110 BinaryNumber_1000110 BinaryNumber_1011011 BinaryNumber_0100100 BinaryNumber_0001100 BinaryNumber_0011010 BinaryNumber_1010001 BinaryNumber_0011000 BinaryNumber_1010001
+BinaryNumber_0010110 BinaryNumber_1011110 BinaryNumber_0010100 BinaryNumber_1011111 BinaryNumber_0011001 BinaryNumber_1000100 BinaryNumber_0100000 BinaryNumber_0010100 BinaryNumber_0000101 BinaryNumber_1000111
+meal soup animal nutrition milk cereal pasta meal fruits vegetables meal
+restaurant cooking cereal animal provender eat seafood soup cereal victuals
+meals fruits vegetables nutrition meals drinks cereal victuals plant provender cheese
+seafood milk cereal chicken nutrition animal pasta restaurant meals chicken
+nutrition victuals animal fruits vegetables fruits vegetables drinks pasta sushi fruits vegetables cheese
+victuals drinks vegetable chicken cooking sushi meals fruit edible cereal
+nourishment fruit pasta beef provender rice chicken nutrition edible nourishment
+cereal nutrition meals animal sushi victuals fruit sushi pasta rice
+seafood cheese plant fruit pasta sushi beef edible pasta victuals
+animal soup eat fruit animal beef milk eat rice victuals
+edible eat edible fruits vegetables cooking eat cheese animal chicken milk
+reptiles feline heterotroph bird object pigs tame tiger zooplankton vegan
+animalkingdom demon carnivore dogs amphibians sheep elephants bird carnivore marineanimal
+birds jellyfish tufted insectivorous wild carnal dog meat jellyfish scavenger
+animalia bug farming epizootic zooplankton carnal vegan cats fauna octopuses
+primate puppy animals chickens jellyfish thoroughbred thoroughbred animals animatebeing zooplankton
+carnivore pet tame primate predatoryanimal object raccoon eukaryotic animalia rodent
+metazoan cats epizootic poikilotherm multicellular animalkingdom mammal livestock amphibians exoticanimals
+mythical superdog invertebrate varmint pups pups vegan animalia wild bobcat
+elephants dog pitbull demon bobcat insectivore zooplankton puppy dog fauna
+ladybug pet birds marineanimal animalia dog amphibians domesticate zoology bear
+animal welfare bird carnivore bear tame biped invertebrate jellyfish superdog darter
+law-breaking criminals supernatural police incarceration felony gangsterism mutilation threats homicides
+jurisdiction sentence arrest massacre spy noir crime fraud genocide statutory
+mutilation misdemeanor drama rape gangster rape police mafia gangster suspense
+misdemeanor gangsterism fraud law-breaking political poverty terrorism country country trial
+story law supernatural abuse arrest sin spy spy smuggle evidence
+country unsolved cases poverty theft misdemeanor prostitution liberty trafficking cases
+jurisdiction homelessness mystery human corrupt conspiracy criminality victim transgression structuralism
+bloodshed violence crisis misdemeanour illegal offenders structuralism trafficking brutality government
+criminality mutilation slayings highjack death evidence vandalism homicides imprisonment detective
+offenders barratry thriller blackmail detective theft murder racism tort tort
+imprisonment threats liberty shootings detective political cases shoplift heist homelessness
+temperature__123c temperature__53c temperature__61c temperature__54c temperature__105c temperature__21c temperature__140c temperature__58c temperature__84c temperature__42c
+temperature__91c temperature__126c temperature__130c temperature__73c temperature__58c temperature__57c temperature__139c temperature__111c temperature__17c temperature__26c
+temperature__21c temperature__69c temperature__137c temperature__109c temperature__21c temperature__122c temperature__10c temperature__65c temperature__119c temperature__122c
+temperature__50c temperature__95c temperature__0c temperature__56c temperature__129c temperature__11c temperature__49c temperature__52c temperature__120c temperature__90c
+temperature__130c temperature__147c temperature__141c temperature__142c temperature__145c temperature__53c temperature__39c temperature__27c temperature__64c temperature__78c
+temperature__40c temperature__95c temperature__146c temperature__129c temperature__77c temperature__5c temperature__69c temperature__36c temperature__3c temperature__56c
+temperature__126c temperature__3c temperature__36c temperature__22c temperature__137c temperature__35c temperature__145c temperature__84c temperature__132c temperature__46c
+temperature__28c temperature__11c temperature__31c temperature__23c temperature__7c temperature__10c temperature__90c temperature__124c temperature__98c temperature__141c
+temperature__23c temperature__123c temperature__57c temperature__144c temperature__144c temperature__68c temperature__91c temperature__147c temperature__146c temperature__140c
+temperature__142c temperature__85c temperature__22c temperature__109c temperature__68c temperature__33c temperature__54c temperature__142c temperature__145c temperature__3c
+temperature__148c temperature__39c temperature__12c temperature__79c temperature__51c temperature__92c temperature__34c temperature__77c temperature__34c temperature__57c
+DarkCyan Goldenrod SeaGreen RoyalBlue Crimson OliveDrab SaddleBrown LightYellow Violet Chocolate
+LightSeaGreen Tan MintCream Gray DarkBlue MediumBlue LightSteelBlue LightSeaGreen Cornsilk DarkTurquoise
+Khaki Green LightPink Sienna LightGreen LightPink AliceBlue DarkKhaki Goldenrod SpringGreen
+DeepPink MistyRose DarkSalmon HotPink Gold Thistle Cornsilk Snow Olive LightSlateBlue
+MediumBlue DarkGray LightSlateGray Crimson MistyRose SlateBlue Wheat Blue DarkSeaGreen Seashell
+Indigo PaleTurquoise Linen MediumPurple PaleGoldenrod SpringGreen Aquamarine LightCyan Salmon Azure
+MediumSeaGreen PowderBlue DodgerBlue SaddleBrown Tomato Yellow Fuchsia Orchid DarkRed Sienna
+Honeydew Black Olive IndianRed MediumSpringGreen LightGreen DarkSeaGreen HotPink LightSalmon DarkKhaki
+LimeGreen Bisque LightGreen DarkRed Goldenrod LightCoral DeepPink ForestGreen DarkKhaki OrangeRed
+Yellow Crimson LimeGreen ForestGreen SeaGreen DarkOrange CornflowerBlue LightPink LightSlateGray BlanchedAlmond
+LightSalmon Peru White BlanchedAlmond Snow DarkGoldenrod FloralWhite DarkGreen Lime PeachPuff
+premium dance disport skill soccer tennis eco fitness goal concert
+cavort sport dynamic games athlete social activity supersport dance premium
+pack tradition fighting luge rugby ineligible ineligible pro mutant job
+funambulism gym movement comfort tournaments limited sportaccord pack supersport athletes
+tournament sports motorcycling rugby dance rugby goal ski safari racing
+badminton active feature sport athlete hobby ineligible frolic dynamic standard
+game culture motorcycling limited chess teams combat athletic entertainment referee
+safari luge bike volleyball downfield skateboarding game fun movement dance
+bike funambulism career culture soccer dive archery romp form hockey
+chess culture coach community music form comfort frolic running sportaccord
+gym funambulism muscle rowing music disport eco community tennis tradition
+Raisin Fig Blackcurrant Guava Abiu Orange Honeyberry Pomegranate Araza Date
+Salak Currant Cherimoya Mulberry Raisin Plum Canistel Clementine Tangerine Quince
+Prune Rambutan  Mulberry Coconut Breadfruit Nance Tamarillo Pawpaw Grapefruit Cherry
+Durian Watermelon Loganberry Nance Kumquat Akebi Soursop Acerola Apricot Pawpaw
+Tangerine Acerola Yuzu Cherimoya Mangosteen Marionberry Cloudberry Honeyberry Pineapple Currant
+Tangerine Mango Bilberry Cempedak Rambutan  Rambutan  Durian Cloudberry Blackcurrant Apple
+Nance Acerola Marionberry Cloudberry Abiu Apricot Bilberry Rambutan  Loquat Pear
+Cempedak Watermelon Kumquat Pear Apricot Persimmon Cantaloupe Jambul Araza Orange
+Cantaloupe Apple Damson Persimmon Cashew Jujube Tamarillo Pineberry Bilberry Clementine
+Tayberry Avocado Watermelon Nectarine Orange Raspberry Tangerine Peach Prune Kiwifruit
+Grape Durian Kumquat Nectarine Lime Tayberry Sapote Honeyberry Rambutan  Raisin
+centralprocessing unit microcomputer peripheral personalcomputer cyber xbox computerprogramming inputdevice electrical cpu
+turingmachine digitalcommunication computercircuit console machine mainframe xbox virtualreality phone programming
+pc personalcomputer eniac compatible transistor sliderule screen device tablet machinecode
+centralprocessing unit turingmachine programming watch computing microcomputer inputdevice laptopcomputer escapekey inputdevice
+digitalcomputer homecomputer microprocessor pc internet mainframe smartphone computerscience centralprocessing unit office
+arithmetic abacus von neumann machine virtualreality machine floppydisk router arithmetic electromechanical cyber
+cell memory router visualdisplayunit ibook cpu chip ibook smartphone information
+pc peripheral computation machine computation analogcomputer cyber desktopcomputer camera camera
+microcomputer cybertechnology computerprogram proprietary device incompatible office dataconverter desktop computerscience
+software digitalcomputer turingmachine hardware mobiledevice incompatible information proprietary monitor electromechanical
+peripheral supercomputer console arithmetic machines computerprogramming internet android vacuumtube proprietary

@@ -1,0 +1,99 @@
+SquareNumber_7056 SquareNumber_3600 SquareNumber_3721 SquareNumber_3481 SquareNumber_4356 SquareNumber_7744 SquareNumber_9801 SquareNumber_2025 SquareNumber_8649 SquareNumber_9025
+SquareNumber_5929 SquareNumber_625 SquareNumber_9216 SquareNumber_289 SquareNumber_3600 SquareNumber_441 SquareNumber_9801 SquareNumber_2601 SquareNumber_7396 SquareNumber_7225
+SquareNumber_36 SquareNumber_2704 SquareNumber_3600 SquareNumber_1764 SquareNumber_5041 SquareNumber_961 SquareNumber_2116 SquareNumber_3844 SquareNumber_2209 SquareNumber_7056
+SquareNumber_4096 SquareNumber_9604 SquareNumber_6084 SquareNumber_441 SquareNumber_9 SquareNumber_10000 SquareNumber_1444 SquareNumber_121 SquareNumber_2809 SquareNumber_625
+SquareNumber_6889 SquareNumber_676 SquareNumber_7396 SquareNumber_6084 SquareNumber_1024 SquareNumber_8649 SquareNumber_3844 SquareNumber_7225 SquareNumber_144 SquareNumber_1521
+SquareNumber_9604 SquareNumber_2304 SquareNumber_9801 SquareNumber_1600 SquareNumber_64 SquareNumber_5476 SquareNumber_441 SquareNumber_2601 SquareNumber_7225 SquareNumber_400
+SquareNumber_6241 SquareNumber_1681 SquareNumber_100 SquareNumber_5184 SquareNumber_2025 SquareNumber_9409 SquareNumber_9216 SquareNumber_5776 SquareNumber_576 SquareNumber_1024
+SquareNumber_8100 SquareNumber_1444 SquareNumber_2025 SquareNumber_1849 SquareNumber_1089 SquareNumber_1024 SquareNumber_961 SquareNumber_7921 SquareNumber_5184 SquareNumber_400
+SquareNumber_576 SquareNumber_9801 SquareNumber_7225 SquareNumber_484 SquareNumber_4761 SquareNumber_6889 SquareNumber_2601 SquareNumber_1024 SquareNumber_1849 SquareNumber_8100
+SquareNumber_3025 SquareNumber_1521 SquareNumber_6241 SquareNumber_2209 SquareNumber_4489 SquareNumber_1764 SquareNumber_676 SquareNumber_1849 SquareNumber_4225 SquareNumber_9604
+SquareNumber_4624 SquareNumber_8281 SquareNumber_3025 SquareNumber_324 SquareNumber_1936 SquareNumber_576 SquareNumber_3249 SquareNumber_1764 SquareNumber_9801 SquareNumber_3969
+personalcomputer xbox hardware programming abacus imac automation sliderule desktop centralprocessing unit
+memory peripheral data keyboard algorithm visualdisplayunit pc computerprogramming desktopcomputer computerhardware
+cybertechnology astrolabe device laptop digitalcomputer microcomputer electrical automation homecomputer digitalaudioplayer
+machines microcomputer von neumann machine device transistor monitor analogcomputer compatible bit electromechanical
+analogcomputer microprocessor watch game memory diskette imac monitor cpu computerprogram
+algorithm calculator expansionslot electromechanical desktopcomputer hardware downloader cyber mainframe algorithm
+data console eniac laptopcomputer desktopcomputer processor smartphone automation machine von neumann machine
+data desktop cyber game turingmachine sliderule supercomputer daw cpu bit
+diskette arithmetic machines diskette machinecode phone programmer cyber information imac
+digitalaudioplayer laptop microprocessor computing console screen tablet screen pornographicimages memory
+keyboard dataconverter electronics tablet office watch digitalcommunication watch cyber eniac
+carnal darter pups mythical zooplankton chickens animal welfare octopuses deer bug
+object porifera animalia jellyfish exoticanimals pigs eukaryotic amphibians environmental fish
+iguana porifera pups epizootic ladybug insects creature wild livestock farming
+creature deer demon cat dogs porifera clams pups rodent feline
+cats vegan fantasy chickens carnal insect deer rabbit iguana tufted
+sheep shelter shelter creature darter animalia insectivore cat carnal reptiles
+zoo frog amphibians mammal biped porifera animatebeing iguana frog chordate
+puppy environmental chordate cat plant domesticate insectivore bobcat reptile scavenger
+demon dog domesticate frog dog eukaryotic bobcat pups chickens raccoon
+bear hourse pups marineanimal jellyfish animal welfare dog pet biped marineanimal
+llamas rabbit monster plant fleshly bear plant primate protist ladybug
+BinaryNumber_0010010 BinaryNumber_0100101 BinaryNumber_0010101 BinaryNumber_0110101 BinaryNumber_1000100 BinaryNumber_1001111 BinaryNumber_1010001 BinaryNumber_0011000 BinaryNumber_0011011 BinaryNumber_0101010
+BinaryNumber_0100001 BinaryNumber_0101110 BinaryNumber_0001110 BinaryNumber_0001101 BinaryNumber_1010001 BinaryNumber_0011011 BinaryNumber_1000011 BinaryNumber_0111101 BinaryNumber_0110100 BinaryNumber_1100010
+BinaryNumber_1010000 BinaryNumber_0110111 BinaryNumber_0101101 BinaryNumber_1000100 BinaryNumber_0000110 BinaryNumber_1000001 BinaryNumber_1000010 BinaryNumber_0101111 BinaryNumber_0101110 BinaryNumber_0110101
+BinaryNumber_0101101 BinaryNumber_1011001 BinaryNumber_0010111 BinaryNumber_0010010 BinaryNumber_1001010 BinaryNumber_1000001 BinaryNumber_0111110 BinaryNumber_1011011 BinaryNumber_0100010 BinaryNumber_0011111
+BinaryNumber_0011001 BinaryNumber_0000011 BinaryNumber_0100011 BinaryNumber_0001110 BinaryNumber_1100001 BinaryNumber_0001100 BinaryNumber_0000000 BinaryNumber_0001011 BinaryNumber_1010101 BinaryNumber_0110110
+BinaryNumber_1010010 BinaryNumber_0110000 BinaryNumber_0111100 BinaryNumber_0010001 BinaryNumber_0111110 BinaryNumber_1100000 BinaryNumber_0010110 BinaryNumber_0010010 BinaryNumber_0101001 BinaryNumber_0110101
+BinaryNumber_0000000 BinaryNumber_1011011 BinaryNumber_0001110 BinaryNumber_0001010 BinaryNumber_0011000 BinaryNumber_0101010 BinaryNumber_1100011 BinaryNumber_1001111 BinaryNumber_1000011 BinaryNumber_0110010
+BinaryNumber_0110011 BinaryNumber_0111001 BinaryNumber_1011001 BinaryNumber_0011010 BinaryNumber_0110010 BinaryNumber_1000110 BinaryNumber_0010100 BinaryNumber_1100011 BinaryNumber_1000001 BinaryNumber_0010100
+BinaryNumber_1001001 BinaryNumber_1000101 BinaryNumber_0110011 BinaryNumber_0011000 BinaryNumber_0010111 BinaryNumber_1000111 BinaryNumber_0011100 BinaryNumber_1010111 BinaryNumber_1011001 BinaryNumber_0001110
+BinaryNumber_1011110 BinaryNumber_0010000 BinaryNumber_0001010 BinaryNumber_0100001 BinaryNumber_1011101 BinaryNumber_1100001 BinaryNumber_0010011 BinaryNumber_0110010 BinaryNumber_0110111 BinaryNumber_1001011
+BinaryNumber_0101001 BinaryNumber_0100100 BinaryNumber_1011000 BinaryNumber_0111110 BinaryNumber_1100000 BinaryNumber_1010010 BinaryNumber_0011010 BinaryNumber_0000010 BinaryNumber_0110011 BinaryNumber_0011011
+beef nutrition fruits vegetables fruit cheese milk cooking pasta milk edible
+nutrition fruit meals rice eat meat rice sushi soup chicken
+vegetable chicken drinks provender drinks cereal soup chicken eat meal
+fruit milk cereal fruits vegetables drinks meat edible pasta nutrient meal
+fruits vegetables sushi animal cereal cooking victuals meal eat milk chicken
+meal nutrient fruit drinks animal milk milk fruit fruit vegetable
+nutrition soup nourishment beef cereal cereal restaurant beef eat provender
+chicken restaurant eat drinks cereal cereal rice nutrient pasta nourishment
+chicken milk pasta soup edible restaurant restaurant nutrient drinks eat
+plant soup rice plant rice provender cheese rice chicken seafood
+soup fruits vegetables soup rice cooking cheese restaurant meat provender meals
+detective trafficking investigation punitive trial justice murder justice incarceration offenders
+legal story investigation mob violence abuse jurisdiction genocide drugs poverty
+massacre structuralism thrillers bloodshed theft law-breaking criminal guilt conspiracy cybercrime
+murder murders misdemeanor mutilation bloodshed statutory genocide sentence transgression fraud
+missing investigation punitive trial transgression abuse human law victim jurisdiction
+legal investigation country human drug sentence legislature detective highjack statutory
+thrillers guilt bloodshed mob murders conspiracy genocide action police shoplift
+prison mob human incarceration bloodshed criminals serial arsons punitive evidence
+gun guilt brutality lift murder poverty racism bloodshed mob homelessness
+suspense crisis assault cases gangster statutory prostitution cases death shootings
+offence law criminality sentence corrupt criminality poverty missing offence guilty
+15:44 13:42 18:52 18:42 16:27 23:35 22:41 13:30 21:14 11:47
+17:47 23:35 16:25 23:22 10:24 18:54 14:24 23:41 21:28 13:13
+22:45 21:56 10:25 16:47 16:26 22:44 23:56 18:57 18:38 13:42
+23:13 14:44 10:47 14:41 12:38 13:48 23:39 19:10 13:18 20:17
+19:10 17:42 12:47 18:42 19:24 13:20 23:59 13:44 23:42 18:38
+19:32 12:38 15:59 18:54 18:17 19:28 18:20 18:54 18:25 19:20
+23:48 22:12 12:44 14:27 17:35 19:19 19:25 12:55 11:59 19:49
+18:23 21:29 10:38 17:18 20:36 15:27 14:23 22:59 17:50 18:51
+10:20 13:28 20:54 18:34 12:19 10:41 15:21 12:14 21:11 14:43
+10:47 10:47 19:36 10:36 17:57 21:52 21:24 23:36 21:14 23:54
+13:26 14:44 14:51 23:45 21:54 22:35 19:44 19:29 13:14 21:42
+VioletRed Seashell Gold Brown Bisque BlueViolet Cornsilk Burlywood DarkOrchid MediumTurquoise
+DeepSkyBlue Honeydew Red MidnightBlue BlanchedAlmond Gainsboro MediumSpringGreen Peru Olive DarkGray
+Chartreuse LimeGreen DarkSlateBlue MidnightBlue LightSlateBlue DarkOliveGreen Feldspar DarkOrchid SandyBrown MediumPurple
+SpringGreen Maroon AntiqueWhite Fuchsia Cyan Teal Orchid CornflowerBlue SkyBlue MediumBlue
+Honeydew Gray PaleVioletRed MediumTurquoise Gold RoyalBlue DarkSlateBlue LimeGreen DarkTurquoise MidnightBlue
+SteelBlue Yellow MediumAquamarine Crimson ForestGreen DarkRed CadetBlue SlateGray MediumBlue ForestGreen
+Tan RosyBrown Gray Olive GhostWhite Ivory DarkOrchid PapayaWhip LightPink SandyBrown
+PaleGreen Violet Tan Violet PaleTurquoise SlateBlue OrangeRed Lime SteelBlue Peru
+Snow AliceBlue SlateBlue PowderBlue Peru VioletRed VioletRed Seashell DarkKhaki Azure
+Azure DarkGreen DarkSeaGreen LightGray MistyRose MediumOrchid Tomato LawnGreen LightCoral Tan
+DarkKhaki LightSalmon DarkViolet MediumSeaGreen DarkRed Bisque PaleVioletRed SlateGray Maroon Ivory
+deflect cadre claim acolyte parry onerous sloth hypocrisy deception bribe
+manipulate cadre onerous mercurial impunity rebut scandalous career saga incident
+scapegoat massive debacle beleaguer anonymity deception impunity deficit empire tarnish
+extortion patronage demagogue revelation empire denigrate accusation cadre denigrate laconic
+embezzlement parry alliance revelation engagement covert subterfuge chicanery influence benefit
+prestidigitation deflect laconic bribe endorsement massive partial benefit debacle unethical
+rebut resignation retaliation embezzlement claim career defamation benefit revelation fray
+mercurial debacle incident integrity deception coterie scandal claim subterfuge temptation
+career chicanery extortion intimidation persecution career revelation unjust tainted lobby
+resignation coercion alliance bamboozle lobby endorsement refute benefit illegal subterfuge
+hypocrisy influence covert deflect incident rebut tainted massive partial scapegoat

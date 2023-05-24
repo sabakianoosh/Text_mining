@@ -1,0 +1,99 @@
+BinaryNumber_0001101 BinaryNumber_0101010 BinaryNumber_1000111 BinaryNumber_1011001 BinaryNumber_0111100 BinaryNumber_0100101 BinaryNumber_1000011 BinaryNumber_0100111 BinaryNumber_0011100 BinaryNumber_1000010
+BinaryNumber_0010010 BinaryNumber_1001000 BinaryNumber_1010111 BinaryNumber_1000101 BinaryNumber_0011111 BinaryNumber_0011100 BinaryNumber_0001101 BinaryNumber_0101100 BinaryNumber_0101011 BinaryNumber_0111000
+BinaryNumber_0110111 BinaryNumber_0101110 BinaryNumber_0101000 BinaryNumber_0100111 BinaryNumber_0111010 BinaryNumber_1001111 BinaryNumber_0101001 BinaryNumber_0110110 BinaryNumber_0111011 BinaryNumber_0011111
+BinaryNumber_0100010 BinaryNumber_0001110 BinaryNumber_0001100 BinaryNumber_1000010 BinaryNumber_0011001 BinaryNumber_1000100 BinaryNumber_0111010 BinaryNumber_0111010 BinaryNumber_1010001 BinaryNumber_0001010
+BinaryNumber_0111101 BinaryNumber_0000110 BinaryNumber_1001010 BinaryNumber_0111001 BinaryNumber_1001111 BinaryNumber_0111001 BinaryNumber_0100101 BinaryNumber_1010010 BinaryNumber_1001001 BinaryNumber_0000000
+BinaryNumber_0010110 BinaryNumber_0110101 BinaryNumber_0001010 BinaryNumber_1011101 BinaryNumber_1100011 BinaryNumber_1010010 BinaryNumber_0100001 BinaryNumber_0101001 BinaryNumber_0011111 BinaryNumber_1011010
+BinaryNumber_0000010 BinaryNumber_0110010 BinaryNumber_1100010 BinaryNumber_1001110 BinaryNumber_1010100 BinaryNumber_0100000 BinaryNumber_0100010 BinaryNumber_1010101 BinaryNumber_0010101 BinaryNumber_1010100
+BinaryNumber_1000111 BinaryNumber_0111000 BinaryNumber_0001101 BinaryNumber_0010011 BinaryNumber_0001011 BinaryNumber_1010110 BinaryNumber_0000011 BinaryNumber_0101110 BinaryNumber_0001010 BinaryNumber_0010010
+BinaryNumber_0110110 BinaryNumber_0110010 BinaryNumber_0010000 BinaryNumber_0101100 BinaryNumber_1000111 BinaryNumber_1010110 BinaryNumber_1000010 BinaryNumber_0000101 BinaryNumber_0100100 BinaryNumber_1001010
+BinaryNumber_0000110 BinaryNumber_1010110 BinaryNumber_0101101 BinaryNumber_1100010 BinaryNumber_0111001 BinaryNumber_0100111 BinaryNumber_0001000 BinaryNumber_0111011 BinaryNumber_0100111 BinaryNumber_0110001
+BinaryNumber_0001010 BinaryNumber_0010110 BinaryNumber_0110110 BinaryNumber_0111010 BinaryNumber_1001100 BinaryNumber_1001111 BinaryNumber_0110110 BinaryNumber_1001110 BinaryNumber_1100011 BinaryNumber_1001111
+machines machine chip algorithm daw computercircuit mechanicalcomputer watch von neumann machine computerprogram
+digitalcomputer mobiledevice memory machines supercomputer eniac von neumann machine escapekey data microcomputer
+calculator visualdisplayunit camera monitor programming floppydisk phone keyboard keyboard cybertechnology
+cell screen computercide automation memory microprocessor astrolabe android compatible mobile
+cyber chip screen digitalaudioplayer automation camera computerprogramming virtualreality electromechanical computerprogram
+electrical mobiledevice machinecode digitalcommunication keyboard mobile electrical game cyber transistor
+spyware computation vacuumtube escapekey camera desktopcomputer computing programming computerhardware screen
+visualdisplayunit inputdevice xbox android inputdevice centralprocessing unit server arithmetic chip computercircuit
+automation supercomputer mechanicalcomputer bit laptopcomputer keyboard smartphone data office internet
+astrolabe chip electromechanical analogcomputer watch machine electrical digitalcommunication xbox microcomputer
+imac screen processor abacus vacuumtube supercomputer computercide computercide processor von neumann machine
+lift conspiracy hijack cop corrupt illegal cases evidence detective thriller
+punishment illegal incarceration drug slay racism offense threats gangs abuse
+investigation homicides punitive punitive legislature country fraud investigation poison homicides
+law-breaking racism thrillers rape legislature action offenses guilty offence homeless
+snitching kill police law dark revenge offenders violence criminals snitching
+justice safety drama shoplift supernatural slayings slayings bloodshed murders shootings
+corruption incarceration shoplift skyjack murders fraud thrillers unsolved legal drugs
+structuralism arrest trafficking mafia guilt heist homicides offenses misdemeanour skyjack
+drug criminality cop drugs legal missing gun theft police snitching
+shoplift racism thriller shoplift sentence human barratry mystery violence gangsterism
+law-breaking investigation brutality gun suspense slayings blackmail crime sin blackmail
+PrimeNumber_13 PrimeNumber_113 PrimeNumber_229 PrimeNumber_127 PrimeNumber_71 PrimeNumber_43 PrimeNumber_491 PrimeNumber_509 PrimeNumber_139 PrimeNumber_5
+PrimeNumber_13 PrimeNumber_71 PrimeNumber_397 PrimeNumber_239 PrimeNumber_83 PrimeNumber_479 PrimeNumber_149 PrimeNumber_191 PrimeNumber_439 PrimeNumber_503
+PrimeNumber_311 PrimeNumber_223 PrimeNumber_389 PrimeNumber_331 PrimeNumber_113 PrimeNumber_127 PrimeNumber_467 PrimeNumber_47 PrimeNumber_311 PrimeNumber_389
+PrimeNumber_197 PrimeNumber_347 PrimeNumber_3 PrimeNumber_61 PrimeNumber_2 PrimeNumber_7 PrimeNumber_131 PrimeNumber_337 PrimeNumber_547 PrimeNumber_503
+PrimeNumber_281 PrimeNumber_179 PrimeNumber_127 PrimeNumber_223 PrimeNumber_367 PrimeNumber_149 PrimeNumber_277 PrimeNumber_23 PrimeNumber_211 PrimeNumber_97
+PrimeNumber_11 PrimeNumber_157 PrimeNumber_521 PrimeNumber_101 PrimeNumber_433 PrimeNumber_449 PrimeNumber_421 PrimeNumber_313 PrimeNumber_491 PrimeNumber_509
+PrimeNumber_163 PrimeNumber_373 PrimeNumber_307 PrimeNumber_229 PrimeNumber_47 PrimeNumber_59 PrimeNumber_541 PrimeNumber_241 PrimeNumber_409 PrimeNumber_409
+PrimeNumber_263 PrimeNumber_409 PrimeNumber_347 PrimeNumber_379 PrimeNumber_2 PrimeNumber_149 PrimeNumber_331 PrimeNumber_509 PrimeNumber_353 PrimeNumber_419
+PrimeNumber_59 PrimeNumber_151 PrimeNumber_79 PrimeNumber_61 PrimeNumber_31 PrimeNumber_41 PrimeNumber_397 PrimeNumber_5 PrimeNumber_23 PrimeNumber_347
+PrimeNumber_241 PrimeNumber_367 PrimeNumber_239 PrimeNumber_59 PrimeNumber_61 PrimeNumber_241 PrimeNumber_193 PrimeNumber_17 PrimeNumber_313 PrimeNumber_547
+PrimeNumber_337 PrimeNumber_127 PrimeNumber_173 PrimeNumber_5 PrimeNumber_7 PrimeNumber_421 PrimeNumber_109 PrimeNumber_359 PrimeNumber_419 PrimeNumber_383
+pack hobby skiing boulder hobby cross team champion schuss activities
+tennis soccer sportsman games sportsmanship field polo tennis ski cycling
+sportaccord badminton performance soccer performance job horseracing dynamic volleyball waterski
+referee horseracing polo premium fun activity entertainment fast utility fast
+ski shoot judo hunting spar volleyball events position hockey shoot
+bike industry basketball tournaments tournament hobby utility teams comfort action
+skating dive extracurricular skating skateboard culture utility challenge hunters muscle
+disport frisk triathlon lead culture snowboarding exercises social company music
+schuss eco challenge combat shoot class downfield lark lifestyle athletic
+sportsmanship badminton skiing art exercise chess hunting bike comfort referee
+events blazers fitness spar mutant utility movement form funambulism dance
+13:56 17:56 21:19 20:11 11:55 14:56 18:18 10:51 19:38 15:41
+12:12 12:39 23:12 14:44 12:20 15:45 15:37 12:31 12:52 11:43
+12:36 19:43 22:15 18:23 16:23 22:51 17:27 11:22 22:49 22:29
+15:27 13:50 20:49 16:29 10:10 21:50 16:23 21:48 18:47 23:54
+10:47 19:29 23:12 14:42 12:49 23:26 12:34 22:42 17:41 12:11
+20:35 16:44 22:12 11:12 10:11 22:56 23:45 15:26 22:31 19:53
+17:41 14:37 15:25 14:26 21:15 15:50 10:21 21:27 23:49 13:26
+10:18 23:20 13:55 16:36 11:47 21:20 10:52 17:40 15:32 15:56
+18:48 16:29 20:21 19:19 18:57 22:23 11:56 12:42 16:49 15:13
+10:28 22:29 13:33 17:30 19:13 17:45 21:15 13:27 12:16 14:58
+23:54 12:42 18:24 20:49 17:45 14:10 12:36 14:59 16:48 13:53
+Grape Nance Lemon Elderberry Acerola Cranberry Pineberry Cempedak Yuzu Pawpaw
+Fig Avocado Loquat Honeyberry Tamarillo Honeyberry Avocado Grapefruit Cherimoya Acerola
+Jujube Redcurrant Ximenia Lime Lemon Tamarillo Pear Akebi Plum Tangelo
+Breadfruit Elderberry Damson Avocado Melon Tangerine Lime Sapote Prune Prune
+Pawpaw Araza Mangosteen Soursop Sapote Mangosteen Acerola Tangerine Grape Raisin
+Passionfruit Orange Acerola Loganberry Guava Tangelo Raisin Lychee Cranberry Apple
+Quince Strawberry Honeyberry Huckleberry Tayberry Açaí Banana Sapote Persimmon Tangelo
+Pawpaw Lemon Peach Marionberry Salak Jostaberry Cloudberry Orange Redcurrant Açaí
+Orange Yuzu Loquat Akebi Mandarine Melon Araza Acerola Mango Coconut
+Melon Cranberry Rambutan  Kiwifruit Blackcurrant Marionberry Elderberry Tangelo Papaya Durian
+Mulberry Breadfruit Coconut Grape Cherimoya Fig Tangerine Damson Longan Mango
+meal rice pasta plant seafood pasta fruits vegetables soup fruit meals
+nutrition meals provender cheese chicken eat fruits vegetables cereal cooking nutrition
+drinks cooking seafood plant drinks vegetable meals eat milk cooking
+plant cheese cooking edible nourishment eat meal vegetable cereal nourishment
+cereal plant meal provender plant nourishment provender sushi pasta nutrient
+plant nutrition eat nourishment beef fruits vegetables fruit cheese nutrition nutrient
+restaurant edible provender meals cooking plant meal meals meals milk
+sushi meal nutrition chicken fruits vegetables vegetable nutrition fruits vegetables drinks edible
+fruits vegetables fruits vegetables soup eat vegetable eat nutrition beef meat seafood
+drinks nutrition drinks fruit chicken meals animal vegetable milk milk
+fruit victuals pasta milk eat milk provender soup meat cereal
+PaleGreen LightPink Silver DarkKhaki WhiteSmoke LawnGreen DarkSeaGreen LemonChiffon LightBlue Ivory
+Ivory DarkBlue LightCoral Snow Crimson Linen LightSlateBlue MediumSeaGreen MediumSpringGreen Chartreuse
+AntiqueWhite VioletRed PaleTurquoise Purple Khaki Ivory DodgerBlue Cyan NavajoWhite MediumAquamarine
+DimGray LightSalmon Coral Khaki Plum LightGoldenrodYellow Red Cornsilk Blue Orange
+MediumBlue Salmon DarkSlateBlue LightGoldenrod Linen LightGreen MediumPurple DarkFuchsia Purple DarkGoldenrod
+Orange Linen OliveDrab DarkGray GhostWhite Firebrick DarkGray Teal LightBlue Black
+Firebrick Snow DarkGoldenrod RoyalBlue Orange Firebrick AliceBlue Beige Gold MediumTurquoise
+LightGray Tomato DarkTurquoise Crimson SpringGreen VioletRed OrangeRed MediumTurquoise MistyRose BlanchedAlmond
+MediumPurple DimGray DarkGreen PaleTurquoise Salmon WhiteSmoke PapayaWhip OldLace SpringGreen Thistle
+MediumTurquoise MidnightBlue RosyBrown LemonChiffon Snow Feldspar Tomato SeaGreen Fuchsia Tomato
+Lime LightSeaGreen SkyBlue Feldspar CadetBlue DarkFuchsia LightSlateGray DarkSalmon Indigo CornflowerBlue

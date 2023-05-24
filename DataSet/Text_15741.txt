@@ -1,0 +1,99 @@
+11:55 15:20 12:29 19:43 22:13 15:25 14:40 17:49 13:28 11:40
+23:43 10:54 19:18 21:19 11:18 12:15 10:26 14:31 20:50 12:41
+17:35 11:14 14:22 17:34 12:20 13:58 19:33 11:21 17:41 12:19
+15:15 17:38 14:45 20:16 17:52 15:54 12:17 15:39 10:21 16:28
+19:33 15:33 22:46 16:56 14:23 18:38 10:32 17:41 14:18 22:19
+13:56 17:51 17:40 11:23 13:23 17:29 12:21 22:24 16:51 17:57
+23:13 13:58 17:18 12:30 23:25 15:55 10:17 15:25 14:48 13:20
+18:35 22:46 18:49 23:14 13:18 15:39 13:25 22:56 11:25 11:17
+12:42 12:13 19:54 15:59 13:31 20:48 17:25 11:41 12:22 20:20
+15:26 16:59 22:41 13:51 23:22 16:11 12:55 16:47 20:40 12:39
+19:16 10:40 23:46 14:26 23:25 13:39 20:18 19:51 20:37 19:21
+Sapote Longan Tamarind Cranberry Clementine Rambutan  Raisin Blackcurrant Plum Durian
+Coconut Boysenberry Kiwifruit Tangerine Melon Kiwano Jujube Cantaloupe Cherry Plumcot
+Pear Sapote Açaí Lychee Nance Elderberry Pomegranate Tangerine Redcurrant Salak
+Longan Marionberry Guava Melon Tangelo Avocado Apricot Cashew Redcurrant Cashew
+Cantaloupe Redcurrant Cherry Grape Blackcurrant Blackcurrant Jambul Honeyberry Loquat Blackcurrant
+Blueberry Tamarind Salak Quince Sapodilla Cloudberry Lulo Banana Raspberry Date
+Tayberry Acerola Avocado Lychee Pineberry Tangelo Watermelon Watermelon Salak Loquat
+Apple Longan Melon Gooseberry Akebi Melon Honeyberry Cashew Prune Ximenia
+Rambutan  Loquat Persimmon Tamarind Sapote Akebi Cloudberry Lime Nance Passionfruit
+Plum Mangosteen Salmonberry Prune Lime Raisin Plumcot Blueberry Durian Jackfruit
+Guava Akebi Soursop Cherry Currant Jambul Mango Kiwano Plantain Tamarillo
+Cornea Ileum Ileum Gallbladder Cecum Thalamus Fallopiantubes Eardrum Ureter Middleear
+Cochlea Vagina Interstitium Mouth Larynx Jejunum Spinalnerves Cerebrum Esophagus Retina
+Trachea Eye Mesentery Cervix Bone  Brain Ear Midbrain Analcanal Trachea
+Muscle Cecum Urethra Vagina Ganglia Tonsils Veins Spinalnerves Bladder Cecum
+Interstitium Mouth Hypothalamus Retina Scrotum Heart Eye Esophagus Lungs Ganglia
+Ureter Uterus Bone  Tongue Innerear Liver Esophagus Stomach Jejunum Teeth
+Eye Nerves Heart Cochlea Clitoris Clitoris Vagina Middleear Iris Hypothalamus
+Penis Esophagus Tonsils Kidneys Ileum Brain Iris Pancreas Stomach Ligaments
+Sensoryorgans Muscle Cerebrum Tastebuds Muscle Pharynx skeleton Mesentery Cochlea Cornea
+Esophagus Clitoris Eye Gallbladder Duodenum Rectum Thymus Retina Ossicles Vagina
+Analcanal Lips Lens Tonsils Placenta Pharynx Bone  Lymphaticvessel Ganglia Eye
+vegetable cereal chicken cooking chicken fruits vegetables cooking cereal cereal cheese
+rice victuals cooking restaurant drinks plant victuals drinks milk rice
+nutrient meat beef plant fruits vegetables cooking nourishment cheese soup milk
+vegetable meal soup meals vegetable seafood fruit plant cereal cheese
+meat animal victuals animal sushi vegetable rice edible eat chicken
+meal edible beef cooking milk nutrient restaurant cereal meal seafood
+vegetable vegetable seafood fruits vegetables chicken provender cereal cooking nourishment fruit
+victuals drinks rice animal drinks vegetable pasta meals meat soup
+animal cheese soup victuals cheese cereal edible chicken animal meat
+animal chicken nourishment animal meat nourishment nutrient beef soup plant
+meals seafood nutrient animal nutrition restaurant soup fruits vegetables nourishment meal
+SpringGreen Pink Honeydew DarkKhaki Pink CornflowerBlue SandyBrown Turquoise Yellow Aquamarine
+Thistle Olive LightSeaGreen Peru MediumBlue WhiteSmoke Brown LightCyan FloralWhite LightSkyBlue
+IndianRed Maroon LightSalmon CadetBlue Sienna Lime DarkSeaGreen Wheat SlateGray DarkSlateGray
+Green Moccasin PaleVioletRed Linen DarkSlateGray Orchid LightGoldenrodYellow Teal RoyalBlue LightSalmon
+OrangeRed DarkViolet Black PaleGoldenrod SandyBrown Gainsboro DarkOliveGreen DodgerBlue Brown Goldenrod
+DarkSlateBlue Linen DarkSalmon DarkOrchid Salmon Peru Tan Lime Plum SlateBlue
+CornflowerBlue DarkGoldenrod LawnGreen Chartreuse Plum Teal LightCoral DarkViolet Brown Firebrick
+DarkSlateGray DarkGray LightSteelBlue Cyan MediumOrchid Orange LightSteelBlue Moccasin Firebrick Tomato
+Goldenrod Honeydew DarkSlateBlue Feldspar Goldenrod MediumSeaGreen MediumOrchid LightSkyBlue OrangeRed Gold
+Aquamarine LightSalmon BlueViolet DarkGreen SteelBlue Khaki LightSlateGray White Cyan PaleGreen
+Lime FloralWhite Wheat LightCyan Maroon RoyalBlue MediumSlateBlue LemonChiffon Bisque Cyan
+BinaryNumber_0111110 BinaryNumber_0011111 BinaryNumber_0000111 BinaryNumber_0110110 BinaryNumber_0001010 BinaryNumber_0111110 BinaryNumber_1000100 BinaryNumber_0001001 BinaryNumber_0011011 BinaryNumber_0110011
+BinaryNumber_0010001 BinaryNumber_1001001 BinaryNumber_0001000 BinaryNumber_1010100 BinaryNumber_1010010 BinaryNumber_0111010 BinaryNumber_0010101 BinaryNumber_0000100 BinaryNumber_0000001 BinaryNumber_1001101
+BinaryNumber_0001000 BinaryNumber_0010100 BinaryNumber_0001000 BinaryNumber_0111001 BinaryNumber_0000111 BinaryNumber_1010001 BinaryNumber_0101111 BinaryNumber_1010001 BinaryNumber_0010001 BinaryNumber_0010010
+BinaryNumber_1000101 BinaryNumber_1100011 BinaryNumber_1001001 BinaryNumber_0011010 BinaryNumber_0111001 BinaryNumber_1011000 BinaryNumber_0110101 BinaryNumber_0100001 BinaryNumber_1001101 BinaryNumber_0101100
+BinaryNumber_1011110 BinaryNumber_0110011 BinaryNumber_0010110 BinaryNumber_1000100 BinaryNumber_1010011 BinaryNumber_0111110 BinaryNumber_1000111 BinaryNumber_0011111 BinaryNumber_0011101 BinaryNumber_1010001
+BinaryNumber_0111010 BinaryNumber_0101010 BinaryNumber_0000110 BinaryNumber_0010001 BinaryNumber_0110111 BinaryNumber_1100000 BinaryNumber_1001001 BinaryNumber_0111111 BinaryNumber_0101100 BinaryNumber_0101100
+BinaryNumber_1010000 BinaryNumber_0101110 BinaryNumber_1100000 BinaryNumber_0010100 BinaryNumber_0000111 BinaryNumber_1000111 BinaryNumber_1001100 BinaryNumber_0101001 BinaryNumber_1011100 BinaryNumber_0101001
+BinaryNumber_0010011 BinaryNumber_1001100 BinaryNumber_0010011 BinaryNumber_0100010 BinaryNumber_1000101 BinaryNumber_1010001 BinaryNumber_1011001 BinaryNumber_1010011 BinaryNumber_0111011 BinaryNumber_1011110
+BinaryNumber_0000111 BinaryNumber_1001011 BinaryNumber_0001000 BinaryNumber_0100011 BinaryNumber_1000101 BinaryNumber_0000000 BinaryNumber_0110011 BinaryNumber_0011111 BinaryNumber_0110111 BinaryNumber_0111001
+BinaryNumber_0011011 BinaryNumber_0001001 BinaryNumber_0111010 BinaryNumber_0000111 BinaryNumber_0001111 BinaryNumber_0100011 BinaryNumber_0100000 BinaryNumber_0010000 BinaryNumber_0111111 BinaryNumber_0000111
+BinaryNumber_0001100 BinaryNumber_1100001 BinaryNumber_1011010 BinaryNumber_1001001 BinaryNumber_0010110 BinaryNumber_0100000 BinaryNumber_0011011 BinaryNumber_0101000 BinaryNumber_1001001 BinaryNumber_1100001
+Tallboy Volute Credenza Cot Furnishings Console Hokey Baroque Recliner Couch
+Divan Hutch Seat Throne Pantry Divan Cradle Upholstery Armchair Frieze
+Zitan Loveseat Rack Tallboy Rack Sideboard Hokey Rug Baroque Footrest
+Sconce Bookcase Breakfront Pantry Baroque Buffet Regency Mantle Daybed Volute
+Bookshelf Zitan Antique Carpet Rug Bergere Bookshelf Wicker Footrest Fauteuil
+Pew Cradle Bookshelf Armoire Bassinet Settee Armchair Inlay Bed Hassock
+Volute Castor Marquetry Pillow Television Jardinière Bentwood Cot Hassock Cushion
+Television Pew Castor Cabriole Chandelier Secretary Zitan Mirror Cot Cot
+Carpet Footstool Cushion Footrest Highchair Bench cubbies Table Secretary Settee
+Breakfront Settee Lamp Bookcase Lounger Lounger Stool Television Volute Antique
+Cushions Screen Valet Sofabed Sofa Fauteuil Fan Footrest Bentwood Bergere
+android digitalcommunication sliderule von neumann machine cyber astrolabe device computerprogram screen escapekey
+machine pc antivirus centralprocessing unit console laptop microcomputer device digital digitalcomputer
+software vacuumtube spyware compatible visualdisplayunit astrolabe programmer centralprocessing unit turingmachine pc
+cyber mainframe computercide expansionslot ibook peripheral transistor downloader mobiledevice mobile
+router computerprogram digital smartphone automation von neumann machine inputdevice digitalcommunication digitalcomputer calculator
+programmer computerhardware cell ibook game expansionslot mainframe memory computerprogram pornographicimages
+monitor algorithm machine antivirus laptopcomputer floppydisk diskette escapekey laptopcomputer computerprogram
+social escapekey pornographicimages cell console programmer calculator computerscience electromechanical supercomputer
+mainframe automation proprietary inputdevice spyware digital inputdevice arithmetic von neumann machine watch
+computerprogram chip device desktopcomputer bit incompatible mobiledevice computerhardware laptopcomputer console
+social analogcomputer memory digitalcomputer desktoppcs eniac compatible chip laptop analogcomputer
+enchanting lonely drab misty innocent dead super breakable hurt panicky
+condemned blue cheerful determined relieved brainy glamorous adventurous sore tired
+bewildered poor tasty poor wrong nutty mushy black cheerful angry
+terrible strange dull agreeable calm enthusiastic lonely stormy itchy good
+crazy frail wrong silly dizzy eager dark stormy glorious encouraging
+cheerful victorious thankful outrageous weary handsome beautiful terrible enthusiastic puzzled
+repulsive fierce rich jittery fragile kind amused bad spotless crazy
+unusual joyous frightened strange grieving tired outrageous careful powerful disgusted
+successful smoggy combative arrogant fair zealous mysterious worried impossible black
+frantic better hurt bewildered jittery gorgeous terrible glamorous delightful successful
+determined thoughtless bored aggressive perfect curious homeless helpless average graceful

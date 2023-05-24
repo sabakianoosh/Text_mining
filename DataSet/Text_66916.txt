@@ -1,0 +1,99 @@
+vegetable nourishment victuals soup sushi soup provender nourishment animal sushi
+nutrient fruits vegetables animal meals cheese nutrient plant meal meals chicken
+animal nourishment victuals beef beef nutrition vegetable provender meals nutrient
+animal seafood nutrient rice fruits vegetables eat cheese cheese cooking rice
+vegetable meals meal sushi victuals provender nutrient fruits vegetables provender restaurant
+victuals nutrition fruits vegetables nourishment chicken plant nutrient edible nourishment edible
+animal fruits vegetables nutrition fruit pasta meals edible nutrition rice nutrient
+nutrient cooking meals pasta fruits vegetables chicken edible restaurant cheese fruits vegetables
+meat seafood meals pasta cheese pasta meat seafood meat cereal
+pasta chicken sushi meal nourishment nutrition sushi meal animal milk
+rice edible meat cooking milk nutrition soup beef beef drinks
+Salmonberry Raisin Jackfruit Currant Grape Honeydew Honeydew Honeyberry Mangosteen Prune
+Nance Nectarine Sapote Tayberry Soursop Loquat Orange Pomegranate Lime Mango
+Araza Cantaloupe Pomegranate Plantain Rambutan  Mango Blueberry Plumcot Apricot Acerola
+Cranberry Strawberry Ackee Avocado Papaya Apricot Cantaloupe Fig Marionberry Satsuma
+Satsuma Longan Acerola Honeydew Durian Huckleberry Cempedak Plumcot Blueberry Mandarine
+Cherry Grapefruit Cloudberry Bilberry Açaí Passionfruit Pineapple Cherry Quince Apricot
+Grape Cherry Longan Plantain Orange Sapodilla Mangosteen Mango Raisin Pineapple
+Banana Marionberry Peach Abiu Satsuma Plumcot Feijoa Nectarine Nance Sapote
+Kiwano Banana Pomegranate Loganberry Ximenia Apple Kiwano Pear Peach Papaya
+Apricot Canistel Plum Jujube Banana Honeydew Loganberry Bilberry Watermelon Apricot
+Plum Kiwifruit Kiwifruit Tamarillo Cempedak Strawberry Sapodilla Boysenberry Cashew Blackberry
+temperature__132c temperature__31c temperature__49c temperature__112c temperature__108c temperature__51c temperature__118c temperature__118c temperature__112c temperature__123c
+temperature__21c temperature__64c temperature__14c temperature__85c temperature__10c temperature__40c temperature__7c temperature__69c temperature__36c temperature__95c
+temperature__21c temperature__108c temperature__148c temperature__69c temperature__27c temperature__139c temperature__148c temperature__85c temperature__33c temperature__35c
+temperature__34c temperature__130c temperature__85c temperature__138c temperature__142c temperature__141c temperature__61c temperature__86c temperature__53c temperature__21c
+temperature__108c temperature__90c temperature__17c temperature__51c temperature__41c temperature__111c temperature__10c temperature__88c temperature__31c temperature__59c
+temperature__47c temperature__148c temperature__112c temperature__88c temperature__36c temperature__11c temperature__28c temperature__58c temperature__35c temperature__46c
+temperature__42c temperature__140c temperature__140c temperature__131c temperature__57c temperature__24c temperature__78c temperature__0c temperature__27c temperature__146c
+temperature__138c temperature__27c temperature__142c temperature__148c temperature__4c temperature__111c temperature__22c temperature__33c temperature__17c temperature__73c
+temperature__26c temperature__47c temperature__109c temperature__33c temperature__69c temperature__46c temperature__118c temperature__5c temperature__122c temperature__137c
+temperature__24c temperature__77c temperature__10c temperature__0c temperature__86c temperature__5c temperature__138c temperature__106c temperature__141c temperature__142c
+temperature__118c temperature__28c temperature__4c temperature__122c temperature__64c temperature__144c temperature__27c temperature__144c temperature__122c temperature__131c
+SquareNumber_1849 SquareNumber_6241 SquareNumber_2025 SquareNumber_4761 SquareNumber_2809 SquareNumber_1089 SquareNumber_2401 SquareNumber_900 SquareNumber_4356 SquareNumber_5184
+SquareNumber_7744 SquareNumber_1681 SquareNumber_64 SquareNumber_289 SquareNumber_6561 SquareNumber_9216 SquareNumber_529 SquareNumber_7569 SquareNumber_1156 SquareNumber_8836
+SquareNumber_9409 SquareNumber_1521 SquareNumber_36 SquareNumber_3136 SquareNumber_1225 SquareNumber_64 SquareNumber_6889 SquareNumber_4624 SquareNumber_4900 SquareNumber_5476
+SquareNumber_1849 SquareNumber_36 SquareNumber_484 SquareNumber_4761 SquareNumber_4225 SquareNumber_3249 SquareNumber_6889 SquareNumber_9 SquareNumber_6724 SquareNumber_7056
+SquareNumber_3249 SquareNumber_4225 SquareNumber_576 SquareNumber_3249 SquareNumber_8100 SquareNumber_4096 SquareNumber_1089 SquareNumber_25 SquareNumber_6400 SquareNumber_1849
+SquareNumber_1369 SquareNumber_7569 SquareNumber_3481 SquareNumber_6889 SquareNumber_324 SquareNumber_5329 SquareNumber_1296 SquareNumber_5625 SquareNumber_7396 SquareNumber_9
+SquareNumber_961 SquareNumber_16 SquareNumber_25 SquareNumber_25 SquareNumber_1849 SquareNumber_1024 SquareNumber_2601 SquareNumber_9604 SquareNumber_289 SquareNumber_8649
+SquareNumber_5776 SquareNumber_16 SquareNumber_529 SquareNumber_961 SquareNumber_2304 SquareNumber_9025 SquareNumber_1521 SquareNumber_1681 SquareNumber_1024 SquareNumber_3249
+SquareNumber_1681 SquareNumber_7225 SquareNumber_16 SquareNumber_576 SquareNumber_7569 SquareNumber_1936 SquareNumber_1296 SquareNumber_25 SquareNumber_4 SquareNumber_961
+SquareNumber_4900 SquareNumber_5476 SquareNumber_1936 SquareNumber_6724 SquareNumber_9409 SquareNumber_7921 SquareNumber_6084 SquareNumber_1296 SquareNumber_5041 SquareNumber_3481
+SquareNumber_441 SquareNumber_5929 SquareNumber_6561 SquareNumber_49 SquareNumber_5476 SquareNumber_256 SquareNumber_8100 SquareNumber_2401 SquareNumber_1849 SquareNumber_1600
+CubeNumber_59319 CubeNumber_185193 CubeNumber_551368 CubeNumber_274625 CubeNumber_531441 CubeNumber_91125 CubeNumber_46656 CubeNumber_6859 CubeNumber_636056 CubeNumber_512000
+CubeNumber_3375 CubeNumber_474552 CubeNumber_97336 CubeNumber_59319 CubeNumber_405224 CubeNumber_85184 CubeNumber_551368 CubeNumber_287496 CubeNumber_287496 CubeNumber_250047
+CubeNumber_132651 CubeNumber_6859 CubeNumber_226981 CubeNumber_125 CubeNumber_2744 CubeNumber_238328 CubeNumber_493039 CubeNumber_389017 CubeNumber_54872 CubeNumber_79507
+CubeNumber_39304 CubeNumber_216 CubeNumber_421875 CubeNumber_39304 CubeNumber_636056 CubeNumber_262144 CubeNumber_27 CubeNumber_438976 CubeNumber_274625 CubeNumber_216000
+CubeNumber_29791 CubeNumber_343 CubeNumber_27 CubeNumber_27000 CubeNumber_614125 CubeNumber_5832 CubeNumber_592704 CubeNumber_804357 CubeNumber_27000 CubeNumber_778688
+CubeNumber_103823 CubeNumber_85184 CubeNumber_64000 CubeNumber_35937 CubeNumber_531441 CubeNumber_85184 CubeNumber_64 CubeNumber_54872 CubeNumber_15625 CubeNumber_4913
+CubeNumber_5832 CubeNumber_4096 CubeNumber_17576 CubeNumber_117649 CubeNumber_157464 CubeNumber_110592 CubeNumber_1331 CubeNumber_300763 CubeNumber_4913 CubeNumber_110592
+CubeNumber_79507 CubeNumber_19683 CubeNumber_287496 CubeNumber_29791 CubeNumber_1728 CubeNumber_216 CubeNumber_97336 CubeNumber_216000 CubeNumber_166375 CubeNumber_474552
+CubeNumber_10648 CubeNumber_531441 CubeNumber_8000 CubeNumber_205379 CubeNumber_373248 CubeNumber_74088 CubeNumber_24389 CubeNumber_29791 CubeNumber_438976 CubeNumber_29791
+CubeNumber_5832 CubeNumber_148877 CubeNumber_103823 CubeNumber_166375 CubeNumber_778688 CubeNumber_729000 CubeNumber_704969 CubeNumber_6859 CubeNumber_8 CubeNumber_64000
+CubeNumber_9261 CubeNumber_571787 CubeNumber_3375 CubeNumber_614125 CubeNumber_140608 CubeNumber_1728 CubeNumber_216000 CubeNumber_1331 CubeNumber_1728 CubeNumber_3375
+integratedcircuit camera transistor programming virtualreality digitalcomputer programming console antivirus proprietary
+data digital desktop xbox dataconverter android imac proprietary programming server
+pc console algorithm compatible von neumann machine computercide microcomputer spyware software tablet
+electronics pornographicimages algorithm monitor compatible information digitalcommunication compatible digitalaudioplayer eniac
+daw social downloader analogcomputer chip laptopcomputer phone peripheral laptop hardware
+computerprogram diskette proprietary digitalcomputer mobile abacus astrolabe expansionslot mechanicalcomputer von neumann machine
+bit desktoppcs digitalcommunication digitalaudioplayer screen social computing office spyware social
+electronics transistor digitalcommunication server tablet centralprocessing unit expansionslot digitalcomputer laptop memory
+cybertechnology android computerscience social phone digitalcomputer computing mechanicalcomputer ibook vacuumtube
+mobile microprocessor expansionslot digitalcomputer microprocessor keyboard centralprocessing unit memory programming keyboard
+office camera smartphone astrolabe escapekey programming automation programmer floppydisk software
+Green DarkTurquoise LightGoldenrod Violet Teal DarkRed MediumSlateBlue Black PaleGoldenrod LightCoral
+WhiteSmoke LightBlue PeachPuff PaleTurquoise BlanchedAlmond SpringGreen Red Purple FloralWhite LightSalmon
+Coral Orchid Yellow PaleVioletRed MediumSpringGreen DarkOliveGreen Lime Black SeaGreen Fuchsia
+IndianRed SaddleBrown Crimson MediumVioletRed Yellow Plum Peru Khaki DodgerBlue DarkSlateBlue
+PowderBlue Lime Snow Green MediumSlateBlue PaleGreen MidnightBlue DarkOrange Turquoise Lime
+Aquamarine PowderBlue DarkGoldenrod NavajoWhite LightYellow Moccasin MidnightBlue MistyRose OldLace Snow
+DarkSalmon SlateBlue SeaGreen Feldspar SandyBrown Plum SlateBlue LightYellow Violet MediumSpringGreen
+SteelBlue LightGoldenrodYellow SlateGray DarkSlateGray MediumSpringGreen Olive BlanchedAlmond DeepSkyBlue Lime LightSeaGreen
+Teal Olive DarkSlateGray DarkKhaki SlateGray Cyan DarkSlateGray Orchid Moccasin LavenderBlush
+DarkGoldenrod Black DarkSalmon Chartreuse RosyBrown Silver LightYellow DarkGoldenrod DarkViolet MediumPurple
+SandyBrown CadetBlue LightSlateGray RoyalBlue LightSteelBlue MediumVioletRed SpringGreen LightSeaGreen DarkOliveGreen DodgerBlue
+cubbies Rug Sconce Chair Inlay Pillow Television Chest Easel Table
+Antique Sideboard Cupboard Rack Wicker Settee Rug Rug Couch Fluting
+Volute Carpet Pillow Valet Marquetry Air-conditioner Cradle Lounger Rack Secretary
+Light Fauteuil Furniture Armoire Castor Headboards Furnishings Bassinet Divan Pew
+Pew Cabinet Footrest Recliner Crib Curtains Divan Applique Armchair Desk
+Divan Baroque Fan Divan Tallboy Fauteuil Island Frieze Stool Stool
+Highchair Crib Vitrine Daybed Headboard Bentwood Cart Console Chandelier Lamp
+Castor Vitrine Television Sideboard Light Zitan Hammock Wardrobe Mantle Inlay
+Bed Divan Volute Drapes Headboard Dresser Fluting Sofa Jardinière Wicker
+Waterbed Stool Lamp Chair Cot Stool Chest Mantle Bench Daybed
+Air-conditioner Air-conditioner Cabriole Castor Desk Chandelier Chandelier Seat Mantle Lamp
+14:53 21:50 13:57 16:36 15:58 11:43 21:20 19:21 13:53 22:53
+20:36 18:30 16:44 15:42 19:49 10:50 21:46 13:50 22:36 16:59
+12:15 10:20 21:12 23:50 12:44 19:47 12:46 16:36 22:12 15:42
+11:18 21:52 23:19 19:10 19:13 11:38 12:25 20:48 21:47 12:40
+10:43 23:35 16:29 11:12 17:47 20:37 12:25 22:30 17:40 20:40
+20:41 14:12 19:16 19:55 10:54 12:22 11:33 16:13 13:11 18:54
+12:55 23:40 14:57 21:27 22:40 12:58 19:40 18:40 12:39 11:17
+16:22 17:47 18:36 23:18 16:31 23:41 15:34 19:48 23:20 17:39
+13:18 13:32 18:53 14:29 22:45 16:43 11:43 15:43 21:10 22:13
+11:36 22:58 21:10 23:50 18:39 22:35 10:20 20:21 23:52 16:43
+10:50 15:51 21:13 12:47 17:44 23:40 11:23 17:37 13:39 15:38

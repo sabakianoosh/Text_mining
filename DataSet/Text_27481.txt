@@ -1,0 +1,99 @@
+SquareNumber_2116 SquareNumber_3721 SquareNumber_3249 SquareNumber_3364 SquareNumber_6889 SquareNumber_10000 SquareNumber_8836 SquareNumber_1936 SquareNumber_1600 SquareNumber_2601
+SquareNumber_7225 SquareNumber_4096 SquareNumber_5776 SquareNumber_2025 SquareNumber_484 SquareNumber_25 SquareNumber_6724 SquareNumber_9409 SquareNumber_3969 SquareNumber_1444
+SquareNumber_2916 SquareNumber_3600 SquareNumber_9604 SquareNumber_225 SquareNumber_625 SquareNumber_25 SquareNumber_1156 SquareNumber_8836 SquareNumber_1024 SquareNumber_324
+SquareNumber_2916 SquareNumber_2500 SquareNumber_1444 SquareNumber_1225 SquareNumber_2500 SquareNumber_4096 SquareNumber_4356 SquareNumber_25 SquareNumber_4096 SquareNumber_7225
+SquareNumber_8100 SquareNumber_225 SquareNumber_3025 SquareNumber_1024 SquareNumber_1521 SquareNumber_4356 SquareNumber_81 SquareNumber_784 SquareNumber_1764 SquareNumber_784
+SquareNumber_289 SquareNumber_3721 SquareNumber_6400 SquareNumber_2401 SquareNumber_3481 SquareNumber_1225 SquareNumber_7056 SquareNumber_8281 SquareNumber_6241 SquareNumber_144
+SquareNumber_529 SquareNumber_361 SquareNumber_225 SquareNumber_529 SquareNumber_676 SquareNumber_729 SquareNumber_4761 SquareNumber_1369 SquareNumber_25 SquareNumber_4761
+SquareNumber_5041 SquareNumber_3844 SquareNumber_9216 SquareNumber_144 SquareNumber_961 SquareNumber_5776 SquareNumber_9216 SquareNumber_625 SquareNumber_529 SquareNumber_3364
+SquareNumber_100 SquareNumber_441 SquareNumber_4 SquareNumber_576 SquareNumber_6561 SquareNumber_841 SquareNumber_49 SquareNumber_529 SquareNumber_2209 SquareNumber_3364
+SquareNumber_625 SquareNumber_16 SquareNumber_3025 SquareNumber_36 SquareNumber_7921 SquareNumber_841 SquareNumber_7921 SquareNumber_4900 SquareNumber_8836 SquareNumber_121
+SquareNumber_5929 SquareNumber_1024 SquareNumber_5625 SquareNumber_3721 SquareNumber_6241 SquareNumber_2809 SquareNumber_2500 SquareNumber_2916 SquareNumber_3136 SquareNumber_5776
+software digitalcomputer computerprogramming vacuumtube floppydisk desktop bit incompatible cpu floppydisk
+computation electrical computerprogramming computerprogram processor computerhardware keyboard cyber machinecode mobiledevice
+social ibook tablet microcomputer screen console monitor virtualreality mainframe social
+computation expansionslot software visualdisplayunit centralprocessing unit computercide diskette algorithm digitalaudioplayer camera
+computerprogramming computerprogram antivirus mobile internet microprocessor processor downloader monitor imac
+computerscience diskette screen desktop game computing internet calculator floppydisk ibook
+mainframe android desktopcomputer hardware turingmachine automation machines computerhardware compatible arithmetic
+computerprogramming electrical digitalcommunication visualdisplayunit astrolabe digitalcomputer cyber bit android cyber
+console turingmachine vacuumtube computerscience programmer social console visualdisplayunit electronics cybertechnology
+monitor virtualreality digitalcommunication proprietary arithmetic hardware device cell xbox algorithm
+imac mobiledevice electronics mobile eniac electromechanical screen microprocessor escapekey von neumann machine
+art sforzando singers subdivision madrigal conducting techno tempo muse rhythm
+video bebop texture talk composer genre soundtracks band sonata chord
+lyrics tabs flute beat cultural party improvisation vocals silence exposition
+musicians triple-tongue reggae composing intonation film headphones karaoke ensemble muse
+compositions symphony violoncello oboe speak guitar noises bassline carol work
+talking composer lights atonality funk madrigal instruments reggae compositions bpm
+songwriter dixieland folk art ambient chaconne lyric chaconne triple-tongue scale
+performance art music gospel genre vinyl guitar timbre bebop music harmonise
+clapping symphonic drum instrumentals funk motif motif vocal genres concerts
+folk radio club bands theme mediant single compositions talk live
+production popular music clarinet hyperpop motif funk drum lyrics chaconne trumpet
+rabbit animalia primate exoticanimals reptile heterotroph fleshly zoology octopuses biped
+sheep pitbull dog wildlife eukaryotic environmental scavenger elephants farming octopuses
+bear darter llamas hourse porifera frog chickens animalkingdom elephants zooplankton
+cats octopuses varmint pitbull carnal llamas frog predatoryanimal zooplankton predatoryanimal
+superdog octopuses chordate bear chordate dinosaur object dogs beast cat
+fleshly carnivore zoology octopuses animalia fauna insectivorous eukaryotic animals cats
+environmental insects mythical environmental metazoan eukaryotic carnivore ladybug bear vertebrate
+cat pigs darter cats bug poikilotherm shelter scavenger animalia ladybug
+object poikilotherm pigs feline birds mythical animal welfare pitbull dog eukaryotic
+cats bear dinosaur insectivore tiger hourse biped invertebrate demon ladybug
+pigs sensual embryo llamas fish chordate meat clams bug pups
+BinaryNumber_0100111 BinaryNumber_0111101 BinaryNumber_1100001 BinaryNumber_1010001 BinaryNumber_1010001 BinaryNumber_0100010 BinaryNumber_1001010 BinaryNumber_1001110 BinaryNumber_1001110 BinaryNumber_0110111
+BinaryNumber_0111100 BinaryNumber_0000000 BinaryNumber_1000001 BinaryNumber_0011011 BinaryNumber_0101111 BinaryNumber_0100101 BinaryNumber_0101100 BinaryNumber_0101100 BinaryNumber_0101111 BinaryNumber_0110111
+BinaryNumber_1011111 BinaryNumber_0101011 BinaryNumber_0100001 BinaryNumber_0001101 BinaryNumber_1010111 BinaryNumber_0111010 BinaryNumber_1010001 BinaryNumber_0110001 BinaryNumber_0010101 BinaryNumber_1011000
+BinaryNumber_1100000 BinaryNumber_1011100 BinaryNumber_0011100 BinaryNumber_0110001 BinaryNumber_0100000 BinaryNumber_0001011 BinaryNumber_0101101 BinaryNumber_0111010 BinaryNumber_0011010 BinaryNumber_1000101
+BinaryNumber_1100010 BinaryNumber_1000100 BinaryNumber_0111111 BinaryNumber_0010101 BinaryNumber_1010000 BinaryNumber_1100000 BinaryNumber_1000111 BinaryNumber_1001001 BinaryNumber_0101000 BinaryNumber_0101110
+BinaryNumber_0000101 BinaryNumber_1011010 BinaryNumber_0000000 BinaryNumber_1001010 BinaryNumber_0010011 BinaryNumber_0011111 BinaryNumber_1010111 BinaryNumber_1011110 BinaryNumber_1011000 BinaryNumber_0110100
+BinaryNumber_1011011 BinaryNumber_0101010 BinaryNumber_0010111 BinaryNumber_0110000 BinaryNumber_1001110 BinaryNumber_0110100 BinaryNumber_1001111 BinaryNumber_0011011 BinaryNumber_1011001 BinaryNumber_1100011
+BinaryNumber_0100111 BinaryNumber_1100011 BinaryNumber_1011011 BinaryNumber_0100110 BinaryNumber_0001101 BinaryNumber_0100101 BinaryNumber_1000010 BinaryNumber_1001001 BinaryNumber_0010010 BinaryNumber_0100011
+BinaryNumber_0000001 BinaryNumber_0011100 BinaryNumber_0101000 BinaryNumber_0100101 BinaryNumber_0110010 BinaryNumber_0001111 BinaryNumber_0011010 BinaryNumber_0111000 BinaryNumber_0110100 BinaryNumber_0111100
+BinaryNumber_0111010 BinaryNumber_0010000 BinaryNumber_0000011 BinaryNumber_0111111 BinaryNumber_0111000 BinaryNumber_0010101 BinaryNumber_0001111 BinaryNumber_0100110 BinaryNumber_1010111 BinaryNumber_0010101
+BinaryNumber_0000111 BinaryNumber_1001001 BinaryNumber_1100010 BinaryNumber_1010001 BinaryNumber_0010111 BinaryNumber_0100110 BinaryNumber_0010001 BinaryNumber_0101111 BinaryNumber_0111011 BinaryNumber_1000100
+beef chicken chicken nutrient vegetable seafood fruits vegetables edible fruit eat
+meals meals rice fruits vegetables restaurant meal soup eat meals fruits vegetables
+meals fruit sushi cheese cooking meal edible beef beef meat
+eat plant plant chicken drinks vegetable vegetable meals drinks cereal
+nutrient nourishment drinks victuals victuals sushi soup drinks rice cooking
+provender beef sushi nutrient fruits vegetables pasta nutrient meal nourishment animal
+plant nutrition restaurant rice meals rice soup eat pasta provender
+cereal sushi fruits vegetables animal seafood drinks edible nutrition rice soup
+rice beef restaurant nutrition vegetable cereal meal edible sushi cereal
+seafood sushi nutrition edible nutrient cooking chicken provender soup sushi
+seafood nourishment fruits vegetables provender plant provender milk vegetable drinks animal
+Nectarine Blackcurrant Jostaberry Jostaberry Coconut Clementine Loquat Orange Honeydew Sapodilla
+Pomelo Rambutan  Breadfruit Strawberry Elderberry Lime Cloudberry Blueberry Orange Sapote
+Abiu Apricot Pomelo Fig Avocado Lemon Pineapple Melon Blackcurrant Apricot
+Nance Rambutan  Date Pomelo Blueberry Kiwano Loganberry Jambul Lulo Tamarillo
+Breadfruit Canistel Apricot Lychee Strawberry Coconut Prune Fig Akebi Fig
+Elderberry Damson Nectarine Boysenberry Feijoa Peach Lime Currant Tangelo Loganberry
+Peach Clementine Pawpaw Nance Araza Acerola Jujube Boysenberry Pineapple Kiwifruit
+Salmonberry Marionberry Honeydew Clementine Ximenia Akebi Apple Feijoa Pineberry Plumcot
+Cempedak Longan Honeydew Yuzu Currant Pineapple Akebi Watermelon Raspberry Avocado
+Huckleberry Honeydew Plumcot Breadfruit Longan Jostaberry Plum Yuzu Abiu Fig
+Clementine Longan Jackfruit Cranberry Apricot Araza Peach Peach Tangerine Banana
+thriller drugs violence law-breaking offense gangs structuralism slay human violence
+crisis blackmail tort abuse crisis slayings unsolved law muggings gang
+corruption transgression sentence punishment revenge barratry arrest blackmail homicide arrest
+drama structuralism government drug highjack corruption kill hijack shoplift felony
+terrorism unsolved criminals slay homelessness government unsolved gang gun misdemeanor
+structuralism arsons statutory guilt murder trafficking massacre mystery arsons cop
+cases offenders safety misdemeanour gangster government poverty blackmail murders suspense
+forensic violence cases spy slayings violence structuralism gangster trial accident
+legal law-breaking kill justice trafficking punitive theft terrorism heist forensic
+law-breaking murders brutality robbery pirate political illegal fraud government unsolved
+crisis suspense statutory incarceration offenses death death brutality crisis suspense
+12:34 13:11 15:19 10:22 11:24 13:38 23:23 20:34 10:34 14:55
+23:33 17:55 10:15 22:29 15:10 10:49 13:33 19:58 20:14 15:28
+12:43 10:29 16:22 11:38 23:56 15:12 15:49 15:27 23:29 19:27
+21:22 16:24 19:38 22:41 16:58 11:10 22:11 21:37 16:18 18:39
+14:24 10:41 14:34 14:35 16:30 12:17 12:30 10:34 18:59 19:19
+10:42 12:27 23:15 17:55 18:23 23:37 13:41 15:55 13:27 15:27
+16:51 12:24 12:59 13:34 18:37 20:54 12:54 11:29 17:49 12:56
+12:22 11:51 13:20 19:50 13:47 15:54 16:58 22:37 14:33 20:22
+15:52 12:29 11:32 20:20 19:12 19:11 13:14 12:15 12:44 18:29
+13:34 18:52 20:28 18:16 11:26 19:30 16:55 21:24 19:46 23:37
+17:13 17:30 20:50 20:48 14:53 23:34 12:57 12:58 20:10 20:47

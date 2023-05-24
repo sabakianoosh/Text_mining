@@ -1,0 +1,99 @@
+temperature__141c temperature__44c temperature__108c temperature__16c temperature__46c temperature__141c temperature__129c temperature__98c temperature__42c temperature__47c
+temperature__138c temperature__106c temperature__144c temperature__93c temperature__98c temperature__35c temperature__12c temperature__22c temperature__51c temperature__124c
+temperature__69c temperature__84c temperature__111c temperature__8c temperature__52c temperature__8c temperature__54c temperature__86c temperature__148c temperature__111c
+temperature__24c temperature__12c temperature__77c temperature__12c temperature__51c temperature__105c temperature__57c temperature__44c temperature__122c temperature__59c
+temperature__68c temperature__119c temperature__91c temperature__51c temperature__64c temperature__109c temperature__140c temperature__112c temperature__82c temperature__140c
+temperature__145c temperature__53c temperature__148c temperature__88c temperature__7c temperature__108c temperature__131c temperature__105c temperature__7c temperature__50c
+temperature__73c temperature__53c temperature__59c temperature__82c temperature__65c temperature__95c temperature__93c temperature__79c temperature__52c temperature__24c
+temperature__145c temperature__130c temperature__12c temperature__86c temperature__35c temperature__106c temperature__105c temperature__82c temperature__88c temperature__132c
+temperature__11c temperature__31c temperature__78c temperature__65c temperature__119c temperature__70c temperature__11c temperature__116c temperature__27c temperature__136c
+temperature__116c temperature__148c temperature__11c temperature__130c temperature__39c temperature__90c temperature__82c temperature__70c temperature__144c temperature__122c
+temperature__90c temperature__132c temperature__3c temperature__98c temperature__52c temperature__61c temperature__140c temperature__21c temperature__91c temperature__53c
+SquareNumber_8836 SquareNumber_9025 SquareNumber_225 SquareNumber_6241 SquareNumber_529 SquareNumber_9801 SquareNumber_729 SquareNumber_8649 SquareNumber_1225 SquareNumber_6889
+SquareNumber_5329 SquareNumber_4624 SquareNumber_121 SquareNumber_7569 SquareNumber_2025 SquareNumber_3481 SquareNumber_7225 SquareNumber_5929 SquareNumber_8100 SquareNumber_25
+SquareNumber_7744 SquareNumber_2809 SquareNumber_8281 SquareNumber_7921 SquareNumber_5041 SquareNumber_81 SquareNumber_2916 SquareNumber_3481 SquareNumber_784 SquareNumber_441
+SquareNumber_2601 SquareNumber_4096 SquareNumber_3364 SquareNumber_5041 SquareNumber_144 SquareNumber_196 SquareNumber_9 SquareNumber_49 SquareNumber_4096 SquareNumber_7056
+SquareNumber_7744 SquareNumber_324 SquareNumber_3721 SquareNumber_8100 SquareNumber_100 SquareNumber_2116 SquareNumber_3969 SquareNumber_3600 SquareNumber_9409 SquareNumber_64
+SquareNumber_900 SquareNumber_81 SquareNumber_6889 SquareNumber_2025 SquareNumber_8281 SquareNumber_2916 SquareNumber_625 SquareNumber_6084 SquareNumber_1521 SquareNumber_8100
+SquareNumber_9216 SquareNumber_6561 SquareNumber_361 SquareNumber_1369 SquareNumber_36 SquareNumber_3969 SquareNumber_3969 SquareNumber_7921 SquareNumber_2401 SquareNumber_1764
+SquareNumber_1681 SquareNumber_9604 SquareNumber_3136 SquareNumber_2025 SquareNumber_4489 SquareNumber_6084 SquareNumber_2209 SquareNumber_7056 SquareNumber_3136 SquareNumber_9025
+SquareNumber_1849 SquareNumber_1936 SquareNumber_1444 SquareNumber_1936 SquareNumber_3721 SquareNumber_2809 SquareNumber_2304 SquareNumber_676 SquareNumber_1296 SquareNumber_2401
+SquareNumber_9604 SquareNumber_3025 SquareNumber_6561 SquareNumber_729 SquareNumber_1600 SquareNumber_2116 SquareNumber_3481 SquareNumber_6084 SquareNumber_324 SquareNumber_1225
+SquareNumber_3136 SquareNumber_9604 SquareNumber_2209 SquareNumber_1225 SquareNumber_576 SquareNumber_7225 SquareNumber_9216 SquareNumber_8281 SquareNumber_225 SquareNumber_9604
+beef cooking rice sushi cereal vegetable victuals cooking restaurant cheese
+nutrient meat beef beef fruits vegetables cooking meal rice cereal rice
+meals sushi beef rice provender nourishment seafood cheese beef plant
+eat beef victuals restaurant chicken eat nutrition soup fruits vegetables rice
+sushi victuals milk plant meat pasta pasta vegetable provender cheese
+provender nutrition vegetable vegetable sushi cheese meal animal soup soup
+beef nutrition drinks nutrition nutrition rice meals nourishment fruits vegetables provender
+meal meals seafood fruits vegetables meat cereal fruit cheese nutrient soup
+cheese fruits vegetables fruit drinks chicken fruits vegetables provender vegetable chicken eat
+victuals cereal vegetable rice nutrition restaurant seafood rice nourishment beef
+cheese drinks soup plant provender sushi provender edible restaurant meat
+Footrest Easel Armchair Zitan Upholstery Footstool Hassock Bureau Secretary Clock
+Mirror Crib Table Pillow Pillow Easel Credenza Cupboard Wardrobe Lounger
+Tallboy Easel Bookcase Breakfront Sideboard Wheelchair Chandelier Daybed Divan Clock
+Chest Waterbed Footrest Island Furnishings Cabinet Baroque Fan Inlay Bergere
+Buffet Shelf Bed Wardrobe Tallboy Cupboard Chair Hutch Mattress Fluting
+Tallboy Waterbed Carpet Bureau Armoire Fan Headboards Secretary Settee Recliner
+Futon Castor Couch Armchair Seat Chandelier Buffet Couch Sofabed Sofa
+Cradle Armchair Console Island Hokey Frieze Hutch Pillow Divan Light
+Pliant Fluting Chandelier Cabinet Cabriole Tuffet Couch Screen Crib Pliant
+Fluting Rack Armoire Regency Vanity Lounger Frieze Rattle Console Hokey
+Applique Bergere Easel Frieze Throne Console Sofabed Recliner Secretary Bookcase
+Arteries Teeth Lips Nerves Urethra Spleen Arteries Nerves Middleear Cervix
+Gallbladder Brain Cranialnerves Middleear Tendons Teeth Earlobe Cerebellum Eardrum Cerebellum
+Mouth Smallintestine Scrotum Capillaries Tongue Mouth Spinalnerves Capillaries Clitoris Cranialnerves
+Trachea Bone  Bone  Cornea Ganglia Iris Liver Ileum Capillaries Larynx
+Gallbladder Cochlea Scrotum Eardrum Larynx Pharynx Tongue Teeth Ovaries Cornea
+Sensoryorgans Eye Interstitium Tonsils Ileum Cranialnerves Hypothalamus Thalamus Thalamus Pharynx
+Ciliarybody Iris Vulva Vagina Arteries Spinalnerves Interstitium Rectum skeleton Duodenum
+skeleton Bladder Uterus Retina skeleton Analcanal Tastebuds Joints Middleear Placenta
+Stomach Liver Lips Heart Middleear Tendons Iris Lymphaticvessel Smallintestine Lens
+Duodenum Gallbladder Pharynx Sensoryorgans Interstitium Fallopiantubes Earlobe Ileum Fallopiantubes Eardrum
+Hypothalamus Scrotum Ciliarybody Clitoris Lungs Cecum Stomach Joints Cerebellum Pharynx
+centralprocessing unit digitalcomputer visualdisplayunit transistor laptopcomputer homecomputer mechanicalcomputer vacuumtube electromechanical data
+integratedcircuit digitalcommunication keyboard monitor pc cybertechnology cpu phone xbox visualdisplayunit
+mechanicalcomputer mobiledevice vacuumtube von neumann machine game algorithm computation pornographicimages electronics incompatible
+keyboard cyber supercomputer automation desktop computercircuit escapekey office integratedcircuit social
+keyboard dataconverter digital virtualreality visualdisplayunit desktopcomputer computercircuit programmer device virtualreality
+electronics proprietary analogcomputer digital expansionslot xbox phone analogcomputer desktopcomputer computerprogram
+computercircuit dataconverter camera watch daw tablet computercircuit internet machines abacus
+diskette proprietary cpu ibook digital chip data escapekey digital processor
+von neumann machine escapekey daw browser hardware automation monitor transistor sliderule cyber
+centralprocessing unit desktop desktoppcs machinecode digitalcomputer machines cpu proprietary computation desktopcomputer
+centralprocessing unit data computing desktoppcs machine mobile bit computerscience electromechanical computerprogramming
+parry integrity tarnish incident collaboration corruption tycoon ignorant covert cadre
+unsavory hypocrisy cadre scandal parry unjust rebut engagement unethical coterie
+unethical illicit expose parry solicit resignation anonymity demagogue solicit deception
+mercurial fiasco mendacity recrimination temptation reckless integrity demagogue dictatorship fray
+patriarchy benefit conceal extortion extortion deny claim illegal opportunist assail
+unsavory demagogue reputation endorsement unjust intimidation recrimination parry influence acolyte
+recrimination patriarchy denigrate coercion defamation saga corruption opportunist illegal fiasco
+allegation deflect assail expose lobby defamation temptation onerous embezzlement debacle
+blame allegation beleaguer integrity hypocrisy beleaguer extortion massive demagogue feud
+incident scandal reputation embezzlement persecution recrimination ignorant claim integrity fray
+cadre lobby malfeasance deny deficit cadre privilege beleaguer assail anonymity
+lively black lonely good shiny zany sparkling aggressive relieved condemned
+gentle muddy puzzled vast crazy exuberant blue-eyed hurt hungry cheerful
+fantastic relieved vast fair funny puzzled smiling clever enchanting old-fashioned
+condemned worrisome fragile fantastic anxious super inexpensive worried aggressive doubtful
+proud adorable tame black thankful amused shiny stupid expensive friendly
+panicky impossible angry frail disgusted adventurous cooperative real handsome amused
+kind good spotless famous innocent disgusted excited agreeable difficult magnificent
+plain creepy naughty innocent innocent fine puzzled jealous talented precious
+evil scary hilarious jolly lazy sleepy real busy fine wicked
+brave poor ugly victorious clear brainy aggressive tender tasty charming
+lively odd confused naughty colorful alive tame fair vivacious clever
+rollick athletes skating fighting comfort basketball casual fitness video athletics
+fitness tournaments goal spar gambol fighting community shoot waterski luge
+club cavort tennis sportsmanship dirt games performance form fitness fitness
+premium art sportaccord industry challenge sport tournaments volleyball recreation soccerball
+soccerball fitness snowboarding luge soccer players pro activities work culture
+industry skating class skateboard multisport game organization pro social form
+sportsman industry dance tradition frisk hiking art dirt gamely skylark
+cross exercises dance muscle skiing activities polo basketball combat dynamic
+snowboarding disport goal ineligible multisport romp volleyball games polo boast
+esport polo events fun eco games hobbies organization game show
+motorsports activities volleyball volleyball feature form feature suit team hiking

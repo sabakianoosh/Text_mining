@@ -1,0 +1,99 @@
+BinaryNumber_0000011 BinaryNumber_0110101 BinaryNumber_1100000 BinaryNumber_0111001 BinaryNumber_0001100 BinaryNumber_0110000 BinaryNumber_0000111 BinaryNumber_0111001 BinaryNumber_0011010 BinaryNumber_1010011
+BinaryNumber_1010001 BinaryNumber_0100111 BinaryNumber_0110010 BinaryNumber_0110110 BinaryNumber_1001000 BinaryNumber_0011100 BinaryNumber_0100010 BinaryNumber_0011011 BinaryNumber_0010110 BinaryNumber_1001101
+BinaryNumber_1010001 BinaryNumber_0001100 BinaryNumber_0001110 BinaryNumber_0000011 BinaryNumber_0101000 BinaryNumber_0010011 BinaryNumber_0001100 BinaryNumber_1100011 BinaryNumber_1000101 BinaryNumber_0111001
+BinaryNumber_0010011 BinaryNumber_1000100 BinaryNumber_0101101 BinaryNumber_0000000 BinaryNumber_0001010 BinaryNumber_0111100 BinaryNumber_0000110 BinaryNumber_1001001 BinaryNumber_0000010 BinaryNumber_0101100
+BinaryNumber_0001001 BinaryNumber_1000000 BinaryNumber_0110011 BinaryNumber_0010110 BinaryNumber_1001010 BinaryNumber_0110100 BinaryNumber_0111101 BinaryNumber_0100001 BinaryNumber_0001100 BinaryNumber_0011110
+BinaryNumber_1010000 BinaryNumber_0101100 BinaryNumber_1011010 BinaryNumber_1000101 BinaryNumber_0011111 BinaryNumber_0110010 BinaryNumber_1011100 BinaryNumber_1010101 BinaryNumber_0110110 BinaryNumber_1001110
+BinaryNumber_0010101 BinaryNumber_1000001 BinaryNumber_1000011 BinaryNumber_0111101 BinaryNumber_0011110 BinaryNumber_0000101 BinaryNumber_1000111 BinaryNumber_0111000 BinaryNumber_1001111 BinaryNumber_1001000
+BinaryNumber_0110000 BinaryNumber_0101000 BinaryNumber_1001100 BinaryNumber_1100001 BinaryNumber_0110100 BinaryNumber_1010011 BinaryNumber_0000111 BinaryNumber_1000000 BinaryNumber_0010011 BinaryNumber_1000001
+BinaryNumber_0100000 BinaryNumber_1000111 BinaryNumber_1001110 BinaryNumber_1001011 BinaryNumber_0111101 BinaryNumber_0100101 BinaryNumber_0111100 BinaryNumber_0100110 BinaryNumber_0011100 BinaryNumber_0001111
+BinaryNumber_0010101 BinaryNumber_1001011 BinaryNumber_0110101 BinaryNumber_1010110 BinaryNumber_0110001 BinaryNumber_1100010 BinaryNumber_0000000 BinaryNumber_0011000 BinaryNumber_0100110 BinaryNumber_0011000
+BinaryNumber_0110111 BinaryNumber_0101010 BinaryNumber_0010101 BinaryNumber_1001010 BinaryNumber_0100000 BinaryNumber_1011101 BinaryNumber_0000011 BinaryNumber_1100010 BinaryNumber_0001001 BinaryNumber_0000100
+nutrition beef milk victuals provender nutrition beef beef nutrient cheese
+meals nutrient provender cereal vegetable pasta cheese cereal chicken chicken
+meals provender fruit restaurant restaurant sushi rice plant meal nourishment
+edible drinks cheese rice meat pasta beef provender seafood nutrition
+meat cereal fruits vegetables nutrition drinks edible meal nutrition sushi chicken
+meat cheese nutrient chicken cheese cooking milk sushi victuals soup
+drinks nourishment edible milk animal sushi soup seafood fruits vegetables chicken
+plant soup meals victuals sushi cooking meal seafood fruits vegetables nutrient
+edible eat eat beef beef soup provender nutrition edible pasta
+plant meal sushi rice cereal nutrition milk soup milk nutrition
+meals cereal cereal drinks pasta eat fruits vegetables cheese milk rice
+elephants animal welfare birds embryo farming workanimal birds reptiles bird marineanimal
+darter octopuses dinosaur tiger iguana mammals fantasy llamas monster pigs
+rabbit thoroughbred sheep animatebeing animal welfare epizootic animalkingdom vertebrate birds insects
+beast animalia poikilotherm bear exoticanimals llamas poikilotherm vertebrate mythical predatoryanimal
+creature protist object fleshly insectivorous fleshly heterotroph exoticanimals sensual insect
+fleshly creature hourse poikilotherm creature insects llamas bug tiger metazoan
+jellyfish livestock exoticanimals animal welfare dogs wildlife mammals pigs monster wildlife
+llamas pig mammals pigs deer eukaryotic livestock embryo pitbull sheep
+clams insects pig tiger multicellular insectivorous animalkingdom wildlife fleshly animals
+reptile elephants sensual multicellular plant creature cat superdog primate farming
+marineanimal octopuses insect bear varmint mammals iguana environmental fish bobcat
+Raspberry Jujube Plumcot Pear Guava Elderberry Plantain Cloudberry Soursop Persimmon
+Lulo Melon Date Tamarind Plumcot Pineberry Feijoa Avocado Watermelon Cherimoya
+Loquat Honeydew Plantain Plantain Blackberry Damson Loquat Satsuma Peach Fig
+Clementine Tayberry Grapefruit Sapote Pawpaw Strawberry Breadfruit Watermelon Kiwifruit Feijoa
+Honeyberry Orange Persimmon Orange Pear Feijoa Persimmon Raspberry Jujube Jostaberry
+Strawberry Tayberry Tayberry Mandarine Loquat Apple Mandarine Mango Kiwifruit Persimmon
+Cherimoya Akebi Açaí Loquat Acerola Salmonberry Jujube Prune Açaí Açaí
+Cashew Tayberry Jackfruit Grape Cashew Jostaberry Cempedak Sapodilla Loganberry Jujube
+Breadfruit Kumquat Apple Grape Kiwano Papaya Yuzu Cherry Quince Plumcot
+Mangosteen Redcurrant Nance Damson Loquat Fig Araza Papaya Kiwano Feijoa
+Persimmon Cantaloupe Pear Plantain Loquat Marionberry Passionfruit Cashew Araza Avocado
+Olive Firebrick Lavender Blue DarkSlateBlue DeepPink HotPink Coral Blue ForestGreen
+Seashell DarkCyan MistyRose DarkKhaki DarkGoldenrod RosyBrown Burlywood Red DarkOrange MediumBlue
+RosyBrown Gainsboro Violet GhostWhite GreenYellow Purple DarkGray SandyBrown Khaki PaleTurquoise
+DarkKhaki AliceBlue SlateGray LightSteelBlue Aquamarine PaleGoldenrod DarkGoldenrod Fuchsia Seashell MidnightBlue
+PaleTurquoise Chocolate AntiqueWhite Salmon PaleVioletRed Teal MediumSpringGreen Blue SeaGreen DarkFuchsia
+Red IndianRed Indigo LightSalmon LightGoldenrod Blue Bisque DimGray Crimson Honeydew
+Brown Silver DarkTurquoise SandyBrown SandyBrown Indigo Peru Feldspar LavenderBlush Gold
+LightSlateBlue RoyalBlue OliveDrab DarkGreen DarkOliveGreen DarkOrchid Gainsboro DarkSlateBlue DarkOrange Ivory
+MediumSeaGreen Seashell SaddleBrown AliceBlue Azure DarkGoldenrod DarkRed PaleGoldenrod SeaGreen LightCoral
+Plum SkyBlue DarkKhaki LightGoldenrodYellow SlateGray DarkRed VioletRed LightSeaGreen LightCyan White
+Bisque Aquamarine WhiteSmoke Teal Gainsboro MediumTurquoise OliveDrab Turquoise Azure Burlywood
+processor mainframe peripheral personalcomputer desktoppcs von neumann machine arithmetic computercircuit software computerprogram
+centralprocessing unit digitalcommunication hardware algorithm monitor dataconverter microcomputer computerscience eniac virtualreality
+pornographicimages device diskette android analogcomputer data phone desktoppcs dataconverter virtualreality
+social machine camera machinecode android integratedcircuit machines internet chip homecomputer
+computercide peripheral router centralprocessing unit game data keyboard computercide server integratedcircuit
+information spyware software von neumann machine desktoppcs microprocessor android digital computercircuit social
+von neumann machine electromechanical mobile keyboard proprietary virtualreality information calculator digitalcommunication mainframe
+eniac calculator computerprogram imac console automation machine computerscience analogcomputer incompatible
+supercomputer machines astrolabe data information computerprogram computerscience camera downloader imac
+arithmetic transistor dataconverter arithmetic antivirus chip screen router phone watch
+electromechanical mobiledevice social algorithm laptop smartphone phone watch computerhardware visualdisplayunit
+CubeNumber_262144 CubeNumber_195112 CubeNumber_1728 CubeNumber_592704 CubeNumber_27 CubeNumber_421875 CubeNumber_68921 CubeNumber_804357 CubeNumber_64000 CubeNumber_421875
+CubeNumber_778688 CubeNumber_512 CubeNumber_512000 CubeNumber_614125 CubeNumber_6859 CubeNumber_74088 CubeNumber_132651 CubeNumber_1000 CubeNumber_185193 CubeNumber_39304
+CubeNumber_1331 CubeNumber_117649 CubeNumber_912673 CubeNumber_39304 CubeNumber_3375 CubeNumber_8000 CubeNumber_125 CubeNumber_195112 CubeNumber_5832 CubeNumber_238328
+CubeNumber_551368 CubeNumber_512000 CubeNumber_68921 CubeNumber_314432 CubeNumber_857375 CubeNumber_85184 CubeNumber_157464 CubeNumber_24389 CubeNumber_3375 CubeNumber_54872
+CubeNumber_185193 CubeNumber_103823 CubeNumber_54872 CubeNumber_262144 CubeNumber_15625 CubeNumber_592704 CubeNumber_238328 CubeNumber_46656 CubeNumber_140608 CubeNumber_753571
+CubeNumber_314432 CubeNumber_15625 CubeNumber_85184 CubeNumber_4096 CubeNumber_39304 CubeNumber_571787 CubeNumber_5832 CubeNumber_262144 CubeNumber_343 CubeNumber_50653
+CubeNumber_125000 CubeNumber_262144 CubeNumber_27 CubeNumber_250047 CubeNumber_4913 CubeNumber_125000 CubeNumber_636056 CubeNumber_9261 CubeNumber_9261 CubeNumber_132651
+CubeNumber_262144 CubeNumber_42875 CubeNumber_238328 CubeNumber_64 CubeNumber_35937 CubeNumber_8 CubeNumber_614125 CubeNumber_884736 CubeNumber_3375 CubeNumber_238328
+CubeNumber_68921 CubeNumber_729000 CubeNumber_8000 CubeNumber_17576 CubeNumber_103823 CubeNumber_884736 CubeNumber_1331 CubeNumber_74088 CubeNumber_1331 CubeNumber_21952
+CubeNumber_13824 CubeNumber_4913 CubeNumber_148877 CubeNumber_4913 CubeNumber_493039 CubeNumber_27000 CubeNumber_10648 CubeNumber_357911 CubeNumber_79507 CubeNumber_68921
+CubeNumber_778688 CubeNumber_9261 CubeNumber_512 CubeNumber_157464 CubeNumber_166375 CubeNumber_804357 CubeNumber_85184 CubeNumber_571787 CubeNumber_512000 CubeNumber_17576
+multisport hunters dirt company premium company boast sports action health
+premium disport yoga extracurricular feature athlete physical romp concert social
+activity bouldering motorsports music rugby safari pack frisk skateboarding events
+dive activities fun health video hunters dynamic fast waterski challenge
+athletes ski concert extracurricular badminton challenge fitness events fitness frolic
+gym extracurricular show league esports extracurricular disport funambulism running tournament
+offside soccer offside physical extracurricular athletic luge hobby field combat
+recreation recreation champion dive active competitive exercises run kill blazers
+hunters show romp field premium football bouldering community horseracing athlete
+lifestyle gambol fighting games form frisk champion basketball sport skateboarding
+dynamic champion muscle play boulder soccer spar pack hunters sportaccord
+Cradle Hassock Seat Frieze Cushion Furnishings Mattress Hokey Credenza Castor
+Daybed Inlay Light Seat Frieze Cradle Cushion Fan Wardrobe Hutch
+Tallboy Secretary Throne Tansu Sofa Cradle Hassock Tuffet Bentwood Regency
+Throne Highchair Rack Fauteuil Bergere Volute Fluting Curtains Credenza Hassock
+Mantle Marquetry Bookcase Console Stool Upholstery Chair Marquetry Sideboard Headboards
+Mattress Valet Air-conditioner Lamp Air-conditioner Bookshelf Hutch Hutch Footstool Pliant
+Mattress Cabriole Pantry Daybed Bed Bookcase Jardinière Easel Waterbed Antique
+Pillow Tuffet Wheelchair Couch Valet Hassock Bed Baroque Cabriole Frieze
+Fauteuil Furniture Cot Bentwood Rattle Dresser Divan Regency Bookshelf Sideboard
+Upholstery Stool Waterbed Furnishings Drapes Frieze Loveseat Fan Vitrine Furniture
+Valet Inlay Divan Easel Lounger Bowfront Cushion Hammock Island Regency

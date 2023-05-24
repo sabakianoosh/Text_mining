@@ -1,0 +1,99 @@
+BinaryNumber_1010111 BinaryNumber_1000011 BinaryNumber_0001111 BinaryNumber_1011000 BinaryNumber_0101101 BinaryNumber_1001100 BinaryNumber_1100001 BinaryNumber_1011001 BinaryNumber_0110010 BinaryNumber_0011100
+BinaryNumber_0000010 BinaryNumber_0100111 BinaryNumber_1001010 BinaryNumber_0000000 BinaryNumber_0111000 BinaryNumber_0011101 BinaryNumber_1010010 BinaryNumber_1000001 BinaryNumber_0111000 BinaryNumber_0001011
+BinaryNumber_0110101 BinaryNumber_0001101 BinaryNumber_0010111 BinaryNumber_0111001 BinaryNumber_1100001 BinaryNumber_0101111 BinaryNumber_0110100 BinaryNumber_0010001 BinaryNumber_0011000 BinaryNumber_0100111
+BinaryNumber_0000011 BinaryNumber_0011111 BinaryNumber_0010111 BinaryNumber_1100010 BinaryNumber_0100100 BinaryNumber_0000000 BinaryNumber_1010110 BinaryNumber_0111111 BinaryNumber_1100011 BinaryNumber_1100011
+BinaryNumber_0010110 BinaryNumber_0000000 BinaryNumber_1001111 BinaryNumber_1001100 BinaryNumber_0000100 BinaryNumber_1001011 BinaryNumber_1010100 BinaryNumber_0101110 BinaryNumber_0100111 BinaryNumber_0010111
+BinaryNumber_0100101 BinaryNumber_0110100 BinaryNumber_1000111 BinaryNumber_0111001 BinaryNumber_0010001 BinaryNumber_0100010 BinaryNumber_0000011 BinaryNumber_0100010 BinaryNumber_0011010 BinaryNumber_1000001
+BinaryNumber_0110100 BinaryNumber_0111100 BinaryNumber_1010000 BinaryNumber_0010100 BinaryNumber_1001110 BinaryNumber_0001001 BinaryNumber_0001011 BinaryNumber_0110100 BinaryNumber_0100000 BinaryNumber_0001110
+BinaryNumber_1001111 BinaryNumber_1001111 BinaryNumber_0010011 BinaryNumber_1000000 BinaryNumber_0000011 BinaryNumber_0011000 BinaryNumber_0010100 BinaryNumber_0111111 BinaryNumber_0001100 BinaryNumber_0001010
+BinaryNumber_1001011 BinaryNumber_0001001 BinaryNumber_1001011 BinaryNumber_1010101 BinaryNumber_0111010 BinaryNumber_0100001 BinaryNumber_0111110 BinaryNumber_0111101 BinaryNumber_1001101 BinaryNumber_0110011
+BinaryNumber_0010011 BinaryNumber_0000010 BinaryNumber_0001010 BinaryNumber_1011011 BinaryNumber_1001101 BinaryNumber_0010100 BinaryNumber_0000001 BinaryNumber_0101111 BinaryNumber_1001111 BinaryNumber_0010000
+BinaryNumber_1000010 BinaryNumber_0100010 BinaryNumber_0101010 BinaryNumber_0100011 BinaryNumber_0001001 BinaryNumber_1001011 BinaryNumber_1001010 BinaryNumber_0000001 BinaryNumber_1011110 BinaryNumber_1010111
+edible beef provender nutrition vegetable meal nourishment victuals drinks drinks
+provender drinks cooking nutrition provender cheese milk restaurant meal chicken
+meals fruits vegetables rice pasta vegetable meals meals meal fruits vegetables fruits vegetables
+provender nutrient chicken nutrition cooking meal eat meat animal nourishment
+nutrition drinks sushi nourishment rice vegetable milk cheese fruits vegetables cereal
+nutrient cereal rice nutrient meat meals vegetable meal cheese cheese
+meals pasta milk nutrient animal milk pasta victuals plant sushi
+nutrient rice cereal milk nutrition plant soup restaurant meal cooking
+restaurant restaurant meals milk milk nutrition sushi seafood edible fruits vegetables
+chicken restaurant fruits vegetables victuals victuals meals meals rice plant victuals
+fruit animal rice fruits vegetables restaurant fruit meat beef edible fruits vegetables
+farming reptiles birds pigs cat vegan vertebrate pig wildlife deer
+pups clams insectivore domesticate animatebeing frog amphibians insectivorous carnivore livestock
+insects insectivorous plant llamas marineanimal plant mythical reptile mammal zooplankton
+zoology object iguana bug demon heterotroph animal welfare dinosaur pitbull invertebrate
+shelter metazoan beast animals bird pitbull poikilotherm tame raccoon iguana
+workanimal animalkingdom exoticanimals insectivore creature insectivore pet pitbull birds wild
+birds llamas livestock mammals biped domesticate zoo darter iguana dog
+mammals bird heterotroph zoo plant bird darter sensual embryo marineanimal
+wildlife zoo biped mammals epizootic frog creature animatebeing mammal zoology
+bobcat sensual farming insectivore animatebeing mammal llamas reptiles bird object
+elephants pet tame vertebrate varmint animal welfare animalia insectivorous heterotroph predatoryanimal
+temperature__122c temperature__57c temperature__58c temperature__6c temperature__68c temperature__46c temperature__90c temperature__137c temperature__77c temperature__140c
+temperature__31c temperature__95c temperature__78c temperature__139c temperature__109c temperature__69c temperature__34c temperature__71c temperature__17c temperature__54c
+temperature__92c temperature__95c temperature__100c temperature__24c temperature__82c temperature__27c temperature__147c temperature__5c temperature__49c temperature__68c
+temperature__42c temperature__23c temperature__65c temperature__22c temperature__23c temperature__14c temperature__116c temperature__111c temperature__95c temperature__27c
+temperature__92c temperature__50c temperature__44c temperature__52c temperature__2c temperature__16c temperature__5c temperature__33c temperature__30c temperature__27c
+temperature__10c temperature__23c temperature__52c temperature__74c temperature__51c temperature__87c temperature__145c temperature__144c temperature__0c temperature__145c
+temperature__82c temperature__22c temperature__46c temperature__17c temperature__31c temperature__2c temperature__145c temperature__137c temperature__131c temperature__56c
+temperature__5c temperature__61c temperature__21c temperature__85c temperature__144c temperature__129c temperature__28c temperature__46c temperature__3c temperature__63c
+temperature__86c temperature__82c temperature__50c temperature__90c temperature__35c temperature__33c temperature__98c temperature__88c temperature__146c temperature__42c
+temperature__59c temperature__52c temperature__136c temperature__69c temperature__148c temperature__87c temperature__24c temperature__65c temperature__87c temperature__30c
+temperature__49c temperature__74c temperature__24c temperature__47c temperature__119c temperature__148c temperature__144c temperature__105c temperature__27c temperature__21c
+Kiwifruit Plantain Mulberry Durian Avocado Avocado Kiwifruit Peach Longan Salmonberry
+Cantaloupe Lychee Strawberry Pomegranate Mulberry Mandarine Blackcurrant Apricot Loganberry Pawpaw
+Pineapple Raisin Jackfruit Tangerine Feijoa Kumquat Kumquat Ackee Boysenberry Tamarillo
+Raisin Lychee Blueberry Araza Watermelon Yuzu Guava Acerola Peach Avocado
+Mangosteen Apple Pawpaw Quince Apricot Tayberry Sapote Cherry Peach Sapodilla
+Cherry Blueberry Salmonberry Honeyberry Passionfruit Elderberry Açaí Ximenia Elderberry Rambutan 
+Avocado Currant Satsuma Orange Soursop Jambul Tamarind Mangosteen Kiwifruit Loganberry
+Coconut Cranberry Canistel Date Fig Pear Date Huckleberry Açaí Apricot
+Grapefruit Lulo Honeydew Cashew Abiu Boysenberry Plum Kiwifruit Ximenia Honeyberry
+Nectarine Peach Tangerine Cherimoya Quince Persimmon Breadfruit Canistel Banana Huckleberry
+Cempedak Jambul Jostaberry Elderberry Pomegranate Ackee Pawpaw Apricot Salak Jujube
+esports play entertainment basketball running football skiing sportaccord hobbies movement
+team downfield judo combat video hobbies frolic sportaccord club fun
+lifestyle players frisk disport rollick activities game competition sportsmanship offside
+work company sports dynamic work teams safari hunting lifestyle physical
+casual pack job social gambol utility competitive dance physical cavort
+soccerball waterski gamely show position safari extracurricular movement field industry
+rugby tennis class suit career motorsports safari comfort athletes ineligible
+diver skill running lead physical racing triathlon gymnastics referee work
+physical tennis supersport esport active frisk combat challenge boulder ineligible
+skateboard dirt lead cross rollick hunting position entertainment waterski running
+class athlete active extracurricular exercises utility hobby esport career shoot
+transistor laptop machines visualdisplayunit inputdevice desktoppcs calculator pornographicimages inputdevice eniac
+computercircuit computercide personalcomputer centralprocessing unit downloader dataconverter desktop computerhardware peripheral digitalaudioplayer
+microprocessor calculator desktopcomputer mechanicalcomputer compatible mobile homecomputer peripheral virtualreality cpu
+processor incompatible personalcomputer mainframe phone antivirus computerprogramming homecomputer digital internet
+phone cpu mainframe ibook bit laptop cyber keyboard centralprocessing unit cpu
+machine spyware automation compatible downloader cpu digitalaudioplayer ibook microcomputer programmer
+android internet supercomputer mainframe compatible ibook information peripheral computerhardware computerscience
+integratedcircuit vacuumtube eniac astrolabe abacus browser server incompatible console internet
+daw compatible computerprogram daw computerprogramming antivirus computerprogram von neumann machine camera compatible
+mechanicalcomputer daw server programming computerscience centralprocessing unit von neumann machine android machines algorithm
+turingmachine keyboard computerhardware digitalaudioplayer mobiledevice integratedcircuit virtualreality computing mobiledevice desktoppcs
+Drapes Throne Inlay Hassock Furnishings Wheelchair Bassinet Waterbed Desk Footrest
+Armoire Breakfront Bassinet Stool Valet Bassinet Drapery Zitan Console Cushion
+Crib Cart Chandelier Dresser Pew Tuffet Fluting Armoire Pantry Mattress
+Volute Furniture Bureau Fan Hutch Ottoman Pillow Recliner Couch Cot
+Mattress Television Throne Ottoman Mattress Hassock Hammock Fauteuil Crib Ottoman
+Footrest Chandelier Headboards Futon Chest Tuffet Frieze Rug Dresser Futon
+Buffet Vitrine Island Couch Fan Air-conditioner Wardrobe Shelf Zitan Bureau
+Daybed Screen Rack Hassock Regency Daybed Stool Pew Footstool Clock
+Cradle Headboards Cabriole Sofa Zitan Hokey Waterbed Etagère Footstool Upholstery
+Inlay Bed Sconce Secretary Armchair Headboards Lintel Bed Sofa Island
+Carpet Pillow Couch Lounger Divan Futon Vitrine Lamp Table Cushion
+crisis offenses pirate bloodshed incarceration justice homelessness crisis gangs guilt
+guilt robbery theft tort heist transgression statutory misdemeanor murders offenses
+investigation imprisonment sentence police supernatural drugs mob statutory abuse violence
+smuggle barratry cybercrime war mafia human story poison legislature safety
+mutilation gangster revenge investigation barratry abuse gang muggings conspiracy blackmail
+drama supernatural jurisdiction muggings illegal prison detective drama revenge offense
+corruption political smuggle racism slayings misdemeanor drug statutory robbery misdemeanour
+lift trafficking snitching story criminality mystery thriller guilt sin accident
+death country criminality drugs illegal gangster trafficking gun safety guilt
+slayings trafficking misdemeanour guilt gang terrorism abuse highjack legal offenders
+crisis mutilation gangs snitching pirate hijack robbery mob gangs bloodshed

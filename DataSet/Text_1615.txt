@@ -1,0 +1,99 @@
+BinaryNumber_0011011 BinaryNumber_1001101 BinaryNumber_0101101 BinaryNumber_0011111 BinaryNumber_0010101 BinaryNumber_0110001 BinaryNumber_0001010 BinaryNumber_0100110 BinaryNumber_0101001 BinaryNumber_0110111
+BinaryNumber_0110011 BinaryNumber_0011110 BinaryNumber_1001001 BinaryNumber_0111010 BinaryNumber_0001001 BinaryNumber_0010001 BinaryNumber_0100001 BinaryNumber_0001100 BinaryNumber_1000011 BinaryNumber_0101000
+BinaryNumber_0110110 BinaryNumber_0111000 BinaryNumber_1010011 BinaryNumber_0011010 BinaryNumber_0010111 BinaryNumber_0101100 BinaryNumber_0111101 BinaryNumber_0110111 BinaryNumber_0101111 BinaryNumber_0010110
+BinaryNumber_0000111 BinaryNumber_1000110 BinaryNumber_0001110 BinaryNumber_0001001 BinaryNumber_0100010 BinaryNumber_0110111 BinaryNumber_0010000 BinaryNumber_0110110 BinaryNumber_1001011 BinaryNumber_0110000
+BinaryNumber_0011101 BinaryNumber_0110011 BinaryNumber_0100010 BinaryNumber_0101100 BinaryNumber_0111011 BinaryNumber_1001011 BinaryNumber_0100011 BinaryNumber_0000100 BinaryNumber_0110101 BinaryNumber_0001011
+BinaryNumber_0111110 BinaryNumber_1000101 BinaryNumber_1100010 BinaryNumber_1001001 BinaryNumber_0000001 BinaryNumber_0100111 BinaryNumber_0110101 BinaryNumber_1011000 BinaryNumber_0000011 BinaryNumber_0010001
+BinaryNumber_0010010 BinaryNumber_1000111 BinaryNumber_1000111 BinaryNumber_0011001 BinaryNumber_0010101 BinaryNumber_1000001 BinaryNumber_1011100 BinaryNumber_0010001 BinaryNumber_0101101 BinaryNumber_1100000
+BinaryNumber_0101100 BinaryNumber_0001010 BinaryNumber_0110000 BinaryNumber_0111101 BinaryNumber_0101100 BinaryNumber_1000011 BinaryNumber_0110101 BinaryNumber_0100000 BinaryNumber_1010110 BinaryNumber_0010001
+BinaryNumber_0111010 BinaryNumber_0110011 BinaryNumber_1000010 BinaryNumber_1100010 BinaryNumber_1011111 BinaryNumber_0010100 BinaryNumber_0001001 BinaryNumber_0110000 BinaryNumber_0000110 BinaryNumber_0110010
+BinaryNumber_1011000 BinaryNumber_0010100 BinaryNumber_1100001 BinaryNumber_0100101 BinaryNumber_0011111 BinaryNumber_0000110 BinaryNumber_0101101 BinaryNumber_0001111 BinaryNumber_0100001 BinaryNumber_1001111
+BinaryNumber_0011000 BinaryNumber_0110101 BinaryNumber_0000010 BinaryNumber_0010000 BinaryNumber_1001010 BinaryNumber_1010110 BinaryNumber_0100010 BinaryNumber_0011100 BinaryNumber_1011111 BinaryNumber_0000000
+Ximenia Avocado Açaí Apple Pawpaw Pawpaw Salmonberry Canistel Tamarillo Pomegranate
+Cranberry Orange Raisin Breadfruit Sapodilla Clementine Yuzu Lemon Canistel Canistel
+Blueberry Jambul Redcurrant Plum Jujube Avocado Cherry Persimmon Grape Jujube
+Honeyberry Apricot Bilberry Akebi Cherimoya Blueberry Boysenberry Plantain Redcurrant Mango
+Soursop Cherry Ximenia Apple Sapodilla Strawberry Raisin Pineapple Plumcot Damson
+Satsuma Blueberry Plumcot Pawpaw Watermelon Blackberry Raisin Salak Strawberry Ackee
+Açaí Tayberry Pomegranate Bilberry Nectarine Orange Sapote Mandarine Ackee Salmonberry
+Huckleberry Grapefruit Cempedak Peach Yuzu Mango Coconut Honeydew Tayberry Plantain
+Lime Cantaloupe Cashew Apricot Nectarine Cempedak Mandarine Jujube Araza Jackfruit
+Passionfruit Huckleberry Nectarine Melon Longan Mulberry Elderberry Tamarind Pomelo Nectarine
+Soursop Cloudberry Kiwano Quince Honeydew Lychee Breadfruit Kiwifruit Cantaloupe Elderberry
+Pantry Buffet Bookshelf Rack Cot Fan Secretary Ottoman Buffet Fauteuil
+Sofabed Jardinière Cushion Mattress Desk Pliant Hokey Cabinet Fauteuil Fan
+Screen Cabinet Lamp Waterbed Bowfront Stool Wardrobe Zitan Rattle Breakfront
+Volute Rug Bench Rack Armchair Loveseat Bentwood Armoire Dresser Cart
+Bowfront Dresser Rug Pliant Fan Carpet Hammock Stool Carpet Sconce
+Couch Light Headboards Castor Bench Bassinet Stool Hokey Tansu Mantle
+Tansu Cabriole Inlay Couch Fluting Upholstery Marquetry Breakfront Bench Pew
+Hammock Jardinière Island Hutch Furniture Daybed Couch Sconce Wardrobe Hutch
+Vitrine Light Tallboy Breakfront Credenza Television Breakfront Armoire Vanity Baroque
+Pillow Bookcase Hutch Hokey Island Highchair Rug Television Island Valet
+Bookshelf Fauteuil Drapery Bassinet Vanity Chandelier Ottoman Headboards Pillow Furniture
+CubeNumber_166375 CubeNumber_262144 CubeNumber_704969 CubeNumber_39304 CubeNumber_125 CubeNumber_175616 CubeNumber_140608 CubeNumber_704969 CubeNumber_216 CubeNumber_493039
+CubeNumber_1728 CubeNumber_27000 CubeNumber_64 CubeNumber_68921 CubeNumber_592704 CubeNumber_729 CubeNumber_21952 CubeNumber_216000 CubeNumber_941192 CubeNumber_64000
+CubeNumber_636056 CubeNumber_941192 CubeNumber_512000 CubeNumber_857375 CubeNumber_551368 CubeNumber_9261 CubeNumber_29791 CubeNumber_274625 CubeNumber_6859 CubeNumber_15625
+CubeNumber_17576 CubeNumber_29791 CubeNumber_571787 CubeNumber_24389 CubeNumber_79507 CubeNumber_216 CubeNumber_681472 CubeNumber_636056 CubeNumber_59319 CubeNumber_405224
+CubeNumber_140608 CubeNumber_314432 CubeNumber_912673 CubeNumber_59319 CubeNumber_39304 CubeNumber_373248 CubeNumber_6859 CubeNumber_531441 CubeNumber_493039 CubeNumber_512000
+CubeNumber_175616 CubeNumber_804357 CubeNumber_8000 CubeNumber_287496 CubeNumber_64 CubeNumber_592704 CubeNumber_216 CubeNumber_8000 CubeNumber_132651 CubeNumber_456533
+CubeNumber_91125 CubeNumber_175616 CubeNumber_274625 CubeNumber_117649 CubeNumber_79507 CubeNumber_6859 CubeNumber_3375 CubeNumber_287496 CubeNumber_636056 CubeNumber_216
+CubeNumber_110592 CubeNumber_2197 CubeNumber_140608 CubeNumber_19683 CubeNumber_64000 CubeNumber_54872 CubeNumber_300763 CubeNumber_704969 CubeNumber_274625 CubeNumber_681472
+CubeNumber_5832 CubeNumber_13824 CubeNumber_551368 CubeNumber_166375 CubeNumber_328509 CubeNumber_27000 CubeNumber_531441 CubeNumber_343 CubeNumber_1000 CubeNumber_456533
+CubeNumber_884736 CubeNumber_438976 CubeNumber_830584 CubeNumber_512 CubeNumber_729 CubeNumber_157464 CubeNumber_10648 CubeNumber_39304 CubeNumber_250047 CubeNumber_681472
+CubeNumber_512 CubeNumber_857375 CubeNumber_59319 CubeNumber_185193 CubeNumber_729000 CubeNumber_636056 CubeNumber_6859 CubeNumber_216000 CubeNumber_512 CubeNumber_729000
+digital computerprogram bit phone desktopcomputer digital antivirus von neumann machine bit virtualreality
+supercomputer ibook screen software machinecode camera game game machinecode personalcomputer
+desktopcomputer proprietary digitalaudioplayer ibook eniac centralprocessing unit analogcomputer keyboard hardware programmer
+supercomputer watch computercircuit mobiledevice eniac tablet vacuumtube compatible cell digitalaudioplayer
+programming desktoppcs sliderule analogcomputer watch game compatible pc proprietary bit
+desktoppcs laptopcomputer daw phone processor imac computerscience diskette computerprogram computing
+desktoppcs imac transistor visualdisplayunit automation machinecode browser diskette von neumann machine computerprogramming
+compatible supercomputer automation hardware browser proprietary proprietary computercircuit tablet screen
+phone dataconverter cell integratedcircuit personalcomputer memory astrolabe data digitalcomputer daw
+watch algorithm turingmachine escapekey data chip digitalaudioplayer mainframe digitalcomputer keyboard
+computerprogramming electronics bit computerhardware visualdisplayunit imac peripheral office social software
+graphics harpsichord graduation bands part tongue reharmonize harmonize musical musicality
+literature tongue movie karaoke bass paleolithic rock audio trumpet musicality
+sfx creative chaconne melody reading art literature party ambience intonation
+sonata intonation art music song ska club theatre festival audio scale
+rhythm popular music melodies instruments sforzando tone bands harp single techno
+bassline favorite chorus solmizate artist atmosphere speak drum harpsichord ragtime
+popular music singers section timbre tonality symphonise chaconne folk oboe tone
+writing poetry artists compositions tuba mediant subdivision tonality schubert silence
+playlists oboe tonic fermata jazzfunk podcasts hyperpop arts vocals videos
+action sonata harmonize madrigal musicality popular music music clarinet harp instrumentals
+instrumentals saxophone roulade composer bass lute works funk carol concerto
+SkyBlue MediumOrchid Chartreuse LightSkyBlue LightBlue DarkKhaki Pink Beige Bisque AliceBlue
+Wheat Indigo Linen SaddleBrown SteelBlue Blue Orchid HotPink Wheat MediumSlateBlue
+Gray SeaGreen Sienna MediumSlateBlue DarkSlateBlue LemonChiffon PaleGoldenrod Gold MediumSpringGreen LimeGreen
+LightGoldenrod Khaki White LavenderBlush Khaki Orchid RoyalBlue Linen SandyBrown LightGoldenrod
+Beige OldLace LawnGreen OldLace PapayaWhip Violet MediumSpringGreen DarkFuchsia OliveDrab Yellow
+DarkBlue Green LightGreen RosyBrown Aquamarine Yellow SkyBlue DarkGoldenrod DarkSalmon Thistle
+PapayaWhip SteelBlue LightCyan Pink LightGreen Feldspar LightSkyBlue LimeGreen Honeydew DarkGoldenrod
+DarkSlateBlue SteelBlue Blue SpringGreen Snow Peru WhiteSmoke LightYellow RoyalBlue Azure
+Violet LightGray Purple Blue OrangeRed Orange DarkGray DarkGoldenrod DarkSlateGray NavajoWhite
+DarkKhaki Turquoise LightCyan PowderBlue DarkOrange Turquoise Peru LimeGreen WhiteSmoke VioletRed
+DarkSeaGreen GhostWhite LightSteelBlue OliveDrab AliceBlue PaleVioletRed Peru Teal Firebrick Gold
+pasta beef victuals edible meat fruit nutrient victuals seafood eat
+fruits vegetables plant fruits vegetables nutrient sushi drinks beef meat seafood chicken
+nourishment cereal rice beef fruit fruit beef eat plant plant
+soup rice meal pasta milk nourishment beef meals victuals nourishment
+seafood meal meat animal sushi eat fruit eat seafood sushi
+fruit cereal nourishment cooking restaurant animal fruits vegetables restaurant cheese provender
+animal meals vegetable restaurant meal provender fruit pasta fruits vegetables nutrient
+fruit plant provender seafood meat cooking seafood provender fruits vegetables cooking
+pasta nutrition eat meat meal milk fruits vegetables fruits vegetables milk cereal
+chicken sushi sushi sushi drinks beef eat plant plant milk
+soup vegetable cereal victuals cheese provender rice meal meal edible
+partial manipulate regime hypocrisy beleaguer defamation mendacity career acolyte patronage
+solicit scandal coercion engagement partial deception hypocrisy empire privilege tycoon
+scandalous anonymity patronage scandalous deficit parry expose illicit mercurial parry
+intimidation demagogue blame unjust empire career unsavory accusation patronage revelation
+defamation recrimination reckless empire endorsement lobby incident bribe resignation corruption
+massive sloth solicit claim patriarchy prestidigitation persecution tarnish sloth fiasco
+deflect authoritarian bamboozle subterfuge feud empire illicit coterie revelation patriarchy
+scandal recrimination incident dictatorship tainted impunity plagiarism opportunist dictatorship deficit
+privilege cadre denigrate scandal unsavory blame retaliation scandal patriarchy career
+denigrate persecution expose resignation illegal obscure scandal parry defamation hypocrisy
+assail retaliation unjust scapegoat malfeasance plutocracy conceal sloth accusation unsavory

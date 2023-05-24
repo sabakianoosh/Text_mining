@@ -1,0 +1,99 @@
+temperature__147c temperature__146c temperature__16c temperature__8c temperature__58c temperature__69c temperature__74c temperature__17c temperature__31c temperature__90c
+temperature__16c temperature__10c temperature__141c temperature__140c temperature__136c temperature__78c temperature__118c temperature__3c temperature__21c temperature__17c
+temperature__6c temperature__57c temperature__47c temperature__112c temperature__7c temperature__132c temperature__42c temperature__119c temperature__26c temperature__27c
+temperature__36c temperature__63c temperature__27c temperature__131c temperature__68c temperature__40c temperature__58c temperature__61c temperature__95c temperature__86c
+temperature__118c temperature__8c temperature__53c temperature__147c temperature__11c temperature__23c temperature__0c temperature__14c temperature__3c temperature__68c
+temperature__138c temperature__40c temperature__144c temperature__5c temperature__42c temperature__35c temperature__33c temperature__90c temperature__26c temperature__90c
+temperature__129c temperature__148c temperature__8c temperature__27c temperature__132c temperature__16c temperature__144c temperature__91c temperature__111c temperature__57c
+temperature__21c temperature__31c temperature__36c temperature__92c temperature__79c temperature__141c temperature__40c temperature__137c temperature__119c temperature__63c
+temperature__139c temperature__108c temperature__73c temperature__106c temperature__5c temperature__10c temperature__4c temperature__136c temperature__90c temperature__111c
+temperature__27c temperature__105c temperature__63c temperature__126c temperature__98c temperature__85c temperature__141c temperature__10c temperature__7c temperature__24c
+temperature__147c temperature__108c temperature__50c temperature__124c temperature__4c temperature__87c temperature__82c temperature__61c temperature__61c temperature__34c
+SquareNumber_4 SquareNumber_1849 SquareNumber_5329 SquareNumber_225 SquareNumber_1024 SquareNumber_4761 SquareNumber_1296 SquareNumber_2500 SquareNumber_3721 SquareNumber_484
+SquareNumber_400 SquareNumber_2601 SquareNumber_1225 SquareNumber_1156 SquareNumber_8649 SquareNumber_6561 SquareNumber_1600 SquareNumber_4096 SquareNumber_2304 SquareNumber_144
+SquareNumber_7921 SquareNumber_3969 SquareNumber_2025 SquareNumber_4225 SquareNumber_361 SquareNumber_1156 SquareNumber_4761 SquareNumber_3721 SquareNumber_100 SquareNumber_5929
+SquareNumber_529 SquareNumber_81 SquareNumber_784 SquareNumber_4096 SquareNumber_4624 SquareNumber_5929 SquareNumber_3600 SquareNumber_9025 SquareNumber_2916 SquareNumber_7744
+SquareNumber_5625 SquareNumber_256 SquareNumber_1849 SquareNumber_1849 SquareNumber_6561 SquareNumber_1156 SquareNumber_3249 SquareNumber_1764 SquareNumber_7744 SquareNumber_225
+SquareNumber_5476 SquareNumber_324 SquareNumber_4489 SquareNumber_8836 SquareNumber_7569 SquareNumber_625 SquareNumber_100 SquareNumber_7056 SquareNumber_2025 SquareNumber_9
+SquareNumber_5184 SquareNumber_1024 SquareNumber_441 SquareNumber_5929 SquareNumber_484 SquareNumber_4096 SquareNumber_7225 SquareNumber_8836 SquareNumber_3136 SquareNumber_484
+SquareNumber_4489 SquareNumber_4356 SquareNumber_256 SquareNumber_16 SquareNumber_3364 SquareNumber_400 SquareNumber_5041 SquareNumber_4 SquareNumber_1225 SquareNumber_441
+SquareNumber_8281 SquareNumber_4624 SquareNumber_7744 SquareNumber_4624 SquareNumber_6561 SquareNumber_81 SquareNumber_144 SquareNumber_1936 SquareNumber_9409 SquareNumber_81
+SquareNumber_484 SquareNumber_8836 SquareNumber_484 SquareNumber_49 SquareNumber_36 SquareNumber_841 SquareNumber_121 SquareNumber_1089 SquareNumber_784 SquareNumber_1089
+SquareNumber_9025 SquareNumber_8836 SquareNumber_100 SquareNumber_2704 SquareNumber_2601 SquareNumber_3364 SquareNumber_900 SquareNumber_5476 SquareNumber_64 SquareNumber_9216
+funny misty ugly bored glorious clean worrisome thoughtful different happy
+excited disturbed dead dizzy panicky putrid charming cooperative anxious grumpy
+creepy nutty crowded dizzy motionless lovely famous bewildered super strange
+cooperative witty worrisome stupid dull proud condemned weary ill agreeable
+jolly bored innocent fragile gentle blue fragile cooperative inexpensive wrong
+arrogant foolish mysterious tame putrid ugly poor drab frail thoughtful
+determined long excited tender aggressive blue ugly lively expensive light
+wrong powerful breakable blue-eyed bad ugliest encouraging innocent perfect vivacious
+dark cooperative distinct brave beautiful lazy combative grotesque grumpy uptight
+handsome gentle confused gifted fragile silly colorful amused ill busy
+wild agreeable average better precious uninterested tasty excited cooperative naughty
+soccerball competitive activity feature fitness challenge cross gymnastics rowing competition
+fitness supersport physical disport fun disport waterski eco hobbies pack
+boulder pro downfield run movement dirt chess racing combat hockey
+position hockey utility game waterski comfort basketball rollick form downfield
+game social position action ski skiing rollick culture archery lead
+horseracing performance industry company yoga culture volleyball kill sportsmanship concert
+dirt play eco fighting utility fun tournaments recreation sportaccord athletics
+premium sportsman boast competitive concert casual goal fun blazers polo
+active music yoga sportsmanship motorsports team sportsman sportaccord fighting dive
+art social lark form industry volleyball diver recreation field hunters
+dive lark disport fitness competition games recreation safari play athlete
+Pink DarkRed SlateBlue CornflowerBlue Orange LimeGreen LavenderBlush Gainsboro Blue CadetBlue
+Sienna SeaGreen Cyan DarkGoldenrod LightYellow Beige Orange MintCream Teal SlateGray
+DarkOrchid MediumTurquoise VioletRed Olive Lavender DarkSlateGray Chartreuse Snow Aquamarine DarkKhaki
+DarkSeaGreen DeepPink OliveDrab Yellow SkyBlue Navy Orange Goldenrod LightSeaGreen Thistle
+Orange Orange Cyan MidnightBlue BlanchedAlmond BlueViolet Fuchsia SlateBlue Fuchsia Orange
+White Turquoise MediumOrchid CornflowerBlue Thistle MediumTurquoise Moccasin GreenYellow LightCyan OldLace
+Maroon GhostWhite OliveDrab MediumTurquoise ForestGreen SaddleBrown Beige ForestGreen LimeGreen Tomato
+LightGoldenrodYellow Teal LightGray LightSteelBlue FloralWhite Cornsilk MistyRose MistyRose BlueViolet SkyBlue
+Orchid Maroon DarkSalmon MediumOrchid DodgerBlue Coral GreenYellow Chocolate BlanchedAlmond LightPink
+Crimson DarkGray DarkRed NavajoWhite ForestGreen Chartreuse SlateGray DarkRed Ivory CadetBlue
+Burlywood PowderBlue LightSeaGreen Brown MediumAquamarine CadetBlue DimGray Black Violet CadetBlue
+concert vocals tone sound art music hiphop flute singers violin funk
+popular music graphics symphonic subtonic fermata guitar visual saxophone opera banjo
+ambient euphony albums electronica soundtrack harpsichord instruments favorite talking album
+popular music mp3s banjo triple-tongue song tonic bass atmosphere reggae muse
+subdivision podcasts banjo vocal art music gospel concerto singing creative oboe
+sonata musicians studio musicians compositions club pizzicato recording hip mp3s
+rockabilly mp3s improvisation talk jazzfunk harp oboe karaoke monophony films
+festival concert club texture symphonic rock performance tuning talk work
+clarinet orchestra entertainment bands hip ska audio lute exposition violoncello
+graduation bar performance story culture design bars radio graphics singing
+cello bars melodic muses gospel live mp3s bhangra sounds jazz
+17:16 19:39 11:51 22:18 11:39 12:25 19:45 21:40 12:51 19:50
+14:16 16:31 18:48 21:46 19:14 17:43 22:13 12:22 20:29 18:34
+14:56 20:23 19:43 13:31 19:48 19:43 16:47 15:27 12:32 13:59
+13:13 17:11 16:50 16:11 13:24 11:40 20:47 20:52 12:25 14:36
+19:19 15:54 15:54 14:14 14:16 23:12 11:40 22:13 13:14 13:22
+13:13 23:25 17:18 23:55 16:34 13:35 20:32 10:10 10:58 20:13
+16:47 17:58 13:27 12:56 15:15 18:31 11:44 20:19 11:10 10:23
+17:25 12:59 17:15 12:11 20:42 21:57 15:52 10:54 16:35 13:27
+11:44 22:23 11:51 15:39 14:44 20:18 11:38 11:51 23:46 18:26
+22:49 13:58 13:18 20:44 17:53 11:39 15:50 20:53 20:43 11:41
+10:12 14:43 14:15 13:33 12:58 15:36 12:58 12:17 11:30 21:25
+pigs varmint birds carnivore iguana eukaryotic rabbit varmint environmental workanimal
+chordate amphibians amphibians iguana dog ladybug poikilotherm fauna jellyfish varmint
+insect chordate beast sheep insectivorous zoology jellyfish wildlife carnal animal welfare
+chordate multicellular exoticanimals deer iguana embryo pet shelter meat poikilotherm
+vertebrate primate plant pups llamas fish dogs marineanimal jellyfish raccoon
+vegan shelter dinosaur insectivorous embryo mythical zooplankton chordate llamas zoo
+vertebrate amphibians carnal poikilotherm animalia fleshly plant predatoryanimal animalia frog
+monster animatebeing hourse varmint meat elephants beast poikilotherm cats bobcat
+thoroughbred fauna porifera fantasy insect bug puppy livestock carnal jellyfish
+zooplankton birds cats porifera biped pet insect tiger zooplankton mammals
+livestock clams thoroughbred iguana jellyfish animalia amphibians ladybug pitbull pig
+rice beef meal rice victuals nutrient provender eat provender eat
+cereal edible beef drinks fruits vegetables pasta beef eat nourishment plant
+fruits vegetables vegetable meals milk victuals pasta meals drinks meal fruit
+chicken soup drinks fruits vegetables animal animal cooking sushi meal restaurant
+cheese pasta restaurant eat seafood cheese pasta plant plant nourishment
+restaurant victuals fruits vegetables meal victuals pasta meal seafood nutrient soup
+cooking victuals victuals milk seafood meal cooking provender edible fruit
+restaurant soup rice meals edible sushi cheese rice restaurant cheese
+pasta sushi nutrition chicken meals vegetable drinks rice meal victuals
+victuals beef nutrient fruit cheese meal cheese meat fruit restaurant
+beef meat eat drinks animal rice vegetable fruit meals fruits vegetables

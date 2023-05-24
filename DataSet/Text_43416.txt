@@ -1,0 +1,99 @@
+sportsmanship sportsman sports lifestyle sports soccerball motorcycling form polo horseracing
+gymnastics games downfield tournament coach utility exercises company goal organization
+comfort recreation tournament goal position active sports rollick frolic activities
+champion movement sport run standard hunting fitness club comfort horseracing
+events kill hiking entertainment games spar suit racing wipeout challenge
+social horseracing activities ineligible skylark social organization schuss gamely dynamic
+bike rugby muscle spar suit sportaccord disport career combat tournaments
+safari dance lark motorcycling motorcycling supersport concert exercise games tournament
+organization tradition sportsman safari sport hunters esport organization downfield industry
+concert teams gymnastics tradition health extracurricular triathlon hobby disport job
+athletics culture play chess concert waterski blazers recreation gymnastics funambulism
+CubeNumber_1728 CubeNumber_157464 CubeNumber_474552 CubeNumber_804357 CubeNumber_4096 CubeNumber_21952 CubeNumber_148877 CubeNumber_636056 CubeNumber_438976 CubeNumber_12167
+CubeNumber_110592 CubeNumber_512 CubeNumber_12167 CubeNumber_493039 CubeNumber_39304 CubeNumber_226981 CubeNumber_2197 CubeNumber_531441 CubeNumber_9261 CubeNumber_238328
+CubeNumber_205379 CubeNumber_389017 CubeNumber_166375 CubeNumber_117649 CubeNumber_405224 CubeNumber_8 CubeNumber_5832 CubeNumber_300763 CubeNumber_830584 CubeNumber_941192
+CubeNumber_343000 CubeNumber_29791 CubeNumber_79507 CubeNumber_274625 CubeNumber_753571 CubeNumber_531441 CubeNumber_42875 CubeNumber_117649 CubeNumber_110592 CubeNumber_19683
+CubeNumber_753571 CubeNumber_389017 CubeNumber_636056 CubeNumber_328509 CubeNumber_46656 CubeNumber_226981 CubeNumber_103823 CubeNumber_614125 CubeNumber_405224 CubeNumber_12167
+CubeNumber_250047 CubeNumber_250047 CubeNumber_10648 CubeNumber_2744 CubeNumber_125000 CubeNumber_8000 CubeNumber_59319 CubeNumber_117649 CubeNumber_681472 CubeNumber_15625
+CubeNumber_300763 CubeNumber_64 CubeNumber_941192 CubeNumber_2197 CubeNumber_64000 CubeNumber_300763 CubeNumber_125 CubeNumber_132651 CubeNumber_148877 CubeNumber_681472
+CubeNumber_148877 CubeNumber_42875 CubeNumber_884736 CubeNumber_19683 CubeNumber_456533 CubeNumber_216000 CubeNumber_1000 CubeNumber_91125 CubeNumber_205379 CubeNumber_421875
+CubeNumber_42875 CubeNumber_912673 CubeNumber_17576 CubeNumber_27 CubeNumber_438976 CubeNumber_32768 CubeNumber_117649 CubeNumber_27 CubeNumber_250047 CubeNumber_85184
+CubeNumber_474552 CubeNumber_27000 CubeNumber_157464 CubeNumber_1000 CubeNumber_74088 CubeNumber_64 CubeNumber_551368 CubeNumber_1728 CubeNumber_314432 CubeNumber_32768
+CubeNumber_10648 CubeNumber_238328 CubeNumber_753571 CubeNumber_493039 CubeNumber_4913 CubeNumber_10648 CubeNumber_195112 CubeNumber_54872 CubeNumber_421875 CubeNumber_110592
+SquareNumber_7744 SquareNumber_4624 SquareNumber_4761 SquareNumber_3249 SquareNumber_1089 SquareNumber_1521 SquareNumber_576 SquareNumber_8100 SquareNumber_5929 SquareNumber_2704
+SquareNumber_7569 SquareNumber_3969 SquareNumber_3025 SquareNumber_5041 SquareNumber_1089 SquareNumber_400 SquareNumber_8836 SquareNumber_7056 SquareNumber_676 SquareNumber_784
+SquareNumber_784 SquareNumber_784 SquareNumber_1600 SquareNumber_7396 SquareNumber_5329 SquareNumber_1764 SquareNumber_4096 SquareNumber_324 SquareNumber_1681 SquareNumber_1764
+SquareNumber_36 SquareNumber_169 SquareNumber_4900 SquareNumber_9 SquareNumber_10000 SquareNumber_625 SquareNumber_2704 SquareNumber_2401 SquareNumber_1444 SquareNumber_2809
+SquareNumber_4489 SquareNumber_4489 SquareNumber_81 SquareNumber_36 SquareNumber_4624 SquareNumber_100 SquareNumber_8281 SquareNumber_121 SquareNumber_2304 SquareNumber_81
+SquareNumber_6241 SquareNumber_2601 SquareNumber_625 SquareNumber_7569 SquareNumber_3364 SquareNumber_5625 SquareNumber_5329 SquareNumber_4356 SquareNumber_2500 SquareNumber_9409
+SquareNumber_2601 SquareNumber_3364 SquareNumber_961 SquareNumber_16 SquareNumber_1225 SquareNumber_4356 SquareNumber_484 SquareNumber_7396 SquareNumber_361 SquareNumber_2704
+SquareNumber_5476 SquareNumber_1681 SquareNumber_10000 SquareNumber_9216 SquareNumber_3721 SquareNumber_1296 SquareNumber_6889 SquareNumber_1681 SquareNumber_4225 SquareNumber_5476
+SquareNumber_2401 SquareNumber_4 SquareNumber_9216 SquareNumber_6561 SquareNumber_81 SquareNumber_3364 SquareNumber_961 SquareNumber_841 SquareNumber_7921 SquareNumber_625
+SquareNumber_8649 SquareNumber_576 SquareNumber_5929 SquareNumber_3844 SquareNumber_5476 SquareNumber_8281 SquareNumber_3844 SquareNumber_7921 SquareNumber_529 SquareNumber_1681
+SquareNumber_9604 SquareNumber_625 SquareNumber_6241 SquareNumber_8281 SquareNumber_2116 SquareNumber_81 SquareNumber_196 SquareNumber_256 SquareNumber_8464 SquareNumber_4761
+BinaryNumber_1001000 BinaryNumber_1000010 BinaryNumber_0001111 BinaryNumber_0111111 BinaryNumber_0110000 BinaryNumber_1100011 BinaryNumber_0011101 BinaryNumber_0111000 BinaryNumber_1011000 BinaryNumber_1000101
+BinaryNumber_0101111 BinaryNumber_0011001 BinaryNumber_0011100 BinaryNumber_0011011 BinaryNumber_0100011 BinaryNumber_1100001 BinaryNumber_0110110 BinaryNumber_1100011 BinaryNumber_0010010 BinaryNumber_1011000
+BinaryNumber_0100001 BinaryNumber_0111111 BinaryNumber_1001101 BinaryNumber_1100011 BinaryNumber_1001001 BinaryNumber_0111110 BinaryNumber_1011001 BinaryNumber_1000110 BinaryNumber_1001111 BinaryNumber_0001111
+BinaryNumber_0000101 BinaryNumber_0010110 BinaryNumber_0010101 BinaryNumber_0000000 BinaryNumber_1010111 BinaryNumber_0011100 BinaryNumber_0111011 BinaryNumber_0000110 BinaryNumber_0000101 BinaryNumber_1010010
+BinaryNumber_0011011 BinaryNumber_0010100 BinaryNumber_0111001 BinaryNumber_0111000 BinaryNumber_1010110 BinaryNumber_0001001 BinaryNumber_0001011 BinaryNumber_0110001 BinaryNumber_0010100 BinaryNumber_0100010
+BinaryNumber_0001110 BinaryNumber_0101011 BinaryNumber_0110011 BinaryNumber_0010000 BinaryNumber_0101010 BinaryNumber_1001001 BinaryNumber_0011111 BinaryNumber_0000101 BinaryNumber_0110101 BinaryNumber_0011100
+BinaryNumber_1011100 BinaryNumber_1010101 BinaryNumber_0100011 BinaryNumber_1100000 BinaryNumber_1011110 BinaryNumber_1011000 BinaryNumber_0110110 BinaryNumber_1010011 BinaryNumber_0001000 BinaryNumber_1100010
+BinaryNumber_0010001 BinaryNumber_1001010 BinaryNumber_0101101 BinaryNumber_0011010 BinaryNumber_0011100 BinaryNumber_0111011 BinaryNumber_1011100 BinaryNumber_0010000 BinaryNumber_0010101 BinaryNumber_0110010
+BinaryNumber_1001011 BinaryNumber_1011001 BinaryNumber_0001110 BinaryNumber_0011100 BinaryNumber_1000010 BinaryNumber_0001011 BinaryNumber_0011000 BinaryNumber_1100001 BinaryNumber_0111011 BinaryNumber_1011001
+BinaryNumber_1100010 BinaryNumber_0111010 BinaryNumber_1000100 BinaryNumber_0010111 BinaryNumber_0101100 BinaryNumber_0110010 BinaryNumber_0101001 BinaryNumber_0101101 BinaryNumber_0010100 BinaryNumber_1001000
+BinaryNumber_1011011 BinaryNumber_1010010 BinaryNumber_0101110 BinaryNumber_1001101 BinaryNumber_0100010 BinaryNumber_0100000 BinaryNumber_1010101 BinaryNumber_1010110 BinaryNumber_0010010 BinaryNumber_0010011
+computercide turingmachine supercomputer xbox machines social pc chip daw machines
+floppydisk hardware laptopcomputer centralprocessing unit camera homecomputer machine arithmetic virtualreality mainframe
+visualdisplayunit office console information mobiledevice centralprocessing unit daw analogcomputer computerprogram internet
+office calculator dataconverter microcomputer electronics screen programming phone algorithm digitalcomputer
+centralprocessing unit virtualreality device machinecode supercomputer integratedcircuit processor antivirus console proprietary
+electronics programmer computerprogram digitalcommunication pornographicimages smartphone escapekey computerscience programming expansionslot
+xbox android phone spyware cpu chip transistor turingmachine electromechanical router
+server supercomputer transistor server laptop internet programming personalcomputer sliderule mobile
+digital diskette computerscience digitalaudioplayer console virtualreality digital pc diskette downloader
+electromechanical chip sliderule cell cyber microcomputer microprocessor visualdisplayunit cpu expansionslot
+cybertechnology desktop information game programming automation watch homecomputer processor incompatible
+10:26 11:44 15:37 18:26 11:11 13:34 10:46 21:33 10:29 16:47
+15:23 20:18 12:39 12:26 12:54 12:48 20:21 15:17 11:12 22:22
+18:52 19:54 14:17 16:27 12:59 18:51 15:51 20:21 14:45 16:32
+12:40 11:32 19:54 11:10 22:39 16:10 11:25 16:34 23:54 13:17
+13:30 11:33 23:49 19:15 17:52 10:38 16:25 21:25 14:50 15:39
+15:37 18:34 12:52 10:50 21:47 17:30 20:37 23:11 14:56 19:14
+10:39 19:55 21:58 12:40 13:14 15:26 21:16 19:25 10:43 18:28
+18:51 10:36 17:12 23:32 18:45 17:49 13:14 19:35 16:54 16:26
+17:28 18:16 15:11 20:58 19:47 13:10 14:20 12:48 15:50 18:46
+21:53 23:56 13:49 15:51 22:54 23:44 23:41 22:22 17:53 17:15
+10:40 16:57 12:52 18:44 15:56 17:13 23:58 18:19 23:22 16:16
+MistyRose Thistle Honeydew LightSteelBlue DarkSeaGreen Moccasin SlateGray DarkRed Goldenrod Purple
+LightSteelBlue Wheat Brown Tan LightSteelBlue MediumTurquoise Violet Red Honeydew MediumAquamarine
+MediumBlue Gainsboro DeepPink Salmon Green Seashell SeaGreen Sienna IndianRed DarkFuchsia
+BlueViolet BlanchedAlmond Orange Silver OldLace MistyRose Thistle Navy Wheat MediumSlateBlue
+MediumPurple DarkSlateGray LightYellow DeepSkyBlue NavajoWhite SpringGreen MediumVioletRed BlueViolet DarkGreen LawnGreen
+MediumSeaGreen SandyBrown DarkOrange Ivory MediumBlue Red PapayaWhip Turquoise MintCream AntiqueWhite
+CornflowerBlue BlueViolet Seashell LightGreen LightCoral Navy Honeydew DarkCyan Khaki DimGray
+Pink White CadetBlue Chartreuse LightSalmon Orchid LightSkyBlue Red Teal Salmon
+SpringGreen LightSlateGray DarkSlateGray Salmon DarkCyan Beige Peru Purple DarkTurquoise SteelBlue
+CornflowerBlue CadetBlue MediumPurple Tan Gray LimeGreen Sienna Snow DimGray Khaki
+WhiteSmoke HotPink Red LightSteelBlue Honeydew Firebrick LightGray DarkViolet HotPink Plum
+Ileum Ligaments Iris Retina Arteries Tongue Ciliarybody Bladder skeleton Ovaries
+Pharynx Analcanal Brain Cranialnerves Mouth Cornea Brain Eardrum Cochlea Ileum
+Tongue Teeth Pharynx Ileum Trachea Veins Vagina Pons Ureter Cochlea
+Ureter Jejunum Mesentery Interstitium Ileum Pharynx Cornea Eardrum Cochlea Muscle
+Cornea Scrotum Tongue Teeth Gallbladder Spinalnerves Outerear Cochlea Cornea Pharynx
+Arteries Duodenum Mouth Sensoryorgans Lymphaticvessel Midbrain Ureter Scrotum Bladder Brain
+Cerebrum Tonsils Ileum Capillaries Lens Analcanal Nerves Midbrain Duodenum Thymus
+Teeth Lips Cervix Fallopiantubes Vagina Vulva Iris Ganglia Sensoryorgans Urethra
+Fallopiantubes skeleton Esophagus Sensoryorgans Teeth Bronchi Cervix Larynx Interstitium Vagina
+Nerves Pharynx Tastebuds Nerves Eardrum Esophagus Uterus Iris Ileum Lungs
+Jejunum Mesentery Tastebuds Placenta Earlobe Lens Teeth Earlobe Ganglia Muscle
+chicken edible seafood plant nutrition fruits vegetables milk cooking beef beef
+meal plant nutrient nutrient victuals cheese meat cooking rice eat
+beef sushi vegetable eat plant plant cereal provender cooking sushi
+milk cheese victuals chicken beef soup meal fruits vegetables soup milk
+rice cereal victuals vegetable drinks cooking meal beef soup fruits vegetables
+beef edible meal meat nourishment cooking eat meal seafood cheese
+soup animal restaurant meals restaurant fruits vegetables meal fruits vegetables cheese nutrient
+beef vegetable fruits vegetables provender cereal sushi victuals cooking cheese rice
+fruits vegetables fruit drinks meals sushi pasta fruit fruit edible restaurant
+meal animal nutrient milk fruits vegetables rice drinks nourishment plant animal
+cooking nutrient milk meat fruits vegetables sushi nourishment provender chicken chicken

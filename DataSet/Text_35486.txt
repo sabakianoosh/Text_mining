@@ -1,0 +1,99 @@
+13:33 21:57 20:13 17:59 10:40 16:17 22:25 22:33 13:33 10:16
+15:19 20:50 11:59 19:25 20:42 13:42 19:11 14:45 14:56 19:42
+22:41 21:12 14:17 20:31 16:19 14:59 23:20 23:36 18:43 17:51
+18:48 23:50 18:25 22:18 10:49 18:54 20:54 16:47 20:23 23:20
+23:16 13:27 10:14 17:28 14:51 10:25 11:12 19:53 21:18 22:56
+11:46 12:43 20:40 11:31 21:52 22:28 12:31 18:45 12:17 13:44
+14:49 16:50 22:48 22:36 14:22 23:17 21:20 18:18 19:39 17:30
+14:12 22:13 23:12 14:18 19:36 23:26 12:42 12:36 19:37 13:11
+17:58 12:37 16:54 11:18 10:24 13:20 19:12 19:41 21:53 18:46
+20:13 11:42 22:39 10:54 12:17 21:14 22:48 12:18 10:56 19:25
+22:24 11:30 21:34 14:46 15:55 23:12 21:51 20:44 23:52 12:46
+BinaryNumber_1100000 BinaryNumber_1000101 BinaryNumber_1011101 BinaryNumber_0010001 BinaryNumber_1000101 BinaryNumber_1001101 BinaryNumber_0010100 BinaryNumber_0011001 BinaryNumber_0000111 BinaryNumber_1001001
+BinaryNumber_0010110 BinaryNumber_0000001 BinaryNumber_0000000 BinaryNumber_0001010 BinaryNumber_1001101 BinaryNumber_0000010 BinaryNumber_0110001 BinaryNumber_0010000 BinaryNumber_0010011 BinaryNumber_1001000
+BinaryNumber_1001000 BinaryNumber_0111010 BinaryNumber_0111111 BinaryNumber_0001001 BinaryNumber_0001011 BinaryNumber_1001001 BinaryNumber_0000010 BinaryNumber_0101000 BinaryNumber_0011011 BinaryNumber_0110100
+BinaryNumber_0001101 BinaryNumber_0101011 BinaryNumber_1001000 BinaryNumber_0110111 BinaryNumber_0101010 BinaryNumber_0101001 BinaryNumber_0001000 BinaryNumber_0111101 BinaryNumber_0010000 BinaryNumber_1000100
+BinaryNumber_0000010 BinaryNumber_0111010 BinaryNumber_0001010 BinaryNumber_0011110 BinaryNumber_0110101 BinaryNumber_1010101 BinaryNumber_1010110 BinaryNumber_0111110 BinaryNumber_1011101 BinaryNumber_1010110
+BinaryNumber_1100010 BinaryNumber_1010110 BinaryNumber_0100010 BinaryNumber_0101111 BinaryNumber_0001011 BinaryNumber_0011011 BinaryNumber_1010011 BinaryNumber_0111000 BinaryNumber_1001010 BinaryNumber_0000000
+BinaryNumber_0111100 BinaryNumber_1001101 BinaryNumber_0110000 BinaryNumber_0100110 BinaryNumber_0001010 BinaryNumber_0001011 BinaryNumber_1011100 BinaryNumber_0101100 BinaryNumber_0111010 BinaryNumber_0111010
+BinaryNumber_0010111 BinaryNumber_0011110 BinaryNumber_0000101 BinaryNumber_0011001 BinaryNumber_1010111 BinaryNumber_0101011 BinaryNumber_0011111 BinaryNumber_1000110 BinaryNumber_0011100 BinaryNumber_1000111
+BinaryNumber_0011011 BinaryNumber_0111111 BinaryNumber_0011111 BinaryNumber_0000010 BinaryNumber_1011010 BinaryNumber_0000001 BinaryNumber_1001011 BinaryNumber_0011111 BinaryNumber_0010110 BinaryNumber_0010101
+BinaryNumber_0111001 BinaryNumber_0101100 BinaryNumber_1001101 BinaryNumber_1001100 BinaryNumber_1010011 BinaryNumber_0010110 BinaryNumber_1001110 BinaryNumber_0000011 BinaryNumber_1001101 BinaryNumber_1011000
+BinaryNumber_1010011 BinaryNumber_1011010 BinaryNumber_0011000 BinaryNumber_0010111 BinaryNumber_1000111 BinaryNumber_0111001 BinaryNumber_1010111 BinaryNumber_0001100 BinaryNumber_0100110 BinaryNumber_0000101
+restaurant drinks rice nourishment sushi nourishment chicken animal nutrient nutrition
+nutrient victuals chicken eat rice fruits vegetables cooking cheese cooking cereal
+cheese seafood plant edible provender fruit provender soup nourishment cheese
+seafood nutrition rice animal cooking nourishment soup meals meal drinks
+pasta meals milk sushi provender cooking fruits vegetables fruits vegetables seafood meal
+fruits vegetables provender fruits vegetables chicken pasta nutrient nutrient seafood soup sushi
+fruits vegetables chicken cheese nutrition beef vegetable victuals restaurant provender nutrition
+meal meals restaurant nutrient meal seafood provender cereal meat rice
+meat meat cereal animal cheese soup meat milk fruits vegetables victuals
+milk sushi drinks fruits vegetables edible cheese victuals vegetable plant chicken
+fruit fruits vegetables chicken pasta milk nutrient restaurant animal beef sushi
+farming feline dogs fish insectivorous clams mammals animalia ladybug epizootic
+zoology pups multicellular metazoan bug pitbull meat plant pigs pet
+chordate chordate meat livestock rodent fish raccoon mammals vertebrate fauna
+fleshly bug bobcat protist pups animatebeing beast protist eukaryotic meat
+fantasy domesticate pups creature zoology rodent zoology wild reptiles biped
+domesticate ladybug beast protist pitbull mammal animal welfare reptile puppy fish
+animal welfare reptiles protist invertebrate fleshly scavenger metazoan mammal bird insect
+marineanimal reptiles pups iguana wildlife clams dog protist vertebrate fish
+elephants protist embryo primate cat dog sheep vertebrate animalia fleshly
+insect bird zoology wildlife pet creature cat fauna protist plant
+zoo demon invertebrate elephants predatoryanimal porifera animalkingdom zoology bird mammals
+CubeNumber_343000 CubeNumber_658503 CubeNumber_704969 CubeNumber_10648 CubeNumber_512 CubeNumber_912673 CubeNumber_15625 CubeNumber_1728 CubeNumber_729 CubeNumber_74088
+CubeNumber_238328 CubeNumber_343 CubeNumber_704969 CubeNumber_2744 CubeNumber_636056 CubeNumber_140608 CubeNumber_262144 CubeNumber_166375 CubeNumber_175616 CubeNumber_300763
+CubeNumber_175616 CubeNumber_2744 CubeNumber_59319 CubeNumber_19683 CubeNumber_729 CubeNumber_300763 CubeNumber_21952 CubeNumber_658503 CubeNumber_614125 CubeNumber_238328
+CubeNumber_274625 CubeNumber_21952 CubeNumber_9261 CubeNumber_27 CubeNumber_405224 CubeNumber_941192 CubeNumber_68921 CubeNumber_216 CubeNumber_3375 CubeNumber_287496
+CubeNumber_884736 CubeNumber_216000 CubeNumber_421875 CubeNumber_571787 CubeNumber_140608 CubeNumber_148877 CubeNumber_857375 CubeNumber_681472 CubeNumber_614125 CubeNumber_125000
+CubeNumber_592704 CubeNumber_250047 CubeNumber_50653 CubeNumber_389017 CubeNumber_50653 CubeNumber_4913 CubeNumber_857375 CubeNumber_8 CubeNumber_27 CubeNumber_274625
+CubeNumber_512 CubeNumber_195112 CubeNumber_592704 CubeNumber_27000 CubeNumber_4913 CubeNumber_456533 CubeNumber_287496 CubeNumber_19683 CubeNumber_421875 CubeNumber_216000
+CubeNumber_474552 CubeNumber_132651 CubeNumber_29791 CubeNumber_1331 CubeNumber_157464 CubeNumber_132651 CubeNumber_531441 CubeNumber_592704 CubeNumber_658503 CubeNumber_54872
+CubeNumber_110592 CubeNumber_64000 CubeNumber_729000 CubeNumber_250047 CubeNumber_1331 CubeNumber_166375 CubeNumber_35937 CubeNumber_753571 CubeNumber_729 CubeNumber_456533
+CubeNumber_343000 CubeNumber_941192 CubeNumber_12167 CubeNumber_27 CubeNumber_103823 CubeNumber_512 CubeNumber_1331 CubeNumber_97336 CubeNumber_438976 CubeNumber_4913
+CubeNumber_2197 CubeNumber_4913 CubeNumber_12167 CubeNumber_592704 CubeNumber_216000 CubeNumber_91125 CubeNumber_729 CubeNumber_262144 CubeNumber_2197 CubeNumber_148877
+fraud criminal mutilation gang drugs terrorism sentence guilt supernatural action
+revenge mutilation dark accident homeless hijack corrupt war conspiracy criminals
+shoplift violence offenses guilt abuse fraud drama cybercrime action heist
+missing gangster punitive offenders incarceration offence slayings cases suspense homicides
+mystery assault corruption statutory offence conspiracy pirate cybercrime threats assault
+safety gun cop liberty pirate blackmail legislature prison bloodshed trafficking
+homicides spy criminals poverty homicides liberty shoplift structuralism dark safety
+country cop dark gangster poison slayings punitive transgression felony trial
+crisis tort offence government criminals statutory cop safety trafficking poison
+fraud homicides robbery thriller poverty misdemeanor corruption thrillers arsons vandalism
+government punishment guilt conspiracy safety rape legislature prostitution arsons kill
+Hokey Cradle Cot Sideboard Bookshelf Lintel Rattle Footrest Drapery Sideboard
+Cradle Bowfront Tallboy Hammock Furnishings Drapery Pliant Dresser Bench Cupboard
+Sconce Cart Desk Baroque Vitrine Table Drapes Futon Furnishings Lamp
+Console Ottoman Sofabed Rug Cabriole Bookshelf Breakfront Vitrine Castor Bench
+Mattress Cushions Light Furniture Jardinière Couch Bookcase Pew Secretary Cot
+Cradle Waterbed Mantle Shelf Carpet Desk Etagère Hutch Sideboard Frieze
+Lintel Carpet Credenza Furnishings Stool Drapery Pillow Cupboard Drapes Curtains
+Throne Vanity Hassock Table Hassock Furniture Chest Fluting Buffet Rack
+Pillow Buffet Divan Etagère Highchair Wheelchair Buffet Throne Daybed Applique
+Clock Tansu Wheelchair Cupboard Table Hutch Tallboy Table Wicker Waterbed
+Sideboard Stool Sideboard Fan Bookcase Bookshelf Wardrobe Breakfront Mantle cubbies
+laptop computerscience social pornographicimages chip compatible laptopcomputer escapekey cyber analogcomputer
+computercide mobiledevice computerscience device diskette digitalcomputer digital automation xbox keyboard
+centralprocessing unit daw downloader mainframe analogcomputer computerprogramming computercircuit eniac electromechanical abacus
+incompatible inputdevice processor laptop homecomputer laptopcomputer eniac microcomputer daw personalcomputer
+computing transistor algorithm digitalaudioplayer xbox computerprogramming data computation personalcomputer vacuumtube
+mobiledevice microcomputer watch computerprogramming spyware daw digitalaudioplayer downloader ibook virtualreality
+analogcomputer information escapekey camera computerprogramming machines transistor game computerprogramming server
+integratedcircuit device arithmetic keyboard sliderule calculator electromechanical screen software device
+console data incompatible data hardware personalcomputer personalcomputer server digitalcomputer von neumann machine
+mainframe computing game xbox tablet mobiledevice programming digitalcommunication transistor router
+computation microprocessor bit escapekey pc vacuumtube computation desktop programmer floppydisk
+patriarchy unjust incident onerous engagement illicit allegation scapegoat intimidation revelation
+onerous expose embezzlement partial deny impunity regime illicit alliance patriarchy
+coercion deficit ignorant scapegoat ignorant assail scandalous hypocrisy scandalous recrimination
+beleaguer engagement patronage career tycoon blame allegation partial illegal denigrate
+patriarchy temptation temptation debacle demagogue lobby scandalous infringement benefit sloth
+deception claim obscure massive partial prestidigitation plagiarism laconic engagement fray
+reputation deflect coercion benefit unethical fray illicit benefit manipulate engagement
+hypocrisy assail denigrate endorsement saga rebut authoritarian engagement coterie scandal
+tainted lobby defamation retaliation authoritarian claim regime deficit assail cadre
+ignorant tarnish unethical persecution refute regime scandalous bamboozle debacle authoritarian
+accusation deception opportunist regime coterie collaboration regime temptation demagogue tycoon

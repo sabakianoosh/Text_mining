@@ -1,0 +1,99 @@
+BinaryNumber_1100000 BinaryNumber_0001101 BinaryNumber_0000011 BinaryNumber_0101101 BinaryNumber_0110010 BinaryNumber_0110000 BinaryNumber_1000101 BinaryNumber_1001111 BinaryNumber_0001000 BinaryNumber_0110110
+BinaryNumber_1001010 BinaryNumber_1001101 BinaryNumber_0001100 BinaryNumber_1001011 BinaryNumber_1010100 BinaryNumber_0101110 BinaryNumber_0100001 BinaryNumber_0110100 BinaryNumber_1010010 BinaryNumber_1001011
+BinaryNumber_1010001 BinaryNumber_1100010 BinaryNumber_1001100 BinaryNumber_0000000 BinaryNumber_0011010 BinaryNumber_0011111 BinaryNumber_1010110 BinaryNumber_0011001 BinaryNumber_0101010 BinaryNumber_0101010
+BinaryNumber_1100001 BinaryNumber_0000010 BinaryNumber_0010011 BinaryNumber_1001000 BinaryNumber_0101010 BinaryNumber_0010100 BinaryNumber_0000011 BinaryNumber_1001101 BinaryNumber_0001011 BinaryNumber_1010010
+BinaryNumber_0000011 BinaryNumber_0010001 BinaryNumber_0011011 BinaryNumber_0011010 BinaryNumber_1010010 BinaryNumber_0111010 BinaryNumber_0011110 BinaryNumber_1010101 BinaryNumber_0011001 BinaryNumber_1011101
+BinaryNumber_0000101 BinaryNumber_0000110 BinaryNumber_0001000 BinaryNumber_0110110 BinaryNumber_0001111 BinaryNumber_0101101 BinaryNumber_1011011 BinaryNumber_0110101 BinaryNumber_0001100 BinaryNumber_1000111
+BinaryNumber_1000010 BinaryNumber_0001010 BinaryNumber_0000001 BinaryNumber_0110111 BinaryNumber_0111010 BinaryNumber_0111001 BinaryNumber_0101000 BinaryNumber_1010101 BinaryNumber_0011001 BinaryNumber_1000010
+BinaryNumber_1100001 BinaryNumber_1000110 BinaryNumber_0111100 BinaryNumber_1000011 BinaryNumber_1011101 BinaryNumber_1010111 BinaryNumber_0100111 BinaryNumber_0001100 BinaryNumber_1011101 BinaryNumber_0100011
+BinaryNumber_0111000 BinaryNumber_1010110 BinaryNumber_1010111 BinaryNumber_1011101 BinaryNumber_0101000 BinaryNumber_0011111 BinaryNumber_0111101 BinaryNumber_0001011 BinaryNumber_0010110 BinaryNumber_0010001
+BinaryNumber_0011111 BinaryNumber_0010100 BinaryNumber_0111001 BinaryNumber_0101101 BinaryNumber_0010010 BinaryNumber_1000001 BinaryNumber_0010001 BinaryNumber_0010110 BinaryNumber_1011000 BinaryNumber_1011110
+BinaryNumber_0000000 BinaryNumber_0110110 BinaryNumber_1001101 BinaryNumber_0001101 BinaryNumber_1100011 BinaryNumber_0000111 BinaryNumber_0110010 BinaryNumber_0101111 BinaryNumber_1010010 BinaryNumber_0000010
+meal sushi meals beef vegetable victuals edible cereal nutrition edible
+milk rice provender meals restaurant meals nourishment cereal cooking pasta
+meal nourishment beef meal nutrient fruits vegetables vegetable plant edible drinks
+fruits vegetables animal meals meat animal vegetable sushi eat meal cooking
+pasta restaurant fruits vegetables sushi cheese pasta meals cereal meat edible
+fruits vegetables nutrient victuals rice sushi nutrient meals meat cereal eat
+rice animal cereal cheese meat victuals nutrition meal victuals rice
+meat provender rice cooking victuals nourishment eat nutrition meat meals
+provender provender vegetable meat provender rice milk seafood animal fruits vegetables
+cereal eat sushi beef soup seafood nourishment drinks seafood plant
+fruits vegetables vegetable rice chicken soup cereal eat pasta meat restaurant
+SquareNumber_25 SquareNumber_400 SquareNumber_4900 SquareNumber_3136 SquareNumber_3481 SquareNumber_144 SquareNumber_7056 SquareNumber_3249 SquareNumber_3481 SquareNumber_5929
+SquareNumber_1681 SquareNumber_2916 SquareNumber_5625 SquareNumber_5184 SquareNumber_1225 SquareNumber_1089 SquareNumber_9604 SquareNumber_729 SquareNumber_4 SquareNumber_1156
+SquareNumber_8100 SquareNumber_1681 SquareNumber_1444 SquareNumber_2601 SquareNumber_8649 SquareNumber_8281 SquareNumber_2025 SquareNumber_324 SquareNumber_961 SquareNumber_5041
+SquareNumber_400 SquareNumber_6724 SquareNumber_7396 SquareNumber_6724 SquareNumber_1849 SquareNumber_5929 SquareNumber_9025 SquareNumber_4 SquareNumber_7396 SquareNumber_1764
+SquareNumber_1156 SquareNumber_2601 SquareNumber_6084 SquareNumber_2704 SquareNumber_1444 SquareNumber_5929 SquareNumber_3136 SquareNumber_9 SquareNumber_1600 SquareNumber_7396
+SquareNumber_3481 SquareNumber_5476 SquareNumber_2704 SquareNumber_441 SquareNumber_4356 SquareNumber_3481 SquareNumber_7225 SquareNumber_2025 SquareNumber_1296 SquareNumber_3481
+SquareNumber_1444 SquareNumber_484 SquareNumber_6084 SquareNumber_900 SquareNumber_1156 SquareNumber_400 SquareNumber_7396 SquareNumber_100 SquareNumber_2916 SquareNumber_6084
+SquareNumber_4096 SquareNumber_5776 SquareNumber_961 SquareNumber_1600 SquareNumber_4 SquareNumber_5929 SquareNumber_3600 SquareNumber_5625 SquareNumber_7569 SquareNumber_8100
+SquareNumber_8281 SquareNumber_676 SquareNumber_3481 SquareNumber_2401 SquareNumber_2304 SquareNumber_7744 SquareNumber_3364 SquareNumber_8281 SquareNumber_4356 SquareNumber_3364
+SquareNumber_6084 SquareNumber_5184 SquareNumber_3249 SquareNumber_1764 SquareNumber_9216 SquareNumber_6561 SquareNumber_225 SquareNumber_4 SquareNumber_3969 SquareNumber_784
+SquareNumber_5776 SquareNumber_8100 SquareNumber_3025 SquareNumber_529 SquareNumber_1521 SquareNumber_3969 SquareNumber_1369 SquareNumber_529 SquareNumber_1681 SquareNumber_1936
+work archery art shoot volleyball show motorcycling bike activities club
+athletic goal game goal game waterski motorsports league social utility
+soccer chess teams bike motorsports cycling yoga community gym gym
+esports community pro physical athlete esports rollick rowing mutant football
+limited sportaccord sportsman downfield polo exercise triathlon industry waterski gym
+active esports esport skateboarding wipeout funambulism champion active sport athlete
+industry career sports wipeout frolic soccer performance rowing game rollick
+athlete league entertainment competitive casual play supersport hobbies diver bouldering
+limited industry standard art soccerball activities yoga hiking cross kill
+sportaccord badminton limited goal tournaments athletes kill limited champion motorsports
+social kill feature job athletic skateboard tournaments triathlon safari hobbies
+20:39 10:26 22:12 15:38 22:23 13:47 15:20 21:35 10:43 16:23
+15:46 20:54 22:26 11:53 23:51 16:43 22:30 19:12 14:31 21:25
+11:13 23:50 10:44 11:51 20:31 20:16 12:37 22:50 15:19 12:33
+10:19 16:41 15:13 10:18 12:58 21:44 18:40 22:47 19:37 14:27
+10:43 18:46 11:33 18:28 16:55 21:55 16:21 20:39 12:23 13:15
+16:56 14:19 15:48 14:49 13:29 11:19 23:54 11:35 21:11 10:35
+18:39 21:49 23:20 23:20 17:12 20:24 18:49 14:39 17:54 14:48
+14:21 13:16 21:52 10:31 22:21 23:17 19:14 10:28 17:23 22:40
+14:33 14:42 10:13 14:27 21:40 17:39 19:11 13:30 22:33 16:10
+17:29 12:18 11:32 15:16 11:25 14:18 14:18 11:23 13:50 10:22
+14:18 13:19 23:10 10:36 13:52 22:19 18:25 19:33 11:37 13:44
+CubeNumber_729 CubeNumber_54872 CubeNumber_636056 CubeNumber_729000 CubeNumber_389017 CubeNumber_91125 CubeNumber_262144 CubeNumber_262144 CubeNumber_238328 CubeNumber_300763
+CubeNumber_12167 CubeNumber_12167 CubeNumber_474552 CubeNumber_157464 CubeNumber_157464 CubeNumber_27 CubeNumber_389017 CubeNumber_636056 CubeNumber_8 CubeNumber_493039
+CubeNumber_474552 CubeNumber_125 CubeNumber_571787 CubeNumber_10648 CubeNumber_103823 CubeNumber_405224 CubeNumber_4913 CubeNumber_551368 CubeNumber_941192 CubeNumber_29791
+CubeNumber_166375 CubeNumber_4913 CubeNumber_59319 CubeNumber_4913 CubeNumber_300763 CubeNumber_314432 CubeNumber_64000 CubeNumber_343 CubeNumber_91125 CubeNumber_328509
+CubeNumber_50653 CubeNumber_343 CubeNumber_97336 CubeNumber_117649 CubeNumber_6859 CubeNumber_912673 CubeNumber_42875 CubeNumber_729000 CubeNumber_54872 CubeNumber_571787
+CubeNumber_4096 CubeNumber_941192 CubeNumber_117649 CubeNumber_262144 CubeNumber_250047 CubeNumber_389017 CubeNumber_17576 CubeNumber_157464 CubeNumber_729000 CubeNumber_110592
+CubeNumber_117649 CubeNumber_571787 CubeNumber_2197 CubeNumber_2744 CubeNumber_857375 CubeNumber_4096 CubeNumber_64000 CubeNumber_373248 CubeNumber_8 CubeNumber_287496
+CubeNumber_6859 CubeNumber_125000 CubeNumber_357911 CubeNumber_941192 CubeNumber_64 CubeNumber_343 CubeNumber_24389 CubeNumber_6859 CubeNumber_91125 CubeNumber_262144
+CubeNumber_46656 CubeNumber_8000 CubeNumber_314432 CubeNumber_912673 CubeNumber_8 CubeNumber_456533 CubeNumber_10648 CubeNumber_729 CubeNumber_3375 CubeNumber_148877
+CubeNumber_64000 CubeNumber_39304 CubeNumber_778688 CubeNumber_3375 CubeNumber_148877 CubeNumber_27000 CubeNumber_110592 CubeNumber_166375 CubeNumber_512000 CubeNumber_3375
+CubeNumber_74088 CubeNumber_8000 CubeNumber_4913 CubeNumber_157464 CubeNumber_287496 CubeNumber_205379 CubeNumber_438976 CubeNumber_226981 CubeNumber_912673 CubeNumber_753571
+electromechanical arithmetic office machine digitalaudioplayer spyware console console cyber spyware
+computerhardware pornographicimages xbox microprocessor office peripheral software console digital electronics
+keyboard automation computerscience peripheral compatible processor digital analogcomputer von neumann machine mainframe
+digitalcommunication internet antivirus electromechanical peripheral console laptopcomputer virtualreality computerhardware electrical
+spyware vacuumtube hardware machinecode computercircuit computercide centralprocessing unit digitalcommunication desktop dataconverter
+office mechanicalcomputer desktoppcs smartphone router monitor information digital downloader integratedcircuit
+digitalcomputer electromechanical computercircuit transistor internet machinecode mobile inputdevice cpu spyware
+screen desktopcomputer machinecode console xbox imac programming browser machines console
+computerhardware electronics mechanicalcomputer floppydisk processor bit abacus digitalaudioplayer console homecomputer
+personalcomputer incompatible downloader visualdisplayunit digitalaudioplayer cybertechnology electronics abacus virtualreality digitalcommunication
+electronics homecomputer sliderule eniac microcomputer computercide office computerprogram computercide automation
+nasty defiant impossible odd handsome filthy elegant weary eager homely
+silly quaint delightful lively thankful annoyed black fair anxious ugly
+disturbed nutty different proud odd sleepy cautious eager spotless proud
+beautiful eager nice precious vast thankful bloody adorable clear aggressive
+cautious unsightly alert better determined wrong gleaming blue-eyed selfish vast
+shiny lively tough dull fragile graceful fine brave attractive nutty
+shiny dark ill aggressive tasty annoying brave wandering silly blue
+obedient condemned average frail tame quaint curious glorious dull grotesque
+handsome crowded enthusiastic bad sore energetic healthy homeless sleepy anxious
+gleaming attractive happy strange shy jolly upset clumsy scary grieving
+tender obedient pleasant putrid dull tough comfortable successful crazy wrong
+wildlife embryo animal welfare sensual animatebeing object jellyfish thoroughbred fleshly wildlife
+workanimal heterotroph cat darter chickens primate raccoon meat birds fantasy
+raccoon fish frog mythical wildlife reptile predatoryanimal mammal dinosaur tiger
+beast pigs bobcat thoroughbred amphibians poikilotherm thoroughbred scavenger puppy protist
+deer dogs bug protist mythical llamas fantasy animals tufted demon
+zoo animalia environmental marineanimal bobcat fish clams animatebeing reptile monster
+mammals bear porifera heterotroph darter zooplankton dog beast pups creature
+cat tame clams deer pigs fleshly monster scavenger embryo poikilotherm
+animatebeing wild clams predatoryanimal insectivore invertebrate wild fauna thoroughbred pet
+predatoryanimal heterotroph mammal mammals deer beast animatebeing rabbit chickens thoroughbred
+mythical metazoan insectivorous pig raccoon bird tame porifera bird mammal

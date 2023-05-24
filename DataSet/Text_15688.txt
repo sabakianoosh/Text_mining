@@ -1,0 +1,99 @@
+13:28 19:35 11:27 16:24 10:15 16:29 19:20 12:51 19:59 17:46
+19:49 19:56 10:59 18:10 17:11 12:36 23:41 20:56 18:18 12:21
+20:13 13:59 23:26 23:40 10:23 10:13 12:10 12:13 21:17 14:12
+15:42 20:45 21:43 17:28 12:19 13:10 21:24 20:30 11:37 14:55
+21:28 10:27 11:46 20:46 12:29 13:14 21:56 13:18 16:28 17:17
+21:47 15:19 15:33 14:46 21:45 18:22 19:26 16:50 16:12 12:45
+10:55 12:19 14:33 22:38 18:10 13:20 22:32 21:27 13:32 19:58
+19:57 17:56 17:13 18:25 20:21 19:23 15:10 22:57 18:20 21:55
+19:53 18:42 16:53 13:32 21:30 18:58 16:18 18:49 16:19 16:47
+15:52 13:19 16:23 16:16 18:14 12:32 23:50 15:43 12:10 23:26
+19:15 20:30 16:22 16:27 13:29 15:18 19:16 18:52 19:42 12:20
+Stool Wardrobe Stool Hutch Clock Footstool Volute Ottoman Upholstery Cushion
+Valet Loveseat Cabriole Wardrobe Vitrine Easel Chest Etagère Fauteuil Headboards
+Headboards Jardinière Futon Bureau Wardrobe Sideboard Hutch Crib Wardrobe Headboard
+Vanity Television Lintel Crib Jardinière Sideboard Air-conditioner Armoire Applique Hassock
+Console Bassinet Fan Television Clock Tallboy Castor Sideboard Lintel Rack
+Etagère Drapery Jardinière Bergere Chair Cupboard Chest Buffet Dresser Footstool
+Frieze Wardrobe Buffet Fan Cradle Rug Fluting Vanity Cot Seat
+Sofa Sconce Etagère Highchair Armoire Inlay Valet Air-conditioner Lintel Screen
+Pantry Credenza Jardinière Wicker Vitrine Hutch Credenza Footrest Jardinière Upholstery
+Curtains Sideboard Zitan Pliant Pillow Bureau Stool Bed Pillow Pillow
+Island Pantry Rug Upholstery Bureau Pliant Bench Furnishings Highchair Cot
+seafood drinks fruits vegetables cooking restaurant meal pasta fruits vegetables edible cereal
+cereal cooking cheese cheese nutrient milk animal fruit eat nutrition
+drinks milk meat soup cooking nourishment soup sushi milk cheese
+beef cheese eat sushi beef seafood victuals plant restaurant fruit
+meals chicken sushi vegetable fruit seafood rice sushi seafood nutrient
+beef nourishment provender soup nutrient fruit rice rice animal sushi
+pasta sushi animal animal meat meals pasta edible provender sushi
+cereal nourishment nutrition chicken soup fruits vegetables eat meat seafood pasta
+edible cereal nutrition soup pasta meals eat meals plant meal
+milk beef meals restaurant seafood plant cheese fruits vegetables edible nourishment
+pasta cooking restaurant beef pasta fruits vegetables meal meal fruits vegetables cooking
+fitness rollick boast standard comfort disport esport athletes club entertainment
+form cavort boast running suit boast esports hiking exercises competition
+athlete industry gambol exercises pack extracurricular football goal yoga community
+form rowing horseracing diver comfort skating fitness bike pro exercises
+play gamely athletics challenge referee sportaccord basketball soccer supersport romp
+supersport basketball ineligible safari badminton volleyball racing club hobbies games
+chess movement run spar tournament run racing muscle art polo
+position league bike racing competition show video exercise soccerball cavort
+boulder video multisport extracurricular gym skill company offside game boulder
+running coach show triathlon competition diver performance goal multisport skating
+gym downfield rugby concert feature concert sportsman athlete muscle gymnastics
+BinaryNumber_0100100 BinaryNumber_1011000 BinaryNumber_0111000 BinaryNumber_1001011 BinaryNumber_0001000 BinaryNumber_1011001 BinaryNumber_0101011 BinaryNumber_0101011 BinaryNumber_0001000 BinaryNumber_0110111
+BinaryNumber_0001111 BinaryNumber_1010101 BinaryNumber_1010100 BinaryNumber_1010000 BinaryNumber_0000011 BinaryNumber_0000111 BinaryNumber_0101000 BinaryNumber_0110011 BinaryNumber_0000101 BinaryNumber_0101001
+BinaryNumber_0111101 BinaryNumber_0011101 BinaryNumber_0110101 BinaryNumber_0010110 BinaryNumber_0000110 BinaryNumber_1011011 BinaryNumber_1000001 BinaryNumber_1100001 BinaryNumber_1001101 BinaryNumber_0011001
+BinaryNumber_0110100 BinaryNumber_0010000 BinaryNumber_1100010 BinaryNumber_0010100 BinaryNumber_0010011 BinaryNumber_0100100 BinaryNumber_0011111 BinaryNumber_0010110 BinaryNumber_1010101 BinaryNumber_0110010
+BinaryNumber_1010001 BinaryNumber_0000010 BinaryNumber_1001110 BinaryNumber_1011110 BinaryNumber_0101101 BinaryNumber_0000110 BinaryNumber_1010010 BinaryNumber_1000110 BinaryNumber_1011111 BinaryNumber_1011101
+BinaryNumber_1010011 BinaryNumber_0111010 BinaryNumber_0011011 BinaryNumber_0101000 BinaryNumber_0101000 BinaryNumber_1011001 BinaryNumber_0000001 BinaryNumber_0111101 BinaryNumber_1000000 BinaryNumber_0110110
+BinaryNumber_0110011 BinaryNumber_1001101 BinaryNumber_1000111 BinaryNumber_1001000 BinaryNumber_1010000 BinaryNumber_0101010 BinaryNumber_1010110 BinaryNumber_1001010 BinaryNumber_0101011 BinaryNumber_0101001
+BinaryNumber_0101000 BinaryNumber_0000011 BinaryNumber_1011011 BinaryNumber_0110100 BinaryNumber_0110011 BinaryNumber_0101101 BinaryNumber_0111110 BinaryNumber_1000000 BinaryNumber_1010101 BinaryNumber_0000100
+BinaryNumber_1001101 BinaryNumber_0001001 BinaryNumber_1001101 BinaryNumber_0110110 BinaryNumber_0000010 BinaryNumber_0011010 BinaryNumber_1001001 BinaryNumber_0010101 BinaryNumber_1001001 BinaryNumber_0011010
+BinaryNumber_1011101 BinaryNumber_0101101 BinaryNumber_1000011 BinaryNumber_1001010 BinaryNumber_0000100 BinaryNumber_0100010 BinaryNumber_0100101 BinaryNumber_0000001 BinaryNumber_0100101 BinaryNumber_0011111
+BinaryNumber_0100011 BinaryNumber_1000011 BinaryNumber_1001001 BinaryNumber_1001000 BinaryNumber_1010100 BinaryNumber_1100010 BinaryNumber_0110011 BinaryNumber_0110010 BinaryNumber_0010100 BinaryNumber_1010010
+mobiledevice transistor software homecomputer social centralprocessing unit machinecode downloader spyware memory
+digitalaudioplayer server transistor algorithm computing computation peripheral expansionslot electromechanical memory
+inputdevice transistor internet computercide computerprogramming cybertechnology cyber desktoppcs mobile mobile
+von neumann machine turingmachine android computerscience turingmachine laptopcomputer daw office xbox centralprocessing unit
+floppydisk inputdevice centralprocessing unit processor mechanicalcomputer cpu smartphone monitor electronics automation
+incompatible android internet visualdisplayunit game device downloader xbox downloader supercomputer
+imac internet computing spyware electronics electrical visualdisplayunit digitalaudioplayer ibook proprietary
+office digitalaudioplayer browser server inputdevice turingmachine xbox inputdevice router compatible
+incompatible monitor electromechanical centralprocessing unit proprietary sliderule imac turingmachine information laptop
+floppydisk supercomputer daw server imac expansionslot hardware transistor machinecode electronics
+machinecode von neumann machine mobile analogcomputer bit homecomputer compatible compatible cell computercircuit
+Kiwifruit Kiwifruit Prune Rambutan  Abiu Kiwifruit Soursop Currant Mangosteen Banana
+Tamarind Loquat Strawberry Grapefruit Avocado Salak Salmonberry Durian Lychee Quince
+Orange Plantain Fig Salmonberry Blueberry Bilberry Elderberry Passionfruit Redcurrant Cherimoya
+Cantaloupe Salak Mango Cloudberry Raspberry Cempedak Plantain Avocado Date Banana
+Avocado Salmonberry Jambul Acerola Cempedak Mandarine Boysenberry Kumquat Avocado Kiwifruit
+Kiwano Tayberry Kumquat Melon Cloudberry Longan Cranberry Cantaloupe Pawpaw Huckleberry
+Cempedak Plumcot Durian Blackcurrant Marionberry Melon Banana Sapodilla Tayberry Nance
+Elderberry Pawpaw Tangelo Tamarillo Loganberry Pear Kumquat Quince Boysenberry Sapodilla
+Grape Salmonberry Acerola Damson Cempedak Salak Orange Passionfruit Jambul Passionfruit
+Prune Clementine Boysenberry Açaí Orange Açaí Banana Tayberry Jambul Marionberry
+Elderberry Cherimoya Grapefruit Salmonberry Papaya Akebi Apricot Damson Abiu Açaí
+Placenta Sensoryorgans Sensoryorgans Bladder Sensoryorgans Jejunum Ileum Ganglia Earlobe Lungs
+Earlobe Tongue Bronchi Cerebellum Vulva Cecum Middleear Brain Jejunum Muscle
+Nerves Hypothalamus Pharynx Analcanal Mouth Scrotum Ciliarybody Arteries Heart Tastebuds
+Duodenum Cranialnerves Cerebellum Ligaments Lymphaticvessel Analcanal Ossicles Midbrain Veins Outerear
+Ileum Pharynx Scrotum Innerear Cranialnerves Middleear Smallintestine Retina Tongue Mouth
+Clitoris Spinalnerves Thymus Tastebuds Mesentery Cornea Midbrain Vulva Muscle Thalamus
+Thymus Middleear Capillaries Jejunum Spinalnerves Hypothalamus Cecum Pancreas Teeth Largeintestine
+Pharynx Lens Outerear Fallopiantubes Outerear Spleen Pharynx Urethra Middleear Sensoryorgans
+Teeth Mouth Larynx Tendons Ligaments Tonsils Pharynx Thalamus Analcanal Tongue
+Arteries Mouth Stomach Bronchi Joints Eye Ear Brain Ciliarybody Outerear
+Vulva Lips Fallopiantubes Liver Middleear Brain Kidneys Smallintestine Jejunum Trachea
+obscure impunity chicanery empire allegation bamboozle scandalous laconic extortion opportunist
+saga malfeasance temptation benefit unjust endorsement partial regime covert revelation
+infringement feud intimidation plutocracy endorsement revelation accusation patriarchy infringement revelation
+deflect accusation engagement parry privilege cadre endorsement scandal mercurial corruption
+incident fray deficit unjust blame patronage beleaguer partial blame beleaguer
+empire scandal sloth dictatorship deflect career fray impunity bribe chicanery
+alliance persecution illegal expose illicit proxy rebut covert career persecution
+fiasco conceal accusation defamation fray recrimination benefit tarnish demagogue beleaguer
+refute conceal allegation feud debacle alliance claim collaboration regime recrimination
+massive privilege temptation beleaguer sloth lobby retaliation dictatorship unethical illicit
+prestidigitation deficit revelation scapegoat deflect massive bribe sloth influence integrity

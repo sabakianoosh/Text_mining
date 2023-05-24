@@ -1,0 +1,99 @@
+CubeNumber_8000 CubeNumber_830584 CubeNumber_328509 CubeNumber_373248 CubeNumber_314432 CubeNumber_4913 CubeNumber_314432 CubeNumber_493039 CubeNumber_474552 CubeNumber_148877
+CubeNumber_27000 CubeNumber_778688 CubeNumber_68921 CubeNumber_195112 CubeNumber_2197 CubeNumber_10648 CubeNumber_226981 CubeNumber_658503 CubeNumber_636056 CubeNumber_658503
+CubeNumber_373248 CubeNumber_238328 CubeNumber_405224 CubeNumber_314432 CubeNumber_42875 CubeNumber_1728 CubeNumber_175616 CubeNumber_175616 CubeNumber_175616 CubeNumber_68921
+CubeNumber_1728 CubeNumber_357911 CubeNumber_658503 CubeNumber_531441 CubeNumber_64 CubeNumber_140608 CubeNumber_205379 CubeNumber_804357 CubeNumber_35937 CubeNumber_4096
+CubeNumber_157464 CubeNumber_148877 CubeNumber_592704 CubeNumber_132651 CubeNumber_117649 CubeNumber_8 CubeNumber_373248 CubeNumber_54872 CubeNumber_185193 CubeNumber_804357
+CubeNumber_125 CubeNumber_64 CubeNumber_85184 CubeNumber_64000 CubeNumber_531441 CubeNumber_2197 CubeNumber_32768 CubeNumber_941192 CubeNumber_4096 CubeNumber_512
+CubeNumber_704969 CubeNumber_474552 CubeNumber_238328 CubeNumber_314432 CubeNumber_132651 CubeNumber_91125 CubeNumber_328509 CubeNumber_125 CubeNumber_438976 CubeNumber_74088
+CubeNumber_24389 CubeNumber_531441 CubeNumber_21952 CubeNumber_328509 CubeNumber_421875 CubeNumber_531441 CubeNumber_1728 CubeNumber_42875 CubeNumber_389017 CubeNumber_6859
+CubeNumber_389017 CubeNumber_125 CubeNumber_74088 CubeNumber_125000 CubeNumber_27 CubeNumber_456533 CubeNumber_10648 CubeNumber_27000 CubeNumber_421875 CubeNumber_389017
+CubeNumber_343000 CubeNumber_103823 CubeNumber_343 CubeNumber_512000 CubeNumber_3375 CubeNumber_64000 CubeNumber_42875 CubeNumber_8 CubeNumber_166375 CubeNumber_300763
+CubeNumber_343 CubeNumber_729 CubeNumber_216 CubeNumber_328509 CubeNumber_438976 CubeNumber_571787 CubeNumber_19683 CubeNumber_103823 CubeNumber_1331 CubeNumber_884736
+Seashell SandyBrown Maroon Lime DarkKhaki DarkSeaGreen Lime DarkGray Red DarkGray
+SlateBlue PapayaWhip Gray Orange BlanchedAlmond Salmon SlateBlue Tan LightSalmon DimGray
+Fuchsia BlueViolet MediumVioletRed MediumTurquoise Sienna Coral LawnGreen Peru Cornsilk AntiqueWhite
+LightYellow Yellow OrangeRed LightBlue Olive Black LightPink DimGray Black Indigo
+Teal LightGreen Peru RoyalBlue Goldenrod CornflowerBlue Feldspar Ivory Peru Olive
+AliceBlue Olive OrangeRed Azure Tomato DarkOliveGreen MediumAquamarine Azure Moccasin Bisque
+PeachPuff Turquoise Lime LightGoldenrod Seashell Goldenrod Pink PaleTurquoise LightBlue Gray
+Bisque GhostWhite MintCream LightYellow Lavender Crimson Aquamarine Sienna Maroon Navy
+Khaki DarkKhaki DarkOrange PaleVioletRed LightSteelBlue LightGoldenrod MediumPurple DarkGreen MediumTurquoise Gainsboro
+Teal Ivory Tomato Sienna MediumOrchid LightSlateBlue Pink LightSeaGreen MediumSeaGreen LawnGreen
+LemonChiffon Goldenrod Violet DarkGray SpringGreen Seashell PaleVioletRed LavenderBlush DarkSalmon Brown
+temperature__33c temperature__90c temperature__51c temperature__108c temperature__0c temperature__112c temperature__148c temperature__57c temperature__65c temperature__139c
+temperature__136c temperature__100c temperature__31c temperature__119c temperature__140c temperature__108c temperature__122c temperature__56c temperature__92c temperature__69c
+temperature__77c temperature__148c temperature__147c temperature__70c temperature__16c temperature__147c temperature__120c temperature__140c temperature__146c temperature__141c
+temperature__6c temperature__12c temperature__59c temperature__79c temperature__109c temperature__4c temperature__79c temperature__56c temperature__140c temperature__122c
+temperature__63c temperature__108c temperature__78c temperature__7c temperature__132c temperature__41c temperature__49c temperature__71c temperature__98c temperature__119c
+temperature__65c temperature__70c temperature__79c temperature__148c temperature__109c temperature__10c temperature__39c temperature__12c temperature__120c temperature__8c
+temperature__2c temperature__51c temperature__136c temperature__3c temperature__46c temperature__106c temperature__100c temperature__144c temperature__126c temperature__77c
+temperature__90c temperature__129c temperature__30c temperature__116c temperature__16c temperature__119c temperature__46c temperature__77c temperature__17c temperature__5c
+temperature__84c temperature__28c temperature__6c temperature__49c temperature__126c temperature__23c temperature__137c temperature__141c temperature__123c temperature__33c
+temperature__132c temperature__8c temperature__119c temperature__39c temperature__52c temperature__40c temperature__59c temperature__70c temperature__4c temperature__34c
+temperature__105c temperature__44c temperature__21c temperature__119c temperature__74c temperature__93c temperature__33c temperature__52c temperature__58c temperature__137c
+digital computercide router transistor arithmetic turingmachine analogcomputer computerprogram peripheral screen
+data centralprocessing unit inputdevice computercide processor chip antivirus router server device
+cyber server transistor bit hardware calculator arithmetic diskette ibook proprietary
+centralprocessing unit digital server desktopcomputer astrolabe inputdevice algorithm visualdisplayunit proprietary hardware
+desktoppcs incompatible pc supercomputer computercide eniac camera browser computerscience analogcomputer
+proprietary software visualdisplayunit incompatible router chip computercircuit microcomputer programmer proprietary
+mobile abacus astrolabe digital programming machines tablet computerhardware computerprogramming automation
+processor cell memory chip algorithm console mainframe mechanicalcomputer programming turingmachine
+escapekey smartphone arithmetic antivirus console pc visualdisplayunit laptopcomputer microprocessor memory
+peripheral mainframe mainframe software mainframe expansionslot keyboard electronics desktop office
+computercide dataconverter digitalcomputer algorithm computation abacus office digitalcommunication proprietary digital
+seafood sushi meat chicken cooking milk cheese meat eat plant
+beef drinks restaurant cereal cheese cheese cheese sushi vegetable drinks
+provender cheese fruits vegetables restaurant restaurant plant meal nutrient provender nutrient
+vegetable restaurant vegetable cereal victuals nutrient milk animal restaurant chicken
+nourishment cheese meals nutrient victuals rice sushi meat victuals restaurant
+nourishment soup nutrition plant restaurant victuals meat fruits vegetables cooking pasta
+milk drinks animal eat soup edible nutrition fruits vegetables meat fruit
+chicken restaurant nourishment beef cheese pasta chicken eat victuals cereal
+cheese soup cheese pasta fruits vegetables vegetable soup seafood eat nourishment
+meat meal meal drinks eat chicken plant plant pasta meals
+vegetable victuals fruits vegetables nutrient nutrition rice nourishment nutrition seafood chicken
+light stormy lovely poor hilarious confused dull itchy motionless dizzy
+obnoxious lively bright victorious important cautious colorful plain different homeless
+blue fantastic rich black expensive blue-eyed odd enthusiastic tired zany
+stupid easy tense nasty condemned victorious sparkling colorful lazy smiling
+scary putrid grieving attractive itchy crazy stormy ashamed dangerous blushing
+beautiful busy super mysterious curious filthy depressed weary inquisitive clear
+unusual tame different anxious thoughtful amused obedient repulsive worried concerned
+eager cute tender misty stormy mysterious cautious adventurous wrong homely
+wandering fragile ugly excited frail tasty kind annoying exuberant frantic
+important alert lively blue-eyed mushy creepy stormy cautious wild gifted
+fancy shy dizzy thoughtful adorable defiant brave better difficult bloody
+manipulate reckless plagiarism sloth alliance career incident illegal recrimination sloth
+manipulate allegation deception solicit assail dictatorship resignation anonymity defamation saga
+deny authoritarian defamation tarnish deficit illicit extortion bribe deny dictatorship
+refute expose obscure obscure defamation infringement coterie scapegoat temptation infringement
+impunity chicanery retaliation illicit privilege manipulate anonymity unethical deficit fiasco
+reputation onerous fiasco laconic prestidigitation alliance sloth debacle patriarchy acolyte
+dictatorship alliance refute debacle scandalous covert benefit debacle infringement revelation
+accusation allegation deny massive deficit refute feud lobby corruption reckless
+malfeasance career malfeasance denigrate unsavory privilege unjust corruption tarnish demagogue
+sloth temptation hypocrisy lobby revelation manipulate assail incident persecution ignorant
+onerous privilege malfeasance persecution patronage career infringement coercion ignorant partial
+meat reptile cat raccoon dogs dog dinosaur deer sensual insectivorous
+amphibians carnivore predatoryanimal pigs bear animal welfare superdog biped chickens superdog
+fish zooplankton ladybug shelter pigs heterotroph plant poikilotherm wildlife pet
+raccoon animals chordate thoroughbred zoology demon heterotroph livestock sensual clams
+biped superdog biped iguana raccoon insect wildlife wild reptile animalia
+predatoryanimal bug zoo cats ladybug insects primate fantasy dogs frog
+protist meat epizootic darter pigs puppy cat embryo predatoryanimal shelter
+bear demon bear clams epizootic animalkingdom fauna fleshly embryo zooplankton
+hourse dog zooplankton poikilotherm zoology insectivorous raccoon animal welfare pitbull insectivore
+elephants mammals carnivore rabbit animatebeing fauna exoticanimals animals carnivore wild
+ladybug deer pups porifera iguana animal welfare vegan deer fish creature
+homicide guilt unsolved corruption legislature punishment genocide trafficking cybercrime sentence
+story government criminal cases jurisdiction country supernatural death vandalism barratry
+abuse felony prison thriller crisis war cases liberty abuse police
+slay crime shoplift barratry abuse noir slay massacre illegal psychological
+skyjack muggings story statutory homelessness violence misdemeanour massacre cop psychological
+forensic criminal hijack structuralism sentence corrupt conspiracy jurisdiction law-breaking gangs
+theft highjack misdemeanour abuse bloodshed justice blackmail trial legal thriller
+homelessness shoplift homeless genocide bloodshed spy violence dark blackmail homicide
+gang war liberty snitching smuggle government trafficking arsons safety corrupt
+political accident shoplift unsolved slayings punitive justice assault snitching liberty
+arsons structuralism pirate homicides guilty criminality thriller human criminal offense

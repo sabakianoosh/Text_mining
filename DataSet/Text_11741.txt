@@ -1,0 +1,99 @@
+BinaryNumber_0010101 BinaryNumber_0111010 BinaryNumber_0010101 BinaryNumber_0110101 BinaryNumber_1011010 BinaryNumber_0101111 BinaryNumber_0001100 BinaryNumber_0101000 BinaryNumber_0000101 BinaryNumber_0010110
+BinaryNumber_0110100 BinaryNumber_0001001 BinaryNumber_1000011 BinaryNumber_0011110 BinaryNumber_0001011 BinaryNumber_1000111 BinaryNumber_0010101 BinaryNumber_1000111 BinaryNumber_0000100 BinaryNumber_1100011
+BinaryNumber_0001000 BinaryNumber_0011101 BinaryNumber_1001001 BinaryNumber_0000111 BinaryNumber_1010000 BinaryNumber_0100101 BinaryNumber_0011001 BinaryNumber_0101001 BinaryNumber_1001111 BinaryNumber_1100000
+BinaryNumber_1011110 BinaryNumber_1010010 BinaryNumber_0100010 BinaryNumber_1000000 BinaryNumber_1000000 BinaryNumber_0000111 BinaryNumber_1000000 BinaryNumber_1010001 BinaryNumber_0111110 BinaryNumber_1010010
+BinaryNumber_0011110 BinaryNumber_0011111 BinaryNumber_0101001 BinaryNumber_0111111 BinaryNumber_0100000 BinaryNumber_1011100 BinaryNumber_0000111 BinaryNumber_1001101 BinaryNumber_1000110 BinaryNumber_0011100
+BinaryNumber_1011110 BinaryNumber_0101011 BinaryNumber_0101100 BinaryNumber_1000111 BinaryNumber_0011101 BinaryNumber_0101100 BinaryNumber_0110010 BinaryNumber_1000010 BinaryNumber_0100110 BinaryNumber_0101011
+BinaryNumber_0101110 BinaryNumber_0110010 BinaryNumber_0000101 BinaryNumber_1011011 BinaryNumber_0011000 BinaryNumber_1001110 BinaryNumber_0110000 BinaryNumber_0001011 BinaryNumber_0000100 BinaryNumber_1011000
+BinaryNumber_0110111 BinaryNumber_1000100 BinaryNumber_0111110 BinaryNumber_1010010 BinaryNumber_0100101 BinaryNumber_1001110 BinaryNumber_1010111 BinaryNumber_0001000 BinaryNumber_1011111 BinaryNumber_1010011
+BinaryNumber_0000010 BinaryNumber_0001100 BinaryNumber_0011101 BinaryNumber_0000010 BinaryNumber_0010110 BinaryNumber_1000101 BinaryNumber_0000011 BinaryNumber_0001001 BinaryNumber_0100110 BinaryNumber_0101101
+BinaryNumber_1100011 BinaryNumber_0111001 BinaryNumber_0101000 BinaryNumber_0111111 BinaryNumber_0011100 BinaryNumber_1011010 BinaryNumber_0011010 BinaryNumber_0101011 BinaryNumber_0000000 BinaryNumber_1000101
+BinaryNumber_1100001 BinaryNumber_1000011 BinaryNumber_0100101 BinaryNumber_0000100 BinaryNumber_0000100 BinaryNumber_0010010 BinaryNumber_0100000 BinaryNumber_1011110 BinaryNumber_0011110 BinaryNumber_0101011
+dinosaur llamas tufted invertebrate insectivore insect insect wildlife raccoon livestock
+llamas insect hourse ladybug insectivorous animalia elephants chickens animals chordate
+marineanimal bug object shelter carnivore environmental workanimal chordate ladybug wild
+wild jellyfish zoo animalkingdom thoroughbred puppy sheep shelter birds insectivorous
+pups chordate wildlife pet insect tufted bobcat birds pet bear
+superdog carnivore farming mammals chordate porifera porifera bear octopuses meat
+bug heterotroph frog feline creature scavenger sensual insectivorous monster pitbull
+tiger mythical demon mammals frog exoticanimals rabbit birds iguana zooplankton
+meat insectivore pitbull plant chickens bobcat epizootic jellyfish zoo biped
+primate feline vertebrate bear sensual cat dogs pitbull darter feline
+fleshly rodent wildlife feline farming fleshly elephants dogs demon wild
+nutrition sushi nutrition nourishment nutrient nourishment nutrient plant cheese fruits vegetables
+beef fruits vegetables drinks animal milk fruit plant rice chicken cheese
+cereal beef restaurant eat provender edible sushi vegetable nourishment nutrition
+meal seafood edible beef restaurant provender milk eat nourishment fruits vegetables
+victuals sushi drinks cereal chicken chicken victuals cooking eat eat
+nutrition animal milk meals provender nourishment fruits vegetables restaurant drinks vegetable
+meat edible drinks fruits vegetables cheese fruits vegetables vegetable pasta chicken drinks
+meat nutrient nutrition drinks seafood pasta cooking sushi nourishment edible
+provender eat milk soup meals cooking edible milk plant soup
+meal cooking rice nourishment restaurant sushi restaurant victuals restaurant meal
+restaurant drinks meals nourishment soup vegetable drinks animal meat nutrition
+Tamarind Cashew Marionberry Mandarine Plumcot Bilberry Loganberry Kiwifruit Guava Tamarillo
+Jujube Watermelon Loganberry Prune Prune Rambutan  Honeyberry Durian Mulberry Akebi
+Abiu Ximenia Plum Jostaberry Clementine Clementine Raspberry Tangerine Lime Blackberry
+Cherry Quince Papaya Bilberry Tangelo Coconut Strawberry Tangelo Canistel Honeydew
+Marionberry Blackberry Blueberry Jambul Nectarine Cherimoya Lemon Grape Cherimoya Gooseberry
+Mango Araza Blackcurrant Kiwano Yuzu Akebi Guava Cherimoya Papaya Tangelo
+Feijoa Blackberry Grape Blueberry Prune Pawpaw Plantain Cherimoya Sapodilla Jujube
+Apple Kiwano Bilberry Sapote Avocado Pineapple Bilberry Jujube Breadfruit Soursop
+Apple Raisin Loquat Apricot Salmonberry Cloudberry Satsuma Raisin Bilberry Strawberry
+Honeyberry Salak Nectarine Grapefruit Longan Banana Apple Araza Papaya Huckleberry
+Longan Pomelo Açaí Lychee Longan Blackberry Grapefruit Date Mangosteen Redcurrant
+temperature__27c temperature__98c temperature__136c temperature__4c temperature__106c temperature__86c temperature__35c temperature__44c temperature__111c temperature__16c
+temperature__58c temperature__132c temperature__132c temperature__10c temperature__98c temperature__22c temperature__144c temperature__78c temperature__74c temperature__59c
+temperature__93c temperature__79c temperature__40c temperature__85c temperature__147c temperature__58c temperature__140c temperature__56c temperature__61c temperature__90c
+temperature__68c temperature__6c temperature__23c temperature__2c temperature__131c temperature__119c temperature__34c temperature__116c temperature__78c temperature__47c
+temperature__68c temperature__108c temperature__137c temperature__16c temperature__2c temperature__44c temperature__122c temperature__36c temperature__49c temperature__41c
+temperature__118c temperature__140c temperature__7c temperature__144c temperature__93c temperature__35c temperature__50c temperature__93c temperature__50c temperature__100c
+temperature__3c temperature__5c temperature__85c temperature__3c temperature__22c temperature__138c temperature__88c temperature__68c temperature__50c temperature__138c
+temperature__73c temperature__100c temperature__136c temperature__5c temperature__0c temperature__22c temperature__69c temperature__28c temperature__73c temperature__36c
+temperature__46c temperature__16c temperature__146c temperature__88c temperature__30c temperature__141c temperature__46c temperature__129c temperature__129c temperature__105c
+temperature__61c temperature__6c temperature__138c temperature__131c temperature__23c temperature__82c temperature__17c temperature__123c temperature__46c temperature__23c
+temperature__44c temperature__64c temperature__139c temperature__82c temperature__119c temperature__44c temperature__73c temperature__86c temperature__95c temperature__7c
+muggings brutality poison snitching smuggle murder spy arsons law-breaking gangsterism
+drugs skyjack threats illegal legal genocide felony arrest trafficking psychological
+felony robbery gangster revenge murder offense lift imprisonment noir political
+revenge blackmail mob skyjack gun murder kill illegal government homeless
+punishment gangs homelessness cases safety homicide death racism barratry police
+arrest murder missing highjack shoplift action punishment heist trafficking trafficking
+drama illegal government robbery revenge crisis trial barratry lift blackmail
+murders genocide suspense law-breaking punitive victim legislature abuse abuse gangs
+felony government blackmail cop shoplift trafficking misdemeanor government thriller legal
+robbery dark punitive drugs drama spy sin gangsterism legislature vandalism
+country corruption victim death victim police investigation guilty human spy
+choir atmosphere jazzfunk medicine cultural video oboe hyperpop guitar cultural
+reharmonize solmizate bugle bpm instruments artist rag reading mp3s podcast
+beats culture works performance movie production trio harp speak party
+tuning karaoke atmosphere concerts playing medicine motif drum movie funk
+vocals modulate harmony chord atonal single genres bugle polyphony bpm
+intonation modulate pitch pianist banjo subtonic atonality carol rag musicology
+trio genres recapitulation genre story carol trio intonation sound poetry
+euphony schubert ragtime timbre clarinet video videos ragtime atonal vocal
+dynamics piano ragtime conducting composing musicality scale graduation subdivision soul
+guitar saxophone violin violoncello mediant beats tempo fermata symphonise arts
+conduct artists music single pianist instrumentals poetry pitch reading musical
+14:12 19:52 17:36 15:29 16:27 12:14 19:41 22:18 23:14 16:54
+17:46 16:38 12:14 15:25 13:16 10:32 20:29 10:47 12:45 15:41
+18:11 19:55 15:29 10:14 18:15 12:46 22:28 19:51 21:41 20:38
+14:12 23:57 10:36 14:43 10:34 14:45 20:27 12:15 21:37 20:14
+17:24 12:24 12:33 15:28 13:14 18:16 15:22 11:58 15:59 11:54
+11:52 12:16 18:25 18:45 13:36 11:15 11:48 21:38 21:15 20:14
+22:52 11:44 19:41 10:23 18:29 23:33 15:57 14:39 11:43 14:16
+23:34 18:29 12:32 23:21 17:32 14:18 13:55 13:32 22:54 18:24
+13:35 20:42 16:49 13:44 19:19 11:24 17:46 14:38 22:56 13:11
+22:36 21:17 10:45 10:36 10:40 15:51 15:44 15:15 13:48 20:42
+23:34 15:51 15:13 16:13 15:18 23:59 23:28 18:29 18:42 18:57
+incompatible processor internet tablet electrical computerprogramming internet vacuumtube dataconverter console
+integratedcircuit turingmachine digitalcommunication compatible vacuumtube machines personalcomputer tablet digital smartphone
+compatible microcomputer software arithmetic pornographicimages daw abacus proprietary hardware escapekey
+algorithm escapekey desktop computerprogramming dataconverter bit digitalcommunication phone server router
+digitalaudioplayer cyber astrolabe smartphone floppydisk machines data dataconverter cpu game
+daw monitor antivirus tablet floppydisk diskette keyboard machines computerscience von neumann machine
+xbox internet homecomputer computerprogramming social digitalcommunication cell hardware centralprocessing unit turingmachine
+centralprocessing unit incompatible computing arithmetic processor vacuumtube hardware visualdisplayunit ibook hardware
+integratedcircuit machines escapekey cpu vacuumtube analogcomputer monitor mobile electronics integratedcircuit
+game visualdisplayunit proprietary expansionslot digitalcommunication incompatible downloader astrolabe incompatible xbox
+visualdisplayunit memory phone compatible inputdevice digital visualdisplayunit downloader centralprocessing unit astrolabe

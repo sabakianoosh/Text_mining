@@ -1,0 +1,99 @@
+SquareNumber_441 SquareNumber_121 SquareNumber_1296 SquareNumber_49 SquareNumber_64 SquareNumber_6084 SquareNumber_3136 SquareNumber_2809 SquareNumber_225 SquareNumber_81
+SquareNumber_529 SquareNumber_784 SquareNumber_36 SquareNumber_484 SquareNumber_9801 SquareNumber_400 SquareNumber_3844 SquareNumber_10000 SquareNumber_64 SquareNumber_256
+SquareNumber_7225 SquareNumber_6084 SquareNumber_5476 SquareNumber_5184 SquareNumber_2304 SquareNumber_4761 SquareNumber_196 SquareNumber_2601 SquareNumber_169 SquareNumber_81
+SquareNumber_400 SquareNumber_676 SquareNumber_1681 SquareNumber_8100 SquareNumber_8100 SquareNumber_8100 SquareNumber_441 SquareNumber_49 SquareNumber_4489 SquareNumber_2401
+SquareNumber_529 SquareNumber_1024 SquareNumber_7056 SquareNumber_784 SquareNumber_196 SquareNumber_8836 SquareNumber_1600 SquareNumber_6724 SquareNumber_3364 SquareNumber_2809
+SquareNumber_3481 SquareNumber_2809 SquareNumber_10000 SquareNumber_484 SquareNumber_6724 SquareNumber_1089 SquareNumber_9409 SquareNumber_7569 SquareNumber_1764 SquareNumber_8464
+SquareNumber_4489 SquareNumber_1024 SquareNumber_1521 SquareNumber_3025 SquareNumber_676 SquareNumber_196 SquareNumber_441 SquareNumber_1225 SquareNumber_9025 SquareNumber_900
+SquareNumber_2601 SquareNumber_1225 SquareNumber_1521 SquareNumber_49 SquareNumber_4356 SquareNumber_2704 SquareNumber_64 SquareNumber_1089 SquareNumber_225 SquareNumber_1600
+SquareNumber_3969 SquareNumber_8100 SquareNumber_9604 SquareNumber_16 SquareNumber_3025 SquareNumber_81 SquareNumber_3969 SquareNumber_5329 SquareNumber_144 SquareNumber_4624
+SquareNumber_9216 SquareNumber_676 SquareNumber_1681 SquareNumber_25 SquareNumber_6561 SquareNumber_36 SquareNumber_6084 SquareNumber_1369 SquareNumber_729 SquareNumber_121
+SquareNumber_7569 SquareNumber_3025 SquareNumber_4761 SquareNumber_4 SquareNumber_4096 SquareNumber_16 SquareNumber_900 SquareNumber_6084 SquareNumber_784 SquareNumber_7921
+wrong distinct mysterious aggressive misty troubled crowded vivacious thoughtful successful
+clean friendly misty super easy wandering unsightly embarrassed joyous prickly
+ugliest mushy blushing open zealous precious careful energetic glamorous jittery
+nutty easy amused healthy breakable difficult grumpy dizzy odd putrid
+annoying relieved obnoxious uptight sore elegant splendid happy kind alive
+prickly naughty upset zany zany bloody lively pleasant charming ill
+clumsy hungry zany doubtful evil frantic cruel victorious unusual thoughtful
+blue uptight upset cute talented nice energetic gifted crazy helpless
+dark worrisome sleepy helpless impossible friendly nutty powerful tired important
+clever witty stupid thankful glorious homeless spotless ugliest unusual cheerful
+expensive joyous black dead curious vast light naughty powerful anxious
+10:34 13:32 16:15 16:20 10:31 21:20 19:15 15:37 17:25 19:15
+11:45 11:33 22:21 10:40 10:52 20:18 16:21 16:21 12:45 15:31
+10:15 15:16 23:56 22:32 14:57 10:33 16:13 22:44 22:30 17:39
+22:46 12:26 17:55 10:21 18:52 14:17 21:35 19:33 12:10 13:11
+22:15 11:25 21:42 21:47 22:52 21:18 17:53 19:20 20:38 10:12
+13:36 22:44 12:43 23:23 23:12 11:52 10:36 16:45 14:13 22:49
+10:38 12:45 16:30 22:34 10:16 23:20 16:36 13:11 22:15 10:16
+11:29 20:40 12:19 21:18 23:21 18:11 17:31 15:43 15:26 12:20
+20:29 22:59 15:56 23:25 13:43 12:41 21:12 15:10 19:34 16:24
+11:39 16:47 17:11 14:48 22:43 17:14 19:23 20:10 17:20 21:17
+10:49 22:37 11:50 19:48 16:16 20:55 20:23 21:29 10:35 23:19
+CubeNumber_3375 CubeNumber_1728 CubeNumber_2744 CubeNumber_110592 CubeNumber_46656 CubeNumber_85184 CubeNumber_6859 CubeNumber_2197 CubeNumber_148877 CubeNumber_474552
+CubeNumber_39304 CubeNumber_830584 CubeNumber_636056 CubeNumber_91125 CubeNumber_343 CubeNumber_262144 CubeNumber_125000 CubeNumber_857375 CubeNumber_884736 CubeNumber_10648
+CubeNumber_29791 CubeNumber_250047 CubeNumber_636056 CubeNumber_79507 CubeNumber_753571 CubeNumber_262144 CubeNumber_64000 CubeNumber_6859 CubeNumber_551368 CubeNumber_592704
+CubeNumber_857375 CubeNumber_27000 CubeNumber_166375 CubeNumber_2744 CubeNumber_110592 CubeNumber_328509 CubeNumber_157464 CubeNumber_195112 CubeNumber_4096 CubeNumber_103823
+CubeNumber_421875 CubeNumber_474552 CubeNumber_592704 CubeNumber_68921 CubeNumber_343 CubeNumber_250047 CubeNumber_110592 CubeNumber_91125 CubeNumber_493039 CubeNumber_19683
+CubeNumber_3375 CubeNumber_287496 CubeNumber_9261 CubeNumber_9261 CubeNumber_140608 CubeNumber_830584 CubeNumber_85184 CubeNumber_97336 CubeNumber_3375 CubeNumber_85184
+CubeNumber_64 CubeNumber_175616 CubeNumber_27 CubeNumber_8 CubeNumber_804357 CubeNumber_4096 CubeNumber_314432 CubeNumber_729000 CubeNumber_50653 CubeNumber_438976
+CubeNumber_103823 CubeNumber_68921 CubeNumber_91125 CubeNumber_91125 CubeNumber_373248 CubeNumber_226981 CubeNumber_704969 CubeNumber_110592 CubeNumber_250047 CubeNumber_1728
+CubeNumber_8000 CubeNumber_753571 CubeNumber_29791 CubeNumber_238328 CubeNumber_5832 CubeNumber_592704 CubeNumber_68921 CubeNumber_238328 CubeNumber_531441 CubeNumber_74088
+CubeNumber_175616 CubeNumber_205379 CubeNumber_300763 CubeNumber_804357 CubeNumber_5832 CubeNumber_15625 CubeNumber_15625 CubeNumber_531441 CubeNumber_357911 CubeNumber_571787
+CubeNumber_2197 CubeNumber_68921 CubeNumber_729000 CubeNumber_110592 CubeNumber_3375 CubeNumber_110592 CubeNumber_74088 CubeNumber_54872 CubeNumber_91125 CubeNumber_39304
+computerprogram machinecode ibook supercomputer screen integratedcircuit computercide hardware data centralprocessing unit
+camera console transistor computation server centralprocessing unit desktop dataconverter dataconverter floppydisk
+internet watch social astrolabe centralprocessing unit expansionslot cybertechnology centralprocessing unit xbox supercomputer
+calculator microcomputer electromechanical keyboard imac diskette vacuumtube mainframe android ibook
+escapekey electromechanical incompatible arithmetic game processor expansionslot visualdisplayunit mobiledevice xbox
+cpu compatible cell computation screen personalcomputer mobiledevice calculator antivirus spyware
+incompatible mobiledevice microprocessor centralprocessing unit computerscience desktopcomputer desktopcomputer analogcomputer programming social
+downloader hardware memory diskette ibook centralprocessing unit transistor automation desktop computerprogram
+cyber computerprogramming compatible electromechanical personalcomputer antivirus compatible browser cyber smartphone
+chip cell watch incompatible electromechanical expansionslot incompatible digitalcomputer processor watch
+data computercide data floppydisk antivirus computerprogramming cyber ibook digitalaudioplayer machinecode
+pig ladybug environmental bear dinosaur raccoon dinosaur livestock varmint jellyfish
+meat cat epizootic invertebrate sheep pet bug varmint zoology insectivorous
+animalkingdom monster varmint animal welfare fish zooplankton zoology embryo exoticanimals environmental
+protist livestock poikilotherm thoroughbred eukaryotic environmental object predatoryanimal animals deer
+plant animatebeing demon multicellular mythical vegan environmental multicellular animalia sensual
+puppy fantasy bear invertebrate frog animatebeing ladybug fauna livestock fleshly
+darter bug reptiles vegan amphibians multicellular zoo llamas mammals carnal
+metazoan porifera exoticanimals livestock varmint fish farming zoology workanimal raccoon
+wild creature chickens multicellular epizootic environmental epizootic mythical creature meat
+insectivorous fantasy jellyfish insectivore plant animals bug mythical feline protist
+plant vegan dogs insectivore deer demon animalkingdom vertebrate birds fantasy
+BinaryNumber_1100010 BinaryNumber_0111101 BinaryNumber_0100010 BinaryNumber_0101110 BinaryNumber_1010111 BinaryNumber_0011101 BinaryNumber_0011111 BinaryNumber_1001000 BinaryNumber_1001100 BinaryNumber_1001100
+BinaryNumber_1010100 BinaryNumber_0010011 BinaryNumber_0011011 BinaryNumber_0001111 BinaryNumber_0001101 BinaryNumber_0011111 BinaryNumber_1000101 BinaryNumber_0101010 BinaryNumber_1011011 BinaryNumber_0011101
+BinaryNumber_0101111 BinaryNumber_0101101 BinaryNumber_1001010 BinaryNumber_1000101 BinaryNumber_0001011 BinaryNumber_0101011 BinaryNumber_0001100 BinaryNumber_0001101 BinaryNumber_0011111 BinaryNumber_1010110
+BinaryNumber_1011101 BinaryNumber_1000001 BinaryNumber_1000101 BinaryNumber_1011000 BinaryNumber_1010011 BinaryNumber_0100010 BinaryNumber_0110000 BinaryNumber_1001001 BinaryNumber_1000001 BinaryNumber_0110100
+BinaryNumber_1000110 BinaryNumber_1001100 BinaryNumber_0111111 BinaryNumber_0000111 BinaryNumber_0111011 BinaryNumber_1000010 BinaryNumber_1010000 BinaryNumber_0000111 BinaryNumber_0101101 BinaryNumber_0111100
+BinaryNumber_1010100 BinaryNumber_0000010 BinaryNumber_0001011 BinaryNumber_0011101 BinaryNumber_0111110 BinaryNumber_0011110 BinaryNumber_1000111 BinaryNumber_0000001 BinaryNumber_0010000 BinaryNumber_0010100
+BinaryNumber_0111111 BinaryNumber_1010111 BinaryNumber_0001010 BinaryNumber_1011101 BinaryNumber_0111000 BinaryNumber_0110001 BinaryNumber_1010001 BinaryNumber_0111010 BinaryNumber_1001110 BinaryNumber_1010011
+BinaryNumber_1100010 BinaryNumber_1001001 BinaryNumber_0011111 BinaryNumber_0100001 BinaryNumber_1001010 BinaryNumber_1001010 BinaryNumber_0000010 BinaryNumber_0100011 BinaryNumber_0100110 BinaryNumber_0100011
+BinaryNumber_1011001 BinaryNumber_1000001 BinaryNumber_0011101 BinaryNumber_1001100 BinaryNumber_1010010 BinaryNumber_1010100 BinaryNumber_1000101 BinaryNumber_0110001 BinaryNumber_0001110 BinaryNumber_1010010
+BinaryNumber_0000111 BinaryNumber_0110010 BinaryNumber_1001111 BinaryNumber_0000110 BinaryNumber_0101111 BinaryNumber_1011111 BinaryNumber_1000100 BinaryNumber_1001100 BinaryNumber_0010100 BinaryNumber_1000100
+BinaryNumber_1000011 BinaryNumber_0111001 BinaryNumber_0000000 BinaryNumber_0110000 BinaryNumber_1010010 BinaryNumber_1000110 BinaryNumber_0000011 BinaryNumber_0110000 BinaryNumber_1000101 BinaryNumber_0000101
+tuning instrumental film phone pizzicato popular music poetry chorus modulate composing
+atmosphere intonation maps folk symphonic composing films rhapsody phenomenon ambient
+band playing singers musicology electronica pianist timbre double bass rock video
+movie ambient vinyl ensemble percussion subdivision lights muses lyrics podcast
+clarion madrigal speak rhapsody live streaming cello melody schubert dynamics
+musicality modulate roulade cello talk harpsichord culture lyrics pitch lights
+sounds party flute sfx double bass soundtracks visual soul hip noises
+chaconne exposition songs singers subdivision lights roulade atonality reharmonize medicine
+improvisation instrument band instrumentals accompaniment symphony solmizate spotify playlist tongue
+chaconne percussion theatre bars oboe visual harmonize maps phone tongue
+pianist studio triple-tongue sforzando recapitulation tweedle concerto conduct instrumentals pizzicato
+Cerebrum Ureter Jejunum Larynx Muscle Cerebrum Mouth Tendons Mouth Jejunum
+Clitoris Pons Pancreas Ganglia Esophagus Rectum Veins Scrotum Bladder Outerear
+Largeintestine Midbrain Interstitium Stomach Brain Cecum Eardrum Innerear Capillaries Analcanal
+Thalamus Ear Spleen Placenta Interstitium Midbrain Duodenum Joints Liver Urethra
+Cochlea Spinalnerves Capillaries Lymphaticvessel Cranialnerves Cecum Mouth Ciliarybody Eye Tongue
+Trachea Ear Thymus Iris Tonsils Cervix Veins Clitoris Ligaments Bone 
+Kidneys Mouth Clitoris Ciliarybody Retina Cerebellum Muscle Nerves Ear Spleen
+Heart Thalamus Urethra Ciliarybody Outerear Thalamus Bronchi Sensoryorgans Vagina Ileum
+Uterus Pons Cecum Brain Joints Duodenum Ureter Arteries Vagina Spleen
+Vulva Hypothalamus Spleen Tendons Analcanal Uterus Cerebrum Vulva Analcanal Lens
+Cerebrum Vulva Lymphaticvessel Eardrum Tongue Hypothalamus Brain Mesentery Ear Bronchi

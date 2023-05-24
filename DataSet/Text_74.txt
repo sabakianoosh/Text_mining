@@ -1,0 +1,99 @@
+SquareNumber_4900 SquareNumber_1521 SquareNumber_5929 SquareNumber_1681 SquareNumber_36 SquareNumber_361 SquareNumber_9216 SquareNumber_2809 SquareNumber_2500 SquareNumber_64
+SquareNumber_9025 SquareNumber_5184 SquareNumber_9 SquareNumber_289 SquareNumber_3136 SquareNumber_3249 SquareNumber_2500 SquareNumber_4624 SquareNumber_400 SquareNumber_324
+SquareNumber_9025 SquareNumber_8464 SquareNumber_441 SquareNumber_289 SquareNumber_81 SquareNumber_4489 SquareNumber_400 SquareNumber_3025 SquareNumber_9409 SquareNumber_7921
+SquareNumber_64 SquareNumber_1444 SquareNumber_1764 SquareNumber_3721 SquareNumber_144 SquareNumber_3600 SquareNumber_9025 SquareNumber_5184 SquareNumber_3844 SquareNumber_5929
+SquareNumber_8836 SquareNumber_3481 SquareNumber_3249 SquareNumber_169 SquareNumber_5184 SquareNumber_2401 SquareNumber_5929 SquareNumber_6724 SquareNumber_1089 SquareNumber_1024
+SquareNumber_16 SquareNumber_4225 SquareNumber_4900 SquareNumber_7921 SquareNumber_3600 SquareNumber_100 SquareNumber_6889 SquareNumber_729 SquareNumber_4356 SquareNumber_169
+SquareNumber_8100 SquareNumber_529 SquareNumber_289 SquareNumber_1600 SquareNumber_7569 SquareNumber_3600 SquareNumber_1444 SquareNumber_2304 SquareNumber_1024 SquareNumber_841
+SquareNumber_9025 SquareNumber_4900 SquareNumber_529 SquareNumber_9216 SquareNumber_2304 SquareNumber_25 SquareNumber_3721 SquareNumber_144 SquareNumber_3249 SquareNumber_16
+SquareNumber_1089 SquareNumber_841 SquareNumber_1936 SquareNumber_6400 SquareNumber_841 SquareNumber_4225 SquareNumber_6084 SquareNumber_576 SquareNumber_400 SquareNumber_625
+SquareNumber_676 SquareNumber_3844 SquareNumber_400 SquareNumber_576 SquareNumber_49 SquareNumber_2601 SquareNumber_2601 SquareNumber_5184 SquareNumber_144 SquareNumber_576
+SquareNumber_1225 SquareNumber_10000 SquareNumber_1225 SquareNumber_8281 SquareNumber_729 SquareNumber_529 SquareNumber_1369 SquareNumber_441 SquareNumber_484 SquareNumber_256
+BinaryNumber_1001101 BinaryNumber_0101010 BinaryNumber_1010000 BinaryNumber_0110111 BinaryNumber_0101111 BinaryNumber_0010001 BinaryNumber_0101101 BinaryNumber_0010111 BinaryNumber_0101001 BinaryNumber_0111000
+BinaryNumber_1011111 BinaryNumber_1010110 BinaryNumber_0001101 BinaryNumber_1010000 BinaryNumber_1010100 BinaryNumber_0000110 BinaryNumber_0010110 BinaryNumber_1010111 BinaryNumber_0100001 BinaryNumber_0001110
+BinaryNumber_0111001 BinaryNumber_1011100 BinaryNumber_0011101 BinaryNumber_0100010 BinaryNumber_0001110 BinaryNumber_1010011 BinaryNumber_0000110 BinaryNumber_1010000 BinaryNumber_1001011 BinaryNumber_0001111
+BinaryNumber_1001011 BinaryNumber_0111100 BinaryNumber_0000001 BinaryNumber_0110110 BinaryNumber_0111110 BinaryNumber_0010001 BinaryNumber_1010110 BinaryNumber_1100001 BinaryNumber_1001100 BinaryNumber_1000100
+BinaryNumber_1000111 BinaryNumber_0000001 BinaryNumber_1010111 BinaryNumber_1001100 BinaryNumber_0101111 BinaryNumber_0110001 BinaryNumber_1001111 BinaryNumber_0001110 BinaryNumber_0001111 BinaryNumber_0100010
+BinaryNumber_1011001 BinaryNumber_0011101 BinaryNumber_0110011 BinaryNumber_0011011 BinaryNumber_0000111 BinaryNumber_1100001 BinaryNumber_1001001 BinaryNumber_1011000 BinaryNumber_1100000 BinaryNumber_0010101
+BinaryNumber_1100001 BinaryNumber_1000000 BinaryNumber_1011011 BinaryNumber_1010111 BinaryNumber_0011001 BinaryNumber_0001010 BinaryNumber_0000001 BinaryNumber_1100000 BinaryNumber_1010110 BinaryNumber_0010101
+BinaryNumber_0100100 BinaryNumber_0010111 BinaryNumber_1010010 BinaryNumber_1100000 BinaryNumber_0010001 BinaryNumber_0001010 BinaryNumber_0001111 BinaryNumber_0000001 BinaryNumber_1010110 BinaryNumber_0011010
+BinaryNumber_1010111 BinaryNumber_1011111 BinaryNumber_0101100 BinaryNumber_0001010 BinaryNumber_0111010 BinaryNumber_0111110 BinaryNumber_0001010 BinaryNumber_0011111 BinaryNumber_0111110 BinaryNumber_0110110
+BinaryNumber_0101111 BinaryNumber_0101110 BinaryNumber_0011001 BinaryNumber_0011000 BinaryNumber_1000001 BinaryNumber_0010110 BinaryNumber_0110000 BinaryNumber_0011100 BinaryNumber_0010111 BinaryNumber_0100100
+BinaryNumber_0000101 BinaryNumber_0100110 BinaryNumber_0100000 BinaryNumber_1011001 BinaryNumber_1100010 BinaryNumber_0111111 BinaryNumber_1000000 BinaryNumber_1001011 BinaryNumber_1001000 BinaryNumber_1010110
+cereal cereal animal beef milk meat beef sushi fruit nutrition
+milk cheese eat provender pasta chicken cereal victuals victuals drinks
+nutrient plant fruits vegetables sushi nutrient nutrient plant animal fruits vegetables restaurant
+meals chicken provender vegetable chicken pasta fruits vegetables vegetable animal edible
+fruit eat nutrient vegetable cooking meat plant nourishment plant meal
+pasta cheese fruit drinks cheese nutrient nutrition milk edible rice
+rice fruit fruit plant rice meat vegetable fruits vegetables milk restaurant
+nutrition nutrition rice seafood sushi nourishment cooking victuals edible seafood
+eat soup meal animal vegetable nutrient meals nutrient meals rice
+milk fruits vegetables pasta nutrient fruit drinks cheese fruits vegetables restaurant meal
+provender seafood edible drinks cheese rice sushi provender beef nourishment
+murder country supernatural abuse thrillers arsons drug drama heist safety
+smuggle brutality war story incarceration murders shoplift incarceration legislature spy
+mystery snitching government cybercrime gangster arsons violence gun slay offence
+criminal imprisonment muggings gang drug conspiracy blackmail slayings trafficking homelessness
+terrorism noir gangs thrillers hijack offense accident genocide crime poison
+gun cop spy sentence brutality mob investigation corruption homicide pirate
+safety prostitution incarceration brutality genocide law-breaking victim murders offence blackmail
+statutory liberty bloodshed incarceration drug threats highjack mafia poison drug
+transgression mystery war offenders liberty story misdemeanour misdemeanor offenders liberty
+brutality offence guilty gangsterism mutilation law shoplift structuralism safety blackmail
+investigation slayings statutory thriller suspense offenses thriller violence offence victim
+insectivore rodent eukaryotic elephants animals clams insectivore animalkingdom fleshly bear
+animatebeing meat varmint plant livestock reptiles monster multicellular cat animalkingdom
+varmint demon poikilotherm bear wildlife livestock dinosaur dinosaur mammal domesticate
+insectivore porifera pig demon cat metazoan animalia fauna poikilotherm reptiles
+marineanimal plant porifera elephants chordate object predatoryanimal darter clams porifera
+tufted animalkingdom eukaryotic fish chordate livestock reptile carnivore superdog predatoryanimal
+tame zooplankton octopuses heterotroph heterotroph reptiles animal welfare raccoon predatoryanimal carnivore
+protist dog creature animal welfare poikilotherm animals pig reptile puppy varmint
+llamas birds vegan pigs frog rodent livestock animalkingdom tufted insectivorous
+demon fish marineanimal carnal poikilotherm animalkingdom sheep cats farming mammals
+deer insects eukaryotic zoo beast carnal meat iguana insects tufted
+accusation fiasco denigrate illicit laconic reckless obscure tycoon acolyte empire
+covert covert illicit deception regime collaboration fray accusation career mercurial
+prestidigitation refute plutocracy career subterfuge influence accusation assail bribe illegal
+deflect malfeasance solicit chicanery coterie endorsement parry revelation impunity unjust
+subterfuge coterie career reckless bribe engagement tainted rebut scandalous intimidation
+patronage patriarchy manipulate mercurial blame alliance subterfuge allegation scandal feud
+deflect partial deny scandal unsavory infringement claim patronage temptation sloth
+plagiarism manipulate coercion coercion revelation deflect assail chicanery laconic deception
+opportunist scandalous patronage proxy covert blame recrimination manipulate hypocrisy patronage
+feud collaboration patriarchy mercurial alliance benefit incident massive incident recrimination
+claim cadre saga fray resignation benefit plutocracy obscure feud mercurial
+smartphone screen computerprogramming laptopcomputer laptop supercomputer laptop keyboard homecomputer microcomputer
+supercomputer automation machines downloader machinecode bit centralprocessing unit astrolabe machines computerhardware
+keyboard software laptopcomputer device desktop smartphone camera computerscience turingmachine proprietary
+downloader abacus antivirus machinecode computing office cpu processor keyboard proprietary
+mainframe phone microcomputer von neumann machine desktop compatible cyber digitalaudioplayer computerprogram tablet
+memory desktoppcs computing device diskette inputdevice tablet screen digitalcommunication computerscience
+virtualreality console computercircuit computerscience computerprogramming inputdevice digital cpu imac programming
+electromechanical laptop machine software ibook cybertechnology dataconverter floppydisk digitalcommunication expansionslot
+microcomputer android algorithm mobiledevice ibook digitalcomputer automation computercide computerprogramming algorithm
+programming spyware hardware computerprogramming visualdisplayunit computercide pornographicimages turingmachine laptop programming
+electromechanical digitalcomputer computing transistor von neumann machine laptop peripheral android computation analogcomputer
+Drapes Frieze Footrest Secretary Hutch Light Cabriole Couch Fauteuil Waterbed
+Etagère Fan Rattle Applique Settee Pliant Footrest Island Rug Hutch
+Jardinière Buffet Desk Furniture Curtains Seat Furniture Mirror Lounger Cabinet
+Daybed Waterbed Wardrobe Bentwood Pliant Regency Carpet Screen Wheelchair Couch
+Buffet Cushions Armoire Stool Applique Secretary Light Regency Cushions Headboard
+Baroque Armchair Applique Hutch Marquetry Headboards Dresser Armoire Armoire Upholstery
+Volute Television Light Headboards Lintel Jardinière Jardinière Bench Rack Bentwood
+Bench Curtains Shelf Hammock Wicker Cabinet Chandelier Console Footstool Fluting
+Fauteuil Dresser Frieze Castor Baroque Headboard Bureau Sideboard Cushions Console
+Shelf Couch Rug Light Antique Cushion Cabinet Sideboard Sideboard Shelf
+Couch Bowfront Drapes Lamp Bassinet Bassinet Desk Hassock Vanity Rattle
+tough aggressive disgusted delightful joyous inquisitive strange mysterious wide-eyed jittery
+foolish bewildered happy tense horrible lively adventurous fancy light precious
+bewildered sparkling blushing filthy fantastic bloody clean dark frightened poised
+worrisome strange alive sleepy lucky faithful bored cruel troubled tough
+naughty colorful tough lively good silly energetic stupid powerful shiny
+plain homely talented hilarious depressed fine lively amused comfortable bored
+pleasant comfortable panicky lucky successful naughty inexpensive homely long worried
+average zany annoying healthy stormy modern proud wild clumsy crazy
+obnoxious upset helpful creepy adorable proud fierce aggressive thoughtful encouraging
+wandering eager upset lonely doubtful helpful old-fashioned zany gorgeous agreeable
+odd clumsy careful nutty hilarious busy fancy dizzy jolly glorious

@@ -1,0 +1,99 @@
+Melon Pineapple Longan Blackberry Pomegranate Currant Abiu Pineapple Kumquat Cempedak
+Bilberry Ximenia Longan Cantaloupe Akebi Currant Lychee Mulberry Fig Pineapple
+Banana Ackee Jambul Mango Abiu Pomelo Marionberry Pomegranate Quince Plumcot
+Honeydew Jambul Pineapple Coconut Salmonberry Ximenia Cranberry Pear Ackee Raspberry
+Mandarine Quince Blackcurrant Soursop Peach Plantain Açaí Tayberry Gooseberry Loquat
+Elderberry Clementine Persimmon Lime Banana Pear Redcurrant Plantain Apple Cantaloupe
+Jambul Durian Watermelon Peach Gooseberry Cloudberry Pineapple Honeyberry Honeyberry Nectarine
+Peach Pomegranate Mulberry Honeyberry Melon Grape Kumquat Bilberry Salak Clementine
+Blueberry Kiwano Honeydew Pineapple Prune Loganberry Jujube Tangerine Cashew Kumquat
+Honeyberry Raisin Mangosteen Tangelo Salmonberry Mandarine Bilberry Mango Jujube Jackfruit
+Raspberry Lemon Kiwano Damson Apricot Açaí Plantain Mangosteen Strawberry Breadfruit
+BinaryNumber_1001001 BinaryNumber_1011111 BinaryNumber_0000110 BinaryNumber_0000000 BinaryNumber_0100000 BinaryNumber_0001110 BinaryNumber_0100000 BinaryNumber_0101111 BinaryNumber_0010111 BinaryNumber_0011000
+BinaryNumber_1001101 BinaryNumber_0000101 BinaryNumber_0010001 BinaryNumber_1001001 BinaryNumber_1000110 BinaryNumber_0001100 BinaryNumber_0000101 BinaryNumber_0111011 BinaryNumber_0010000 BinaryNumber_0000001
+BinaryNumber_0010011 BinaryNumber_0110110 BinaryNumber_0001100 BinaryNumber_0100001 BinaryNumber_1011011 BinaryNumber_1100011 BinaryNumber_0011000 BinaryNumber_1000011 BinaryNumber_0000100 BinaryNumber_1011011
+BinaryNumber_1010101 BinaryNumber_0011011 BinaryNumber_0110011 BinaryNumber_1000100 BinaryNumber_1011001 BinaryNumber_0111001 BinaryNumber_0011001 BinaryNumber_0100100 BinaryNumber_1000010 BinaryNumber_1000001
+BinaryNumber_0001101 BinaryNumber_0001101 BinaryNumber_0111000 BinaryNumber_1010010 BinaryNumber_0001111 BinaryNumber_0001100 BinaryNumber_0001100 BinaryNumber_1100000 BinaryNumber_0101110 BinaryNumber_0000100
+BinaryNumber_1100010 BinaryNumber_0000010 BinaryNumber_0111101 BinaryNumber_0100001 BinaryNumber_0100100 BinaryNumber_1010011 BinaryNumber_1011100 BinaryNumber_1011101 BinaryNumber_1001011 BinaryNumber_1001001
+BinaryNumber_0101111 BinaryNumber_0110111 BinaryNumber_0110101 BinaryNumber_0010000 BinaryNumber_0111000 BinaryNumber_1000011 BinaryNumber_1011111 BinaryNumber_1000100 BinaryNumber_0011101 BinaryNumber_0110110
+BinaryNumber_0011010 BinaryNumber_0001001 BinaryNumber_0111100 BinaryNumber_0100010 BinaryNumber_0001001 BinaryNumber_1000110 BinaryNumber_0011010 BinaryNumber_0111011 BinaryNumber_1100001 BinaryNumber_1100000
+BinaryNumber_1010101 BinaryNumber_0000011 BinaryNumber_0110011 BinaryNumber_1011100 BinaryNumber_0011110 BinaryNumber_1001000 BinaryNumber_0110101 BinaryNumber_0100000 BinaryNumber_1011111 BinaryNumber_0011100
+BinaryNumber_1000011 BinaryNumber_0011110 BinaryNumber_1010101 BinaryNumber_0101001 BinaryNumber_0111100 BinaryNumber_1001101 BinaryNumber_1011100 BinaryNumber_1001001 BinaryNumber_0101001 BinaryNumber_0000100
+BinaryNumber_0001101 BinaryNumber_0110011 BinaryNumber_0010010 BinaryNumber_1010100 BinaryNumber_0100100 BinaryNumber_0111000 BinaryNumber_0110011 BinaryNumber_0000110 BinaryNumber_1001000 BinaryNumber_1011001
+temperature__139c temperature__44c temperature__10c temperature__78c temperature__2c temperature__50c temperature__11c temperature__61c temperature__7c temperature__59c
+temperature__7c temperature__82c temperature__24c temperature__33c temperature__88c temperature__6c temperature__138c temperature__0c temperature__0c temperature__39c
+temperature__53c temperature__39c temperature__24c temperature__84c temperature__90c temperature__44c temperature__77c temperature__42c temperature__47c temperature__40c
+temperature__12c temperature__136c temperature__56c temperature__88c temperature__79c temperature__93c temperature__112c temperature__105c temperature__44c temperature__146c
+temperature__16c temperature__16c temperature__86c temperature__137c temperature__3c temperature__7c temperature__142c temperature__79c temperature__68c temperature__84c
+temperature__17c temperature__56c temperature__139c temperature__50c temperature__79c temperature__141c temperature__148c temperature__30c temperature__119c temperature__47c
+temperature__111c temperature__26c temperature__23c temperature__142c temperature__78c temperature__87c temperature__100c temperature__93c temperature__112c temperature__8c
+temperature__140c temperature__140c temperature__34c temperature__112c temperature__23c temperature__24c temperature__77c temperature__14c temperature__129c temperature__23c
+temperature__146c temperature__0c temperature__95c temperature__106c temperature__36c temperature__131c temperature__5c temperature__82c temperature__36c temperature__138c
+temperature__123c temperature__0c temperature__100c temperature__119c temperature__116c temperature__71c temperature__17c temperature__92c temperature__91c temperature__138c
+temperature__137c temperature__123c temperature__146c temperature__49c temperature__17c temperature__79c temperature__16c temperature__93c temperature__136c temperature__95c
+Vulva Thymus Hypothalamus Spinalnerves Cervix Pancreas Fallopiantubes Ovaries Thymus Vagina
+Jejunum Ligaments Pons Trachea Earlobe Ovaries Bone  Lips Capillaries Larynx
+Vulva Teeth Lymphaticvessel Capillaries Liver Bladder Rectum Cecum Spinalnerves Urethra
+Duodenum Ossicles Ovaries Uterus Thymus Fallopiantubes Uterus Ciliarybody Ganglia Bladder
+Rectum Hypothalamus skeleton Trachea Bone  Uterus Placenta Vagina Stomach Tendons
+Lens Eye Duodenum Spinalnerves Jejunum Earlobe Cornea Tendons Tongue Ligaments
+Cranialnerves Thalamus Brain Penis Cecum Pons Ossicles Placenta Lips Retina
+Ovaries Eye Mouth Bronchi Joints Pharynx Cerebrum Bone  Urethra Esophagus
+Bladder Cecum Fallopiantubes Uterus Ureter Tongue Teeth Pharynx Lymphaticvessel Earlobe
+Tastebuds Interstitium Ossicles Rectum Capillaries Cervix Kidneys Scrotum Cornea Pharynx
+Retina Gallbladder Cerebrum Larynx Kidneys Vagina Ossicles Larynx Larynx Earlobe
+Armoire Credenza Jardinière Futon Sofabed Waterbed Upholstery Sofa Fan Bassinet
+Desk Pliant Armoire Wheelchair Etagère Vitrine Mirror Rug Recliner Settee
+Light Lamp Sconce Lamp Sideboard Regency Bookshelf Headboard Drapes Lamp
+Furnishings Buffet Zitan Clock Sideboard Mirror Mantle Pew Sconce Stool
+Lamp Futon Footrest Hammock Table Couch Buffet Fauteuil Lounger Wardrobe
+Wheelchair Footrest Daybed Tuffet Lounger Shelf Credenza Divan Bentwood Vanity
+Fan Waterbed Cart Armoire Cabinet Bookshelf Easel Hammock Bed Tuffet
+Daybed Jardinière Seat Sofa Light Wheelchair Credenza Mattress Drapery Throne
+Hutch Lamp Light Bureau Jardinière Dresser Crib Cushions Headboards Tuffet
+Bed Hokey Stool Throne Carpet Fan Chest Easel Sconce Pantry
+Fluting Bowfront Pillow Bureau Easel Lintel Cushion Zitan Cart Bed
+fish dinosaur tiger chordate fantasy superdog rabbit fleshly chickens rabbit
+fantasy chickens multicellular wildlife marineanimal environmental primate metazoan amphibians rodent
+wildlife vertebrate monster birds hourse beast demon protist mythical mythical
+pet insect epizootic raccoon dinosaur birds beast embryo fleshly domesticate
+embryo cats amphibians vegan frog jellyfish livestock primate jellyfish livestock
+pet carnivore marineanimal animal welfare feline frog zoology llamas animals domesticate
+insect vegan vertebrate eukaryotic environmental birds reptile frog shelter carnal
+poikilotherm object sheep scavenger mythical sheep superdog workanimal fleshly tufted
+farming animal welfare puppy octopuses predatoryanimal object poikilotherm cat mammal chickens
+reptile clams invertebrate dogs reptile creature amphibians darter mythical raccoon
+zoology domesticate animal welfare fish dinosaur workanimal ladybug shelter reptiles cat
+proprietary monitor xbox visualdisplayunit electrical chip centralprocessing unit mainframe supercomputer browser
+supercomputer escapekey supercomputer keyboard digitalcomputer tablet programmer supercomputer digitalcommunication game
+processor machine mobile analogcomputer laptop phone game visualdisplayunit turingmachine desktoppcs
+downloader ibook device electrical processor programmer desktop processor digital desktop
+screen digitalaudioplayer proprietary digitalcomputer game screen digital virtualreality digital peripheral
+computerscience data abacus abacus integratedcircuit phone daw mobiledevice computing sliderule
+ibook electronics supercomputer von neumann machine computerscience digital pornographicimages android computation server
+desktopcomputer bit computerhardware downloader supercomputer astrolabe automation sliderule algorithm proprietary
+astrolabe router incompatible vacuumtube social data cybertechnology xbox social computerprogramming
+supercomputer eniac pc computercide inputdevice homecomputer visualdisplayunit diskette homecomputer device
+transistor analogcomputer pornographicimages microcomputer escapekey expansionslot memory bit watch mainframe
+meat animal edible vegetable pasta restaurant milk meal meal beef
+edible nutrient victuals cheese drinks meal fruit cooking edible cereal
+sushi eat milk chicken fruits vegetables cereal seafood seafood meat eat
+cereal cooking plant cereal pasta restaurant plant seafood soup meal
+victuals nourishment meat eat nourishment cheese pasta pasta animal drinks
+restaurant edible chicken plant cooking meals nutrition cooking chicken beef
+meat beef cereal eat nutrient chicken vegetable plant soup nourishment
+provender sushi chicken soup nutrition meat soup cereal fruits vegetables sushi
+provender pasta cereal provender cereal beef drinks plant seafood nutrient
+meals cereal nourishment restaurant vegetable fruit vegetable pasta nourishment restaurant
+pasta cheese rice eat nutrition soup animal meat victuals vegetable
+popular music soundtrack arts blues bass triple-tongue harp work concertise metal
+wagner headphones muse musicians melodic violin karaoke recapitulation lyric violoncello
+genre subdivision vocal rockabilly hyperpop tweedle guitar texture melodic sfx
+artists sing key playlist club tabs favorite reharmonize carol symphony
+madrigal noises techno bebop blues singers radio tabs tonic arts
+release audio ambience double bass metre literature label art podcast metre
+artists symphonic rhapsody ambient compositions conducting club score melodic medicine
+phenomenon playing melody dixieland party fugue maps bassline art gospel
+lyric tune violin soundtracks poetry wagner label instrumentals tonic atmosphere
+playlists songs tuning muses musicality violoncello chord tonic atmosphere playlist
+tweedle mediant voice melodic choir audio live lights symphonic reading

@@ -1,0 +1,99 @@
+BinaryNumber_0000110 BinaryNumber_0101001 BinaryNumber_0110001 BinaryNumber_0110101 BinaryNumber_0010010 BinaryNumber_0001100 BinaryNumber_1000101 BinaryNumber_0110101 BinaryNumber_1001001 BinaryNumber_1011101
+BinaryNumber_0010101 BinaryNumber_1011010 BinaryNumber_0101010 BinaryNumber_0101101 BinaryNumber_0110000 BinaryNumber_0111000 BinaryNumber_0010011 BinaryNumber_0111111 BinaryNumber_0001110 BinaryNumber_0001001
+BinaryNumber_1011100 BinaryNumber_1100000 BinaryNumber_1000111 BinaryNumber_0010111 BinaryNumber_0010010 BinaryNumber_1100000 BinaryNumber_0010101 BinaryNumber_0111101 BinaryNumber_0001000 BinaryNumber_1010101
+BinaryNumber_1000001 BinaryNumber_0111000 BinaryNumber_1011101 BinaryNumber_1000111 BinaryNumber_0001100 BinaryNumber_1100000 BinaryNumber_1000010 BinaryNumber_0111011 BinaryNumber_0011110 BinaryNumber_0101111
+BinaryNumber_1100001 BinaryNumber_1010100 BinaryNumber_1011010 BinaryNumber_0111101 BinaryNumber_1010111 BinaryNumber_0111011 BinaryNumber_0111100 BinaryNumber_0111001 BinaryNumber_0100110 BinaryNumber_1010010
+BinaryNumber_0000111 BinaryNumber_0111011 BinaryNumber_1001110 BinaryNumber_1001000 BinaryNumber_1100011 BinaryNumber_0010110 BinaryNumber_0110000 BinaryNumber_1010010 BinaryNumber_0000010 BinaryNumber_1001100
+BinaryNumber_1011111 BinaryNumber_1010001 BinaryNumber_1100000 BinaryNumber_1000011 BinaryNumber_1000111 BinaryNumber_0010010 BinaryNumber_0010001 BinaryNumber_1000010 BinaryNumber_0110011 BinaryNumber_0010010
+BinaryNumber_0010010 BinaryNumber_1000101 BinaryNumber_0110011 BinaryNumber_0010111 BinaryNumber_1100000 BinaryNumber_0000101 BinaryNumber_1100010 BinaryNumber_0101010 BinaryNumber_1010100 BinaryNumber_0010011
+BinaryNumber_0010000 BinaryNumber_0101011 BinaryNumber_0010010 BinaryNumber_0111111 BinaryNumber_1011011 BinaryNumber_0101011 BinaryNumber_0110001 BinaryNumber_0111000 BinaryNumber_0011000 BinaryNumber_1000000
+BinaryNumber_0110110 BinaryNumber_1010011 BinaryNumber_0000100 BinaryNumber_0001010 BinaryNumber_0111100 BinaryNumber_0101111 BinaryNumber_1000100 BinaryNumber_0010111 BinaryNumber_1100011 BinaryNumber_0101111
+BinaryNumber_0001100 BinaryNumber_0011111 BinaryNumber_0100000 BinaryNumber_0101010 BinaryNumber_0110010 BinaryNumber_1011110 BinaryNumber_0010001 BinaryNumber_0001101 BinaryNumber_0011111 BinaryNumber_0010111
+obscure expose blame plutocracy demagogue unethical lobby claim intimidation ignorant
+conceal reckless tarnish scandalous impunity mercurial chicanery authoritarian endorsement allegation
+chicanery coercion infringement unethical illegal extortion debacle collaboration benefit debacle
+engagement integrity obscure acolyte assail embezzlement infringement reputation influence privilege
+hypocrisy tycoon laconic acolyte alliance influence deficit denigrate laconic unjust
+solicit alliance patronage malfeasance mercurial fray incident scapegoat tainted covert
+temptation coterie tarnish prestidigitation bamboozle demagogue unjust extortion unjust privilege
+collaboration expose malfeasance plutocracy chicanery ignorant illegal scandalous intimidation malfeasance
+embezzlement persecution refute blame cadre fray incident claim obscure patriarchy
+manipulate claim sloth patronage patronage plagiarism reputation lobby defamation infringement
+unethical proxy fiasco illegal opportunist solicit chicanery debacle fray ignorant
+law corrupt misdemeanor vandalism massacre death skyjack trial legislature transgression
+homicides corrupt terrorism rape murders corrupt spy supernatural legislature kill
+lift sin guilt suspense crime hijack terrorism drama drama shoplift
+corruption corruption serial gun evidence psychological investigation genocide theft supernatural
+story missing blackmail legal punitive evidence smuggle murder missing thriller
+suspense skyjack hijack jurisdiction arsons unsolved poverty forensic criminal abuse
+guilt homelessness country pirate criminals threats rape conspiracy evidence felony
+pirate barratry unsolved cases criminal threats gang mutilation mutilation gun
+trafficking snitching highjack poison accident drama noir bloodshed thrillers kill
+legislature political police psychological statutory human sin gangster liberty trial
+fraud murders thrillers action homeless law-breaking victim terrorism drug mob
+DarkGreen WhiteSmoke DarkSalmon Cyan Goldenrod DarkOliveGreen BlanchedAlmond DarkKhaki Sienna DeepPink
+Azure MediumBlue Teal Lime Gray Honeydew DarkCyan Thistle GreenYellow Salmon
+Feldspar MediumAquamarine SpringGreen Orchid Turquoise MediumOrchid HotPink Moccasin LightCyan VioletRed
+Silver Brown Azure PowderBlue LightYellow DarkGreen MediumBlue LightSkyBlue LightCoral DarkSlateBlue
+LightSkyBlue LimeGreen Linen Teal FloralWhite MintCream Tan DarkTurquoise Pink Yellow
+DarkKhaki Tan LightYellow LightGray GhostWhite DeepPink DarkOrange DeepPink Linen MediumVioletRed
+Moccasin DarkCyan DarkViolet DarkBlue GhostWhite Orchid Khaki LightSteelBlue Lime MidnightBlue
+DarkGoldenrod DarkTurquoise DeepSkyBlue MediumPurple Khaki Plum AliceBlue Moccasin SlateGray Gainsboro
+DarkOrchid MediumPurple Coral LightCoral DarkGoldenrod SpringGreen LightYellow MediumBlue Goldenrod SpringGreen
+Purple Gold LawnGreen Purple MediumSeaGreen Cyan Linen LightPink PaleTurquoise CadetBlue
+Turquoise LightSteelBlue Peru Chocolate MediumPurple RosyBrown Violet DodgerBlue RosyBrown Gainsboro
+SquareNumber_1681 SquareNumber_64 SquareNumber_1849 SquareNumber_1089 SquareNumber_49 SquareNumber_16 SquareNumber_3481 SquareNumber_49 SquareNumber_1089 SquareNumber_5184
+SquareNumber_5929 SquareNumber_8836 SquareNumber_9216 SquareNumber_900 SquareNumber_1296 SquareNumber_5184 SquareNumber_2304 SquareNumber_5625 SquareNumber_4096 SquareNumber_961
+SquareNumber_1369 SquareNumber_361 SquareNumber_6561 SquareNumber_36 SquareNumber_1444 SquareNumber_3969 SquareNumber_2116 SquareNumber_3364 SquareNumber_3844 SquareNumber_49
+SquareNumber_1600 SquareNumber_10000 SquareNumber_289 SquareNumber_8100 SquareNumber_8464 SquareNumber_10000 SquareNumber_784 SquareNumber_4761 SquareNumber_6400 SquareNumber_5041
+SquareNumber_7921 SquareNumber_225 SquareNumber_7569 SquareNumber_100 SquareNumber_961 SquareNumber_1521 SquareNumber_1156 SquareNumber_1296 SquareNumber_6241 SquareNumber_1681
+SquareNumber_225 SquareNumber_1225 SquareNumber_484 SquareNumber_4761 SquareNumber_144 SquareNumber_2601 SquareNumber_625 SquareNumber_9801 SquareNumber_729 SquareNumber_289
+SquareNumber_196 SquareNumber_676 SquareNumber_400 SquareNumber_6889 SquareNumber_7396 SquareNumber_3364 SquareNumber_7921 SquareNumber_729 SquareNumber_3844 SquareNumber_576
+SquareNumber_3136 SquareNumber_81 SquareNumber_361 SquareNumber_5929 SquareNumber_1024 SquareNumber_1849 SquareNumber_2025 SquareNumber_9604 SquareNumber_9025 SquareNumber_3969
+SquareNumber_2209 SquareNumber_4 SquareNumber_5329 SquareNumber_3364 SquareNumber_961 SquareNumber_289 SquareNumber_3600 SquareNumber_361 SquareNumber_441 SquareNumber_7056
+SquareNumber_1681 SquareNumber_961 SquareNumber_361 SquareNumber_256 SquareNumber_7569 SquareNumber_9 SquareNumber_3600 SquareNumber_3025 SquareNumber_4900 SquareNumber_6084
+SquareNumber_7744 SquareNumber_9604 SquareNumber_4761 SquareNumber_2809 SquareNumber_8281 SquareNumber_400 SquareNumber_16 SquareNumber_8281 SquareNumber_529 SquareNumber_1849
+soul harmonize pianist movie pianist lyrics musicians folk subtonic graduation
+triple-tongue composing dance section playing tabs techno movies silence muse
+work silence accompaniment fermata rockabilly videos music streaming vinyl pitch
+bhangra lights rhapsody concert tone graphics clapping artist bars composer
+merch rock atonal paleolithic poetry lights banjo sonata lyrics live
+dance instrumentals lights improvisation soulful concertize texture madrigal tweedle reading
+vinyl audio album bpm arts musicality art music triple-tongue genre techno
+bands key tonic talk arts percussion art music videos metal gospel
+action atmosphere trumpet mp3s festival muse song symphony instrument graphics
+part noises artists noises phenomenon hyperpop sonata jazzfunk popular music single
+voices chorus literature carol ambience music wagner musical sound editing
+wild mammal farming insectivorous monster chickens fleshly mammal bird primate
+beast zooplankton vegan creature fauna bird carnivore creature insectivore meat
+cats mammals exoticanimals pups animal welfare heterotroph frog dinosaur pet animals
+heterotroph eukaryotic zoology bug pig vegan biped rodent animals wildlife
+amphibians multicellular bobcat biped wild multicellular llamas mammals animal welfare jellyfish
+porifera predatoryanimal poikilotherm tiger pups dogs wild vertebrate mammals jellyfish
+clams animals pig amphibians beast clams cats animal welfare heterotroph hourse
+tame plant workanimal tufted chickens farming plant frog reptile ladybug
+jellyfish animals insect mythical sensual rodent bobcat mammals livestock demon
+farming varmint pig birds feline darter chickens mammals carnal poikilotherm
+wildlife superdog vegan pups pups exoticanimals fleshly protist environmental bug
+microprocessor machines monitor spyware visualdisplayunit device computation device centralprocessing unit compatible
+floppydisk tablet digital browser ibook mainframe computerhardware microcomputer programming cpu
+machinecode watch dataconverter laptopcomputer turingmachine game router desktop analogcomputer diskette
+watch programmer computercircuit computercide desktopcomputer office von neumann machine mobiledevice laptopcomputer camera
+antivirus console expansionslot virtualreality memory electromechanical monitor electromechanical server calculator
+game machines personalcomputer game browser hardware phone desktop office mechanicalcomputer
+downloader microprocessor automation floppydisk computerhardware diskette integratedcircuit eniac programmer desktoppcs
+watch camera programmer camera daw inputdevice desktopcomputer computerscience chip escapekey
+chip turingmachine office digitalcomputer computerprogramming laptop machines digitalaudioplayer phone incompatible
+eniac abacus console electrical proprietary inputdevice electrical cpu digitalaudioplayer desktopcomputer
+centralprocessing unit computerscience chip machine processor digitalaudioplayer incompatible floppydisk social computerprogram
+13:53 11:10 15:56 21:25 14:58 10:30 11:26 22:14 21:30 17:19
+16:19 19:11 20:24 17:36 16:59 19:11 14:29 17:41 19:19 23:44
+16:58 14:30 12:18 11:59 23:12 14:36 19:59 12:16 21:45 23:45
+16:19 17:34 23:22 14:45 11:38 10:13 21:18 23:35 14:39 16:53
+18:53 21:46 11:28 10:48 23:24 11:28 22:28 21:32 22:40 20:38
+15:17 15:19 15:49 20:59 16:10 18:55 13:29 20:49 22:41 18:11
+20:29 11:29 20:38 22:13 13:42 21:20 23:22 16:15 17:33 22:50
+23:39 11:58 23:26 23:38 22:54 11:20 13:35 12:56 13:28 19:19
+16:59 22:51 23:41 23:36 15:15 11:57 13:50 13:54 19:40 14:54
+11:32 20:30 22:13 19:34 21:31 23:17 23:33 12:37 21:51 12:19
+19:23 22:39 10:12 10:12 20:36 19:22 14:53 12:36 21:45 18:38

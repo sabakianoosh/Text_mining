@@ -1,0 +1,99 @@
+temperature__59c temperature__49c temperature__118c temperature__132c temperature__130c temperature__57c temperature__39c temperature__129c temperature__86c temperature__108c
+temperature__85c temperature__73c temperature__112c temperature__108c temperature__92c temperature__30c temperature__131c temperature__139c temperature__146c temperature__64c
+temperature__111c temperature__148c temperature__140c temperature__36c temperature__53c temperature__71c temperature__124c temperature__131c temperature__24c temperature__10c
+temperature__12c temperature__8c temperature__139c temperature__47c temperature__79c temperature__106c temperature__2c temperature__50c temperature__126c temperature__4c
+temperature__74c temperature__82c temperature__53c temperature__6c temperature__40c temperature__31c temperature__145c temperature__92c temperature__12c temperature__109c
+temperature__123c temperature__140c temperature__73c temperature__4c temperature__138c temperature__39c temperature__106c temperature__70c temperature__3c temperature__16c
+temperature__147c temperature__142c temperature__4c temperature__116c temperature__136c temperature__63c temperature__16c temperature__108c temperature__132c temperature__131c
+temperature__111c temperature__30c temperature__69c temperature__40c temperature__69c temperature__91c temperature__64c temperature__16c temperature__46c temperature__86c
+temperature__3c temperature__126c temperature__91c temperature__56c temperature__88c temperature__130c temperature__53c temperature__10c temperature__137c temperature__95c
+temperature__59c temperature__82c temperature__64c temperature__54c temperature__79c temperature__118c temperature__23c temperature__46c temperature__63c temperature__42c
+temperature__4c temperature__6c temperature__126c temperature__120c temperature__88c temperature__132c temperature__40c temperature__124c temperature__146c temperature__65c
+BinaryNumber_0011110 BinaryNumber_1001110 BinaryNumber_0010000 BinaryNumber_0001100 BinaryNumber_0101001 BinaryNumber_0000011 BinaryNumber_0000001 BinaryNumber_0100101 BinaryNumber_0010000 BinaryNumber_0000000
+BinaryNumber_0000111 BinaryNumber_1000010 BinaryNumber_0010111 BinaryNumber_0011000 BinaryNumber_1001101 BinaryNumber_1010010 BinaryNumber_0000101 BinaryNumber_0110100 BinaryNumber_1000101 BinaryNumber_1000000
+BinaryNumber_1010011 BinaryNumber_1000111 BinaryNumber_0100000 BinaryNumber_1000111 BinaryNumber_0000101 BinaryNumber_0011010 BinaryNumber_0001111 BinaryNumber_0101000 BinaryNumber_0010101 BinaryNumber_0110010
+BinaryNumber_0101110 BinaryNumber_0110010 BinaryNumber_1001101 BinaryNumber_0111100 BinaryNumber_0100000 BinaryNumber_0011100 BinaryNumber_1011111 BinaryNumber_0000000 BinaryNumber_0111011 BinaryNumber_1011011
+BinaryNumber_1011111 BinaryNumber_0001001 BinaryNumber_0000010 BinaryNumber_0010110 BinaryNumber_1010001 BinaryNumber_0010100 BinaryNumber_0011100 BinaryNumber_1000101 BinaryNumber_0011111 BinaryNumber_1100011
+BinaryNumber_0000011 BinaryNumber_0011111 BinaryNumber_0101001 BinaryNumber_0111100 BinaryNumber_1010000 BinaryNumber_1011010 BinaryNumber_0101011 BinaryNumber_0010101 BinaryNumber_1000001 BinaryNumber_1011100
+BinaryNumber_0000111 BinaryNumber_1001110 BinaryNumber_0011000 BinaryNumber_0011111 BinaryNumber_1010111 BinaryNumber_0001101 BinaryNumber_0011110 BinaryNumber_0011000 BinaryNumber_0001001 BinaryNumber_0110010
+BinaryNumber_1100000 BinaryNumber_0111101 BinaryNumber_1011110 BinaryNumber_0001000 BinaryNumber_1011100 BinaryNumber_1100000 BinaryNumber_0001100 BinaryNumber_0111010 BinaryNumber_0100000 BinaryNumber_0000011
+BinaryNumber_0000111 BinaryNumber_0101001 BinaryNumber_1010110 BinaryNumber_1000010 BinaryNumber_0000110 BinaryNumber_0010101 BinaryNumber_1000011 BinaryNumber_0001110 BinaryNumber_1010001 BinaryNumber_0111110
+BinaryNumber_1011010 BinaryNumber_0110111 BinaryNumber_1000110 BinaryNumber_0000001 BinaryNumber_1000111 BinaryNumber_1001011 BinaryNumber_0110000 BinaryNumber_0011011 BinaryNumber_0011101 BinaryNumber_1000000
+BinaryNumber_1010011 BinaryNumber_0001001 BinaryNumber_1001011 BinaryNumber_0111000 BinaryNumber_1001110 BinaryNumber_0101000 BinaryNumber_0001010 BinaryNumber_0110001 BinaryNumber_1010101 BinaryNumber_1011011
+vegetable beef animal pasta cooking drinks vegetable rice meat restaurant
+nutrient cheese cereal restaurant rice victuals victuals milk cheese cooking
+chicken seafood seafood edible nourishment nutrient cooking nutrition meal rice
+nourishment fruit eat edible chicken nutrient cheese beef pasta fruits vegetables
+meat fruits vegetables seafood eat seafood nutrition victuals plant drinks nutrition
+milk edible meal seafood milk restaurant meals animal cheese nutrition
+soup edible fruits vegetables beef edible pasta plant soup rice meat
+beef meals nutrition edible soup fruits vegetables milk soup milk beef
+fruits vegetables restaurant edible nourishment provender fruits vegetables nourishment restaurant victuals nutrient
+rice milk victuals victuals eat nutrient fruits vegetables victuals fruit meal
+nourishment milk eat animal plant edible meat nourishment sushi sushi
+Innerear Earlobe Midbrain Analcanal Trachea Pancreas Liver Eardrum Cranialnerves skeleton
+Uterus Eye Stomach Trachea Cecum Largeintestine Liver Cerebrum Stomach Brain
+Analcanal Ciliarybody Mouth Fallopiantubes Trachea Cerebrum Rectum Interstitium Uterus Tendons
+Lymphaticvessel Ciliarybody Larynx Tendons Clitoris Tastebuds Muscle Lens Trachea Clitoris
+Ileum Bronchi Pharynx Spinalnerves Ligaments Ossicles Interstitium Iris Teeth Uterus
+Placenta Duodenum Ossicles Cervix Capillaries Scrotum Clitoris Cervix Jejunum Lymphaticvessel
+Esophagus Tongue Brain Iris Ureter Jejunum Innerear Smallintestine Interstitium Cornea
+Veins Tendons Eye Tongue Tongue Interstitium Pancreas Pons Cecum Cerebrum
+Liver Bladder Teeth Ureter Lymphaticvessel Lungs Lens Sensoryorgans Earlobe Pons
+Pharynx Trachea Ciliarybody Vagina Esophagus Tastebuds Jejunum Iris Joints Hypothalamus
+Capillaries Ear Retina Bronchi Ligaments Mesentery Tastebuds Thalamus Smallintestine Duodenum
+legal story missing thriller arrest highjack forensic country death government
+psychological arsons sin cases dark muggings homicide bloodshed statutory human
+justice mafia fraud offenses cases arrest death justice criminality suspense
+revenge thriller blackmail transgression arrest guilty thriller crisis homeless statutory
+bloodshed racism drugs tort war drama story suspense legal imprisonment
+violence sin brutality misdemeanour offence gangsterism safety blackmail unsolved guilty
+violence homeless violence drama prostitution drugs statutory kill noir victim
+prostitution muggings country fraud kill mystery lift political corruption homeless
+misdemeanour felony bloodshed safety government lift death criminality mystery death
+bloodshed corruption law misdemeanour thrillers arsons sentence offense kill threats
+slay action mafia lift victim assault forensic lift missing violence
+MediumAquamarine SlateBlue Red OliveDrab Green DodgerBlue RosyBrown NavajoWhite Salmon LightSteelBlue
+MediumBlue SteelBlue Orchid DarkGray SkyBlue MistyRose MistyRose Black LavenderBlush DarkGoldenrod
+DarkGreen RoyalBlue Linen MediumBlue HotPink DodgerBlue Pink LightYellow Silver Chocolate
+LimeGreen Goldenrod LightSkyBlue DimGray HotPink PapayaWhip Pink SkyBlue LightSeaGreen Silver
+MediumVioletRed SlateGray PowderBlue OldLace Pink Gainsboro LightCoral BlueViolet LightSalmon LightSeaGreen
+PowderBlue Ivory SaddleBrown Salmon DarkOrchid SpringGreen MidnightBlue Ivory MediumSpringGreen SaddleBrown
+Honeydew Red MediumTurquoise SkyBlue AntiqueWhite LightSeaGreen CadetBlue Brown DarkOrchid DarkSlateGray
+Peru LimeGreen DarkSeaGreen OrangeRed LightGreen LightYellow LightYellow DarkTurquoise MediumVioletRed Gray
+PaleVioletRed LightSeaGreen LightCoral LightBlue SeaGreen IndianRed Plum MediumSlateBlue LemonChiffon MediumSlateBlue
+Cornsilk Lime VioletRed Yellow MediumSeaGreen MediumSlateBlue MediumBlue Feldspar LightGreen Plum
+LawnGreen SandyBrown DeepSkyBlue Salmon DarkSalmon NavajoWhite Lime Tomato VioletRed DarkSlateBlue
+programming game virtualreality computing mobile digital peripheral antivirus sliderule ibook
+pornographicimages homecomputer desktopcomputer tablet device von neumann machine automation internet microprocessor monitor
+vacuumtube vacuumtube laptop spyware turingmachine server monitor downloader smartphone server
+cpu microprocessor microprocessor information smartphone computerscience automation centralprocessing unit turingmachine computation
+memory pornographicimages computerhardware electromechanical software smartphone computercide game bit dataconverter
+computerprogramming escapekey compatible monitor algorithm office mobile spyware information bit
+microcomputer internet cyber turingmachine sliderule programmer astrolabe desktoppcs microprocessor escapekey
+automation machinecode cpu watch laptop antivirus ibook phone microcomputer cpu
+computerhardware pornographicimages mechanicalcomputer digital tablet bit electrical electromechanical virtualreality device
+digitalcommunication transistor watch downloader daw transistor mainframe processor cell microprocessor
+spyware inputdevice cpu xbox tablet server programmer incompatible office watch
+sportsmanship activities limited chess entertainment work performance eco muscle dynamic
+club games activity active field hobbies class music art cavort
+tournaments goal athlete judo club activity concert comfort lead video
+disport wipeout performance events offside cavort spar yoga skiing fast
+extracurricular romp form action movement athletes cycling league recreation judo
+running rollick club comfort snowboarding lifestyle hobby exercises sportaccord mutant
+skylark athlete rowing badminton work players culture fitness performance schuss
+cycling fitness frisk social game culture dirt hockey dance wipeout
+esport performance motorsports basketball run combat action physical hobby triathlon
+badminton offside league comfort skateboarding active pro esports funambulism action
+athletic running activity coach boast soccer safari muscle coach boulder
+festival media triple-tongue noise piano language media sfx production opera
+beats melody musical hiphop playing song headphones theatre soundtracks club
+paleolithic roulade solmizate symphonise scale drum accompaniment improvisation single reading
+instrumentals wagner single genres bebop merch flute lyrics bands polyphony
+tonic mediant chorus muses ska chaconne violin improvisation double bass polyphony
+texture vocal sounds beat instrument headphones accompaniment artist atonal audio
+improvisation artists film tone tabs cadence karaoke muse party musicology
+symphonic metal part talk artist playing chorus jazzfunk atmosphere vocals
+playlists beats ragtime studio electronica streaming video lute tongue compositions
+exposition writing bassline saxophone tweedle tune key video sfx triple-tongue
+merch spotify orchestra conducting films work radio singers reggae mp3s

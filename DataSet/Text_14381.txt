@@ -1,0 +1,99 @@
+BinaryNumber_1011000 BinaryNumber_1011000 BinaryNumber_1011111 BinaryNumber_1010110 BinaryNumber_0111111 BinaryNumber_0101110 BinaryNumber_1011100 BinaryNumber_0001001 BinaryNumber_0001011 BinaryNumber_0000001
+BinaryNumber_0110111 BinaryNumber_0000010 BinaryNumber_1011111 BinaryNumber_1001100 BinaryNumber_0111011 BinaryNumber_0011110 BinaryNumber_0110011 BinaryNumber_1100011 BinaryNumber_1001100 BinaryNumber_0000110
+BinaryNumber_0110011 BinaryNumber_1011001 BinaryNumber_0111101 BinaryNumber_0001011 BinaryNumber_0011111 BinaryNumber_0000011 BinaryNumber_0110110 BinaryNumber_1010000 BinaryNumber_0111011 BinaryNumber_1001001
+BinaryNumber_0001110 BinaryNumber_1010110 BinaryNumber_1000000 BinaryNumber_0000011 BinaryNumber_0101000 BinaryNumber_0001000 BinaryNumber_1011000 BinaryNumber_0101011 BinaryNumber_0000100 BinaryNumber_0011011
+BinaryNumber_0010111 BinaryNumber_1001001 BinaryNumber_1100000 BinaryNumber_0110111 BinaryNumber_1010110 BinaryNumber_0011011 BinaryNumber_0101011 BinaryNumber_1000011 BinaryNumber_1001011 BinaryNumber_1010011
+BinaryNumber_0110110 BinaryNumber_0010101 BinaryNumber_0111100 BinaryNumber_0001001 BinaryNumber_0101010 BinaryNumber_1001001 BinaryNumber_1011000 BinaryNumber_0001001 BinaryNumber_1011101 BinaryNumber_0110000
+BinaryNumber_1010011 BinaryNumber_0000101 BinaryNumber_1001100 BinaryNumber_1001000 BinaryNumber_0111010 BinaryNumber_0000111 BinaryNumber_0010100 BinaryNumber_0000010 BinaryNumber_1000000 BinaryNumber_0111001
+BinaryNumber_1000000 BinaryNumber_1000011 BinaryNumber_1100011 BinaryNumber_1001000 BinaryNumber_0101011 BinaryNumber_1000011 BinaryNumber_0100101 BinaryNumber_1001110 BinaryNumber_0110110 BinaryNumber_0011011
+BinaryNumber_0111100 BinaryNumber_0001011 BinaryNumber_0101000 BinaryNumber_1010101 BinaryNumber_1000100 BinaryNumber_1000011 BinaryNumber_1010111 BinaryNumber_0000001 BinaryNumber_1011000 BinaryNumber_0111110
+BinaryNumber_0010110 BinaryNumber_1010010 BinaryNumber_0000000 BinaryNumber_0101000 BinaryNumber_1011101 BinaryNumber_0011001 BinaryNumber_0111001 BinaryNumber_0110010 BinaryNumber_0100101 BinaryNumber_0011001
+BinaryNumber_0101101 BinaryNumber_0001100 BinaryNumber_0011001 BinaryNumber_1100000 BinaryNumber_0010101 BinaryNumber_0000001 BinaryNumber_1001111 BinaryNumber_0001001 BinaryNumber_0111101 BinaryNumber_0110000
+Jardinière Cupboard Footrest Footstool Daybed Tuffet Furniture Zitan Seat Couch
+Regency Marquetry Sideboard Fauteuil Wicker Armchair Antique Hokey Pantry Divan
+Settee Pillow Wheelchair Loveseat Pantry Bench Tansu Valet Pew Cradle
+Cabinet Armchair cubbies Table Cabinet Highchair Upholstery Daybed Dresser Sofabed
+Stool Bowfront Air-conditioner Divan Seat Sofabed Crib Frieze Daybed Antique
+Couch Cupboard Hammock Sofabed Rack Baroque Rattle Chandelier Bookcase Baroque
+Cupboard Console Hammock Breakfront Highchair Console Mirror Bench Buffet Secretary
+Hutch Antique Desk Stool Antique Vitrine Screen Clock Frieze Cabriole
+Cupboard Fluting Regency Lamp Seat Marquetry Jardinière cubbies Island Loveseat
+Vitrine Fauteuil Footstool Stool Hassock Loveseat Lamp Antique Bentwood Fluting
+Couch Easel Waterbed Upholstery Mattress Tuffet Footstool Cot Furnishings Divan
+CubeNumber_117649 CubeNumber_405224 CubeNumber_8000 CubeNumber_10648 CubeNumber_1728 CubeNumber_157464 CubeNumber_2744 CubeNumber_24389 CubeNumber_357911 CubeNumber_753571
+CubeNumber_912673 CubeNumber_125000 CubeNumber_64 CubeNumber_456533 CubeNumber_85184 CubeNumber_132651 CubeNumber_64 CubeNumber_125 CubeNumber_17576 CubeNumber_10648
+CubeNumber_79507 CubeNumber_531441 CubeNumber_1728 CubeNumber_912673 CubeNumber_9261 CubeNumber_373248 CubeNumber_2744 CubeNumber_300763 CubeNumber_74088 CubeNumber_46656
+CubeNumber_132651 CubeNumber_438976 CubeNumber_636056 CubeNumber_9261 CubeNumber_17576 CubeNumber_13824 CubeNumber_658503 CubeNumber_1728 CubeNumber_54872 CubeNumber_42875
+CubeNumber_24389 CubeNumber_13824 CubeNumber_6859 CubeNumber_4913 CubeNumber_941192 CubeNumber_343000 CubeNumber_300763 CubeNumber_681472 CubeNumber_729000 CubeNumber_5832
+CubeNumber_512 CubeNumber_421875 CubeNumber_85184 CubeNumber_9261 CubeNumber_729000 CubeNumber_314432 CubeNumber_91125 CubeNumber_262144 CubeNumber_314432 CubeNumber_3375
+CubeNumber_287496 CubeNumber_373248 CubeNumber_912673 CubeNumber_97336 CubeNumber_125000 CubeNumber_300763 CubeNumber_658503 CubeNumber_912673 CubeNumber_103823 CubeNumber_592704
+CubeNumber_636056 CubeNumber_681472 CubeNumber_226981 CubeNumber_195112 CubeNumber_592704 CubeNumber_456533 CubeNumber_110592 CubeNumber_250047 CubeNumber_1728 CubeNumber_531441
+CubeNumber_216000 CubeNumber_148877 CubeNumber_314432 CubeNumber_59319 CubeNumber_421875 CubeNumber_2744 CubeNumber_8 CubeNumber_614125 CubeNumber_729000 CubeNumber_110592
+CubeNumber_8000 CubeNumber_421875 CubeNumber_778688 CubeNumber_195112 CubeNumber_1331 CubeNumber_91125 CubeNumber_343000 CubeNumber_551368 CubeNumber_13824 CubeNumber_8
+CubeNumber_29791 CubeNumber_238328 CubeNumber_12167 CubeNumber_125 CubeNumber_103823 CubeNumber_226981 CubeNumber_140608 CubeNumber_592704 CubeNumber_68921 CubeNumber_2197
+calculator algorithm digitalaudioplayer machines screen von neumann machine machine personalcomputer desktopcomputer visualdisplayunit
+electronics microprocessor incompatible diskette digital digitalcommunication integratedcircuit memory desktoppcs bit
+spyware bit screen digitalaudioplayer processor downloader computerprogram mobile spyware office
+incompatible mobile cell laptopcomputer programmer social homecomputer digital mobile machines
+browser compatible downloader digitalcommunication hardware centralprocessing unit watch virtualreality centralprocessing unit bit
+computing incompatible microprocessor tablet router mobiledevice watch turingmachine von neumann machine programming
+cell mechanicalcomputer server digitalaudioplayer abacus turingmachine electrical router android electrical
+floppydisk analogcomputer machines inputdevice spyware keyboard downloader microprocessor cyber programmer
+microprocessor office machine electronics desktoppcs computercircuit virtualreality mobiledevice peripheral phone
+pornographicimages processor escapekey centralprocessing unit desktopcomputer android memory laptop sliderule astrolabe
+astrolabe keyboard processor supercomputer transistor monitor programming cybertechnology digitalaudioplayer spyware
+podcasts melodic dance tuning party timbre lights tuba clarion tweedle
+conducting work art exposition key bebop fugue bassline creative graphics
+choir songwriter action radio videos record musicians lights entertainment sforzando
+piano intonation movie musical graphics lights harp action chaconne bugle
+movies muse opera key texture tonic theatre banjo popular music reading
+mp3s scale live timbre funk creative motif concerto flute vocal
+phenomenon harpsichord exposition band work ska modulate visual theme editing
+speak jazz triple-tongue music hymn instrumentals folk gospel talking bar
+euphony sing story playing work rhapsody madrigal interlude bassline film
+motif carol work song tongue roulade harmonize theatre muse harmonize
+visual tabs story trumpet rhapsody fermata time reharmonize mp3s performance
+Thymus Teeth Middleear Ciliarybody Innerear Lens Larynx Mesentery Tongue Vulva
+Ileum Mesentery Tonsils Innerear Teeth Brain Ear Muscle Stomach Brain
+Lens Tastebuds Ganglia Jejunum Veins Pancreas Duodenum Tongue Lungs Kidneys
+Trachea Midbrain Scrotum Analcanal Mouth Joints Veins Stomach Thalamus Veins
+Nerves Rectum Vulva Jejunum Tongue Cervix Innerear Placenta Largeintestine Clitoris
+Lens Bladder Pharynx Analcanal Capillaries Lens Teeth Urethra Stomach Outerear
+Scrotum Eye Arteries Arteries Vulva Lymphaticvessel Capillaries Bone  Thymus Innerear
+Gallbladder Cervix Pons Tastebuds Outerear Bone  Ileum Cranialnerves Esophagus Ciliarybody
+Ciliarybody Earlobe Thymus Ciliarybody Uterus Tonsils Mesentery Esophagus Pancreas Clitoris
+Capillaries Ear Ileum Nerves Lungs Pancreas Kidneys Lymphaticvessel Larynx Urethra
+Cecum Uterus Esophagus Largeintestine Mesentery Uterus Bladder Spinalnerves Tongue Vagina
+plant poikilotherm workanimal hourse cats farming dinosaur animatebeing livestock zoo
+vertebrate object monster eukaryotic eukaryotic bird zooplankton protist heterotroph insectivorous
+puppy ladybug varmint varmint darter zoology fantasy dogs cats insects
+animal welfare cats thoroughbred tufted chickens bear dinosaur wild insect puppy
+bird feline jellyfish vertebrate plant dogs shelter creature dogs livestock
+protist workanimal superdog protist fantasy insectivore superdog feline biped pitbull
+wildlife octopuses heterotroph feline pet livestock pitbull beast chordate rodent
+sensual thoroughbred darter fish marineanimal ladybug rodent animalia birds shelter
+chordate bear dogs thoroughbred marineanimal creature dinosaur zooplankton bobcat elephants
+deer rodent varmint carnivore carnivore feline animatebeing rabbit carnal frog
+monster fauna pups predatoryanimal carnal sensual protist wildlife scavenger embryo
+nutrient nourishment nutrient eat rice nourishment cereal nutrient plant provender
+sushi plant nutrient beef restaurant provender nourishment rice seafood vegetable
+drinks provender meal meals pasta cereal seafood vegetable nutrient meals
+nutrient restaurant seafood animal soup cereal fruit edible fruits vegetables milk
+soup beef animal milk nourishment rice pasta cooking seafood vegetable
+soup seafood cereal sushi nutrition beef drinks pasta provender fruits vegetables
+vegetable cooking nutrition meat seafood milk provender meal nutrition drinks
+eat pasta provender seafood meal rice restaurant chicken animal provender
+meal beef seafood eat pasta soup provender fruit drinks rice
+seafood cereal nourishment sushi eat eat seafood eat nutrition plant
+meal edible meal drinks chicken provender fruits vegetables fruit meals victuals
+recreation offside shoot gambol athletics hunting sports esport hobby premium
+recreation performance disport skateboard motorcycling spar culture skateboarding suit competition
+fast entertainment hiking physical physical organization sportsmanship judo run entertainment
+gambol club cross sport yoga fighting referee pack games ineligible
+community referee art action judo rowing team downfield career lark
+skateboard spar concert hunting team hobbies offside music video champion
+entertainment art fighting spar active motorsports run competition football organization
+skateboard horseracing tournaments rollick snowboarding job game company blazers standard
+company skateboarding combat spar active soccer basketball yoga racing goal
+play recreation schuss referee organization yoga spar lead soccer fitness
+art dive badminton blazers gym cross disport triathlon esport luge

@@ -1,0 +1,99 @@
+BinaryNumber_0011010 BinaryNumber_1100011 BinaryNumber_0010000 BinaryNumber_0011001 BinaryNumber_1011110 BinaryNumber_0111010 BinaryNumber_0110111 BinaryNumber_0010010 BinaryNumber_0011110 BinaryNumber_0100000
+BinaryNumber_0111101 BinaryNumber_0001010 BinaryNumber_0100010 BinaryNumber_0110001 BinaryNumber_0100101 BinaryNumber_0011000 BinaryNumber_0100100 BinaryNumber_0111010 BinaryNumber_0001110 BinaryNumber_0111101
+BinaryNumber_1010101 BinaryNumber_1100011 BinaryNumber_0001100 BinaryNumber_0001000 BinaryNumber_1010110 BinaryNumber_1001111 BinaryNumber_0100010 BinaryNumber_1011001 BinaryNumber_1010010 BinaryNumber_0000000
+BinaryNumber_0010100 BinaryNumber_1010110 BinaryNumber_0011011 BinaryNumber_1000101 BinaryNumber_0011001 BinaryNumber_0010001 BinaryNumber_0011011 BinaryNumber_0110110 BinaryNumber_1010100 BinaryNumber_1000011
+BinaryNumber_0011011 BinaryNumber_1010111 BinaryNumber_0101110 BinaryNumber_0101000 BinaryNumber_1011010 BinaryNumber_1001100 BinaryNumber_0010111 BinaryNumber_0110000 BinaryNumber_0000111 BinaryNumber_1001011
+BinaryNumber_1001011 BinaryNumber_0111001 BinaryNumber_0110010 BinaryNumber_1011110 BinaryNumber_1001111 BinaryNumber_0010110 BinaryNumber_0101110 BinaryNumber_0101010 BinaryNumber_0001000 BinaryNumber_1001100
+BinaryNumber_0011011 BinaryNumber_1001100 BinaryNumber_0001010 BinaryNumber_0111011 BinaryNumber_1001010 BinaryNumber_0010111 BinaryNumber_0110000 BinaryNumber_0001011 BinaryNumber_0000110 BinaryNumber_0101110
+BinaryNumber_1001111 BinaryNumber_1000011 BinaryNumber_0001100 BinaryNumber_0001100 BinaryNumber_1100000 BinaryNumber_1010001 BinaryNumber_1100010 BinaryNumber_0010010 BinaryNumber_0001011 BinaryNumber_1001100
+BinaryNumber_1000111 BinaryNumber_1001111 BinaryNumber_0011110 BinaryNumber_0111111 BinaryNumber_1000010 BinaryNumber_0010101 BinaryNumber_0101001 BinaryNumber_0110010 BinaryNumber_1100001 BinaryNumber_1000111
+BinaryNumber_0111011 BinaryNumber_1010010 BinaryNumber_0011100 BinaryNumber_0000010 BinaryNumber_1010101 BinaryNumber_1000000 BinaryNumber_0011011 BinaryNumber_0101100 BinaryNumber_0111001 BinaryNumber_0110110
+BinaryNumber_0110000 BinaryNumber_1001011 BinaryNumber_1010110 BinaryNumber_1001010 BinaryNumber_1010100 BinaryNumber_0111110 BinaryNumber_0100110 BinaryNumber_0100111 BinaryNumber_0100011 BinaryNumber_0101010
+parry endorsement deception allegation cadre conceal covert deficit massive deflect
+engagement infringement demagogue deficit claim beleaguer feud tainted malfeasance revelation
+benefit tarnish deny fray retaliation recrimination revelation massive anonymity mercurial
+parry coterie onerous infringement embezzlement deflect scandalous lobby plagiarism endorsement
+obscure influence laconic defamation tarnish partial regime engagement manipulate extortion
+hypocrisy intimidation scandal temptation accusation engagement bamboozle plagiarism integrity blame
+empire assail alliance incident illicit blame plutocracy persecution revelation obscure
+mercurial mendacity regime scandal fray mendacity bribe assail career claim
+claim ignorant sloth demagogue recrimination benefit cadre plutocracy hypocrisy fray
+assail extortion hypocrisy dictatorship engagement proxy unethical chicanery infringement debacle
+feud alliance partial dictatorship impunity bribe scandalous beleaguer obscure tarnish
+PrimeNumber_397 PrimeNumber_103 PrimeNumber_127 PrimeNumber_241 PrimeNumber_107 PrimeNumber_317 PrimeNumber_421 PrimeNumber_263 PrimeNumber_461 PrimeNumber_269
+PrimeNumber_173 PrimeNumber_229 PrimeNumber_383 PrimeNumber_383 PrimeNumber_359 PrimeNumber_353 PrimeNumber_383 PrimeNumber_433 PrimeNumber_349 PrimeNumber_113
+PrimeNumber_5 PrimeNumber_67 PrimeNumber_503 PrimeNumber_383 PrimeNumber_13 PrimeNumber_199 PrimeNumber_43 PrimeNumber_241 PrimeNumber_61 PrimeNumber_269
+PrimeNumber_97 PrimeNumber_127 PrimeNumber_89 PrimeNumber_31 PrimeNumber_193 PrimeNumber_449 PrimeNumber_251 PrimeNumber_19 PrimeNumber_227 PrimeNumber_71
+PrimeNumber_227 PrimeNumber_379 PrimeNumber_61 PrimeNumber_283 PrimeNumber_503 PrimeNumber_211 PrimeNumber_223 PrimeNumber_263 PrimeNumber_23 PrimeNumber_191
+PrimeNumber_89 PrimeNumber_487 PrimeNumber_2 PrimeNumber_179 PrimeNumber_79 PrimeNumber_173 PrimeNumber_347 PrimeNumber_149 PrimeNumber_547 PrimeNumber_379
+PrimeNumber_101 PrimeNumber_509 PrimeNumber_97 PrimeNumber_467 PrimeNumber_107 PrimeNumber_151 PrimeNumber_349 PrimeNumber_409 PrimeNumber_419 PrimeNumber_487
+PrimeNumber_181 PrimeNumber_401 PrimeNumber_457 PrimeNumber_491 PrimeNumber_383 PrimeNumber_313 PrimeNumber_17 PrimeNumber_179 PrimeNumber_409 PrimeNumber_5
+PrimeNumber_79 PrimeNumber_269 PrimeNumber_541 PrimeNumber_277 PrimeNumber_233 PrimeNumber_457 PrimeNumber_173 PrimeNumber_401 PrimeNumber_479 PrimeNumber_457
+PrimeNumber_281 PrimeNumber_193 PrimeNumber_193 PrimeNumber_71 PrimeNumber_491 PrimeNumber_251 PrimeNumber_257 PrimeNumber_457 PrimeNumber_113 PrimeNumber_521
+PrimeNumber_503 PrimeNumber_523 PrimeNumber_67 PrimeNumber_433 PrimeNumber_547 PrimeNumber_337 PrimeNumber_199 PrimeNumber_373 PrimeNumber_197 PrimeNumber_79
+temperature__41c temperature__142c temperature__24c temperature__91c temperature__84c temperature__126c temperature__40c temperature__42c temperature__16c temperature__27c
+temperature__21c temperature__126c temperature__47c temperature__47c temperature__112c temperature__54c temperature__59c temperature__90c temperature__88c temperature__49c
+temperature__147c temperature__119c temperature__95c temperature__120c temperature__69c temperature__111c temperature__119c temperature__119c temperature__10c temperature__46c
+temperature__40c temperature__10c temperature__68c temperature__91c temperature__4c temperature__105c temperature__144c temperature__112c temperature__16c temperature__40c
+temperature__136c temperature__74c temperature__132c temperature__123c temperature__88c temperature__111c temperature__147c temperature__54c temperature__91c temperature__34c
+temperature__112c temperature__39c temperature__106c temperature__58c temperature__24c temperature__10c temperature__93c temperature__98c temperature__44c temperature__54c
+temperature__144c temperature__136c temperature__6c temperature__7c temperature__118c temperature__17c temperature__8c temperature__122c temperature__6c temperature__118c
+temperature__22c temperature__86c temperature__122c temperature__28c temperature__52c temperature__46c temperature__129c temperature__14c temperature__51c temperature__58c
+temperature__140c temperature__54c temperature__123c temperature__70c temperature__7c temperature__51c temperature__40c temperature__78c temperature__109c temperature__71c
+temperature__146c temperature__65c temperature__126c temperature__109c temperature__130c temperature__85c temperature__47c temperature__17c temperature__64c temperature__8c
+temperature__12c temperature__71c temperature__129c temperature__92c temperature__73c temperature__137c temperature__21c temperature__41c temperature__36c temperature__126c
+drug mob spy snitching human criminal crime trafficking police fraud
+supernatural conspiracy gangsterism theft sin crisis rape slay blackmail misdemeanor
+revenge guilt offence cases homicides statutory shoplift suspense misdemeanour thrillers
+drugs corrupt human murder jurisdiction criminality death legal revenge drugs
+imprisonment abuse death shoplift legal serial illegal barratry gang punishment
+kill highjack war robbery suspense racism lift gun homelessness homicide
+mafia legal genocide drama pirate highjack legal war criminal gang
+offence racism homelessness cop threats crime prison death hijack rape
+heist poverty liberty threats thrillers action slay bloodshed theft sentence
+shoplift trafficking terrorism vandalism statutory offense imprisonment terrorism genocide jurisdiction
+thrillers vandalism drugs terrorism mystery punitive government missing slay threats
+18:21 20:42 12:53 22:30 20:43 23:32 13:26 17:16 22:25 15:32
+15:53 13:56 21:58 12:58 13:49 18:13 16:57 21:22 23:46 23:49
+21:39 16:52 12:13 16:13 10:15 20:12 14:43 10:28 16:17 17:21
+17:17 16:24 19:32 19:17 16:27 21:18 18:10 22:16 20:49 14:13
+23:48 19:29 10:29 17:38 19:34 11:59 21:45 18:30 19:38 14:17
+13:47 17:15 16:17 22:40 13:38 12:23 21:30 20:50 15:42 11:41
+18:39 14:51 12:46 10:43 14:25 14:27 21:18 16:59 18:16 23:37
+23:45 23:28 10:14 20:29 20:20 21:31 12:46 16:58 21:53 20:50
+22:18 23:35 10:19 12:15 19:31 16:55 10:48 19:34 21:31 19:31
+19:45 22:49 19:54 23:19 23:29 18:16 13:26 16:26 14:52 15:17
+17:45 23:51 23:27 16:57 16:22 19:46 19:14 10:46 21:52 18:32
+animalkingdom ladybug domesticate bird bird exoticanimals hourse tiger shelter reptile
+sensual feline clams fantasy exoticanimals bird monster pet shelter superdog
+jellyfish dogs mythical porifera cats fish livestock monster beast fleshly
+pet reptiles pitbull zooplankton invertebrate reptiles amphibians shelter plant deer
+amphibians deer protist reptile octopuses predatoryanimal pups pups carnal creature
+pet monster animatebeing protist monster cats animalia workanimal fish farming
+pigs sensual tame livestock animatebeing farming superdog invertebrate primate rodent
+vegan heterotroph tame rodent plant reptile pet llamas tame dog
+varmint clams animalia bird metazoan beast birds embryo livestock plant
+embryo fauna rabbit feline animalia zooplankton chickens farming domesticate animalia
+bear octopuses raccoon chordate raccoon livestock elephants protist raccoon animalkingdom
+meal cooking fruits vegetables drinks animal fruit drinks fruits vegetables drinks nutrient
+pasta animal sushi cheese nutrient sushi provender chicken rice sushi
+meat animal animal eat animal plant fruits vegetables vegetable fruits vegetables rice
+eat beef nutrient plant pasta eat fruits vegetables restaurant vegetable nourishment
+meat meal meat victuals fruits vegetables rice meal drinks cooking beef
+plant edible fruits vegetables cheese chicken fruit animal meat eat victuals
+meals pasta nourishment seafood provender animal edible edible cereal soup
+drinks cheese meals rice cereal pasta meal cereal cheese drinks
+meals sushi cooking restaurant meals meat chicken animal restaurant seafood
+restaurant restaurant seafood meals nutrition fruit eat cereal restaurant beef
+victuals drinks rice soup cooking eat edible milk meals fruit
+computation laptop floppydisk inputdevice mobiledevice analogcomputer cell processor monitor chip
+software automation von neumann machine cybertechnology monitor desktopcomputer server machine virtualreality cybertechnology
+phone downloader algorithm machinecode router machines computercide imac office electronics
+compatible computerprogram algorithm computerprogram social computerhardware turingmachine sliderule digitalcomputer mobile
+sliderule hardware peripheral escapekey vacuumtube phone downloader mobile electrical transistor
+office microprocessor desktopcomputer keyboard pc monitor data processor xbox machines
+von neumann machine screen chip computerhardware inputdevice laptop watch eniac memory processor
+watch chip laptop digital personalcomputer memory centralprocessing unit digitalcomputer game cpu
+downloader smartphone laptopcomputer visualdisplayunit daw expansionslot escapekey laptopcomputer homecomputer centralprocessing unit
+daw computerscience processor bit turingmachine information router electrical cyber personalcomputer
+programmer browser electromechanical calculator antivirus laptopcomputer programmer software data antivirus

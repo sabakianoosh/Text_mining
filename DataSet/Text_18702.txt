@@ -1,0 +1,99 @@
+SquareNumber_784 SquareNumber_1156 SquareNumber_100 SquareNumber_9801 SquareNumber_1849 SquareNumber_1089 SquareNumber_3249 SquareNumber_6561 SquareNumber_3249 SquareNumber_1024
+SquareNumber_169 SquareNumber_3844 SquareNumber_3136 SquareNumber_1296 SquareNumber_7921 SquareNumber_3844 SquareNumber_3969 SquareNumber_9409 SquareNumber_2025 SquareNumber_625
+SquareNumber_2809 SquareNumber_784 SquareNumber_5776 SquareNumber_289 SquareNumber_7225 SquareNumber_9 SquareNumber_1225 SquareNumber_6241 SquareNumber_16 SquareNumber_2809
+SquareNumber_64 SquareNumber_5184 SquareNumber_784 SquareNumber_3844 SquareNumber_3136 SquareNumber_1089 SquareNumber_625 SquareNumber_3249 SquareNumber_5476 SquareNumber_10000
+SquareNumber_3136 SquareNumber_1444 SquareNumber_2116 SquareNumber_900 SquareNumber_10000 SquareNumber_256 SquareNumber_3364 SquareNumber_1024 SquareNumber_2025 SquareNumber_36
+SquareNumber_4761 SquareNumber_5184 SquareNumber_2025 SquareNumber_3025 SquareNumber_4225 SquareNumber_4489 SquareNumber_2704 SquareNumber_1089 SquareNumber_400 SquareNumber_121
+SquareNumber_9025 SquareNumber_5476 SquareNumber_8281 SquareNumber_4356 SquareNumber_1024 SquareNumber_576 SquareNumber_3136 SquareNumber_2025 SquareNumber_2025 SquareNumber_961
+SquareNumber_1024 SquareNumber_1296 SquareNumber_8836 SquareNumber_4489 SquareNumber_5776 SquareNumber_7569 SquareNumber_400 SquareNumber_961 SquareNumber_484 SquareNumber_10000
+SquareNumber_7744 SquareNumber_4225 SquareNumber_900 SquareNumber_1764 SquareNumber_6724 SquareNumber_25 SquareNumber_361 SquareNumber_2916 SquareNumber_1089 SquareNumber_2116
+SquareNumber_4096 SquareNumber_1521 SquareNumber_6561 SquareNumber_4096 SquareNumber_289 SquareNumber_81 SquareNumber_6724 SquareNumber_5329 SquareNumber_441 SquareNumber_7056
+SquareNumber_1024 SquareNumber_2601 SquareNumber_100 SquareNumber_729 SquareNumber_784 SquareNumber_1156 SquareNumber_2304 SquareNumber_7056 SquareNumber_1849 SquareNumber_5625
+creature pet predatoryanimal fish dog insectivore pig domesticate puppy shelter
+fantasy dogs puppy shelter farming puppy pig octopuses plant porifera
+ladybug rodent primate clams bird insects jellyfish animal welfare insectivore dinosaur
+animals chickens sensual animatebeing porifera biped zooplankton scavenger beast bobcat
+jellyfish llamas scavenger zooplankton bug creature pet wildlife biped fleshly
+chickens mammal protist fauna livestock carnivore zoology predatoryanimal rabbit sheep
+varmint vertebrate elephants pups dog rabbit animalkingdom monster pups zooplankton
+scavenger raccoon pet shelter eukaryotic invertebrate mythical clams raccoon livestock
+pig wild bobcat protist sheep animal welfare birds multicellular bear clams
+wild octopuses environmental exoticanimals clams zoology frog elephants exoticanimals wildlife
+thoroughbred animal welfare pet demon carnivore ladybug beast octopuses scavenger animatebeing
+21:38 11:57 23:58 20:23 13:46 13:41 21:31 23:21 12:34 22:52
+19:56 14:18 12:38 15:15 18:51 18:17 19:23 23:58 14:45 20:22
+16:53 11:44 17:12 19:23 19:42 12:19 18:58 12:21 22:56 13:42
+21:14 10:47 20:39 20:47 22:49 11:11 15:10 23:20 15:46 23:50
+16:10 13:58 23:42 11:10 14:31 16:53 13:24 17:57 11:41 13:18
+17:52 23:29 13:44 15:20 23:16 19:35 18:12 17:54 11:19 20:27
+16:15 19:19 14:13 20:53 21:28 20:53 10:44 12:43 16:36 13:47
+11:46 14:58 18:43 15:22 23:17 18:40 10:38 17:16 17:29 18:42
+15:55 16:47 17:36 15:52 20:15 11:17 19:54 11:19 23:22 20:30
+14:31 11:11 13:38 14:24 10:54 13:54 11:30 22:54 21:45 17:30
+15:46 12:36 17:59 16:51 23:30 19:47 19:26 16:59 12:19 12:21
+provender vegetable vegetable cereal cooking beef soup vegetable restaurant animal
+restaurant victuals seafood soup meal milk drinks victuals rice beef
+soup restaurant fruit meals meat cheese drinks nutrient cheese sushi
+drinks rice animal soup plant pasta victuals drinks pasta victuals
+fruit meal provender victuals meals fruit restaurant fruits vegetables soup cereal
+restaurant restaurant soup soup victuals animal soup soup seafood edible
+beef milk meal cereal eat provender drinks plant provender animal
+nourishment soup fruits vegetables cheese nutrient victuals edible provender cereal victuals
+sushi animal meal fruits vegetables sushi soup meal sushi beef victuals
+victuals meat fruit chicken provender victuals beef fruits vegetables nutrition cheese
+milk pasta seafood sushi eat cheese provender animal nutrient vegetable
+temperature__52c temperature__2c temperature__54c temperature__50c temperature__119c temperature__35c temperature__50c temperature__93c temperature__61c temperature__28c
+temperature__47c temperature__131c temperature__22c temperature__106c temperature__6c temperature__39c temperature__28c temperature__126c temperature__51c temperature__27c
+temperature__47c temperature__6c temperature__130c temperature__109c temperature__90c temperature__53c temperature__111c temperature__138c temperature__108c temperature__36c
+temperature__119c temperature__35c temperature__69c temperature__31c temperature__93c temperature__36c temperature__17c temperature__24c temperature__74c temperature__68c
+temperature__54c temperature__146c temperature__34c temperature__21c temperature__145c temperature__4c temperature__51c temperature__39c temperature__140c temperature__8c
+temperature__47c temperature__71c temperature__5c temperature__3c temperature__90c temperature__93c temperature__49c temperature__34c temperature__105c temperature__59c
+temperature__144c temperature__73c temperature__8c temperature__132c temperature__40c temperature__4c temperature__7c temperature__5c temperature__84c temperature__65c
+temperature__17c temperature__91c temperature__82c temperature__64c temperature__64c temperature__95c temperature__147c temperature__119c temperature__16c temperature__91c
+temperature__112c temperature__57c temperature__91c temperature__142c temperature__17c temperature__108c temperature__47c temperature__78c temperature__36c temperature__120c
+temperature__5c temperature__63c temperature__3c temperature__74c temperature__61c temperature__4c temperature__22c temperature__6c temperature__21c temperature__21c
+temperature__131c temperature__131c temperature__138c temperature__16c temperature__74c temperature__108c temperature__63c temperature__31c temperature__21c temperature__39c
+Cabinet Frieze Vitrine Marquetry Air-conditioner Applique Armchair Bookshelf Lintel Dresser
+Fluting Crib Bookcase Furnishings Castor Couch Bassinet Zitan Screen Wicker
+Regency Upholstery Cabriole Hammock Crib Divan Baroque Headboard Pantry Pillow
+Lounger Lamp Cradle Waterbed Applique Carpet Screen Ottoman Wardrobe Rack
+Futon Bergere Couch Carpet Cushion Armoire Footrest Furniture Pillow Bergere
+Pliant Hammock Hassock Couch Upholstery Sofa Hassock Settee Bed Daybed
+Island Pantry Cushions Ottoman Drapes Armchair Shelf Drapery Island Valet
+Headboards Loveseat Recliner Inlay Easel Cushion Volute Lounger Hokey Lintel
+Shelf Furnishings Buffet Volute Sideboard Credenza Bassinet Etagère Valet Cradle
+Curtains Hutch Vanity Cart Desk Sofa Furniture Carpet Mirror Tallboy
+Bookshelf Buffet Stool Footrest Fan Settee Mattress Bergere Upholstery Waterbed
+Blackcurrant Gooseberry Mulberry Canistel Plumcot Sapote Cherimoya Apple Lime Boysenberry
+Feijoa Kiwano Pineberry Mangosteen Currant Durian Strawberry Breadfruit Nance Persimmon
+Kumquat Grape Durian Cantaloupe Pawpaw Grape Loganberry Nectarine Lime Mangosteen
+Apple Plum Melon Passionfruit Abiu Banana Yuzu Abiu Jujube Canistel
+Tangerine Yuzu Cashew Peach Passionfruit Raspberry Mangosteen Lychee Plum Pineberry
+Tangelo Pawpaw Canistel Loquat Quince Tayberry Mandarine Canistel Damson Cherimoya
+Kumquat Jackfruit Nectarine Melon Redcurrant Nance Cempedak Plumcot Pomelo Blackcurrant
+Lulo Cranberry Peach Salak Melon Blackberry Pomelo Cranberry Tayberry Lime
+Lemon Apple Acerola Fig Salmonberry Raspberry Ackee Tamarind Elderberry Clementine
+Sapodilla Satsuma Currant Cloudberry Prune Apricot Jostaberry Tamarind Cloudberry Damson
+Kiwano Pomegranate Redcurrant Melon Longan Honeyberry Orange Grape Tamarillo Coconut
+DarkFuchsia Salmon Turquoise Blue DarkGray CornflowerBlue BlanchedAlmond Azure LightPink OliveDrab
+DarkGray Peru PaleGreen SpringGreen SteelBlue ForestGreen OrangeRed Honeydew Navy DarkGreen
+Moccasin LightSteelBlue Red LightBlue DarkGray Wheat PaleGreen VioletRed HotPink MediumTurquoise
+Burlywood Green LightSalmon AliceBlue Cyan Orange LightSteelBlue MediumOrchid MediumOrchid PaleTurquoise
+Feldspar SandyBrown LightBlue Tan Violet DarkKhaki Orange DeepSkyBlue Feldspar PapayaWhip
+LightGoldenrod Azure MediumVioletRed MediumVioletRed LightCyan DarkOrchid Pink Chartreuse Aquamarine Snow
+DarkSalmon HotPink LemonChiffon Yellow PaleTurquoise Thistle NavajoWhite Tomato Seashell FloralWhite
+Snow Teal CadetBlue LightGoldenrodYellow Black DarkBlue IndianRed Feldspar Gray MidnightBlue
+SpringGreen Tan Salmon Purple Gray MediumSlateBlue PaleGreen CadetBlue BlanchedAlmond DarkGreen
+SaddleBrown DarkBlue Ivory LawnGreen Coral Fuchsia LemonChiffon DarkViolet Aquamarine Firebrick
+DarkSeaGreen Red LightSlateGray Peru Lime Seashell BlueViolet SeaGreen LightSlateBlue Orange
+virtualreality expansionslot imac mobiledevice programming proprietary programming escapekey peripheral algorithm
+integratedcircuit peripheral transistor pornographicimages tablet transistor information machinecode laptop electromechanical
+electronics mainframe arithmetic laptopcomputer personalcomputer antivirus monitor downloader smartphone turingmachine
+microcomputer electromechanical microprocessor digitalaudioplayer mobile computercide router escapekey digitalcomputer programming
+programmer processor social keyboard computerscience memory laptop machine dataconverter desktop
+mobile mechanicalcomputer incompatible tablet ibook keyboard tablet transistor server mechanicalcomputer
+desktopcomputer chip hardware analogcomputer imac centralprocessing unit homecomputer expansionslot memory desktopcomputer
+mainframe computerprogram eniac xbox cyber hardware personalcomputer programming computerhardware watch
+monitor device personalcomputer dataconverter game incompatible electronics console supercomputer mobile
+digitalcommunication eniac virtualreality microprocessor von neumann machine ibook electrical desktoppcs server vacuumtube
+internet machines digitalaudioplayer computing imac cybertechnology calculator machine arithmetic electronics

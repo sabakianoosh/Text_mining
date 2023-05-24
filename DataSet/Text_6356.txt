@@ -1,0 +1,99 @@
+BinaryNumber_1100010 BinaryNumber_0111110 BinaryNumber_1100011 BinaryNumber_0010010 BinaryNumber_1000011 BinaryNumber_0100101 BinaryNumber_0001110 BinaryNumber_0000111 BinaryNumber_1000010 BinaryNumber_1000010
+BinaryNumber_0110010 BinaryNumber_0110000 BinaryNumber_1011101 BinaryNumber_0111111 BinaryNumber_0001010 BinaryNumber_1000001 BinaryNumber_1010110 BinaryNumber_0110100 BinaryNumber_0110100 BinaryNumber_1001001
+BinaryNumber_0111100 BinaryNumber_0101101 BinaryNumber_0001101 BinaryNumber_0100100 BinaryNumber_0001110 BinaryNumber_1000101 BinaryNumber_0110111 BinaryNumber_0100010 BinaryNumber_1001111 BinaryNumber_0001111
+BinaryNumber_1000011 BinaryNumber_0000010 BinaryNumber_1010111 BinaryNumber_1000000 BinaryNumber_0001101 BinaryNumber_1000001 BinaryNumber_1011001 BinaryNumber_1000110 BinaryNumber_0010100 BinaryNumber_1011100
+BinaryNumber_0011001 BinaryNumber_1011111 BinaryNumber_0000110 BinaryNumber_1001110 BinaryNumber_0110100 BinaryNumber_0000101 BinaryNumber_0101000 BinaryNumber_0100010 BinaryNumber_0100110 BinaryNumber_0001001
+BinaryNumber_0010110 BinaryNumber_1011011 BinaryNumber_0100110 BinaryNumber_1010101 BinaryNumber_1100001 BinaryNumber_0001001 BinaryNumber_1100000 BinaryNumber_1000110 BinaryNumber_1001001 BinaryNumber_0001101
+BinaryNumber_1001111 BinaryNumber_1100010 BinaryNumber_0010001 BinaryNumber_0110000 BinaryNumber_0011010 BinaryNumber_0100110 BinaryNumber_0000000 BinaryNumber_0011101 BinaryNumber_0100101 BinaryNumber_0001111
+BinaryNumber_0100101 BinaryNumber_0001111 BinaryNumber_0100100 BinaryNumber_1010110 BinaryNumber_1010011 BinaryNumber_0101000 BinaryNumber_1011011 BinaryNumber_0000110 BinaryNumber_0111011 BinaryNumber_0011111
+BinaryNumber_1001010 BinaryNumber_1000101 BinaryNumber_1000001 BinaryNumber_1001011 BinaryNumber_0011111 BinaryNumber_0111001 BinaryNumber_0000001 BinaryNumber_1010001 BinaryNumber_1001110 BinaryNumber_0100100
+BinaryNumber_0111110 BinaryNumber_0011000 BinaryNumber_0011100 BinaryNumber_0101110 BinaryNumber_0100011 BinaryNumber_0011111 BinaryNumber_0010011 BinaryNumber_1010111 BinaryNumber_1001010 BinaryNumber_0000010
+BinaryNumber_1100000 BinaryNumber_0110001 BinaryNumber_0100101 BinaryNumber_0111001 BinaryNumber_1010110 BinaryNumber_0001010 BinaryNumber_1010011 BinaryNumber_1010110 BinaryNumber_0110011 BinaryNumber_0000101
+Loquat Jujube Lulo Lulo Pineberry Guava Date Quince Kiwifruit Tamarillo
+Raspberry Cherimoya Grapefruit Banana Grape Mulberry Ximenia Cranberry Kiwano Longan
+Pomegranate Pomegranate Acerola Lemon Tayberry Tamarind Soursop Araza Tangelo Jostaberry
+Breadfruit Sapodilla Mango Blackcurrant Boysenberry Jambul Lulo Damson Blueberry Araza
+Sapote Quince Kumquat Persimmon Nectarine Lychee Breadfruit Loganberry Pomelo Jackfruit
+Blackcurrant Plumcot Bilberry Fig Mandarine Longan Strawberry Raspberry Clementine Nance
+Canistel Abiu Fig Banana Clementine Açaí Acerola Grape Guava Cempedak
+Pineberry Abiu Plantain Ackee Blackberry Persimmon Raisin Nance Kumquat Peach
+Clementine Elderberry Mulberry Kiwifruit Quince Cloudberry Açaí Pineapple Breadfruit Loganberry
+Gooseberry Marionberry Yuzu Satsuma Pineberry Jostaberry Raisin Jambul Fig Kumquat
+Pineapple Salak Mandarine Pawpaw Lime Avocado Watermelon Lemon Banana Gooseberry
+rabbit pet protist sensual clams animalkingdom animal welfare octopuses embryo insectivore
+animalkingdom carnivore embryo fantasy creature tiger fleshly monster poikilotherm dog
+object fantasy livestock reptiles epizootic eukaryotic environmental iguana marineanimal exoticanimals
+meat fantasy animal welfare primate birds carnivore wild creature dog scavenger
+workanimal biped tiger animalia marineanimal elephants fish fauna dog mammal
+rabbit dinosaur farming pig pups pups plant clams animals metazoan
+dinosaur bear puppy ladybug dogs amphibians animal welfare deer mammals eukaryotic
+farming vegan cats bug cats dogs workanimal insectivore embryo meat
+frog fauna octopuses cats zoology exoticanimals animalkingdom wild rodent pig
+pig livestock invertebrate bear zoology chordate frog animalia mammals fantasy
+insectivore workanimal heterotroph animatebeing chordate animalkingdom primate tiger biped epizootic
+pasta vegetable victuals fruits vegetables nutrition fruit eat animal edible animal
+fruits vegetables milk cheese meat provender animal plant plant provender animal
+soup seafood milk nutrition drinks nutrition drinks meat chicken cooking
+beef plant meat cooking nutrition soup meal restaurant rice seafood
+nutrition cheese chicken victuals cooking seafood plant nutrient meat animal
+restaurant eat soup cooking meal nutrient seafood eat pasta eat
+meat animal soup fruit sushi milk cooking meal edible meals
+restaurant meal soup meal animal fruit nutrient seafood animal nutrient
+soup cheese nutrient edible beef victuals soup restaurant milk meat
+milk nourishment vegetable seafood nourishment cooking cereal rice sushi meals
+pasta meal chicken cooking meals nutrition edible sushi pasta pasta
+temperature__21c temperature__61c temperature__49c temperature__50c temperature__16c temperature__39c temperature__138c temperature__90c temperature__100c temperature__109c
+temperature__86c temperature__34c temperature__138c temperature__120c temperature__30c temperature__132c temperature__122c temperature__3c temperature__100c temperature__51c
+temperature__69c temperature__109c temperature__73c temperature__27c temperature__116c temperature__73c temperature__122c temperature__70c temperature__118c temperature__130c
+temperature__93c temperature__130c temperature__126c temperature__139c temperature__79c temperature__36c temperature__70c temperature__91c temperature__44c temperature__140c
+temperature__65c temperature__71c temperature__40c temperature__51c temperature__111c temperature__147c temperature__90c temperature__138c temperature__61c temperature__14c
+temperature__109c temperature__116c temperature__40c temperature__78c temperature__42c temperature__116c temperature__56c temperature__82c temperature__147c temperature__82c
+temperature__140c temperature__91c temperature__142c temperature__130c temperature__126c temperature__87c temperature__41c temperature__36c temperature__53c temperature__58c
+temperature__141c temperature__59c temperature__53c temperature__14c temperature__68c temperature__82c temperature__124c temperature__119c temperature__138c temperature__41c
+temperature__63c temperature__64c temperature__24c temperature__98c temperature__14c temperature__147c temperature__58c temperature__79c temperature__50c temperature__84c
+temperature__59c temperature__118c temperature__68c temperature__63c temperature__136c temperature__52c temperature__28c temperature__111c temperature__68c temperature__71c
+temperature__49c temperature__78c temperature__26c temperature__122c temperature__138c temperature__92c temperature__22c temperature__141c temperature__148c temperature__140c
+data mechanicalcomputer desktopcomputer algorithm integratedcircuit software inputdevice server mainframe hardware
+daw social computercide mobiledevice daw cpu incompatible microprocessor arithmetic machine
+digitalcommunication transistor computerhardware machines machine abacus keyboard expansionslot watch eniac
+computercircuit android hardware browser incompatible machines software machine digitalcomputer android
+machines programmer floppydisk data browser information computerprogram computerscience digital cell
+router electromechanical compatible antivirus computerprogramming office digitalcomputer internet digital camera
+centralprocessing unit browser astrolabe cpu inputdevice data downloader keyboard computerscience computercircuit
+processor computation processor router mechanicalcomputer digitalcommunication laptop proprietary cell computercide
+centralprocessing unit floppydisk visualdisplayunit cyber turingmachine mainframe information software visualdisplayunit android
+floppydisk arithmetic internet cpu centralprocessing unit data personalcomputer bit virtualreality microcomputer
+cyber cybertechnology bit von neumann machine device computation vacuumtube computerhardware computerscience eniac
+spar lark gamely rollick pro tennis tradition skateboard hockey motorcycling
+competitive music players class cross performance muscle challenge cycling utility
+horseracing fast tournament coach judo skill cycling casual supersport champion
+tradition badminton gym events pro archery pack games dance action
+premium games casual fun bike muscle downfield kill physical rowing
+combat bouldering fighting hunting blazers social show hockey skateboard running
+players funambulism sport industry yoga coach comfort badminton job frisk
+martial waterski gambol job skating ineligible hunting rowing art utility
+basketball esport martial community rollick casual lead soccer extracurricular tournaments
+skating frolic champion shoot fitness gambol recreation premium art career
+exercise esports position pack sportsmanship game video kill diver blazers
+22:33 17:27 10:58 18:54 10:47 17:43 11:58 19:31 11:32 12:36
+10:54 12:35 15:51 13:28 14:48 22:40 13:53 16:34 14:41 16:21
+12:25 22:36 22:39 20:39 19:26 22:16 19:48 17:33 21:33 11:59
+16:31 17:34 17:46 15:17 20:29 13:36 22:29 19:59 15:15 17:24
+15:30 12:14 12:33 15:59 18:41 21:20 22:40 23:31 21:16 19:17
+19:43 20:25 21:21 15:11 16:22 22:56 10:11 10:17 20:15 17:31
+22:26 14:58 21:54 20:30 20:13 11:53 21:33 14:31 18:39 18:24
+13:11 23:18 17:24 10:35 21:12 17:27 13:15 16:35 16:14 12:36
+17:53 15:13 19:17 14:32 19:42 22:16 11:31 20:18 11:28 23:59
+17:51 15:31 17:41 13:10 16:14 11:17 13:54 13:30 16:11 14:35
+23:59 11:43 15:38 17:29 15:58 21:10 20:51 10:52 20:27 14:16
+CubeNumber_1728 CubeNumber_85184 CubeNumber_592704 CubeNumber_79507 CubeNumber_157464 CubeNumber_2197 CubeNumber_250047 CubeNumber_238328 CubeNumber_13824 CubeNumber_2197
+CubeNumber_103823 CubeNumber_195112 CubeNumber_97336 CubeNumber_35937 CubeNumber_10648 CubeNumber_12167 CubeNumber_10648 CubeNumber_32768 CubeNumber_614125 CubeNumber_125
+CubeNumber_17576 CubeNumber_238328 CubeNumber_551368 CubeNumber_32768 CubeNumber_681472 CubeNumber_658503 CubeNumber_226981 CubeNumber_704969 CubeNumber_1728 CubeNumber_4096
+CubeNumber_54872 CubeNumber_175616 CubeNumber_166375 CubeNumber_21952 CubeNumber_729 CubeNumber_166375 CubeNumber_274625 CubeNumber_804357 CubeNumber_17576 CubeNumber_343
+CubeNumber_373248 CubeNumber_54872 CubeNumber_2197 CubeNumber_238328 CubeNumber_250047 CubeNumber_512000 CubeNumber_912673 CubeNumber_753571 CubeNumber_343 CubeNumber_35937
+CubeNumber_389017 CubeNumber_97336 CubeNumber_753571 CubeNumber_5832 CubeNumber_804357 CubeNumber_50653 CubeNumber_474552 CubeNumber_6859 CubeNumber_64 CubeNumber_343
+CubeNumber_238328 CubeNumber_729000 CubeNumber_64 CubeNumber_884736 CubeNumber_512 CubeNumber_27000 CubeNumber_274625 CubeNumber_4096 CubeNumber_8 CubeNumber_32768
+CubeNumber_658503 CubeNumber_830584 CubeNumber_531441 CubeNumber_405224 CubeNumber_32768 CubeNumber_27000 CubeNumber_91125 CubeNumber_35937 CubeNumber_8 CubeNumber_9261
+CubeNumber_68921 CubeNumber_205379 CubeNumber_438976 CubeNumber_27000 CubeNumber_216000 CubeNumber_216000 CubeNumber_512000 CubeNumber_753571 CubeNumber_132651 CubeNumber_421875
+CubeNumber_12167 CubeNumber_15625 CubeNumber_729000 CubeNumber_27 CubeNumber_456533 CubeNumber_636056 CubeNumber_884736 CubeNumber_175616 CubeNumber_8 CubeNumber_729000
+CubeNumber_59319 CubeNumber_287496 CubeNumber_166375 CubeNumber_8000 CubeNumber_592704 CubeNumber_157464 CubeNumber_54872 CubeNumber_512 CubeNumber_343 CubeNumber_704969

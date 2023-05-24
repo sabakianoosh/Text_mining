@@ -1,0 +1,99 @@
+BinaryNumber_0000100 BinaryNumber_0111010 BinaryNumber_0000110 BinaryNumber_1000000 BinaryNumber_0100110 BinaryNumber_0001111 BinaryNumber_1100001 BinaryNumber_0011111 BinaryNumber_1010100 BinaryNumber_0011110
+BinaryNumber_0100111 BinaryNumber_0011000 BinaryNumber_0110101 BinaryNumber_1010100 BinaryNumber_0001101 BinaryNumber_0011011 BinaryNumber_0001100 BinaryNumber_0000010 BinaryNumber_0010101 BinaryNumber_0011000
+BinaryNumber_1011000 BinaryNumber_0011000 BinaryNumber_0010111 BinaryNumber_0011111 BinaryNumber_0100011 BinaryNumber_0000110 BinaryNumber_0111011 BinaryNumber_0000110 BinaryNumber_0001100 BinaryNumber_0111111
+BinaryNumber_0101011 BinaryNumber_0010100 BinaryNumber_0000011 BinaryNumber_1011111 BinaryNumber_0111010 BinaryNumber_0010000 BinaryNumber_0100110 BinaryNumber_0111010 BinaryNumber_0011001 BinaryNumber_1001011
+BinaryNumber_0010110 BinaryNumber_0011101 BinaryNumber_1100001 BinaryNumber_1011011 BinaryNumber_1001100 BinaryNumber_0101001 BinaryNumber_0001101 BinaryNumber_0110000 BinaryNumber_0011100 BinaryNumber_1100010
+BinaryNumber_0101001 BinaryNumber_1000000 BinaryNumber_0011001 BinaryNumber_0100101 BinaryNumber_0001111 BinaryNumber_0001110 BinaryNumber_1000010 BinaryNumber_0111101 BinaryNumber_0011110 BinaryNumber_1011011
+BinaryNumber_0010001 BinaryNumber_0000010 BinaryNumber_1010000 BinaryNumber_1000001 BinaryNumber_0011110 BinaryNumber_1011111 BinaryNumber_0110000 BinaryNumber_0111011 BinaryNumber_0111110 BinaryNumber_0001110
+BinaryNumber_1011111 BinaryNumber_0000001 BinaryNumber_0111101 BinaryNumber_0100010 BinaryNumber_0001010 BinaryNumber_0110111 BinaryNumber_1100000 BinaryNumber_1011000 BinaryNumber_0010101 BinaryNumber_1000100
+BinaryNumber_0001011 BinaryNumber_1000001 BinaryNumber_0010111 BinaryNumber_1100001 BinaryNumber_0100110 BinaryNumber_1100011 BinaryNumber_0001110 BinaryNumber_1001111 BinaryNumber_0100110 BinaryNumber_0000001
+BinaryNumber_0011011 BinaryNumber_0110001 BinaryNumber_1000011 BinaryNumber_0010000 BinaryNumber_1011001 BinaryNumber_1010010 BinaryNumber_0011000 BinaryNumber_0011111 BinaryNumber_0010011 BinaryNumber_0111111
+BinaryNumber_0000110 BinaryNumber_0111011 BinaryNumber_0100000 BinaryNumber_0011011 BinaryNumber_1100000 BinaryNumber_1010100 BinaryNumber_0001011 BinaryNumber_0100010 BinaryNumber_0011010 BinaryNumber_1010110
+dog animal welfare vegan superdog llamas dinosaur pitbull mythical tame multicellular
+sensual wild jellyfish tiger porifera insect raccoon domesticate fauna reptile
+zooplankton clams fantasy bear jellyfish mythical domesticate wild creature pigs
+embryo mammal animalkingdom mammal frog wildlife creature animalkingdom rabbit wild
+insectivore sheep insectivorous predatoryanimal chickens heterotroph mammals beast cat monster
+farming domesticate meat bear epizootic fleshly pups pigs rodent embryo
+sheep pig exoticanimals fish birds fauna superdog animal welfare cat wild
+zoo bird object livestock vertebrate wild animal welfare tame bobcat fantasy
+superdog zoology insectivorous octopuses livestock protist superdog pet sheep wildlife
+pups sensual fleshly superdog bird cats monster reptile bug farming
+dogs animal welfare carnal hourse meat meat puppy meat zoo invertebrate
+SquareNumber_2401 SquareNumber_1444 SquareNumber_1225 SquareNumber_729 SquareNumber_1600 SquareNumber_8281 SquareNumber_1600 SquareNumber_121 SquareNumber_1089 SquareNumber_2209
+SquareNumber_3600 SquareNumber_1225 SquareNumber_5041 SquareNumber_100 SquareNumber_196 SquareNumber_9025 SquareNumber_3844 SquareNumber_49 SquareNumber_2209 SquareNumber_2809
+SquareNumber_6889 SquareNumber_8281 SquareNumber_5041 SquareNumber_2916 SquareNumber_7225 SquareNumber_6400 SquareNumber_4 SquareNumber_4356 SquareNumber_7569 SquareNumber_9025
+SquareNumber_2209 SquareNumber_1369 SquareNumber_7396 SquareNumber_9604 SquareNumber_4489 SquareNumber_2601 SquareNumber_4225 SquareNumber_4356 SquareNumber_4096 SquareNumber_100
+SquareNumber_2025 SquareNumber_9409 SquareNumber_25 SquareNumber_25 SquareNumber_3600 SquareNumber_961 SquareNumber_676 SquareNumber_16 SquareNumber_6084 SquareNumber_9216
+SquareNumber_5329 SquareNumber_529 SquareNumber_5476 SquareNumber_2916 SquareNumber_5184 SquareNumber_81 SquareNumber_4624 SquareNumber_4 SquareNumber_9216 SquareNumber_9
+SquareNumber_841 SquareNumber_64 SquareNumber_2304 SquareNumber_9801 SquareNumber_5476 SquareNumber_3969 SquareNumber_16 SquareNumber_8649 SquareNumber_1156 SquareNumber_9409
+SquareNumber_1521 SquareNumber_9 SquareNumber_2209 SquareNumber_3721 SquareNumber_6561 SquareNumber_6084 SquareNumber_1089 SquareNumber_225 SquareNumber_256 SquareNumber_8836
+SquareNumber_196 SquareNumber_784 SquareNumber_7744 SquareNumber_9409 SquareNumber_1444 SquareNumber_900 SquareNumber_1600 SquareNumber_2304 SquareNumber_3481 SquareNumber_121
+SquareNumber_6241 SquareNumber_36 SquareNumber_2704 SquareNumber_576 SquareNumber_7056 SquareNumber_25 SquareNumber_8281 SquareNumber_5625 SquareNumber_9604 SquareNumber_4624
+SquareNumber_6889 SquareNumber_3481 SquareNumber_400 SquareNumber_9216 SquareNumber_9216 SquareNumber_1225 SquareNumber_4624 SquareNumber_9604 SquareNumber_1764 SquareNumber_6241
+restaurant vegetable cheese meat nutrition cheese cereal nutrient seafood restaurant
+cheese chicken seafood nourishment eat pasta plant nutrition fruit victuals
+meals plant seafood nutrition cereal drinks rice cheese nutrient nourishment
+plant nourishment milk restaurant chicken soup nutrient eat fruit drinks
+cereal meat animal meat seafood meal beef sushi soup rice
+fruits vegetables nutrition edible cereal meat nutrition seafood nutrient drinks nutrition
+fruit cheese meals nourishment provender cheese cooking animal nutrient victuals
+drinks cooking beef provender cereal vegetable soup fruit meat nutrient
+nutrient meal chicken plant edible drinks meal provender chicken fruits vegetables
+vegetable beef soup seafood edible fruits vegetables restaurant rice meat vegetable
+edible meat milk sushi beef cereal nutrient nutrition cereal nutrition
+laptop desktopcomputer pornographicimages imac programming programming laptop proprietary expansionslot console
+server game machines eniac device proprietary camera turingmachine ibook computercircuit
+incompatible desktop information android tablet office transistor chip peripheral sliderule
+game console cybertechnology computerscience watch electrical internet mainframe von neumann machine mainframe
+visualdisplayunit expansionslot machines monitor cpu computerprogramming astrolabe incompatible processor digitalcomputer
+console router von neumann machine mechanicalcomputer device escapekey tablet machines cybertechnology turingmachine
+cpu proprietary phone computerprogramming von neumann machine integratedcircuit computerprogramming desktop computerhardware cpu
+android smartphone computation phone camera microprocessor electromechanical computing imac computercide
+laptopcomputer escapekey peripheral monitor expansionslot transistor laptop cpu supercomputer server
+proprietary browser desktop ibook laptopcomputer incompatible laptop escapekey microprocessor personalcomputer
+homecomputer transistor arithmetic proprietary turingmachine digitalaudioplayer office sliderule analogcomputer server
+21:45 15:39 15:43 23:55 11:43 20:56 10:33 11:43 20:56 17:56
+18:42 10:45 22:50 18:50 17:12 13:46 19:58 17:27 13:17 11:27
+18:12 13:54 21:30 17:57 17:16 12:32 12:47 17:32 17:41 17:47
+17:15 22:17 10:38 10:25 11:54 10:14 21:41 21:31 16:26 18:49
+18:37 18:43 21:12 17:46 23:43 18:47 18:20 17:56 17:41 18:26
+11:27 11:18 18:43 21:34 11:30 18:18 14:48 23:47 12:49 11:41
+11:45 18:21 10:13 16:47 15:34 21:21 18:21 18:22 15:34 23:51
+21:28 15:46 17:37 16:23 22:13 15:42 17:22 19:19 14:17 21:51
+18:37 23:35 22:38 10:24 15:15 21:16 21:19 12:31 16:11 20:33
+17:57 16:27 21:11 18:54 21:53 10:28 21:30 23:29 12:22 12:26
+22:57 19:45 22:47 23:32 17:31 22:10 13:37 23:57 22:21 20:34
+genocide heist offenders heist offence homeless unsolved barratry cop accident
+punishment criminality fraud political transgression mafia law-breaking law-breaking sin serial
+pirate gangster felony legislature criminal homelessness criminal conspiracy punishment gun
+homicide assault imprisonment imprisonment law bloodshed robbery thrillers cybercrime victim
+missing dark arrest government bloodshed tort crime criminality cases prostitution
+action heist justice barratry conspiracy murders genocide corruption violence kill
+criminals victim legal violence corruption theft arsons lift forensic mob
+misdemeanor revenge kill psychological snitching snitching shootings corrupt corruption story
+legislature abuse murders incarceration robbery drugs illegal supernatural racism heist
+investigation action offence safety murders violence criminality murder government heist
+mystery crime genocide victim heist unsolved investigation cop fraud transgression
+job eco company multisport gamely activities athletics referee archery activity
+downfield gym safari athlete hiking romp schuss waterski games football
+sports shoot fitness gymnastics physical fitness exercise hobbies dirt bike
+skill run league premium polo dynamic athletes players blazers dynamic
+motorcycling frolic mutant team wipeout bouldering show bouldering spar career
+exercise dynamic casual players sports muscle gym company extracurricular archery
+gamely industry ski position art frolic soccerball games rugby schuss
+wipeout diver art sports standard basketball company pack kill field
+events multisport shoot wipeout hockey lifestyle standard dance field tennis
+activity lead recreation frisk racing health comfort volleyball career recreation
+skateboard tournament fighting play music competitive utility gymnastics spar dynamic
+Pear Mango Tamarillo Jackfruit Loquat Ximenia Peach Elderberry Pomelo Cherimoya
+Nectarine Redcurrant Sapodilla Soursop Lime Mulberry Elderberry Lemon Mango Soursop
+Abiu Grapefruit Grape Jackfruit Cempedak Boysenberry Mangosteen Boysenberry Currant Pear
+Lemon Açaí Cempedak Jackfruit Clementine Tayberry Yuzu Mulberry Melon Raisin
+Clementine Pineapple Soursop Acerola Pawpaw Tayberry Blackberry Tamarind Acerola Peach
+Soursop Avocado Sapodilla Elderberry Cherry Guava Yuzu Avocado Fig Yuzu
+Quince Yuzu Redcurrant Araza Strawberry Jujube Melon Redcurrant Loquat Plantain
+Quince Pomelo Redcurrant Honeyberry Mulberry Plumcot Clementine Cloudberry Watermelon Pear
+Pomegranate Açaí Pineberry Tangelo Prune Salak Longan Grape Tayberry Strawberry
+Boysenberry Mango Blackberry Jostaberry Nance Orange Lychee Bilberry Coconut Pear
+Nance Cherimoya Pear Mandarine Passionfruit Marionberry Salmonberry Nectarine Cashew Sapodilla

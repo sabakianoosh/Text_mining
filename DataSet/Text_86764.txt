@@ -1,0 +1,99 @@
+BinaryNumber_0010011 BinaryNumber_1010010 BinaryNumber_0100111 BinaryNumber_0000010 BinaryNumber_0001011 BinaryNumber_0101010 BinaryNumber_0001111 BinaryNumber_1100001 BinaryNumber_0101110 BinaryNumber_1011100
+BinaryNumber_0100110 BinaryNumber_1011110 BinaryNumber_0010101 BinaryNumber_0111111 BinaryNumber_0101011 BinaryNumber_1001001 BinaryNumber_0111001 BinaryNumber_0011111 BinaryNumber_0000100 BinaryNumber_1001101
+BinaryNumber_1011110 BinaryNumber_0111000 BinaryNumber_1011000 BinaryNumber_0011010 BinaryNumber_0101101 BinaryNumber_0110000 BinaryNumber_1010011 BinaryNumber_1010000 BinaryNumber_0000011 BinaryNumber_0011101
+BinaryNumber_0100001 BinaryNumber_1011011 BinaryNumber_0011110 BinaryNumber_0011001 BinaryNumber_0000110 BinaryNumber_1010111 BinaryNumber_0000010 BinaryNumber_1000110 BinaryNumber_0101110 BinaryNumber_1000110
+BinaryNumber_1001101 BinaryNumber_0110100 BinaryNumber_1000100 BinaryNumber_1010000 BinaryNumber_1100010 BinaryNumber_0001100 BinaryNumber_0111000 BinaryNumber_0110010 BinaryNumber_0100100 BinaryNumber_0100110
+BinaryNumber_0100010 BinaryNumber_0011010 BinaryNumber_1010001 BinaryNumber_1011010 BinaryNumber_0110001 BinaryNumber_1010001 BinaryNumber_1011001 BinaryNumber_1010100 BinaryNumber_1001111 BinaryNumber_0110010
+BinaryNumber_0111001 BinaryNumber_1000010 BinaryNumber_0111001 BinaryNumber_0010011 BinaryNumber_0000111 BinaryNumber_1011110 BinaryNumber_1011111 BinaryNumber_0101010 BinaryNumber_0100100 BinaryNumber_0001000
+BinaryNumber_0111110 BinaryNumber_1011010 BinaryNumber_1100000 BinaryNumber_1011011 BinaryNumber_0001001 BinaryNumber_1011101 BinaryNumber_0111001 BinaryNumber_0000110 BinaryNumber_0000001 BinaryNumber_0100000
+BinaryNumber_1001010 BinaryNumber_0011010 BinaryNumber_0111000 BinaryNumber_1011000 BinaryNumber_0011100 BinaryNumber_0001111 BinaryNumber_0111011 BinaryNumber_0101111 BinaryNumber_0001001 BinaryNumber_1011100
+BinaryNumber_1010111 BinaryNumber_1001001 BinaryNumber_1011001 BinaryNumber_0110111 BinaryNumber_0000101 BinaryNumber_0000100 BinaryNumber_0011011 BinaryNumber_1010100 BinaryNumber_1000000 BinaryNumber_0100010
+BinaryNumber_1000110 BinaryNumber_0110000 BinaryNumber_0001000 BinaryNumber_0101100 BinaryNumber_1000011 BinaryNumber_1000101 BinaryNumber_0100101 BinaryNumber_0011010 BinaryNumber_0100100 BinaryNumber_1010000
+pitch headphones vibe language theme modulate tune rhythm accompaniment oboe
+record spotify drum art music metre single concertise fugue merch melody
+musicians works dynamics arts popular music classical melody schubert instrumental popular music
+reggae banjo poetry poetry song medicine bass guitar soundtrack tuning
+playlists voice rhapsody pitch lute melodies media paleolithic soulful musical
+entertainment cadence silence work motif composing bar genre key singing
+chaconne vinyl composing schubert melodic bugle reggae flute lyrics cadence
+instrumental songwriter atmosphere musical phenomenon talk opera voice interlude record
+entertainment silence recording album harmonise composer pitch action clapping rock
+atmosphere fugue reggae soul symphonic harmonise folk lyric subtonic blues
+performance story flute art tuning bluegrass roulade artists live cello
+Lymphaticvessel Eardrum Larynx Ileum Muscle Placenta Pons Smallintestine Thymus Arteries
+Teeth Muscle Tongue Cornea Sensoryorgans Middleear Middleear Cecum Cochlea Smallintestine
+Penis Larynx Uterus Eye Eardrum Clitoris Vagina Thymus Thymus Cecum
+Outerear Pharynx Lens Tonsils Thymus Retina Mouth Liver Hypothalamus Tendons
+Cranialnerves Eardrum Bladder Fallopiantubes Cecum Lips Interstitium Pons Trachea Spinalnerves
+Veins Retina Heart Innerear Interstitium Stomach Joints Retina Brain Ureter
+Larynx Tongue Clitoris Hypothalamus Vulva Clitoris Ear Liver Vulva Nerves
+Jejunum Lymphaticvessel Ureter Ureter Trachea Pharynx Tongue Lungs Tongue Cranialnerves
+Mesentery Clitoris Eye Innerear Spleen Cerebrum Teeth Vulva Gallbladder Tongue
+Fallopiantubes Joints Kidneys skeleton Thalamus Ossicles Kidneys Tongue Tongue Arteries
+Ear Vagina Ear Larynx Retina Pancreas Interstitium Heart Midbrain Lymphaticvessel
+varmint dog birds pitbull reptile jellyfish primate reptiles beast scavenger
+pig metazoan amphibians insect monster animalkingdom fish zooplankton animal welfare fauna
+plant wildlife insectivorous clams sensual pigs beast epizootic poikilotherm creature
+wildlife vegan scavenger octopuses fleshly ladybug tufted carnivore feline elephants
+animalia elephants pet reptile ladybug pitbull carnivore vegan carnal animals
+dinosaur insects cat tiger fantasy darter dog fantasy protist thoroughbred
+exoticanimals environmental mythical raccoon fleshly plant zoology protist reptile dinosaur
+tufted zoology carnal protist workanimal hourse reptiles chickens raccoon jellyfish
+primate heterotroph predatoryanimal farming dogs dog vertebrate object farming deer
+marineanimal insects sheep chickens metazoan wildlife vertebrate tame carnivore heterotroph
+plant vegan ladybug rodent porifera iguana superdog animalkingdom frog demon
+CubeNumber_166375 CubeNumber_357911 CubeNumber_571787 CubeNumber_4913 CubeNumber_531441 CubeNumber_912673 CubeNumber_884736 CubeNumber_6859 CubeNumber_32768 CubeNumber_300763
+CubeNumber_157464 CubeNumber_1331 CubeNumber_85184 CubeNumber_357911 CubeNumber_68921 CubeNumber_389017 CubeNumber_97336 CubeNumber_474552 CubeNumber_117649 CubeNumber_10648
+CubeNumber_592704 CubeNumber_456533 CubeNumber_238328 CubeNumber_592704 CubeNumber_103823 CubeNumber_46656 CubeNumber_857375 CubeNumber_328509 CubeNumber_216000 CubeNumber_140608
+CubeNumber_10648 CubeNumber_238328 CubeNumber_238328 CubeNumber_140608 CubeNumber_157464 CubeNumber_4096 CubeNumber_12167 CubeNumber_32768 CubeNumber_571787 CubeNumber_704969
+CubeNumber_512 CubeNumber_636056 CubeNumber_1728 CubeNumber_704969 CubeNumber_132651 CubeNumber_46656 CubeNumber_5832 CubeNumber_148877 CubeNumber_704969 CubeNumber_343000
+CubeNumber_571787 CubeNumber_35937 CubeNumber_32768 CubeNumber_216000 CubeNumber_9261 CubeNumber_4096 CubeNumber_148877 CubeNumber_103823 CubeNumber_389017 CubeNumber_195112
+CubeNumber_6859 CubeNumber_830584 CubeNumber_29791 CubeNumber_704969 CubeNumber_59319 CubeNumber_421875 CubeNumber_125000 CubeNumber_226981 CubeNumber_97336 CubeNumber_704969
+CubeNumber_74088 CubeNumber_357911 CubeNumber_166375 CubeNumber_704969 CubeNumber_27 CubeNumber_830584 CubeNumber_274625 CubeNumber_17576 CubeNumber_32768 CubeNumber_64000
+CubeNumber_287496 CubeNumber_5832 CubeNumber_804357 CubeNumber_157464 CubeNumber_9261 CubeNumber_857375 CubeNumber_74088 CubeNumber_912673 CubeNumber_658503 CubeNumber_941192
+CubeNumber_74088 CubeNumber_8000 CubeNumber_531441 CubeNumber_216 CubeNumber_438976 CubeNumber_46656 CubeNumber_912673 CubeNumber_357911 CubeNumber_636056 CubeNumber_262144
+CubeNumber_884736 CubeNumber_15625 CubeNumber_125000 CubeNumber_1728 CubeNumber_54872 CubeNumber_6859 CubeNumber_42875 CubeNumber_2197 CubeNumber_551368 CubeNumber_474552
+gangsterism law mystery brutality kill snitching cop poison liberty thrillers
+mutilation forensic forensic criminality guilty punitive threats story brutality pirate
+drug smuggle drama misdemeanour misdemeanor criminals corruption robbery smuggle abuse
+criminality supernatural massacre tort incarceration drama punitive structuralism cases rape
+drama cases misdemeanour theft misdemeanor misdemeanour gangster punitive noir punishment
+drugs offense slayings supernatural threats gangster guilty detective crisis rape
+detective racism government conspiracy crisis cop legal homelessness detective victim
+punishment murder offenses pirate arsons gangster illegal punishment guilt imprisonment
+shoplift mutilation illegal offence fraud accident corrupt highjack barratry war
+law mob crisis criminals mutilation guilty drug blackmail jurisdiction terrorism
+kill criminals highjack conspiracy criminal war noir political massacre mafia
+provender sushi pasta cooking meals cereal victuals fruit milk sushi
+nutrition fruit vegetable beef edible eat fruit milk restaurant provender
+victuals drinks rice drinks eat chicken edible nutrition nourishment beef
+beef nutrition milk sushi meat fruit plant nourishment nutrition cooking
+meat pasta cooking fruits vegetables rice cereal sushi soup rice cooking
+cooking beef meat provender cheese nutrition nourishment eat fruits vegetables rice
+meals drinks soup edible meat fruit meal milk beef sushi
+plant drinks cereal nutrient animal cereal nutrient fruits vegetables rice drinks
+fruit cheese nutrition sushi chicken provender provender fruit victuals meat
+victuals provender plant restaurant seafood pasta beef fruit nutrition pasta
+animal seafood seafood cereal soup meals milk fruit provender drinks
+desktop proprietary turingmachine imac browser electromechanical proprietary digital office vacuumtube
+camera desktoppcs proprietary office computing cybertechnology game peripheral device compatible
+escapekey computerhardware von neumann machine escapekey von neumann machine digital incompatible vacuumtube processor programming
+cpu vacuumtube abacus laptop programming astrolabe microcomputer internet laptop astrolabe
+desktop algorithm arithmetic xbox compatible von neumann machine phone imac dataconverter electrical
+compatible cpu imac cpu computerprogramming visualdisplayunit sliderule mobiledevice computation smartphone
+analogcomputer cyber electronics chip ibook keyboard screen machines bit computerscience
+escapekey laptop machinecode information proprietary phone mobile camera microprocessor camera
+centralprocessing unit bit astrolabe information von neumann machine memory processor supercomputer computerhardware processor
+laptopcomputer cell data smartphone cell tablet phone compatible von neumann machine machine
+downloader turingmachine social laptop algorithm office memory game device laptop
+14:15 20:58 16:31 17:24 10:24 11:12 22:31 17:20 10:32 14:18
+13:23 13:22 10:39 17:49 22:14 22:53 17:49 22:30 20:13 22:53
+11:39 20:36 14:38 14:18 10:27 19:12 19:39 15:37 10:58 21:40
+17:12 13:33 21:55 20:14 13:36 12:34 21:15 19:42 22:45 12:11
+22:56 22:33 18:21 23:29 17:10 20:22 21:51 14:17 12:26 11:29
+21:18 16:14 23:38 13:44 23:17 22:31 21:26 22:24 10:59 14:32
+14:34 11:56 11:12 17:26 15:51 15:25 22:38 21:52 11:36 21:21
+19:54 13:36 18:13 15:25 20:29 12:41 18:28 22:36 21:54 17:55
+19:18 20:10 14:35 13:14 13:25 21:20 19:40 15:16 17:54 15:47
+21:20 14:41 17:31 19:51 20:14 13:31 22:31 11:13 12:19 22:37
+16:33 13:19 15:51 18:16 13:36 10:42 10:56 16:31 16:56 22:23

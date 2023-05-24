@@ -1,0 +1,99 @@
+Gray GreenYellow RoyalBlue AntiqueWhite Tan DarkSeaGreen Turquoise Linen Olive Orchid
+Brown PaleGoldenrod MediumSlateBlue ForestGreen BlueViolet LightSteelBlue Aquamarine MediumAquamarine SandyBrown MediumOrchid
+SkyBlue LightSlateBlue DarkSeaGreen Tan DarkOrchid Silver DarkBlue Chocolate OrangeRed NavajoWhite
+DarkOrchid MintCream Olive MediumVioletRed Seashell SeaGreen GhostWhite Burlywood Chartreuse Bisque
+Olive Tan PapayaWhip Feldspar Aquamarine LightCoral Brown AntiqueWhite HotPink BlueViolet
+DarkFuchsia OldLace Navy MediumVioletRed White DarkRed MediumSeaGreen LightGray PeachPuff VioletRed
+SlateBlue Red NavajoWhite Aquamarine DarkGreen Firebrick DeepPink DarkGray OliveDrab Orchid
+Gray Seashell SlateBlue MediumPurple LightGoldenrod DarkSlateBlue PaleVioletRed Khaki SandyBrown DarkBlue
+LightSalmon Maroon GreenYellow LightSteelBlue SeaGreen LightSeaGreen DarkGray Tan MistyRose LemonChiffon
+LightBlue LightSlateBlue LightSeaGreen SlateGray DarkGoldenrod Navy White Gainsboro MediumBlue Seashell
+Navy LightCyan Teal DarkBlue DarkViolet Chocolate BlueViolet LavenderBlush Pink Olive
+temperature__85c temperature__144c temperature__74c temperature__22c temperature__84c temperature__8c temperature__30c temperature__74c temperature__91c temperature__68c
+temperature__86c temperature__86c temperature__86c temperature__142c temperature__98c temperature__6c temperature__46c temperature__28c temperature__33c temperature__74c
+temperature__109c temperature__49c temperature__105c temperature__31c temperature__84c temperature__65c temperature__130c temperature__31c temperature__87c temperature__140c
+temperature__10c temperature__116c temperature__68c temperature__91c temperature__35c temperature__71c temperature__17c temperature__51c temperature__91c temperature__36c
+temperature__47c temperature__100c temperature__54c temperature__82c temperature__8c temperature__30c temperature__70c temperature__44c temperature__119c temperature__92c
+temperature__91c temperature__132c temperature__71c temperature__118c temperature__28c temperature__126c temperature__105c temperature__129c temperature__31c temperature__4c
+temperature__33c temperature__105c temperature__2c temperature__4c temperature__84c temperature__108c temperature__105c temperature__26c temperature__146c temperature__26c
+temperature__28c temperature__88c temperature__131c temperature__42c temperature__26c temperature__30c temperature__64c temperature__85c temperature__148c temperature__59c
+temperature__27c temperature__10c temperature__49c temperature__85c temperature__41c temperature__8c temperature__124c temperature__141c temperature__12c temperature__136c
+temperature__111c temperature__39c temperature__33c temperature__109c temperature__91c temperature__93c temperature__56c temperature__108c temperature__111c temperature__24c
+temperature__132c temperature__86c temperature__95c temperature__5c temperature__146c temperature__11c temperature__65c temperature__140c temperature__3c temperature__77c
+Smallintestine Placenta Midbrain Tendons Pons Urethra Rectum Placenta Iris Trachea
+Ligaments Analcanal Bladder Gallbladder Nerves Rectum Midbrain Placenta Kidneys Innerear
+Uterus Ligaments Pharynx Pancreas Esophagus Arteries Hypothalamus Eye Eye Spinalnerves
+Ovaries Innerear Retina Cervix Bladder Ileum Tastebuds Pancreas Pharynx Urethra
+Innerear Bone  Esophagus Bladder Tongue Middleear Nerves Pancreas Bladder Lymphaticvessel
+Cervix Cervix Spleen Eye Ciliarybody Cochlea Sensoryorgans Vagina Smallintestine Cornea
+Tastebuds Tonsils Midbrain Interstitium Urethra Capillaries Liver Scrotum Cerebellum Pharynx
+Vagina Arteries Duodenum Innerear Capillaries Lymphaticvessel Ovaries Cochlea Eye Cervix
+Muscle Cornea Ganglia Mouth Brain Bone  Lens Pancreas Fallopiantubes Tastebuds
+Eardrum Bone  Joints Arteries Ganglia Hypothalamus Thalamus Tonsils Analcanal Lungs
+Tongue Largeintestine Veins Bronchi Pancreas Spinalnerves Thalamus Outerear Sensoryorgans Spinalnerves
+vibe tone singer rhythm chord musical muse art music noise popular music
+playing metal jazz tuning videos arts concerts clapping time rag
+reggae chaconne bars euphony dynamics creative favorite lights culture cadence
+film solmizate action chorus melodies vibe vibe polyphony media conducting
+subtonic arts clarion ambience ensemble writing talking songs sound pianist
+reharmonize popular music song genre soundtracks hymn jazz hiphop reggae release
+clapping playlist dance lyrics club chaconne prelude lyric action sforzando
+theme musicians ambient choir talking modulate techno talk art music phone
+trumpet bluegrass design harp polyphony soundtracks beats action club arts
+hip recapitulation video chaconne lyrics label poetry ragtime visual graphics
+ambience compositions melodic folk sfx section schubert tongue label art music
+nourishment fruit sushi edible cooking fruit edible meat eat edible
+cheese fruit cereal nutrient nutrient milk cooking meals seafood victuals
+drinks meat drinks fruit nutrition sushi nutrition fruits vegetables restaurant milk
+drinks edible nutrient drinks fruits vegetables milk fruits vegetables cereal beef cooking
+cereal plant vegetable milk nourishment vegetable meal beef animal seafood
+nutrition fruits vegetables sushi rice chicken provender meals nutrition cooking victuals
+rice eat milk nutrition cooking fruit meal eat chicken meal
+drinks provender victuals cheese provender animal nutrient chicken fruit sushi
+seafood edible sushi nutrient victuals drinks restaurant cooking sushi cooking
+eat meal restaurant cooking eat cheese nutrient seafood nourishment nutrient
+meal sushi sushi eat provender meal victuals nutrient plant sushi
+CubeNumber_778688 CubeNumber_74088 CubeNumber_6859 CubeNumber_389017 CubeNumber_13824 CubeNumber_912673 CubeNumber_1000 CubeNumber_857375 CubeNumber_50653 CubeNumber_300763
+CubeNumber_10648 CubeNumber_13824 CubeNumber_59319 CubeNumber_493039 CubeNumber_79507 CubeNumber_729 CubeNumber_5832 CubeNumber_32768 CubeNumber_571787 CubeNumber_117649
+CubeNumber_54872 CubeNumber_571787 CubeNumber_103823 CubeNumber_97336 CubeNumber_54872 CubeNumber_592704 CubeNumber_438976 CubeNumber_250047 CubeNumber_300763 CubeNumber_704969
+CubeNumber_32768 CubeNumber_681472 CubeNumber_4913 CubeNumber_343000 CubeNumber_29791 CubeNumber_287496 CubeNumber_300763 CubeNumber_493039 CubeNumber_166375 CubeNumber_216
+CubeNumber_97336 CubeNumber_175616 CubeNumber_10648 CubeNumber_226981 CubeNumber_4096 CubeNumber_804357 CubeNumber_704969 CubeNumber_614125 CubeNumber_343 CubeNumber_778688
+CubeNumber_512000 CubeNumber_8 CubeNumber_614125 CubeNumber_5832 CubeNumber_592704 CubeNumber_2744 CubeNumber_8000 CubeNumber_205379 CubeNumber_343000 CubeNumber_389017
+CubeNumber_474552 CubeNumber_571787 CubeNumber_493039 CubeNumber_328509 CubeNumber_54872 CubeNumber_729000 CubeNumber_614125 CubeNumber_19683 CubeNumber_1000 CubeNumber_287496
+CubeNumber_17576 CubeNumber_32768 CubeNumber_13824 CubeNumber_50653 CubeNumber_389017 CubeNumber_10648 CubeNumber_884736 CubeNumber_592704 CubeNumber_592704 CubeNumber_1331
+CubeNumber_42875 CubeNumber_54872 CubeNumber_6859 CubeNumber_10648 CubeNumber_9261 CubeNumber_85184 CubeNumber_300763 CubeNumber_884736 CubeNumber_2744 CubeNumber_314432
+CubeNumber_97336 CubeNumber_110592 CubeNumber_405224 CubeNumber_493039 CubeNumber_551368 CubeNumber_1331 CubeNumber_857375 CubeNumber_778688 CubeNumber_185193 CubeNumber_79507
+CubeNumber_125000 CubeNumber_29791 CubeNumber_13824 CubeNumber_1331 CubeNumber_4096 CubeNumber_35937 CubeNumber_493039 CubeNumber_262144 CubeNumber_778688 CubeNumber_19683
+bike rugby cavort challenge kill sportsman running muscle tournaments tournament
+blazers hockey job exercise competitive badminton offside sport martial athletic
+play football esports athletes dirt champion yoga hunting lifestyle play
+music cross rugby tradition video ineligible judo volleyball eco rollick
+mutant field career team class lead ineligible tournament entertainment eco
+dance dance dirt skateboard performance champion players athlete play suit
+rollick gymnastics basketball utility esport team skateboard horseracing soccer run
+muscle active organization challenge gymnastics volleyball cross offside athletic limited
+kill downfield cavort games cavort blazers dance activities physical premium
+competitive form exercise exercise triathlon dance skateboarding challenge soccerball lead
+wipeout skating chess martial fast community rugby skylark boast active
+malfeasance integrity beleaguer cadre resignation conceal debacle deception patronage tarnish
+mercurial manipulate conceal corruption patronage manipulate bamboozle manipulate opportunist engagement
+obscure unethical scandal coercion refute malfeasance empire massive engagement demagogue
+integrity impunity claim coterie revelation sloth alliance allegation feud reckless
+fray massive deflect allegation embezzlement fray engagement subterfuge deception lobby
+claim alliance sloth partial deny massive tarnish incident expose privilege
+claim manipulate deny deficit deception regime engagement collaboration lobby accusation
+proxy anonymity patronage manipulate saga blame chicanery solicit authoritarian unjust
+cadre unjust fray claim empire bribe feud malfeasance reputation parry
+anonymity resignation recrimination lobby career unethical illicit expose acolyte denigrate
+integrity assail impunity saga coterie extortion demagogue deception reputation denigrate
+reptile deer cat fish demon zooplankton dinosaur deer embryo biped
+frog animal welfare carnal bird carnivore mythical predatoryanimal domesticate dogs demon
+environmental marineanimal frog darter farming marineanimal environmental pig animal welfare hourse
+tame predatoryanimal fish bobcat pitbull darter wildlife pigs animal welfare frog
+monster mammals insectivore epizootic ladybug bear bobcat animals hourse pigs
+insectivorous multicellular insectivore sheep vertebrate zooplankton pitbull animals feline animals
+amphibians octopuses exoticanimals plant heterotroph fantasy meat animalkingdom sheep biped
+vegan reptile tame workanimal livestock puppy exoticanimals mythical exoticanimals object
+biped animalkingdom eukaryotic varmint pitbull domesticate jellyfish primate zoo object
+wildlife insectivore livestock bobcat invertebrate workanimal carnal mythical cat bear
+deer varmint workanimal vegan plant rodent fish poikilotherm sensual eukaryotic

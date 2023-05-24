@@ -1,0 +1,99 @@
+BinaryNumber_0011100 BinaryNumber_0100010 BinaryNumber_0100100 BinaryNumber_1010111 BinaryNumber_0001001 BinaryNumber_0111010 BinaryNumber_1011011 BinaryNumber_0011101 BinaryNumber_1010011 BinaryNumber_0111001
+BinaryNumber_1010111 BinaryNumber_0101100 BinaryNumber_1000001 BinaryNumber_1001100 BinaryNumber_0100001 BinaryNumber_0111010 BinaryNumber_0101010 BinaryNumber_1000001 BinaryNumber_1100001 BinaryNumber_0111110
+BinaryNumber_0011000 BinaryNumber_0000100 BinaryNumber_0011001 BinaryNumber_0111011 BinaryNumber_0010100 BinaryNumber_0010111 BinaryNumber_1000100 BinaryNumber_1000001 BinaryNumber_0001001 BinaryNumber_0100110
+BinaryNumber_0110100 BinaryNumber_1000000 BinaryNumber_1010110 BinaryNumber_1000110 BinaryNumber_0101011 BinaryNumber_1000001 BinaryNumber_1010000 BinaryNumber_0110000 BinaryNumber_0000010 BinaryNumber_0111101
+BinaryNumber_0101110 BinaryNumber_0111001 BinaryNumber_0011100 BinaryNumber_0000101 BinaryNumber_0011111 BinaryNumber_0101010 BinaryNumber_1011001 BinaryNumber_0111100 BinaryNumber_1000101 BinaryNumber_0110001
+BinaryNumber_0110110 BinaryNumber_1000011 BinaryNumber_1000011 BinaryNumber_0110010 BinaryNumber_0101000 BinaryNumber_0010110 BinaryNumber_0111110 BinaryNumber_1010011 BinaryNumber_0001111 BinaryNumber_0101101
+BinaryNumber_0011000 BinaryNumber_1011000 BinaryNumber_1001110 BinaryNumber_0010110 BinaryNumber_0110101 BinaryNumber_0000100 BinaryNumber_0000000 BinaryNumber_1001110 BinaryNumber_0000001 BinaryNumber_0111100
+BinaryNumber_1000000 BinaryNumber_0000110 BinaryNumber_0011101 BinaryNumber_1001100 BinaryNumber_1010100 BinaryNumber_0000111 BinaryNumber_0000100 BinaryNumber_1001111 BinaryNumber_0001010 BinaryNumber_0000011
+BinaryNumber_1000110 BinaryNumber_1001010 BinaryNumber_1010100 BinaryNumber_0101011 BinaryNumber_0110000 BinaryNumber_1000101 BinaryNumber_0001111 BinaryNumber_1010110 BinaryNumber_0001111 BinaryNumber_0011010
+BinaryNumber_0101110 BinaryNumber_1001011 BinaryNumber_0010010 BinaryNumber_1001110 BinaryNumber_0011000 BinaryNumber_1100010 BinaryNumber_0111101 BinaryNumber_0011010 BinaryNumber_0110110 BinaryNumber_1000110
+BinaryNumber_1011100 BinaryNumber_0011001 BinaryNumber_0000001 BinaryNumber_0101011 BinaryNumber_0101010 BinaryNumber_0000010 BinaryNumber_1001111 BinaryNumber_1000010 BinaryNumber_0011110 BinaryNumber_0001100
+Arteries Stomach Ossicles Lungs Stomach Mouth Largeintestine Cerebellum Vulva Placenta
+Ganglia Eardrum Tongue Pons Scrotum Urethra Ciliarybody Mesentery Joints Placenta
+Lungs Smallintestine Trachea Teeth Placenta Placenta Sensoryorgans Uterus Vagina Trachea
+Clitoris Brain Smallintestine Cornea Spleen Thymus Ligaments Cerebrum Liver Placenta
+Mouth Liver Larynx Middleear Spinalnerves Bronchi Hypothalamus Trachea Ciliarybody Placenta
+Cochlea Gallbladder Spleen Eye Outerear Ossicles Thymus Cochlea Ear Bronchi
+Fallopiantubes Bronchi Ganglia Brain Thymus Trachea Uterus Pharynx Trachea Gallbladder
+Cervix Innerear Kidneys Ileum Lips Ear Cornea Vulva Ligaments Cecum
+Veins Tastebuds Cranialnerves Lips Cranialnerves Middleear Tastebuds Retina Interstitium Interstitium
+Uterus Fallopiantubes Earlobe Thalamus Cerebrum Veins Heart Cerebrum Cochlea Mouth
+Cecum Vagina Pharynx Lymphaticvessel Eye Cochlea Ovaries Hypothalamus Vulva Thymus
+musicians banjo beats speak mp3s dynamics funk bar atonality muses
+audio symphonic double bass design dynamics monophony soundtrack tuba single timbre
+compositions art schubert live artists guitar playlists music cultural mediant
+artist compositions saxophone banjo bluegrass key subdivision arts melodic podcast
+bands reharmonize key symphonic recapitulation chaconne jazzfunk rock reading theme
+bebop lute electronica ragtime section tabs design roulade cadence recapitulation
+studio banjo design timbre ambient harp rockabilly media podcasts folk
+sing graphics entertainment saxophone reading motif electronica bluegrass instrument sforzando
+singers writing timbre artist atonality recapitulation podcast drum compositions techno
+hip clarinet talk podcast conduct bar tune editing saxophone texture
+muse popular music compositions funk motif clarinet genres bpm clarinet concerto
+dataconverter personalcomputer computercircuit incompatible laptop proprietary programmer transistor arithmetic android
+bit incompatible computerscience peripheral computing turingmachine turingmachine digitalcommunication desktoppcs daw
+algorithm vacuumtube internet peripheral desktopcomputer computerhardware microprocessor electromechanical homecomputer visualdisplayunit
+vacuumtube tablet algorithm microprocessor proprietary computerhardware eniac cell social homecomputer
+centralprocessing unit microprocessor machine cyber xbox memory hardware computercide electronics expansionslot
+cyber desktop inputdevice centralprocessing unit machine monitor machine chip router desktopcomputer
+machines mechanicalcomputer proprietary hardware phone microprocessor digitalcomputer screen server floppydisk
+von neumann machine xbox game digital virtualreality expansionslot server phone centralprocessing unit algorithm
+centralprocessing unit machinecode machinecode daw abacus computerprogramming mainframe mainframe internet astrolabe
+peripheral keyboard software monitor compatible computerscience device computerprogramming tablet virtualreality
+camera personalcomputer xbox antivirus information compatible mobile proprietary internet information
+provender milk chicken rice sushi nutrient meals meals edible rice
+rice cereal sushi pasta nourishment meal soup nutrient vegetable nourishment
+soup pasta meat meals vegetable milk drinks pasta cereal cheese
+nutrient nourishment animal meat meal edible nutrient fruits vegetables drinks meals
+sushi pasta nourishment nutrition sushi victuals restaurant rice seafood fruits vegetables
+nutrient meals chicken victuals meat nutrition victuals plant milk cereal
+fruits vegetables animal sushi edible nourishment cheese cheese vegetable cheese chicken
+vegetable soup animal meals meal meal animal rice nutrient nourishment
+victuals cooking cooking beef edible edible provender fruit drinks nutrition
+meals eat restaurant cheese restaurant nourishment cheese plant eat vegetable
+eat beef nutrient meal plant seafood plant sushi vegetable fruit
+14:39 23:29 21:47 22:50 21:48 11:42 20:12 18:37 17:10 10:25
+21:46 22:29 18:39 10:11 16:17 19:58 15:16 13:25 13:27 10:12
+17:41 10:44 14:38 22:42 23:27 18:55 18:44 15:56 19:35 23:47
+19:49 23:54 10:12 10:16 18:56 18:30 21:50 18:43 11:10 13:45
+18:30 20:24 14:21 15:57 20:10 16:12 15:57 21:27 17:19 18:15
+16:35 23:16 15:32 20:38 22:57 23:47 19:22 10:32 13:19 19:19
+20:12 14:22 18:15 15:21 21:41 10:22 22:31 17:46 14:36 13:14
+12:58 14:17 16:41 20:23 11:34 21:11 17:25 17:34 20:55 14:43
+22:15 14:24 17:10 11:16 10:34 22:50 11:31 17:22 21:26 11:42
+14:39 14:33 11:43 23:33 10:58 20:51 22:28 22:41 12:17 15:40
+19:26 17:32 18:53 15:17 13:46 10:36 11:34 14:57 13:20 19:34
+solicit hypocrisy temptation massive conceal partial conceal reputation solicit infringement
+reckless anonymity deficit unethical debacle denigrate feud mendacity defamation temptation
+deception extortion revelation mendacity retaliation coercion reckless rebut alliance blame
+mercurial integrity alliance manipulate blame laconic covert refute resignation collaboration
+deflect manipulate recrimination accusation prestidigitation proxy beleaguer onerous subterfuge hypocrisy
+scandalous illegal retaliation unsavory resignation patronage illegal tarnish anonymity solicit
+tainted privilege tainted anonymity empire beleaguer chicanery regime fiasco scapegoat
+lobby coterie reputation unsavory partial reputation acolyte empire plagiarism endorsement
+allegation tainted denigrate extortion intimidation claim fray deny partial unsavory
+patronage onerous tainted unsavory tainted illicit laconic tainted tycoon incident
+illegal unjust expose massive temptation claim chicanery scandal regime deflect
+Footrest Furniture Daybed Furniture Bookshelf Headboards Marquetry Hammock Recliner Frieze
+Applique Hassock Waterbed Crib Rack Castor Futon Headboards Mantle Etagère
+Sconce Highchair Secretary Bookshelf Tansu Upholstery Clock Easel Rug Bookcase
+Sideboard Drapes Screen Credenza Air-conditioner Hassock Ottoman Chair Cot Futon
+Antique Daybed Console Marquetry Marquetry Wheelchair Ottoman Sideboard Castor Curtains
+Highchair Drapery Cradle Screen Armchair Armchair Inlay Highchair Chest Furniture
+Rack Carpet Crib Light Bergere Sofa Settee Hokey Applique Rack
+Rack Pillow Sideboard Bookshelf Furniture Cushions Mantle Bench Pliant Mattress
+Lintel Valet Credenza Highchair Recliner Etagère Stool Vitrine Television Antique
+Easel Vanity Lamp Ottoman Chandelier Inlay Applique Lamp Bentwood Buffet
+Bench Footstool Bowfront Stool Air-conditioner Fan Cupboard Hutch Console Jardinière
+lucky annoying frail ill dizzy light wicked frightened open glorious
+light happy shiny elegant odd happy colorful clumsy wide-eyed lazy
+zany comfortable weary annoying homeless cruel funny fair inquisitive lucky
+super distinct witty gorgeous comfortable impossible innocent talented delightful wicked
+relieved uptight grumpy grieving happy upset old-fashioned old-fashioned curious dull
+average hilarious disturbed bad clever hurt concerned nervous condemned funny
+ugly adventurous super envious plain fantastic helpful evil filthy angry
+concerned relieved perfect ugly amused thoughtless rich successful busy gorgeous
+uptight blue-eyed real selfish weary average victorious jittery modern prickly
+important gorgeous talented disgusted real open doubtful happy smoggy comfortable
+talented successful better gorgeous glorious foolish smoggy prickly better creepy

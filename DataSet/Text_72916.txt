@@ -1,0 +1,99 @@
+BinaryNumber_0001100 BinaryNumber_0110110 BinaryNumber_0110110 BinaryNumber_0111000 BinaryNumber_0011011 BinaryNumber_0000000 BinaryNumber_0110010 BinaryNumber_0000100 BinaryNumber_1001110 BinaryNumber_0111010
+BinaryNumber_1011011 BinaryNumber_1001010 BinaryNumber_1000010 BinaryNumber_0101011 BinaryNumber_1100011 BinaryNumber_0101000 BinaryNumber_0101010 BinaryNumber_1000101 BinaryNumber_1010010 BinaryNumber_0101100
+BinaryNumber_1000000 BinaryNumber_0001100 BinaryNumber_0010110 BinaryNumber_0111001 BinaryNumber_0001011 BinaryNumber_0001010 BinaryNumber_0111000 BinaryNumber_1011000 BinaryNumber_0100000 BinaryNumber_0011010
+BinaryNumber_1010100 BinaryNumber_0011010 BinaryNumber_0001110 BinaryNumber_0001101 BinaryNumber_0000110 BinaryNumber_1000001 BinaryNumber_0100000 BinaryNumber_0011110 BinaryNumber_0001010 BinaryNumber_0011111
+BinaryNumber_1100001 BinaryNumber_1000111 BinaryNumber_0010001 BinaryNumber_0101001 BinaryNumber_1010110 BinaryNumber_1011010 BinaryNumber_0110101 BinaryNumber_0011100 BinaryNumber_1010111 BinaryNumber_1010000
+BinaryNumber_0111110 BinaryNumber_0100100 BinaryNumber_0000101 BinaryNumber_1011111 BinaryNumber_0011010 BinaryNumber_1100011 BinaryNumber_1000101 BinaryNumber_0101000 BinaryNumber_0101110 BinaryNumber_0110000
+BinaryNumber_0110101 BinaryNumber_0110001 BinaryNumber_1011111 BinaryNumber_1011011 BinaryNumber_0010011 BinaryNumber_0000011 BinaryNumber_0000000 BinaryNumber_0110000 BinaryNumber_0111110 BinaryNumber_0111110
+BinaryNumber_1000000 BinaryNumber_0000001 BinaryNumber_0011101 BinaryNumber_0100011 BinaryNumber_0001010 BinaryNumber_1001101 BinaryNumber_0111101 BinaryNumber_1000110 BinaryNumber_0011011 BinaryNumber_1001111
+BinaryNumber_1100010 BinaryNumber_1100010 BinaryNumber_0001000 BinaryNumber_1100000 BinaryNumber_0001101 BinaryNumber_1010110 BinaryNumber_0010101 BinaryNumber_0111100 BinaryNumber_0111101 BinaryNumber_0111101
+BinaryNumber_0011101 BinaryNumber_1000010 BinaryNumber_0000100 BinaryNumber_0000000 BinaryNumber_0110110 BinaryNumber_1100001 BinaryNumber_0111111 BinaryNumber_0001110 BinaryNumber_0101111 BinaryNumber_1000001
+BinaryNumber_1000100 BinaryNumber_1000001 BinaryNumber_0011101 BinaryNumber_0010111 BinaryNumber_0001010 BinaryNumber_1000011 BinaryNumber_0000111 BinaryNumber_0111110 BinaryNumber_0100110 BinaryNumber_0111011
+Larynx Hypothalamus Spleen Fallopiantubes Nerves Ileum Hypothalamus Cecum Outerear Tongue
+Sensoryorgans Cranialnerves Spinalnerves Heart Brain Pharynx Duodenum Spleen Lymphaticvessel Capillaries
+Vagina Pons Muscle Vagina Pharynx Analcanal Mouth Brain Thymus Ovaries
+Mesentery Earlobe Vagina Urethra Vagina Esophagus Urethra Vagina Thymus Mesentery
+Muscle Stomach Pharynx Gallbladder Rectum Gallbladder Uterus Cervix Cecum Esophagus
+Uterus Joints Brain Hypothalamus Bronchi Analcanal skeleton Lymphaticvessel Penis Ovaries
+Mesentery Larynx Uterus Mesentery Bladder Cornea Ciliarybody Bronchi Veins Urethra
+Teeth Largeintestine Pharynx Thymus Cranialnerves Ovaries Mouth Cochlea Smallintestine Eye
+Outerear Placenta Uterus Innerear Heart Ligaments Joints Cervix Sensoryorgans Ureter
+Tendons Urethra Kidneys Veins Tongue Lips Thymus Eardrum Pons Stomach
+Scrotum Jejunum Jejunum Muscle Midbrain Scrotum Vulva Ear Lens Joints
+Highchair Lintel Clock Rug Lounger Secretary Throne Jardinière Baroque Sofabed
+Mattress Lamp Bureau Mirror Armchair cubbies Bureau Armoire Furniture Island
+Seat Fluting Wardrobe Antique Bed Inlay Furnishings Rack Seat Pillow
+Footrest Television Inlay Cabinet Etagère Drapes Mantle Cushions Easel Sideboard
+Cupboard Throne Inlay Applique Wardrobe Footstool Armchair Bench Drapery Carpet
+Marquetry Recliner Valet Sofa Bentwood Rattle Fluting Throne Lintel Air-conditioner
+Valet Applique Pliant Mattress Loveseat Pantry Antique Daybed Ottoman Island
+Easel Bureau Chair Cabinet Armchair Cradle Pliant Fan Pew Couch
+Hassock Fan Light Credenza Pillow Hammock Wheelchair Headboards Bowfront Couch
+Cushions Tansu Cushion Waterbed Applique Armchair Headboard Easel Hammock Secretary
+Baroque Secretary Cabinet Vanity Bassinet Pew Sconce Cabriole Chair Television
+patriarchy cadre persecution proxy cadre scandal bribe prestidigitation deficit expose
+assail laconic subterfuge unethical regime sloth coterie plagiarism career unsavory
+cadre beleaguer chicanery blame cadre persecution incident benefit plutocracy retaliation
+extortion prestidigitation revelation retaliation sloth scandalous demagogue corruption parry scandal
+fiasco conceal cadre demagogue persecution tainted unethical infringement tycoon career
+infringement demagogue scandal saga hypocrisy expose resignation feud demagogue resignation
+blame unjust intimidation incident prestidigitation claim dictatorship mendacity beleaguer prestidigitation
+privilege beleaguer benefit demagogue manipulate deception collaboration acolyte unethical anonymity
+patriarchy resignation refute reputation covert revelation massive recrimination illegal corruption
+saga deficit coterie opportunist scandalous plutocracy retaliation parry retaliation chicanery
+sloth feud integrity persecution debacle plagiarism plutocracy saga intimidation covert
+Mulberry Araza Kiwifruit Sapodilla Plantain Cloudberry Breadfruit Apple Salak Salak
+Nectarine Cashew Raisin Feijoa Cherimoya Elderberry Redcurrant Sapote Melon Honeyberry
+Nectarine Blueberry Pineberry Plum Gooseberry Canistel Cloudberry Kiwifruit Lulo Honeydew
+Mango Coconut Plantain Banana Pomelo Grapefruit Loganberry Nance Fig Persimmon
+Salmonberry Loganberry Cranberry Persimmon Cantaloupe Peach Loganberry Persimmon Currant Plantain
+Pomelo Sapote Mandarine Mandarine Apricot Tangelo Satsuma Apricot Watermelon Cashew
+Raisin Date Mango Grapefruit Raisin Abiu Damson Marionberry Avocado Cantaloupe
+Kiwano Clementine Prune Pomelo Persimmon Elderberry Huckleberry Cantaloupe Gooseberry Plantain
+Cherimoya Redcurrant Banana Breadfruit Plum Strawberry Bilberry Mandarine Soursop Prune
+Clementine Cherry Coconut Blackcurrant Araza Orange Prune Currant Breadfruit Raisin
+Grape Kiwifruit Cherimoya Boysenberry Akebi Redcurrant Blackcurrant Honeydew Jujube Plum
+MidnightBlue GreenYellow Pink PaleGoldenrod Gold Snow LightBlue Fuchsia Burlywood Yellow
+Burlywood DarkSeaGreen OliveDrab Wheat Fuchsia Tomato Gainsboro PapayaWhip Orange Lime
+DarkGoldenrod LightSeaGreen RosyBrown Azure Chocolate LightYellow DeepSkyBlue Orchid Lavender MintCream
+CornflowerBlue MintCream Pink Cornsilk Purple Moccasin Turquoise OldLace SaddleBrown DeepSkyBlue
+LightBlue MediumOrchid SpringGreen Feldspar Burlywood DarkSlateGray DarkCyan SeaGreen Goldenrod RosyBrown
+NavajoWhite LightGreen DarkTurquoise WhiteSmoke MediumAquamarine RoyalBlue DarkTurquoise Gold NavajoWhite Turquoise
+Ivory Green RosyBrown RosyBrown MediumOrchid LightSkyBlue MediumSpringGreen Yellow IndianRed Gray
+PaleGoldenrod AntiqueWhite Wheat Tomato Blue LightSalmon Lavender LightSalmon HotPink Aquamarine
+Linen Black Feldspar CornflowerBlue Gray MediumSeaGreen OrangeRed Gainsboro FloralWhite Chocolate
+Red LimeGreen OrangeRed MediumTurquoise LightBlue LightSeaGreen DarkSlateBlue Bisque Snow DarkSeaGreen
+LavenderBlush Feldspar SeaGreen GhostWhite DarkGray Honeydew MediumBlue Plum ForestGreen BlueViolet
+sore grieving disturbed defeated wide-eyed clumsy rich excited frail eager
+dizzy easy strange nice unusual black depressed silly bewildered powerful
+cloudy bright embarrassed encouraging hungry comfortable lucky plain frantic concerned
+successful uninterested difficult lonely defiant gifted thankful homely elegant outrageous
+obnoxious gleaming excited uptight real unusual gentle naughty impossible cooperative
+gentle horrible thoughtful poor gentle foolish fair concerned different lucky
+homely bewildered grumpy famous strange anxious inexpensive silly plain nutty
+troubled comfortable vivacious dead scary good shiny tame doubtful worried
+panicky dark thoughtful rich clear terrible ugliest thankful thankful ugliest
+determined tired handsome alert tense condemned charming itchy sparkling clever
+defeated modern frantic frail important plain putrid tasty gifted sparkling
+computerprogram visualdisplayunit desktop centralprocessing unit browser server keyboard xbox imac floppydisk
+eniac arithmetic cyber laptopcomputer mobile mobiledevice computerscience laptop integratedcircuit software
+smartphone programmer office expansionslot computerprogram sliderule screen vacuumtube console memory
+compatible imac monitor android von neumann machine computing electromechanical von neumann machine homecomputer chip
+arithmetic incompatible eniac electrical proprietary visualdisplayunit antivirus console console software
+incompatible smartphone centralprocessing unit ibook electromechanical downloader daw android algorithm visualdisplayunit
+desktopcomputer abacus peripheral eniac desktoppcs computerhardware spyware pc microprocessor xbox
+microcomputer computerhardware hardware information desktop smartphone smartphone analogcomputer automation software
+desktop android incompatible inputdevice programmer desktoppcs virtualreality ibook mobiledevice expansionslot
+microcomputer digital astrolabe automation peripheral peripheral centralprocessing unit information internet smartphone
+proprietary algorithm watch automation cpu xbox integratedcircuit pornographicimages cpu escapekey
+fruit meat meals restaurant soup beef cereal fruits vegetables edible pasta
+chicken meal seafood seafood chicken edible animal pasta meat plant
+victuals cheese plant milk rice drinks nourishment meals provender pasta
+cereal pasta eat vegetable sushi nutrient milk cereal fruits vegetables soup
+cereal fruit fruit cereal meals chicken soup rice fruits vegetables nourishment
+meal victuals milk restaurant meals fruit pasta pasta provender pasta
+cereal meals cereal restaurant provender meals meals nutrient edible restaurant
+edible pasta nutrient fruits vegetables edible victuals provender sushi vegetable animal
+animal meat milk drinks meal nutrient seafood beef vegetable fruits vegetables
+seafood pasta cereal soup pasta fruits vegetables sushi meals meat edible
+provender meals seafood nourishment fruit cheese seafood animal drinks soup

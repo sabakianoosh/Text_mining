@@ -1,0 +1,99 @@
+temperature__44c temperature__84c temperature__148c temperature__21c temperature__63c temperature__49c temperature__36c temperature__124c temperature__86c temperature__54c
+temperature__42c temperature__59c temperature__41c temperature__4c temperature__116c temperature__70c temperature__109c temperature__34c temperature__105c temperature__58c
+temperature__129c temperature__31c temperature__27c temperature__46c temperature__36c temperature__24c temperature__24c temperature__144c temperature__123c temperature__56c
+temperature__130c temperature__27c temperature__123c temperature__44c temperature__148c temperature__68c temperature__5c temperature__126c temperature__63c temperature__130c
+temperature__65c temperature__65c temperature__11c temperature__11c temperature__63c temperature__122c temperature__87c temperature__64c temperature__82c temperature__53c
+temperature__122c temperature__129c temperature__61c temperature__69c temperature__58c temperature__85c temperature__51c temperature__129c temperature__140c temperature__5c
+temperature__53c temperature__12c temperature__28c temperature__5c temperature__16c temperature__27c temperature__139c temperature__86c temperature__49c temperature__36c
+temperature__93c temperature__49c temperature__108c temperature__42c temperature__33c temperature__31c temperature__122c temperature__124c temperature__119c temperature__61c
+temperature__0c temperature__53c temperature__91c temperature__138c temperature__35c temperature__77c temperature__132c temperature__4c temperature__145c temperature__95c
+temperature__16c temperature__11c temperature__147c temperature__131c temperature__3c temperature__92c temperature__91c temperature__4c temperature__132c temperature__59c
+temperature__39c temperature__85c temperature__39c temperature__119c temperature__148c temperature__59c temperature__68c temperature__59c temperature__52c temperature__74c
+BinaryNumber_0001000 BinaryNumber_0111001 BinaryNumber_1001001 BinaryNumber_0111101 BinaryNumber_1010110 BinaryNumber_0000001 BinaryNumber_1001011 BinaryNumber_1000001 BinaryNumber_1010101 BinaryNumber_1010010
+BinaryNumber_1100000 BinaryNumber_0010101 BinaryNumber_1011001 BinaryNumber_0100001 BinaryNumber_0100000 BinaryNumber_0110010 BinaryNumber_0101010 BinaryNumber_1011001 BinaryNumber_0101110 BinaryNumber_1000011
+BinaryNumber_0110100 BinaryNumber_0110111 BinaryNumber_0011110 BinaryNumber_0101000 BinaryNumber_1010011 BinaryNumber_0110011 BinaryNumber_0011111 BinaryNumber_0010000 BinaryNumber_1011001 BinaryNumber_0101010
+BinaryNumber_0110001 BinaryNumber_0010111 BinaryNumber_0111000 BinaryNumber_1010010 BinaryNumber_0110101 BinaryNumber_0101101 BinaryNumber_0111011 BinaryNumber_1010111 BinaryNumber_1000100 BinaryNumber_1000111
+BinaryNumber_0010001 BinaryNumber_1010111 BinaryNumber_1001101 BinaryNumber_0011011 BinaryNumber_0001100 BinaryNumber_0010100 BinaryNumber_1100001 BinaryNumber_1001010 BinaryNumber_0000111 BinaryNumber_0100100
+BinaryNumber_0100000 BinaryNumber_0110001 BinaryNumber_0111010 BinaryNumber_0100101 BinaryNumber_1011110 BinaryNumber_0011011 BinaryNumber_0100000 BinaryNumber_1000111 BinaryNumber_0100011 BinaryNumber_0010010
+BinaryNumber_1000111 BinaryNumber_0110011 BinaryNumber_0010010 BinaryNumber_0111100 BinaryNumber_1000111 BinaryNumber_0100001 BinaryNumber_1010111 BinaryNumber_1000000 BinaryNumber_1011000 BinaryNumber_1001000
+BinaryNumber_1001100 BinaryNumber_0010001 BinaryNumber_0010010 BinaryNumber_1000100 BinaryNumber_1010101 BinaryNumber_0001010 BinaryNumber_1000110 BinaryNumber_0110000 BinaryNumber_0100000 BinaryNumber_1000110
+BinaryNumber_0100111 BinaryNumber_1001101 BinaryNumber_0010000 BinaryNumber_0011011 BinaryNumber_0010000 BinaryNumber_1010111 BinaryNumber_1001011 BinaryNumber_0000001 BinaryNumber_0001011 BinaryNumber_0101011
+BinaryNumber_0110110 BinaryNumber_1100000 BinaryNumber_0011110 BinaryNumber_1000100 BinaryNumber_0000000 BinaryNumber_0100010 BinaryNumber_0101010 BinaryNumber_0101010 BinaryNumber_0001011 BinaryNumber_1100010
+BinaryNumber_0010110 BinaryNumber_0100000 BinaryNumber_1010010 BinaryNumber_0000110 BinaryNumber_1011101 BinaryNumber_1000000 BinaryNumber_0100010 BinaryNumber_0010110 BinaryNumber_0011010 BinaryNumber_0110101
+animal provender fruit meals drinks animal milk pasta edible milk
+cheese victuals sushi cooking edible rice rice pasta cheese chicken
+beef nutrition pasta cooking pasta restaurant fruits vegetables sushi cereal meal
+meat cooking restaurant seafood eat provender drinks sushi cereal rice
+cheese fruits vegetables fruits vegetables cereal meat restaurant chicken plant victuals cheese
+sushi victuals nourishment nutrient plant nutrient restaurant rice soup nutrition
+cereal milk nourishment fruit meals nutrition victuals cheese cereal victuals
+nutrient meal meal plant beef cereal vegetable cooking cooking animal
+animal eat drinks seafood sushi plant eat soup victuals restaurant
+cheese cooking provender nourishment rice victuals cereal nutrition pasta chicken
+fruits vegetables soup eat milk meat pasta edible cereal fruit restaurant
+imac algorithm electronics data machines monitor automation keyboard spyware computing
+abacus software peripheral antivirus digitalcommunication desktopcomputer internet abacus daw sliderule
+chip machines incompatible personalcomputer microcomputer electronics escapekey desktoppcs integratedcircuit machine
+programming router supercomputer router arithmetic cell android processor electronics digitalcommunication
+computerprogramming arithmetic microcomputer integratedcircuit turingmachine screen laptopcomputer programming calculator von neumann machine
+abacus imac supercomputer visualdisplayunit tablet electromechanical chip smartphone supercomputer centralprocessing unit
+laptop machine expansionslot server turingmachine chip game cybertechnology computerprogram calculator
+social machine game chip laptopcomputer computerhardware ibook computing console electrical
+digitalcomputer screen smartphone mainframe centralprocessing unit screen screen internet transistor desktoppcs
+inputdevice pornographicimages homecomputer von neumann machine turingmachine personalcomputer machines game inputdevice digitalcommunication
+tablet monitor software computerscience turingmachine integratedcircuit microprocessor spyware computation bit
+13:59 22:32 19:41 13:42 20:31 22:48 12:59 11:16 20:29 10:41
+14:44 19:17 11:45 18:32 15:58 15:42 18:13 20:29 17:15 10:33
+20:59 10:51 21:17 21:40 18:27 23:28 19:37 19:22 19:38 16:47
+10:39 16:26 17:53 23:11 13:47 10:28 15:51 10:22 15:35 11:23
+12:41 18:53 17:23 22:12 19:28 20:42 22:47 11:16 16:30 23:26
+18:49 15:10 15:10 23:33 10:49 12:45 17:33 10:30 20:51 12:36
+23:34 11:15 23:23 14:52 14:42 23:47 17:40 16:40 20:36 21:53
+20:58 21:32 12:43 12:36 10:20 13:58 21:26 15:15 23:41 16:45
+22:44 12:36 19:38 12:36 20:54 11:47 20:39 22:11 17:35 12:10
+15:18 21:40 20:59 23:55 23:15 11:43 11:19 11:21 20:13 14:28
+19:41 11:59 16:10 21:39 10:20 18:13 23:58 12:23 22:41 22:42
+atonal writing sonata singer symphonise pitch paleolithic concertise bar melody
+cultural action metre mp3s drum muses playing songwriter hip soulful
+piano key story genre muse genres musicality folk euphony clapping
+bugle popular music flute muse genres soundtracks instrumental creative pianist theme
+sfx bar rhythm works madrigal streaming euphony songs sforzando sing
+lute chorus cadence culture musicality mediant ambience headphones movie ambient
+ambient jazz muse bebop concerto soul tweedle muse blues intonation
+jazzfunk concert graduation medicine headphones solmizate cello headphones live bands
+piano monophony favorite karaoke clarinet mp3s motif intonation culture favorite
+voices tweedle soundtracks classical compositions compositions recording muses podcast muses
+story bass reggae voice carol musicology maps soundtrack album movies
+racism legislature drama crisis death shoplift guilt homelessness poison violence
+story criminals story mafia slayings noir genocide muggings evidence government
+law-breaking guilty jurisdiction misdemeanour victim safety thriller jurisdiction police assault
+legal threats missing corruption arsons investigation arrest criminality police revenge
+suspense statutory detective human liberty homeless war police noir homicides
+dark incarceration spy lift justice prison illegal illegal felony legal
+offence unsolved gangs government conspiracy lift misdemeanor justice heist guilt
+legal crisis homelessness missing offense illegal criminals law-breaking law abuse
+vandalism homelessness drama barratry prostitution assault bloodshed punitive robbery psychological
+violence cases kill misdemeanour offense thrillers police cybercrime robbery shootings
+misdemeanour prostitution offence death massacre misdemeanor government gangs lift imprisonment
+wild epizootic deer reptile insects sheep animal welfare tiger vertebrate scavenger
+wildlife fantasy exoticanimals pig fleshly tiger fleshly poikilotherm bird pitbull
+ladybug tame puppy mythical pig invertebrate thoroughbred sheep scavenger chickens
+hourse animalia exoticanimals domesticate eukaryotic insect fish chickens pitbull darter
+pigs insectivorous insectivorous zoo vegan fantasy fish monster tufted cats
+animalkingdom fleshly darter thoroughbred bird mythical wildlife mammals superdog wildlife
+bird zoology wild jellyfish eukaryotic bug pig poikilotherm primate cats
+zoology bird mammal tame bobcat frog insect vertebrate carnivore invertebrate
+chordate pitbull puppy bear predatoryanimal animatebeing mammals darter rodent domesticate
+zooplankton bug llamas wild protist pups raccoon ladybug amphibians wild
+pups insectivorous pig fantasy wildlife bobcat eukaryotic hourse exoticanimals bird
+video video waterski fast football schuss dance organization romp hunting
+combat referee coach lead tournament athletes fun polo soccerball shoot
+hunters skylark skiing challenge fast class show boulder game fitness
+waterski field field judo hiking athletes goal sportaccord tournament gambol
+wipeout athletic frolic job utility yoga feature skiing hockey goal
+spar wipeout ski pro racing safari luge limited wipeout competitive
+luge pro soccerball frolic feature dance health horseracing luge luge
+rollick tennis performance blazers teams esports action music dirt esport
+game blazers polo hobbies competition skating spar skill volleyball hobby
+schuss club industry judo tournaments champion athletes sportsman skateboard downfield
+supersport chess field supersport rugby schuss triathlon form dive work

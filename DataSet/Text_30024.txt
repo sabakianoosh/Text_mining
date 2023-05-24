@@ -1,0 +1,99 @@
+BinaryNumber_0001110 BinaryNumber_0011000 BinaryNumber_0111100 BinaryNumber_0010111 BinaryNumber_0010001 BinaryNumber_0001110 BinaryNumber_0000111 BinaryNumber_0010100 BinaryNumber_1000010 BinaryNumber_1011110
+BinaryNumber_0000010 BinaryNumber_0100111 BinaryNumber_1010100 BinaryNumber_0101100 BinaryNumber_0110101 BinaryNumber_1011110 BinaryNumber_1011100 BinaryNumber_0111010 BinaryNumber_1010111 BinaryNumber_0100001
+BinaryNumber_0010010 BinaryNumber_1000010 BinaryNumber_0110001 BinaryNumber_0111001 BinaryNumber_0011010 BinaryNumber_0001000 BinaryNumber_1001101 BinaryNumber_1100011 BinaryNumber_1100001 BinaryNumber_0110011
+BinaryNumber_0001011 BinaryNumber_1011000 BinaryNumber_0010110 BinaryNumber_0110100 BinaryNumber_0000000 BinaryNumber_0101011 BinaryNumber_0001100 BinaryNumber_0011110 BinaryNumber_0100001 BinaryNumber_0100001
+BinaryNumber_0110110 BinaryNumber_1001100 BinaryNumber_0110110 BinaryNumber_1010000 BinaryNumber_1001000 BinaryNumber_0000000 BinaryNumber_1010100 BinaryNumber_0001011 BinaryNumber_0100111 BinaryNumber_0011010
+BinaryNumber_1010111 BinaryNumber_0110001 BinaryNumber_0100100 BinaryNumber_0110000 BinaryNumber_1000000 BinaryNumber_0111001 BinaryNumber_1100001 BinaryNumber_0001111 BinaryNumber_1011110 BinaryNumber_1000001
+BinaryNumber_0100101 BinaryNumber_1011110 BinaryNumber_1010011 BinaryNumber_0000001 BinaryNumber_0011010 BinaryNumber_1001101 BinaryNumber_1011010 BinaryNumber_1011101 BinaryNumber_1001011 BinaryNumber_1011101
+BinaryNumber_0011010 BinaryNumber_0110001 BinaryNumber_0110010 BinaryNumber_0111110 BinaryNumber_0111110 BinaryNumber_0011101 BinaryNumber_1000010 BinaryNumber_1001001 BinaryNumber_0111011 BinaryNumber_1011010
+BinaryNumber_1100010 BinaryNumber_1000111 BinaryNumber_0000001 BinaryNumber_0000000 BinaryNumber_1011010 BinaryNumber_1000110 BinaryNumber_1011010 BinaryNumber_0111000 BinaryNumber_0100010 BinaryNumber_1011010
+BinaryNumber_1010011 BinaryNumber_0111011 BinaryNumber_1001000 BinaryNumber_0110011 BinaryNumber_1011100 BinaryNumber_0011011 BinaryNumber_1000001 BinaryNumber_1001101 BinaryNumber_0010110 BinaryNumber_0111010
+BinaryNumber_0001111 BinaryNumber_0000111 BinaryNumber_1000011 BinaryNumber_0110101 BinaryNumber_0100000 BinaryNumber_0110100 BinaryNumber_1001101 BinaryNumber_0011011 BinaryNumber_1000111 BinaryNumber_0000100
+Passionfruit Banana Plantain Durian Cherry Kiwifruit Prune Grape Araza Banana
+Jackfruit Elderberry Pomelo Rambutan  Honeyberry Abiu Grapefruit Rambutan  Honeyberry Acerola
+Pawpaw Salmonberry Redcurrant Mangosteen Lime Plantain Sapote Acerola Lime Passionfruit
+Currant Salmonberry Banana Marionberry Pomelo Raspberry Watermelon Satsuma Passionfruit Prune
+Honeydew Huckleberry Acerola Feijoa Loquat Mangosteen Blackberry Ackee Clementine Abiu
+Grape Araza Avocado Cempedak Durian Honeydew Durian Banana Kiwano Kumquat
+Persimmon Blueberry Damson Pineberry Nectarine Pineberry Cashew Kiwifruit Cloudberry Abiu
+Blueberry Orange Akebi Salak Cashew Melon Fig Cherry Lulo Watermelon
+Breadfruit Guava Plumcot Abiu Plantain Yuzu Tangerine Papaya Mango Date
+Boysenberry Pomegranate Mandarine Banana Marionberry Grape Kiwano Blueberry Grape Breadfruit
+Melon Canistel Abiu Avocado Loquat Guava Blackcurrant Apricot Cashew Mulberry
+chicken edible cooking provender nutrition cheese pasta nourishment edible milk
+pasta cereal cereal nutrition plant sushi fruits vegetables restaurant animal rice
+animal victuals cereal edible rice eat meals meal pasta beef
+vegetable nutrient beef fruit vegetable animal fruits vegetables sushi meals victuals
+seafood edible chicken cheese soup fruits vegetables nourishment sushi cereal victuals
+pasta vegetable fruits vegetables cheese vegetable plant milk meals restaurant rice
+edible animal fruit animal meat chicken sushi vegetable meals nutrient
+pasta fruit fruit sushi soup fruits vegetables eat beef restaurant cooking
+edible cooking edible drinks animal nourishment nutrient rice cooking vegetable
+meals restaurant nutrient restaurant plant chicken cooking fruits vegetables pasta chicken
+fruit milk animal drinks edible cheese meal plant meals nutrition
+pizzicato pitch musicians rhapsody songwriter tweedle subdivision metal art music lights
+part rockabilly works spotify cultural pizzicato theatre subdivision sfx monophony
+opera hyperpop part works songs artist muses videos genre studio
+podcast language time bugle concerts triple-tongue chaconne concerto writing atmosphere
+atonality genres tonality singer maps melodies ambience writing choir festival
+design euphony podcasts melodic entertainment double bass tempo saxophone symphonise bebop
+conducting banjo blues texture design concerts favorite maps lute harmonise
+graphics playing medicine record films sonata pitch label headphones mediant
+rockabilly flute texture audio tabs muse release artists maps theatre
+talk silence symphony streaming ensemble tone singing music soulful ambient
+sing pianist dixieland arts sonata saxophone atonality banjo tabs opera
+environmental monster feline hourse feline protist darter thoroughbred sheep animalia
+domesticate fish wild beast insectivorous deer predatoryanimal carnivore insect raccoon
+metazoan varmint chickens amphibians ladybug thoroughbred fauna cat carnal zoo
+primate fauna wild tufted fauna scavenger bear darter wild chordate
+dog tame chickens carnal hourse pig puppy hourse superdog monster
+amphibians poikilotherm varmint fish plant clams cat hourse vegan chordate
+hourse zooplankton animalia tame insectivore chickens carnivore hourse fish mammals
+bear workanimal dog porifera pet domesticate clams rabbit clams darter
+environmental carnal deer mammal fantasy animalia sheep pet deer meat
+fantasy porifera varmint wildlife scavenger bobcat environmental chordate workanimal animal welfare
+demon shelter animatebeing amphibians thoroughbred pigs insectivore hourse fauna chordate
+temperature__28c temperature__68c temperature__0c temperature__147c temperature__0c temperature__24c temperature__3c temperature__27c temperature__105c temperature__144c
+temperature__7c temperature__33c temperature__65c temperature__49c temperature__91c temperature__36c temperature__136c temperature__5c temperature__35c temperature__148c
+temperature__129c temperature__129c temperature__88c temperature__69c temperature__86c temperature__71c temperature__100c temperature__129c temperature__27c temperature__24c
+temperature__139c temperature__147c temperature__5c temperature__69c temperature__44c temperature__74c temperature__16c temperature__59c temperature__31c temperature__93c
+temperature__116c temperature__4c temperature__88c temperature__126c temperature__138c temperature__118c temperature__79c temperature__126c temperature__0c temperature__77c
+temperature__147c temperature__59c temperature__26c temperature__138c temperature__118c temperature__105c temperature__105c temperature__137c temperature__123c temperature__141c
+temperature__58c temperature__26c temperature__85c temperature__56c temperature__69c temperature__2c temperature__92c temperature__56c temperature__112c temperature__51c
+temperature__91c temperature__90c temperature__53c temperature__53c temperature__126c temperature__27c temperature__28c temperature__129c temperature__105c temperature__7c
+temperature__122c temperature__142c temperature__124c temperature__16c temperature__40c temperature__5c temperature__7c temperature__50c temperature__59c temperature__30c
+temperature__129c temperature__17c temperature__12c temperature__82c temperature__124c temperature__10c temperature__74c temperature__136c temperature__137c temperature__36c
+temperature__85c temperature__132c temperature__61c temperature__39c temperature__137c temperature__39c temperature__144c temperature__87c temperature__4c temperature__26c
+Olive AliceBlue Gray LimeGreen LightPink LightBlue MintCream Khaki Silver DarkOrchid
+SandyBrown SpringGreen Snow PaleTurquoise Yellow Cyan LimeGreen LightGray ForestGreen DarkGreen
+DarkFuchsia RoyalBlue Plum GreenYellow LightSkyBlue DodgerBlue Green SteelBlue LavenderBlush Orchid
+Linen SteelBlue MediumPurple CornflowerBlue DarkSlateGray White Fuchsia Plum MintCream DarkSeaGreen
+MediumAquamarine Moccasin Wheat Peru SlateBlue Black LightSkyBlue LightYellow PaleVioletRed LightSkyBlue
+LightSalmon OldLace LightGray Feldspar AntiqueWhite LightCyan Honeydew LightSlateBlue Khaki Indigo
+LightCyan Purple MediumBlue PaleTurquoise DarkSlateGray SlateBlue SpringGreen AliceBlue LightPink Silver
+Sienna MediumSeaGreen Ivory MediumPurple LightBlue BlueViolet Aquamarine LightGray OrangeRed Navy
+MediumSlateBlue LemonChiffon Azure MediumSeaGreen Yellow OliveDrab Teal Orchid Aquamarine Chocolate
+LightGreen LightGreen Orange MintCream LawnGreen LightGreen AntiqueWhite LightGoldenrodYellow Maroon Sienna
+Salmon LawnGreen DarkSlateBlue MediumSeaGreen Sienna SteelBlue DeepPink Silver SkyBlue Linen
+grieving obnoxious excited black dull bewildered elegant famous dark frantic
+zany silly delightful rich fierce angry confused breakable expensive courageous
+worried ill tense obedient joyous misty cloudy beautiful concerned vast
+clean annoying uptight disgusted friendly nutty poised determined homeless unusual
+eager funny impossible frightened friendly splendid smoggy jolly proud naughty
+sore funny disgusted condemned bloody dangerous lucky comfortable plain good
+cheerful pleasant brave difficult fantastic bloody worrisome amused uptight embarrassed
+friendly dangerous ugliest average frightened confused bloody ugly sleepy elegant
+disturbed grotesque tense tense drab condemned itchy stupid nasty comfortable
+attractive expensive different nice homeless depressed lucky agreeable blue-eyed prickly
+nasty scary eager homely naughty troubled concerned better bad average
+Ileum Bronchi Cerebellum Joints Ureter Ganglia Ganglia Scrotum Mesentery Larynx
+Ileum Ligaments Bronchi Cerebellum Cornea Cecum Clitoris Hypothalamus Bronchi Ovaries
+Teeth Retina Heart Nerves Largeintestine Teeth Brain Ossicles Tastebuds Lips
+Lymphaticvessel Tastebuds Cervix Largeintestine Duodenum Earlobe Tongue Trachea Teeth Sensoryorgans
+Tonsils Trachea Nerves Placenta Smallintestine Heart Rectum Urethra Urethra Brain
+Urethra Iris Liver Spleen Tendons Interstitium Trachea Interstitium Tongue Rectum
+Scrotum Ureter Clitoris Joints Analcanal Stomach Rectum Cornea Nerves Ureter
+Retina Bone  Bone  Gallbladder Ligaments Rectum skeleton Eye Liver Ossicles
+Pons Rectum Cerebrum Stomach Jejunum Ear Spleen Uterus Bone  Larynx
+Larynx Cornea Cervix Iris Largeintestine Urethra Tendons Ciliarybody Bladder Heart
+Cecum Pons Cecum Arteries Esophagus Cecum Retina Clitoris Ear Fallopiantubes

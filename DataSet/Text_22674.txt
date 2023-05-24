@@ -1,0 +1,99 @@
+temperature__54c temperature__147c temperature__139c temperature__85c temperature__52c temperature__130c temperature__88c temperature__56c temperature__31c temperature__69c
+temperature__136c temperature__108c temperature__7c temperature__44c temperature__146c temperature__11c temperature__74c temperature__71c temperature__70c temperature__64c
+temperature__36c temperature__85c temperature__26c temperature__31c temperature__100c temperature__40c temperature__85c temperature__3c temperature__58c temperature__74c
+temperature__0c temperature__24c temperature__130c temperature__33c temperature__33c temperature__36c temperature__4c temperature__46c temperature__144c temperature__47c
+temperature__111c temperature__119c temperature__44c temperature__47c temperature__146c temperature__26c temperature__146c temperature__74c temperature__39c temperature__140c
+temperature__39c temperature__6c temperature__126c temperature__35c temperature__90c temperature__84c temperature__137c temperature__44c temperature__16c temperature__16c
+temperature__84c temperature__34c temperature__108c temperature__100c temperature__33c temperature__70c temperature__120c temperature__10c temperature__50c temperature__147c
+temperature__56c temperature__12c temperature__84c temperature__120c temperature__23c temperature__111c temperature__49c temperature__64c temperature__14c temperature__124c
+temperature__69c temperature__116c temperature__53c temperature__91c temperature__11c temperature__54c temperature__84c temperature__93c temperature__54c temperature__35c
+temperature__74c temperature__21c temperature__0c temperature__73c temperature__100c temperature__78c temperature__132c temperature__64c temperature__4c temperature__33c
+temperature__64c temperature__137c temperature__17c temperature__21c temperature__21c temperature__140c temperature__122c temperature__88c temperature__145c temperature__4c
+CubeNumber_39304 CubeNumber_512 CubeNumber_357911 CubeNumber_27000 CubeNumber_103823 CubeNumber_614125 CubeNumber_421875 CubeNumber_103823 CubeNumber_456533 CubeNumber_15625
+CubeNumber_157464 CubeNumber_195112 CubeNumber_474552 CubeNumber_195112 CubeNumber_300763 CubeNumber_681472 CubeNumber_8000 CubeNumber_195112 CubeNumber_238328 CubeNumber_343000
+CubeNumber_175616 CubeNumber_216000 CubeNumber_2744 CubeNumber_804357 CubeNumber_27000 CubeNumber_512 CubeNumber_941192 CubeNumber_456533 CubeNumber_421875 CubeNumber_274625
+CubeNumber_4096 CubeNumber_704969 CubeNumber_300763 CubeNumber_5832 CubeNumber_704969 CubeNumber_64 CubeNumber_32768 CubeNumber_287496 CubeNumber_912673 CubeNumber_10648
+CubeNumber_85184 CubeNumber_6859 CubeNumber_250047 CubeNumber_1728 CubeNumber_658503 CubeNumber_729 CubeNumber_205379 CubeNumber_117649 CubeNumber_24389 CubeNumber_300763
+CubeNumber_373248 CubeNumber_912673 CubeNumber_941192 CubeNumber_140608 CubeNumber_531441 CubeNumber_12167 CubeNumber_238328 CubeNumber_148877 CubeNumber_24389 CubeNumber_884736
+CubeNumber_59319 CubeNumber_571787 CubeNumber_830584 CubeNumber_13824 CubeNumber_1000 CubeNumber_830584 CubeNumber_5832 CubeNumber_19683 CubeNumber_13824 CubeNumber_205379
+CubeNumber_79507 CubeNumber_166375 CubeNumber_27000 CubeNumber_884736 CubeNumber_592704 CubeNumber_29791 CubeNumber_157464 CubeNumber_91125 CubeNumber_912673 CubeNumber_3375
+CubeNumber_24389 CubeNumber_42875 CubeNumber_912673 CubeNumber_50653 CubeNumber_27 CubeNumber_64000 CubeNumber_4913 CubeNumber_343 CubeNumber_512000 CubeNumber_19683
+CubeNumber_46656 CubeNumber_15625 CubeNumber_39304 CubeNumber_274625 CubeNumber_64000 CubeNumber_13824 CubeNumber_2197 CubeNumber_941192 CubeNumber_704969 CubeNumber_287496
+CubeNumber_50653 CubeNumber_250047 CubeNumber_941192 CubeNumber_216 CubeNumber_551368 CubeNumber_328509 CubeNumber_226981 CubeNumber_729000 CubeNumber_250047 CubeNumber_140608
+assault punitive accident tort hijack criminals gang homicide homeless offenses
+rape offenses murder offenders criminals corruption pirate criminals unsolved genocide
+liberty justice crime misdemeanour kill arrest crisis barratry drug fraud
+mafia war fraud assault death gun structuralism country criminal death
+human mutilation dark bloodshed offence blackmail slayings arsons incarceration poverty
+human gangster robbery law-breaking tort trafficking supernatural evidence mystery racism
+law-breaking bloodshed kill statutory police punishment legal psychological robbery serial
+criminal dark police assault abuse accident gangster mystery drama assault
+trial murders highjack sin evidence brutality corruption human tort forensic
+psychological noir skyjack robbery trial guilty political offenders supernatural gang
+vandalism homelessness story legal robbery racism criminal suspense gangster detective
+BinaryNumber_1001110 BinaryNumber_1011010 BinaryNumber_1010011 BinaryNumber_1001010 BinaryNumber_1011110 BinaryNumber_1100010 BinaryNumber_1001001 BinaryNumber_0011000 BinaryNumber_0100010 BinaryNumber_1100011
+BinaryNumber_0011100 BinaryNumber_1001011 BinaryNumber_0111010 BinaryNumber_1011101 BinaryNumber_0100001 BinaryNumber_1100010 BinaryNumber_1001111 BinaryNumber_0111100 BinaryNumber_0001011 BinaryNumber_0000111
+BinaryNumber_1001111 BinaryNumber_0101001 BinaryNumber_0101001 BinaryNumber_1001101 BinaryNumber_1001100 BinaryNumber_1010001 BinaryNumber_1000101 BinaryNumber_0101100 BinaryNumber_1001001 BinaryNumber_0111000
+BinaryNumber_0101111 BinaryNumber_1000111 BinaryNumber_1000000 BinaryNumber_0111111 BinaryNumber_1011000 BinaryNumber_1010110 BinaryNumber_0111010 BinaryNumber_0010001 BinaryNumber_0100001 BinaryNumber_0011110
+BinaryNumber_0001011 BinaryNumber_1011111 BinaryNumber_1011110 BinaryNumber_0000101 BinaryNumber_0010101 BinaryNumber_1001110 BinaryNumber_0010100 BinaryNumber_0100111 BinaryNumber_1011000 BinaryNumber_1001001
+BinaryNumber_1000111 BinaryNumber_0000001 BinaryNumber_0111111 BinaryNumber_0100111 BinaryNumber_1011000 BinaryNumber_1011111 BinaryNumber_1001101 BinaryNumber_1100001 BinaryNumber_1000110 BinaryNumber_0110101
+BinaryNumber_0101101 BinaryNumber_0110100 BinaryNumber_0011001 BinaryNumber_0011101 BinaryNumber_0101010 BinaryNumber_1001110 BinaryNumber_1000000 BinaryNumber_1011100 BinaryNumber_1100011 BinaryNumber_0101010
+BinaryNumber_1010111 BinaryNumber_1000110 BinaryNumber_0111110 BinaryNumber_1010101 BinaryNumber_0001001 BinaryNumber_0001011 BinaryNumber_0100100 BinaryNumber_0001111 BinaryNumber_0000100 BinaryNumber_0111011
+BinaryNumber_1011001 BinaryNumber_0111011 BinaryNumber_1010101 BinaryNumber_0100000 BinaryNumber_1001000 BinaryNumber_0011110 BinaryNumber_0010001 BinaryNumber_0001011 BinaryNumber_1001000 BinaryNumber_0001000
+BinaryNumber_1100000 BinaryNumber_0001001 BinaryNumber_1000100 BinaryNumber_0011011 BinaryNumber_0111101 BinaryNumber_0101110 BinaryNumber_0010000 BinaryNumber_0101101 BinaryNumber_1011010 BinaryNumber_0001011
+BinaryNumber_1010001 BinaryNumber_0101101 BinaryNumber_0010110 BinaryNumber_1010011 BinaryNumber_1011100 BinaryNumber_0101111 BinaryNumber_0110111 BinaryNumber_0111011 BinaryNumber_1011101 BinaryNumber_0110011
+accusation defamation unjust patronage tainted infringement deny proxy refute scandalous
+integrity recrimination infringement endorsement ignorant reputation proxy coercion chicanery incident
+ignorant acolyte laconic plutocracy persecution sloth unjust tycoon claim dictatorship
+proxy chicanery reckless defamation opportunist acolyte tarnish accusation solicit collaboration
+intimidation incident deficit fiasco fray parry empire patronage deception impunity
+fray defamation partial persecution retaliation embezzlement assail infringement illicit recrimination
+illegal reputation bribe resignation onerous expose laconic extortion unsavory plagiarism
+endorsement retaliation blame empire assail coterie plagiarism coercion demagogue persecution
+debacle ignorant rebut partial acolyte accusation conceal coterie denigrate deception
+obscure malfeasance malfeasance integrity ignorant deny bamboozle integrity unjust tarnish
+engagement reckless career tainted illegal anonymity sloth scandal career temptation
+smartphone incompatible transistor camera browser integratedcircuit device computerscience dataconverter inputdevice
+device desktoppcs visualdisplayunit laptop computercircuit office cell tablet personalcomputer expansionslot
+spyware pornographicimages abacus computerhardware von neumann machine chip pc computerhardware cpu microprocessor
+computation memory daw mobiledevice centralprocessing unit pc pc eniac mechanicalcomputer camera
+cell computercide integratedcircuit cell programming bit machinecode centralprocessing unit machine computerprogram
+mobile supercomputer spyware chip computerprogram social router personalcomputer smartphone digitalcommunication
+computerhardware router pornographicimages mainframe phone android computerprogramming electromechanical inputdevice xbox
+computerprogramming microprocessor von neumann machine visualdisplayunit programmer machine virtualreality microcomputer arithmetic processor
+phone programming turingmachine console microprocessor sliderule turingmachine astrolabe machinecode desktopcomputer
+data mobiledevice digitalcomputer digitalcommunication bit transistor bit downloader eniac software
+information device computation downloader transistor virtualreality xbox memory visualdisplayunit centralprocessing unit
+vegetable beef soup meal cooking chicken meal beef fruit fruits vegetables
+provender cereal provender animal rice meals pasta meal seafood drinks
+drinks fruits vegetables nourishment cheese nourishment edible nutrition pasta vegetable eat
+chicken fruits vegetables eat meat fruits vegetables cooking rice rice fruits vegetables cereal
+beef soup drinks vegetable beef soup victuals meal meat chicken
+seafood beef fruits vegetables animal nutrient cheese restaurant nutrient restaurant nourishment
+animal sushi restaurant drinks meal meals beef animal nourishment eat
+edible seafood drinks cheese chicken provender milk victuals cheese pasta
+edible meat nourishment meat soup fruits vegetables fruits vegetables edible cheese cereal
+fruits vegetables animal soup rice cereal cheese cheese restaurant soup pasta
+restaurant chicken animal seafood eat milk pasta provender sushi meat
+Breadfruit Yuzu Quince Passionfruit Bilberry Cherry Passionfruit Gooseberry Huckleberry Plantain
+Grapefruit Guava Redcurrant Redcurrant Avocado Sapote Tangerine Cherimoya Sapodilla Tayberry
+Feijoa Jostaberry Tamarillo Salak Tayberry Yuzu Grape Salak Watermelon Plum
+Sapodilla Loquat Cantaloupe Fig Watermelon Tangerine Cranberry Jackfruit Fig Plantain
+Apricot Pomelo Jostaberry Durian Mandarine Kumquat Apple Lemon Strawberry Abiu
+Jambul Avocado Papaya Salmonberry Pomegranate Kumquat Peach Cherry Pear Abiu
+Mandarine Avocado Breadfruit Kumquat Cantaloupe Cranberry Honeydew Salmonberry Papaya Lime
+Pomelo Ximenia Currant Blueberry Grapefruit Blueberry Kiwifruit Abiu Tamarillo Bilberry
+Plumcot Tamarind Plum Orange Jambul Watermelon Cranberry Apple Elderberry Pineapple
+Pineberry Jostaberry Nance Banana Longan Jostaberry Ackee Orange Boysenberry Kiwifruit
+Soursop Akebi Mangosteen Avocado Akebi Feijoa Blackberry Jostaberry Avocado Tamarind
+12:31 21:29 14:55 22:11 21:42 22:20 19:28 17:47 16:51 10:26
+21:53 12:24 12:22 12:28 23:53 17:34 19:58 17:35 16:35 15:40
+23:56 19:38 11:19 22:51 16:39 19:49 21:34 10:54 23:39 23:29
+18:33 21:54 23:17 22:28 14:19 22:39 21:10 15:48 11:47 20:47
+17:30 17:48 17:59 22:35 20:25 17:46 22:24 15:50 17:29 22:30
+17:34 16:22 11:16 20:45 19:30 12:56 13:22 20:46 10:44 18:45
+14:40 12:27 20:16 21:46 14:14 17:37 10:33 19:19 17:17 23:54
+14:40 10:29 18:39 16:39 10:39 14:46 12:18 16:18 20:11 16:13
+13:55 18:49 15:36 17:39 18:52 15:39 19:24 13:22 21:48 15:50
+14:45 20:34 13:24 21:30 22:24 18:41 23:18 23:46 15:39 22:42
+13:45 11:34 22:17 13:35 10:55 21:39 13:42 12:49 12:49 16:12

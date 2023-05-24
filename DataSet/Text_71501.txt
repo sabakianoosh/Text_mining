@@ -1,0 +1,99 @@
+15:55 23:33 12:27 11:48 22:41 19:38 23:26 23:46 12:29 17:27
+19:27 16:55 16:48 18:47 15:54 20:56 14:40 10:35 20:37 11:39
+17:10 16:49 23:17 21:47 12:21 16:24 15:12 14:39 20:30 12:55
+12:16 13:20 20:14 18:42 12:59 22:32 17:23 21:18 17:29 19:20
+14:28 18:18 14:20 10:32 10:19 17:18 22:43 23:20 19:57 15:18
+21:20 16:38 23:10 12:44 22:36 20:43 22:31 20:49 11:56 13:27
+15:54 20:51 12:42 19:51 10:58 15:54 13:32 14:15 17:38 11:57
+21:55 16:39 19:16 23:36 17:57 19:43 14:14 11:18 16:27 21:43
+12:27 20:53 23:34 17:23 16:30 16:46 11:59 18:16 20:44 15:34
+21:52 22:19 10:40 21:12 19:20 19:39 23:56 21:19 20:26 22:17
+11:23 13:57 16:42 12:58 19:11 17:28 14:58 12:14 12:24 18:44
+BinaryNumber_0101010 BinaryNumber_0011110 BinaryNumber_1001111 BinaryNumber_0100111 BinaryNumber_0001011 BinaryNumber_0011100 BinaryNumber_1010101 BinaryNumber_0100111 BinaryNumber_1100010 BinaryNumber_1100010
+BinaryNumber_0011111 BinaryNumber_0100010 BinaryNumber_0110100 BinaryNumber_0000111 BinaryNumber_1010111 BinaryNumber_0010010 BinaryNumber_1000000 BinaryNumber_0111000 BinaryNumber_0010010 BinaryNumber_0010100
+BinaryNumber_0011011 BinaryNumber_0101110 BinaryNumber_0001010 BinaryNumber_0100101 BinaryNumber_0000000 BinaryNumber_0001111 BinaryNumber_0101100 BinaryNumber_0110010 BinaryNumber_0100100 BinaryNumber_0010001
+BinaryNumber_0011100 BinaryNumber_0000001 BinaryNumber_1000000 BinaryNumber_0001110 BinaryNumber_0011011 BinaryNumber_0100110 BinaryNumber_1011001 BinaryNumber_0110111 BinaryNumber_0101001 BinaryNumber_1001011
+BinaryNumber_0101101 BinaryNumber_1001000 BinaryNumber_0001111 BinaryNumber_1100000 BinaryNumber_0000100 BinaryNumber_0100100 BinaryNumber_0000011 BinaryNumber_0110101 BinaryNumber_0110110 BinaryNumber_1011010
+BinaryNumber_0100101 BinaryNumber_1000000 BinaryNumber_1100011 BinaryNumber_1000010 BinaryNumber_0110100 BinaryNumber_0101010 BinaryNumber_0010111 BinaryNumber_0111000 BinaryNumber_0000101 BinaryNumber_0101101
+BinaryNumber_0101011 BinaryNumber_1011001 BinaryNumber_1000011 BinaryNumber_0101111 BinaryNumber_1001011 BinaryNumber_0011000 BinaryNumber_1000000 BinaryNumber_0011001 BinaryNumber_1001110 BinaryNumber_1100000
+BinaryNumber_1011011 BinaryNumber_0111010 BinaryNumber_1011011 BinaryNumber_0011010 BinaryNumber_0010011 BinaryNumber_0011110 BinaryNumber_0111101 BinaryNumber_1011010 BinaryNumber_0101011 BinaryNumber_1010111
+BinaryNumber_0100101 BinaryNumber_0110000 BinaryNumber_1000010 BinaryNumber_0000111 BinaryNumber_0001010 BinaryNumber_0011101 BinaryNumber_0100000 BinaryNumber_0001010 BinaryNumber_0010001 BinaryNumber_0001000
+BinaryNumber_1011010 BinaryNumber_0100101 BinaryNumber_0000110 BinaryNumber_0000110 BinaryNumber_1100011 BinaryNumber_0100111 BinaryNumber_1100011 BinaryNumber_0101101 BinaryNumber_0001111 BinaryNumber_1001111
+BinaryNumber_0111100 BinaryNumber_1010111 BinaryNumber_0110000 BinaryNumber_1001110 BinaryNumber_0010111 BinaryNumber_1011110 BinaryNumber_0111011 BinaryNumber_1000110 BinaryNumber_0101101 BinaryNumber_1010011
+clams poikilotherm predatoryanimal insectivore object predatoryanimal thoroughbred fleshly deer domesticate
+tiger porifera clams vegan fantasy pet beast fleshly superdog pet
+octopuses cats chordate demon deer animal welfare raccoon feline thoroughbred pups
+rabbit vertebrate pitbull fantasy porifera frog heterotroph bear superdog rabbit
+shelter pigs shelter carnal zoo thoroughbred farming iguana zoology deer
+porifera elephants rodent meat insectivore farming clams heterotroph exoticanimals animal welfare
+tame bug metazoan tufted chickens hourse animal welfare pitbull bobcat dog
+protist livestock workanimal animalia livestock metazoan pigs pet farming frog
+puppy chordate fish cats cat pigs raccoon domesticate fish bird
+eukaryotic animalkingdom rabbit poikilotherm farming meat beast pups fauna elephants
+marineanimal demon cat cats insect metazoan environmental primate elephants sheep
+Penis Pharynx Esophagus Thymus Bronchi Uterus Pharynx Thalamus Ear Tonsils
+Fallopiantubes Eardrum Lymphaticvessel Pharynx Cochlea Smallintestine Mesentery Teeth Liver Tastebuds
+Eye Muscle Thymus Cerebrum Uterus Arteries Nerves Tongue Cornea Brain
+Mesentery skeleton Capillaries Penis Pons Ossicles Joints Sensoryorgans Cranialnerves Bone 
+Analcanal Nerves Scrotum Cerebellum Midbrain Scrotum Lymphaticvessel Eye Joints Veins
+Cochlea Uterus Bladder Innerear Vagina Tonsils Lymphaticvessel Muscle Veins Trachea
+Jejunum Ossicles Ciliarybody Earlobe Ileum Scrotum Mouth Ovaries Spleen Spinalnerves
+Rectum Tastebuds Lens Largeintestine Jejunum Urethra Tonsils Earlobe Thalamus Trachea
+Pancreas Eardrum Lungs Vulva Ligaments Cervix Mouth Nerves Trachea Scrotum
+Innerear Ileum Smallintestine Tastebuds Duodenum Urethra Ligaments Spinalnerves Clitoris Vagina
+Pons Lymphaticvessel Ciliarybody Ciliarybody Tongue Pharynx Capillaries Stomach Placenta Vulva
+restaurant restaurant nutrition soup sushi cereal cheese fruits vegetables vegetable chicken
+provender restaurant drinks beef fruits vegetables seafood nourishment rice beef cereal
+cooking milk vegetable cereal nutrition soup nourishment meals rice provender
+animal victuals vegetable nutrition restaurant fruit plant seafood chicken milk
+nutrition nutrition fruit fruit sushi vegetable vegetable soup sushi edible
+eat edible cooking beef chicken milk milk soup nutrient rice
+milk meals beef edible plant nutrition edible meal eat fruit
+victuals meal rice meal chicken milk pasta animal milk cereal
+drinks drinks cheese vegetable cheese animal cheese provender cereal fruits vegetables
+cheese nourishment plant pasta restaurant cheese provender cooking drinks chicken
+cereal nutrient meals chicken fruits vegetables cereal pasta victuals edible pasta
+computerprogram homecomputer homecomputer computation abacus computerhardware arithmetic dataconverter chip electronics
+sliderule bit monitor cyber cybertechnology integratedcircuit camera personalcomputer laptopcomputer laptop
+sliderule peripheral electromechanical centralprocessing unit device astrolabe transistor algorithm processor cyber
+pc electronics memory integratedcircuit escapekey programming microcomputer bit smartphone computerhardware
+digitalcomputer social computerprogram laptop game office sliderule computing proprietary computerprogramming
+processor digitalcomputer supercomputer hardware diskette cell internet cpu machinecode mobiledevice
+imac chip watch game antivirus expansionslot cell computercircuit console game
+office centralprocessing unit mobiledevice console cyber desktopcomputer pc daw daw monitor
+digitalaudioplayer spyware imac monitor programming xbox game computerhardware microprocessor console
+diskette programmer desktoppcs router browser browser astrolabe memory monitor router
+personalcomputer bit computing digitalaudioplayer server turingmachine centralprocessing unit sliderule xbox algorithm
+Feijoa Araza Melon Redcurrant Plum Grapefruit Salmonberry Apricot Jambul Huckleberry
+Blackcurrant Araza Apricot Jambul Pear Rambutan  Redcurrant Honeyberry Durian Cloudberry
+Cloudberry Nectarine Salak Lemon Mulberry Lemon Boysenberry Pomelo Blackberry Cempedak
+Kumquat Passionfruit Marionberry Passionfruit Canistel Clementine Soursop Orange Loquat Abiu
+Coconut Huckleberry Loquat Ackee Lychee Jackfruit Jambul Jostaberry Mango Tamarind
+Jujube Tangerine Ackee Mangosteen Abiu Clementine Pawpaw Damson Jambul Boysenberry
+Kiwifruit Acerola Bilberry Tangerine Blackcurrant Tangerine Quince Tayberry Cherimoya Gooseberry
+Strawberry Açaí Currant Raisin Acerola Acerola Araza Pomegranate Tamarind Pineberry
+Pear Acerola Cherry Cashew Loquat Blueberry Rambutan  Pineberry Nance Apple
+Plum Watermelon Jujube Loquat Apricot Breadfruit Kiwifruit Tangerine Pineberry Date
+Cherimoya Canistel Sapodilla Araza Pineberry Persimmon Guava Bilberry Pomelo Guava
+Cart Easel Bureau Mirror Seat Island Recliner Sofabed Hokey Castor
+Hutch Hokey Jardinière Mirror Lounger Buffet Mirror Lamp Marquetry Cabinet
+Baroque Waterbed Bureau Dresser Furnishings Hammock Hammock Drapery Console Crib
+Mantle Bed Sofa Rug Futon Cushion Rug Shelf Headboards Fan
+Bookcase Ottoman Rattle Hassock Bassinet Cot Sconce Dresser Chair Bookshelf
+Vitrine Drapes cubbies Wardrobe Cabinet Marquetry Hutch Etagère Television Applique
+Lamp Clock Desk Breakfront Wardrobe Console Headboard Drapes Castor Bookcase
+Cradle Bookcase Lamp Bed Fan Cushion Cot Sofabed Fluting Bookcase
+Settee Etagère Furnishings Wheelchair Couch Mattress Wheelchair Tallboy Waterbed Credenza
+Bureau Sofabed Rack Chair Hammock Bowfront Credenza Chandelier Cupboard Seat
+Lamp Console Screen Daybed Curtains Bookshelf Loveseat Wicker Screen Hokey
+ski bike physical skateboarding combat pro yoga exercises exercises spar
+limited soccerball sports career sportaccord volleyball sport skill hunters polo
+motorcycling entertainment referee ski players standard sportsmanship team hunting rowing
+disport skill mutant challenge offside performance triathlon goal play rollick
+extracurricular competition dance frolic badminton skiing fun comfort athletic ineligible
+motorsports hobbies cavort fighting luge kill athletic challenge challenge organization
+combat fitness players muscle industry tradition motorcycling pro racing sportsmanship
+class show tennis sport dance referee hobbies hobby community pack
+rollick action form ski sport wipeout game yoga combat play
+challenge frisk skateboard soccer extracurricular esports show athletes ineligible feature
+gambol hiking activities gambol judo suit action form dynamic class

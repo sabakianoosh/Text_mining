@@ -1,0 +1,99 @@
+CubeNumber_1331 CubeNumber_125 CubeNumber_884736 CubeNumber_5832 CubeNumber_300763 CubeNumber_4096 CubeNumber_85184 CubeNumber_59319 CubeNumber_12167 CubeNumber_195112
+CubeNumber_343000 CubeNumber_15625 CubeNumber_830584 CubeNumber_27 CubeNumber_157464 CubeNumber_658503 CubeNumber_59319 CubeNumber_421875 CubeNumber_24389 CubeNumber_389017
+CubeNumber_1000 CubeNumber_753571 CubeNumber_15625 CubeNumber_15625 CubeNumber_59319 CubeNumber_175616 CubeNumber_91125 CubeNumber_39304 CubeNumber_405224 CubeNumber_830584
+CubeNumber_729 CubeNumber_804357 CubeNumber_27000 CubeNumber_157464 CubeNumber_185193 CubeNumber_1331 CubeNumber_68921 CubeNumber_85184 CubeNumber_456533 CubeNumber_46656
+CubeNumber_8 CubeNumber_6859 CubeNumber_64 CubeNumber_636056 CubeNumber_614125 CubeNumber_551368 CubeNumber_5832 CubeNumber_1000 CubeNumber_357911 CubeNumber_15625
+CubeNumber_216 CubeNumber_35937 CubeNumber_681472 CubeNumber_3375 CubeNumber_681472 CubeNumber_39304 CubeNumber_79507 CubeNumber_729000 CubeNumber_531441 CubeNumber_438976
+CubeNumber_729000 CubeNumber_2197 CubeNumber_12167 CubeNumber_42875 CubeNumber_12167 CubeNumber_35937 CubeNumber_2744 CubeNumber_97336 CubeNumber_59319 CubeNumber_91125
+CubeNumber_343 CubeNumber_15625 CubeNumber_262144 CubeNumber_804357 CubeNumber_343000 CubeNumber_125000 CubeNumber_571787 CubeNumber_54872 CubeNumber_421875 CubeNumber_103823
+CubeNumber_531441 CubeNumber_8 CubeNumber_884736 CubeNumber_2744 CubeNumber_8000 CubeNumber_79507 CubeNumber_941192 CubeNumber_29791 CubeNumber_592704 CubeNumber_300763
+CubeNumber_857375 CubeNumber_35937 CubeNumber_8 CubeNumber_262144 CubeNumber_531441 CubeNumber_778688 CubeNumber_24389 CubeNumber_39304 CubeNumber_59319 CubeNumber_4913
+CubeNumber_9261 CubeNumber_29791 CubeNumber_195112 CubeNumber_658503 CubeNumber_64 CubeNumber_830584 CubeNumber_8000 CubeNumber_4096 CubeNumber_328509 CubeNumber_39304
+Iris Innerear Bladder Iris Cervix Nerves Pharynx Lymphaticvessel Muscle Eye
+Ileum Ossicles Retina Uterus Pons Tongue Ureter Innerear Hypothalamus Lungs
+Placenta Innerear Retina Ear Cranialnerves Cornea Lips Thymus Stomach Larynx
+Earlobe Clitoris Retina Cochlea Midbrain Mouth Vagina Bone  Esophagus Capillaries
+Cornea Trachea Vulva Jejunum Veins Pons Kidneys Sensoryorgans Bronchi Pharynx
+Middleear Thalamus Esophagus Bronchi Joints Cranialnerves Cecum Scrotum Ganglia Mesentery
+Trachea Lymphaticvessel Vagina Spleen Stomach Tastebuds Mesentery Smallintestine Tendons Capillaries
+Cecum Rectum Tongue Lymphaticvessel Larynx Ligaments Vulva Analcanal Vagina Cecum
+Fallopiantubes Iris Middleear Mesentery Muscle Iris Esophagus Gallbladder Arteries Bladder
+Cecum Sensoryorgans Bone  Innerear Joints Fallopiantubes Lungs Brain Pons Cecum
+Tongue Clitoris Ciliarybody Placenta Vulva Liver Urethra Lymphaticvessel Smallintestine Thalamus
+meal fruits vegetables rice victuals fruits vegetables pasta vegetable soup animal rice
+pasta meat fruits vegetables cheese cooking plant nutrient edible seafood eat
+nourishment fruits vegetables drinks animal drinks nutrition provender meat cheese cheese
+edible meals seafood nutrition chicken chicken cereal fruits vegetables sushi fruit
+plant cheese fruits vegetables animal meals restaurant provender meals animal drinks
+nutrition pasta rice meat beef meals cheese meat nourishment cheese
+drinks drinks cooking rice cheese fruits vegetables vegetable nutrition cheese restaurant
+meals chicken milk drinks nutrient fruit sushi vegetable seafood plant
+meat fruits vegetables cereal cheese chicken milk beef vegetable eat vegetable
+restaurant restaurant nourishment rice chicken cooking chicken animal fruits vegetables drinks
+fruits vegetables seafood pasta meal eat pasta cooking meat vegetable seafood
+subterfuge accusation collaboration bribe covert illicit infringement cadre assail deflect
+tarnish conceal debacle blame impunity influence resignation scandal tarnish onerous
+beleaguer empire bribe partial temptation revelation demagogue revelation resignation influence
+plutocracy massive scapegoat intimidation engagement refute allegation parry plagiarism temptation
+conceal alliance impunity parry malfeasance integrity covert recrimination defamation debacle
+covert patriarchy tainted illegal reckless corruption bamboozle malfeasance allegation scandal
+collaboration endorsement deflect reckless incident beleaguer career acolyte persecution chicanery
+plagiarism plutocracy obscure mendacity lobby beleaguer extortion persecution illicit dictatorship
+scandal collaboration integrity mercurial bamboozle proxy parry tainted regime bamboozle
+chicanery subterfuge alliance denigrate cadre plagiarism intimidation tycoon prestidigitation mendacity
+empire mercurial embezzlement benefit authoritarian saga acolyte ignorant patriarchy covert
+BinaryNumber_0111100 BinaryNumber_0010101 BinaryNumber_0101100 BinaryNumber_1001001 BinaryNumber_1100001 BinaryNumber_0000001 BinaryNumber_0011010 BinaryNumber_1011111 BinaryNumber_0101000 BinaryNumber_1011010
+BinaryNumber_1001101 BinaryNumber_0111001 BinaryNumber_1000000 BinaryNumber_0010001 BinaryNumber_1000101 BinaryNumber_1000100 BinaryNumber_1100011 BinaryNumber_1001111 BinaryNumber_0111011 BinaryNumber_0110100
+BinaryNumber_0010010 BinaryNumber_1010111 BinaryNumber_0111111 BinaryNumber_1011111 BinaryNumber_0000011 BinaryNumber_1011111 BinaryNumber_1100000 BinaryNumber_1001100 BinaryNumber_0110111 BinaryNumber_1011010
+BinaryNumber_0011010 BinaryNumber_0011101 BinaryNumber_0001001 BinaryNumber_1001100 BinaryNumber_0110011 BinaryNumber_1010110 BinaryNumber_1011110 BinaryNumber_1010001 BinaryNumber_0010101 BinaryNumber_1001100
+BinaryNumber_1000010 BinaryNumber_0001111 BinaryNumber_0000111 BinaryNumber_0110110 BinaryNumber_0010111 BinaryNumber_1010111 BinaryNumber_0010010 BinaryNumber_0011011 BinaryNumber_0110001 BinaryNumber_1010010
+BinaryNumber_1010010 BinaryNumber_1011100 BinaryNumber_1011001 BinaryNumber_0001000 BinaryNumber_0001001 BinaryNumber_1100011 BinaryNumber_0010110 BinaryNumber_0001100 BinaryNumber_0010111 BinaryNumber_0010101
+BinaryNumber_0000001 BinaryNumber_1000110 BinaryNumber_0010011 BinaryNumber_0100100 BinaryNumber_0000000 BinaryNumber_0011001 BinaryNumber_1000001 BinaryNumber_1010000 BinaryNumber_0001010 BinaryNumber_0110101
+BinaryNumber_1011000 BinaryNumber_0000010 BinaryNumber_1100000 BinaryNumber_0111100 BinaryNumber_1011110 BinaryNumber_0011001 BinaryNumber_1000011 BinaryNumber_1000110 BinaryNumber_0000101 BinaryNumber_0001001
+BinaryNumber_0110000 BinaryNumber_0011011 BinaryNumber_0000000 BinaryNumber_0100101 BinaryNumber_0101000 BinaryNumber_0111000 BinaryNumber_0001111 BinaryNumber_0100001 BinaryNumber_0111001 BinaryNumber_1000010
+BinaryNumber_0110111 BinaryNumber_0100000 BinaryNumber_0010000 BinaryNumber_0011110 BinaryNumber_0101001 BinaryNumber_0000010 BinaryNumber_1100001 BinaryNumber_0111100 BinaryNumber_0100001 BinaryNumber_0000001
+BinaryNumber_1011001 BinaryNumber_0101111 BinaryNumber_1011010 BinaryNumber_0101010 BinaryNumber_0111010 BinaryNumber_0101100 BinaryNumber_1001001 BinaryNumber_0010010 BinaryNumber_1010000 BinaryNumber_0110110
+15:21 16:20 15:33 11:41 15:53 12:32 18:19 23:58 21:32 16:54
+21:16 18:45 21:11 23:25 19:57 22:54 12:16 12:30 14:26 17:52
+22:54 16:26 22:48 12:42 13:44 11:15 11:48 20:50 17:48 15:54
+15:29 15:19 10:54 21:46 11:40 17:30 19:16 16:45 12:51 16:14
+20:42 18:19 17:11 10:21 23:36 19:13 10:27 17:10 22:21 12:55
+14:32 11:51 18:35 23:54 16:41 14:53 13:41 19:25 15:38 20:14
+20:35 21:16 14:58 11:41 11:59 12:32 11:34 10:20 16:27 17:29
+18:51 12:54 11:29 18:41 10:26 21:53 17:26 11:31 23:53 21:21
+18:29 23:49 15:53 17:31 18:23 18:31 12:17 18:36 13:43 12:34
+12:42 22:26 19:33 17:48 13:20 21:39 11:12 13:57 10:14 20:10
+21:13 21:23 22:57 22:41 18:54 13:34 19:26 18:16 15:28 22:53
+temperature__126c temperature__105c temperature__109c temperature__84c temperature__0c temperature__124c temperature__106c temperature__21c temperature__33c temperature__11c
+temperature__145c temperature__23c temperature__73c temperature__119c temperature__53c temperature__141c temperature__23c temperature__11c temperature__53c temperature__42c
+temperature__148c temperature__141c temperature__139c temperature__122c temperature__24c temperature__137c temperature__92c temperature__4c temperature__46c temperature__95c
+temperature__26c temperature__144c temperature__58c temperature__130c temperature__129c temperature__112c temperature__144c temperature__136c temperature__116c temperature__31c
+temperature__46c temperature__65c temperature__93c temperature__26c temperature__6c temperature__52c temperature__120c temperature__42c temperature__22c temperature__65c
+temperature__0c temperature__40c temperature__91c temperature__129c temperature__132c temperature__2c temperature__63c temperature__3c temperature__47c temperature__10c
+temperature__10c temperature__42c temperature__129c temperature__59c temperature__53c temperature__87c temperature__51c temperature__90c temperature__112c temperature__59c
+temperature__52c temperature__53c temperature__5c temperature__132c temperature__26c temperature__68c temperature__82c temperature__73c temperature__70c temperature__33c
+temperature__100c temperature__31c temperature__105c temperature__4c temperature__118c temperature__119c temperature__124c temperature__54c temperature__88c temperature__50c
+temperature__35c temperature__28c temperature__2c temperature__8c temperature__78c temperature__144c temperature__36c temperature__30c temperature__112c temperature__50c
+temperature__21c temperature__77c temperature__57c temperature__8c temperature__142c temperature__111c temperature__129c temperature__148c temperature__68c temperature__132c
+PapayaWhip MediumSpringGreen DarkOliveGreen Black Cyan Seashell MediumTurquoise Green Coral Purple
+DarkSlateGray Gold LightSlateGray Yellow MediumSeaGreen ForestGreen Violet HotPink LavenderBlush LightYellow
+Wheat DarkKhaki Violet DarkSalmon GreenYellow Wheat ForestGreen Bisque AntiqueWhite Sienna
+RosyBrown Snow Blue CadetBlue Sienna LightGray WhiteSmoke Peru SpringGreen NavajoWhite
+Ivory MediumVioletRed LightGoldenrodYellow Orange Yellow Sienna Silver Feldspar VioletRed OrangeRed
+DarkSlateGray Brown SandyBrown Goldenrod Crimson SpringGreen PeachPuff Beige Orchid MediumOrchid
+Lime Olive ForestGreen LightGoldenrod LightSeaGreen Orange Tan DarkSalmon DarkSlateBlue DarkFuchsia
+GreenYellow Lime PeachPuff LightSlateGray Fuchsia Snow RoyalBlue LightSalmon PeachPuff PaleGreen
+LightGreen DarkOliveGreen Honeydew Fuchsia LightSkyBlue RosyBrown Sienna Chartreuse FloralWhite HotPink
+DarkViolet Burlywood Aquamarine Orchid Red DarkSeaGreen LightSkyBlue LemonChiffon LavenderBlush LightSlateBlue
+Ivory Teal Aquamarine LightSteelBlue Orange LightGoldenrodYellow SlateGray BlanchedAlmond Orchid Fuchsia
+predatoryanimal bobcat poikilotherm primate meat demon fantasy puppy raccoon carnivore
+ladybug plant animalia darter darter biped reptiles mammals cats wildlife
+shelter animalia sheep metazoan biped insectivorous feline insect carnal zooplankton
+biped embryo carnivore animalkingdom beast mammal epizootic dogs mythical reptile
+farming carnivore animals dog chickens animal welfare primate predatoryanimal insectivorous chickens
+bird porifera carnal carnivore environmental sensual beast darter rodent animals
+metazoan vegan pitbull plant dinosaur invertebrate wildlife zoo thoroughbred deer
+jellyfish dinosaur tufted heterotroph plant insectivorous ladybug chickens bobcat pitbull
+pups vegan carnivore domesticate biped bear bear mammals mammal amphibians
+reptile thoroughbred superdog octopuses insect object darter fantasy tame rodent
+wildlife protist puppy metazoan varmint farming dinosaur pigs darter monster

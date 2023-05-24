@@ -1,0 +1,99 @@
+14:28 16:13 18:35 23:35 17:42 21:28 13:32 11:37 14:47 17:42
+20:59 20:21 11:21 12:13 12:31 18:44 10:34 11:32 22:25 10:20
+10:53 15:41 19:22 12:56 10:38 19:48 10:42 21:38 14:59 15:14
+17:46 21:34 18:59 21:18 20:43 22:19 22:41 22:49 14:25 22:29
+10:26 11:12 19:18 14:57 15:49 10:27 23:16 12:28 12:12 20:29
+12:58 21:25 19:18 23:32 22:34 19:59 10:58 13:24 14:19 21:18
+18:55 17:42 21:37 17:51 23:49 20:53 13:12 23:16 20:53 23:37
+22:20 21:37 21:35 21:15 11:32 14:27 16:41 18:56 10:52 11:58
+17:23 16:29 10:54 17:59 22:11 16:29 22:44 23:53 10:35 11:16
+11:21 16:58 14:33 19:51 22:47 10:38 10:43 17:29 14:39 21:23
+10:33 21:46 22:14 10:44 13:41 19:53 21:54 14:43 23:35 10:37
+CubeNumber_551368 CubeNumber_884736 CubeNumber_405224 CubeNumber_74088 CubeNumber_125000 CubeNumber_389017 CubeNumber_157464 CubeNumber_857375 CubeNumber_551368 CubeNumber_512
+CubeNumber_274625 CubeNumber_1000 CubeNumber_6859 CubeNumber_2744 CubeNumber_29791 CubeNumber_571787 CubeNumber_216 CubeNumber_21952 CubeNumber_658503 CubeNumber_636056
+CubeNumber_27 CubeNumber_35937 CubeNumber_551368 CubeNumber_4096 CubeNumber_12167 CubeNumber_110592 CubeNumber_343000 CubeNumber_148877 CubeNumber_59319 CubeNumber_12167
+CubeNumber_8000 CubeNumber_157464 CubeNumber_74088 CubeNumber_636056 CubeNumber_389017 CubeNumber_343000 CubeNumber_658503 CubeNumber_29791 CubeNumber_1000 CubeNumber_10648
+CubeNumber_1728 CubeNumber_636056 CubeNumber_262144 CubeNumber_493039 CubeNumber_262144 CubeNumber_512 CubeNumber_704969 CubeNumber_85184 CubeNumber_704969 CubeNumber_8
+CubeNumber_216000 CubeNumber_658503 CubeNumber_125000 CubeNumber_421875 CubeNumber_68921 CubeNumber_64 CubeNumber_8 CubeNumber_884736 CubeNumber_216000 CubeNumber_830584
+CubeNumber_6859 CubeNumber_343000 CubeNumber_2197 CubeNumber_8000 CubeNumber_1000 CubeNumber_17576 CubeNumber_85184 CubeNumber_438976 CubeNumber_3375 CubeNumber_438976
+CubeNumber_59319 CubeNumber_64000 CubeNumber_140608 CubeNumber_216000 CubeNumber_185193 CubeNumber_343000 CubeNumber_5832 CubeNumber_148877 CubeNumber_493039 CubeNumber_531441
+CubeNumber_205379 CubeNumber_132651 CubeNumber_205379 CubeNumber_512 CubeNumber_658503 CubeNumber_46656 CubeNumber_9261 CubeNumber_216000 CubeNumber_512000 CubeNumber_753571
+CubeNumber_91125 CubeNumber_91125 CubeNumber_226981 CubeNumber_2744 CubeNumber_24389 CubeNumber_17576 CubeNumber_205379 CubeNumber_10648 CubeNumber_59319 CubeNumber_456533
+CubeNumber_357911 CubeNumber_12167 CubeNumber_15625 CubeNumber_287496 CubeNumber_64000 CubeNumber_29791 CubeNumber_300763 CubeNumber_456533 CubeNumber_3375 CubeNumber_804357
+chordate zooplankton animatebeing mammals multicellular scavenger farming porifera tame domesticate
+creature rabbit dogs octopuses domesticate rabbit primate fauna insectivorous marineanimal
+insectivorous demon heterotroph protist mythical meat monster shelter fauna embryo
+bug ladybug workanimal primate iguana creature birds raccoon epizootic raccoon
+wild mythical animals shelter dinosaur insects marineanimal fantasy jellyfish darter
+beast epizootic carnal mammal predatoryanimal zooplankton animal welfare cats mythical puppy
+superdog insect poikilotherm exoticanimals rodent tiger tiger puppy hourse livestock
+thoroughbred reptiles eukaryotic puppy domesticate livestock domesticate insectivore zoo frog
+fauna fish epizootic monster zooplankton bear metazoan demon farming octopuses
+rodent deer poikilotherm predatoryanimal llamas heterotroph insectivorous sensual animatebeing zooplankton
+cats environmental porifera primate plant wildlife frog chordate insects invertebrate
+SquareNumber_3600 SquareNumber_3136 SquareNumber_8836 SquareNumber_225 SquareNumber_1296 SquareNumber_144 SquareNumber_5776 SquareNumber_49 SquareNumber_7921 SquareNumber_1764
+SquareNumber_5929 SquareNumber_1225 SquareNumber_7744 SquareNumber_4489 SquareNumber_169 SquareNumber_6889 SquareNumber_1296 SquareNumber_3844 SquareNumber_2209 SquareNumber_289
+SquareNumber_256 SquareNumber_16 SquareNumber_289 SquareNumber_36 SquareNumber_1681 SquareNumber_400 SquareNumber_7921 SquareNumber_256 SquareNumber_1225 SquareNumber_784
+SquareNumber_121 SquareNumber_6241 SquareNumber_2704 SquareNumber_2601 SquareNumber_6561 SquareNumber_1521 SquareNumber_8836 SquareNumber_6561 SquareNumber_36 SquareNumber_7921
+SquareNumber_8281 SquareNumber_9604 SquareNumber_4900 SquareNumber_784 SquareNumber_576 SquareNumber_16 SquareNumber_8281 SquareNumber_169 SquareNumber_4761 SquareNumber_5329
+SquareNumber_6084 SquareNumber_1369 SquareNumber_121 SquareNumber_9604 SquareNumber_3969 SquareNumber_2116 SquareNumber_1225 SquareNumber_169 SquareNumber_2304 SquareNumber_7396
+SquareNumber_400 SquareNumber_5476 SquareNumber_8464 SquareNumber_49 SquareNumber_3969 SquareNumber_100 SquareNumber_1024 SquareNumber_361 SquareNumber_2401 SquareNumber_5476
+SquareNumber_529 SquareNumber_576 SquareNumber_6724 SquareNumber_2116 SquareNumber_81 SquareNumber_729 SquareNumber_676 SquareNumber_9 SquareNumber_196 SquareNumber_400
+SquareNumber_961 SquareNumber_9 SquareNumber_1936 SquareNumber_6561 SquareNumber_900 SquareNumber_576 SquareNumber_289 SquareNumber_5041 SquareNumber_3136 SquareNumber_3969
+SquareNumber_7569 SquareNumber_1681 SquareNumber_4900 SquareNumber_4761 SquareNumber_8836 SquareNumber_5329 SquareNumber_3600 SquareNumber_4 SquareNumber_36 SquareNumber_2500
+SquareNumber_7744 SquareNumber_16 SquareNumber_4489 SquareNumber_4900 SquareNumber_4225 SquareNumber_3136 SquareNumber_2916 SquareNumber_361 SquareNumber_9801 SquareNumber_121
+physical schuss rollick supersport chess offside offside dive diver fitness
+exercises fighting bike polo athletic community cross yoga cross dance
+safari tradition downfield hiking kill martial league basketball boast schuss
+fast comfort social position hobbies run coach soccerball pro cross
+athletes combat ineligible pro basketball rowing soccer suit hockey company
+athletics recreation casual sportsmanship yoga video sports waterski dive social
+gymnastics athletes martial waterski champion limited comfort boast football fighting
+hiking hunters lead team coach athletic esports extracurricular horseracing skill
+activities organization gamely gamely fitness gym basketball exercise triathlon form
+pack rollick frisk lifestyle running skating comfort cross position fighting
+exercise suit dynamic champion champion team kill players skill schuss
+soup nutrition cheese rice seafood victuals beef victuals chicken vegetable
+edible nutrient provender plant fruits vegetables milk beef drinks sushi seafood
+eat rice sushi meat nutrition nutrition cheese cooking cereal rice
+animal fruit victuals chicken meal milk cheese provender milk pasta
+cooking nourishment victuals nutrition chicken provender fruits vegetables restaurant cereal cheese
+meat seafood nourishment vegetable eat animal meals edible pasta animal
+meat milk rice cheese nutrient nutrition fruits vegetables meal cooking soup
+cooking fruits vegetables victuals beef drinks plant restaurant edible rice drinks
+meat meat beef provender beef cheese animal cereal restaurant drinks
+fruits vegetables meat edible pasta nutrition chicken nourishment nourishment restaurant fruits vegetables
+nutrition soup drinks animal rice meat vegetable restaurant eat rice
+proxy malfeasance deny incident prestidigitation expose scandal collaboration subterfuge revelation
+fray laconic massive demagogue retaliation revelation scapegoat denigrate covert career
+malfeasance assail unsavory collaboration mendacity demagogue subterfuge fiasco plagiarism expose
+mendacity persecution fray debacle illicit hypocrisy partial opportunist illicit assail
+accusation scandalous collaboration onerous unethical feud parry hypocrisy fiasco tainted
+extortion sloth scandalous unethical unjust tarnish regime tycoon deficit hypocrisy
+rebut deny refute mendacity accusation infringement acolyte deficit sloth obscure
+solicit denigrate lobby refute reckless incident alliance prestidigitation bamboozle coterie
+anonymity fray reputation integrity unjust benefit recrimination expose tainted tycoon
+partial regime claim unjust alliance deficit defamation bamboozle tarnish saga
+parry hypocrisy subterfuge influence tarnish fray subterfuge subterfuge resignation debacle
+computercircuit router server automation eniac data incompatible pc sliderule computation
+electromechanical dataconverter automation proprietary electrical xbox computing phone hardware xbox
+internet monitor floppydisk bit vacuumtube electrical computercide desktop spyware software
+electromechanical visualdisplayunit machine incompatible computercircuit server chip visualdisplayunit homecomputer transistor
+dataconverter computerprogram pornographicimages chip information computerprogram centralprocessing unit chip antivirus processor
+imac electromechanical electrical incompatible keyboard integratedcircuit microprocessor machine mainframe electromechanical
+cell microcomputer bit monitor incompatible device centralprocessing unit automation programming device
+centralprocessing unit cpu chip machines desktoppcs social desktopcomputer cell machines mainframe
+console cpu machines integratedcircuit desktopcomputer cybertechnology xbox diskette server chip
+mainframe floppydisk computerscience console expansionslot smartphone astrolabe digital social expansionslot
+imac digital processor escapekey compatible daw laptopcomputer bit floppydisk screen
+BinaryNumber_0001001 BinaryNumber_0001010 BinaryNumber_0100111 BinaryNumber_1001001 BinaryNumber_0111100 BinaryNumber_0011111 BinaryNumber_1001001 BinaryNumber_1000010 BinaryNumber_0010010 BinaryNumber_0110011
+BinaryNumber_1010011 BinaryNumber_1100000 BinaryNumber_1001100 BinaryNumber_1011000 BinaryNumber_1011001 BinaryNumber_0011000 BinaryNumber_0011101 BinaryNumber_0011100 BinaryNumber_0111110 BinaryNumber_1001110
+BinaryNumber_0011011 BinaryNumber_0111010 BinaryNumber_0100111 BinaryNumber_0000111 BinaryNumber_1010101 BinaryNumber_1001110 BinaryNumber_1001111 BinaryNumber_0100111 BinaryNumber_0110110 BinaryNumber_0000100
+BinaryNumber_1001111 BinaryNumber_0000011 BinaryNumber_0100100 BinaryNumber_0111010 BinaryNumber_0000100 BinaryNumber_0011111 BinaryNumber_0110110 BinaryNumber_1001111 BinaryNumber_1001111 BinaryNumber_0100110
+BinaryNumber_0111110 BinaryNumber_0110010 BinaryNumber_1001000 BinaryNumber_0000010 BinaryNumber_0101101 BinaryNumber_0001010 BinaryNumber_0111010 BinaryNumber_1100010 BinaryNumber_0000110 BinaryNumber_0010001
+BinaryNumber_0110010 BinaryNumber_1010001 BinaryNumber_0010010 BinaryNumber_0011100 BinaryNumber_0000110 BinaryNumber_0100101 BinaryNumber_0111000 BinaryNumber_0001111 BinaryNumber_0010000 BinaryNumber_0100011
+BinaryNumber_0011000 BinaryNumber_0001110 BinaryNumber_0001110 BinaryNumber_0111001 BinaryNumber_1000100 BinaryNumber_0011111 BinaryNumber_0011100 BinaryNumber_1001101 BinaryNumber_1011100 BinaryNumber_1010001
+BinaryNumber_0010001 BinaryNumber_1001000 BinaryNumber_0100110 BinaryNumber_0110000 BinaryNumber_0011010 BinaryNumber_1010111 BinaryNumber_0000000 BinaryNumber_0101101 BinaryNumber_0101101 BinaryNumber_0010000
+BinaryNumber_1010100 BinaryNumber_0111000 BinaryNumber_0011000 BinaryNumber_0000001 BinaryNumber_1011100 BinaryNumber_0001001 BinaryNumber_1000000 BinaryNumber_0100000 BinaryNumber_0110000 BinaryNumber_1000100
+BinaryNumber_1000101 BinaryNumber_1000010 BinaryNumber_1000100 BinaryNumber_0010001 BinaryNumber_1011011 BinaryNumber_0100010 BinaryNumber_0111110 BinaryNumber_0110110 BinaryNumber_0111011 BinaryNumber_0011000
+BinaryNumber_0111100 BinaryNumber_1011010 BinaryNumber_0001010 BinaryNumber_0010111 BinaryNumber_1001110 BinaryNumber_1010010 BinaryNumber_0100001 BinaryNumber_0001010 BinaryNumber_0110011 BinaryNumber_0110101

@@ -1,0 +1,99 @@
+temperature__31c temperature__87c temperature__73c temperature__82c temperature__22c temperature__126c temperature__139c temperature__50c temperature__139c temperature__34c
+temperature__111c temperature__100c temperature__22c temperature__123c temperature__137c temperature__6c temperature__131c temperature__132c temperature__42c temperature__77c
+temperature__21c temperature__119c temperature__144c temperature__85c temperature__3c temperature__87c temperature__56c temperature__10c temperature__11c temperature__142c
+temperature__4c temperature__112c temperature__82c temperature__33c temperature__130c temperature__17c temperature__129c temperature__23c temperature__119c temperature__36c
+temperature__139c temperature__7c temperature__139c temperature__44c temperature__136c temperature__84c temperature__53c temperature__120c temperature__34c temperature__70c
+temperature__119c temperature__27c temperature__8c temperature__70c temperature__131c temperature__137c temperature__61c temperature__40c temperature__42c temperature__98c
+temperature__139c temperature__87c temperature__92c temperature__36c temperature__63c temperature__148c temperature__16c temperature__42c temperature__124c temperature__17c
+temperature__70c temperature__4c temperature__22c temperature__105c temperature__31c temperature__130c temperature__59c temperature__69c temperature__141c temperature__148c
+temperature__124c temperature__27c temperature__147c temperature__87c temperature__57c temperature__119c temperature__57c temperature__79c temperature__108c temperature__100c
+temperature__73c temperature__58c temperature__16c temperature__10c temperature__33c temperature__58c temperature__63c temperature__118c temperature__10c temperature__106c
+temperature__123c temperature__57c temperature__116c temperature__12c temperature__11c temperature__69c temperature__11c temperature__61c temperature__3c temperature__50c
+thankful helpful graceful homely mushy depressed distinct helpful wild gentle
+fair awful defiant tame gentle embarrassed tasty famous pleasant silly
+thoughtful filthy energetic dizzy uninterested vast depressed talented wrong famous
+obedient real rich clear alive grumpy itchy inexpensive cruel gorgeous
+graceful bright easy fair thoughtless gleaming weary lively difficult puzzled
+foolish quaint defeated eager annoying beautiful annoyed wandering busy energetic
+mysterious tired precious fragile real amused famous crowded adventurous aggressive
+ashamed super nasty light foolish gleaming average rich fantastic grieving
+clumsy plain gifted tasty frightened real uninterested ugliest bright horrible
+cute thankful witty cautious confused smiling outrageous clear obnoxious outstanding
+amused evil sore open stupid enthusiastic innocent tame careful cooperative
+BinaryNumber_1001011 BinaryNumber_1011001 BinaryNumber_0001100 BinaryNumber_0101001 BinaryNumber_1011111 BinaryNumber_1011110 BinaryNumber_1010010 BinaryNumber_1001100 BinaryNumber_1001111 BinaryNumber_0000100
+BinaryNumber_0100101 BinaryNumber_0101011 BinaryNumber_0010001 BinaryNumber_1011010 BinaryNumber_0100111 BinaryNumber_0010011 BinaryNumber_1010000 BinaryNumber_0011101 BinaryNumber_0000100 BinaryNumber_0010111
+BinaryNumber_0110011 BinaryNumber_1000110 BinaryNumber_0110100 BinaryNumber_1010100 BinaryNumber_0101010 BinaryNumber_1010100 BinaryNumber_0101010 BinaryNumber_0100000 BinaryNumber_0111111 BinaryNumber_0111000
+BinaryNumber_0010111 BinaryNumber_0111111 BinaryNumber_1000000 BinaryNumber_1001101 BinaryNumber_1010001 BinaryNumber_0010000 BinaryNumber_0111100 BinaryNumber_0101111 BinaryNumber_0100010 BinaryNumber_1000110
+BinaryNumber_1001111 BinaryNumber_0101010 BinaryNumber_0110111 BinaryNumber_1100010 BinaryNumber_0110100 BinaryNumber_1011010 BinaryNumber_0000000 BinaryNumber_0111010 BinaryNumber_0010010 BinaryNumber_0001110
+BinaryNumber_1000011 BinaryNumber_1010110 BinaryNumber_0010000 BinaryNumber_0000001 BinaryNumber_1001101 BinaryNumber_0001010 BinaryNumber_0100000 BinaryNumber_1011000 BinaryNumber_1011011 BinaryNumber_0010001
+BinaryNumber_1010001 BinaryNumber_1011110 BinaryNumber_0001000 BinaryNumber_0101101 BinaryNumber_0111001 BinaryNumber_0111101 BinaryNumber_0010111 BinaryNumber_0010010 BinaryNumber_1010111 BinaryNumber_0110101
+BinaryNumber_0000000 BinaryNumber_0011011 BinaryNumber_0110010 BinaryNumber_1000010 BinaryNumber_1000100 BinaryNumber_0001110 BinaryNumber_0011101 BinaryNumber_0011101 BinaryNumber_1010101 BinaryNumber_1000111
+BinaryNumber_0101011 BinaryNumber_0001110 BinaryNumber_0111110 BinaryNumber_0101101 BinaryNumber_1000010 BinaryNumber_0011101 BinaryNumber_1010010 BinaryNumber_0101100 BinaryNumber_0111000 BinaryNumber_0011110
+BinaryNumber_0000110 BinaryNumber_0011110 BinaryNumber_1100011 BinaryNumber_1001011 BinaryNumber_1000110 BinaryNumber_0110111 BinaryNumber_1011110 BinaryNumber_1001000 BinaryNumber_0111001 BinaryNumber_1001110
+BinaryNumber_0000111 BinaryNumber_0110100 BinaryNumber_1000000 BinaryNumber_1011011 BinaryNumber_0101110 BinaryNumber_0111011 BinaryNumber_1001111 BinaryNumber_0101110 BinaryNumber_0000101 BinaryNumber_1011010
+CubeNumber_551368 CubeNumber_729000 CubeNumber_21952 CubeNumber_19683 CubeNumber_59319 CubeNumber_157464 CubeNumber_68921 CubeNumber_314432 CubeNumber_125 CubeNumber_857375
+CubeNumber_19683 CubeNumber_10648 CubeNumber_274625 CubeNumber_132651 CubeNumber_91125 CubeNumber_343000 CubeNumber_4096 CubeNumber_421875 CubeNumber_64000 CubeNumber_884736
+CubeNumber_79507 CubeNumber_8000 CubeNumber_27000 CubeNumber_778688 CubeNumber_314432 CubeNumber_274625 CubeNumber_125000 CubeNumber_343000 CubeNumber_512000 CubeNumber_262144
+CubeNumber_2197 CubeNumber_15625 CubeNumber_103823 CubeNumber_140608 CubeNumber_27 CubeNumber_343000 CubeNumber_4096 CubeNumber_531441 CubeNumber_8000 CubeNumber_778688
+CubeNumber_64 CubeNumber_314432 CubeNumber_405224 CubeNumber_262144 CubeNumber_110592 CubeNumber_91125 CubeNumber_778688 CubeNumber_27 CubeNumber_117649 CubeNumber_185193
+CubeNumber_148877 CubeNumber_205379 CubeNumber_85184 CubeNumber_117649 CubeNumber_19683 CubeNumber_175616 CubeNumber_74088 CubeNumber_314432 CubeNumber_68921 CubeNumber_830584
+CubeNumber_357911 CubeNumber_238328 CubeNumber_110592 CubeNumber_512 CubeNumber_21952 CubeNumber_216000 CubeNumber_125000 CubeNumber_729000 CubeNumber_729000 CubeNumber_636056
+CubeNumber_175616 CubeNumber_421875 CubeNumber_238328 CubeNumber_21952 CubeNumber_1728 CubeNumber_804357 CubeNumber_64000 CubeNumber_456533 CubeNumber_941192 CubeNumber_9261
+CubeNumber_592704 CubeNumber_132651 CubeNumber_226981 CubeNumber_29791 CubeNumber_884736 CubeNumber_804357 CubeNumber_54872 CubeNumber_175616 CubeNumber_551368 CubeNumber_15625
+CubeNumber_216 CubeNumber_27 CubeNumber_262144 CubeNumber_32768 CubeNumber_132651 CubeNumber_185193 CubeNumber_29791 CubeNumber_19683 CubeNumber_5832 CubeNumber_8
+CubeNumber_17576 CubeNumber_2197 CubeNumber_493039 CubeNumber_551368 CubeNumber_456533 CubeNumber_343 CubeNumber_778688 CubeNumber_27000 CubeNumber_74088 CubeNumber_6859
+Tendons Fallopiantubes Joints Cecum Lens Cranialnerves Cerebellum Nerves Larynx Clitoris
+Middleear Ear Trachea Thymus Bone  Cecum Lens Lungs Nerves Smallintestine
+Midbrain Gallbladder Pancreas Tongue Mouth Heart Ciliarybody Larynx Ileum Ileum
+Heart Ligaments Retina Bronchi Joints Thymus Joints Bronchi Lungs Rectum
+Eye Hypothalamus Penis Thymus Uterus Scrotum Thymus Ovaries Hypothalamus Kidneys
+Lips Penis Joints Lungs Bladder Tongue Bronchi Cornea Ciliarybody Hypothalamus
+Cranialnerves Analcanal Retina skeleton Tonsils Thalamus Lymphaticvessel Joints Sensoryorgans Bone 
+Vulva Vagina Ovaries Ileum Gallbladder Arteries Ileum Bronchi Hypothalamus Liver
+Placenta Analcanal Larynx Scrotum Analcanal Ligaments Capillaries Spleen Tongue Smallintestine
+Placenta Capillaries Iris Middleear Bladder Arteries Vulva Uterus Capillaries Urethra
+Mesentery Ligaments Nerves Pharynx Bone  Capillaries Uterus Ganglia Lens Cerebellum
+rebut regime debacle coterie incident mendacity lobby privilege reputation tarnish
+scandalous covert conceal conceal coercion opportunist intimidation assail embezzlement manipulate
+recrimination deficit tycoon engagement lobby covert malfeasance saga onerous acolyte
+temptation deny authoritarian illicit claim debacle benefit mendacity deflect privilege
+deny manipulate infringement reckless chicanery fiasco fray endorsement impunity partial
+plutocracy claim ignorant privilege fray laconic temptation endorsement illicit parry
+revelation temptation impunity revelation reckless fiasco bamboozle bribe massive patriarchy
+partial plutocracy revelation onerous anonymity persecution scandalous hypocrisy coercion ignorant
+infringement tarnish deception expose beleaguer revelation conceal integrity coercion feud
+scandalous deny blame plagiarism scapegoat impunity opportunist parry persecution revelation
+authoritarian lobby tycoon malfeasance refute expose career integrity onerous mendacity
+11:20 18:55 19:55 16:42 23:49 19:24 10:28 23:53 12:27 15:46
+12:51 10:44 23:35 14:25 16:39 12:24 21:29 19:45 14:57 17:31
+22:25 10:38 17:29 17:44 12:50 22:25 20:49 19:42 10:56 19:11
+17:20 19:47 23:16 10:44 11:41 22:19 21:20 17:47 22:42 12:25
+20:29 16:53 17:10 17:41 10:40 23:44 19:43 21:50 16:44 21:53
+16:55 16:41 20:46 16:17 20:54 10:22 20:21 16:23 12:27 12:44
+22:59 23:49 20:28 18:50 21:15 20:56 17:53 22:32 11:29 19:25
+21:55 23:39 22:31 18:30 14:17 14:54 14:19 15:29 11:43 19:41
+19:21 23:46 23:10 12:13 23:48 17:33 22:28 18:27 17:38 12:33
+10:30 22:58 17:42 23:36 23:18 14:26 22:34 10:31 22:10 15:55
+13:22 13:13 12:52 15:56 17:11 15:21 12:11 22:22 13:56 19:44
+device antivirus machinecode watch programmer mobile electronics floppydisk imac laptop
+algorithm abacus mobiledevice algorithm ibook mobile expansionslot pc electronics von neumann machine
+analogcomputer laptop microprocessor electronics computercircuit sliderule machines processor peripheral desktoppcs
+router bit pc homecomputer digitalcomputer analogcomputer social information machinecode camera
+processor centralprocessing unit abacus xbox expansionslot virtualreality android computerscience browser digitalcommunication
+digitalcomputer laptop machinecode social desktop computing virtualreality digitalcommunication pornographicimages microprocessor
+compatible computation downloader digital microcomputer machine centralprocessing unit electromechanical laptopcomputer homecomputer
+centralprocessing unit ibook social visualdisplayunit software compatible centralprocessing unit phone imac computing
+monitor calculator mobile von neumann machine electromechanical turingmachine social desktoppcs transistor floppydisk
+laptop von neumann machine processor router spyware tablet browser hardware desktopcomputer game
+social proprietary virtualreality computerscience escapekey digital keyboard inputdevice computation downloader
+chicken eat eat meat meal cheese soup beef vegetable pasta
+pasta cheese cooking soup cooking soup victuals chicken sushi rice
+pasta milk nourishment meals restaurant fruits vegetables edible meals seafood provender
+meal milk meat edible animal cheese drinks meals victuals cereal
+rice provender eat meat drinks meal vegetable nutrition cereal beef
+animal cereal restaurant animal nourishment nutrition plant nourishment beef eat
+eat cereal meals milk milk animal eat nourishment nutrition fruit
+meals fruits vegetables restaurant restaurant cheese provender restaurant fruit fruits vegetables sushi
+milk animal nutrient cheese eat nutrient pasta seafood restaurant fruit
+vegetable cheese pasta rice restaurant soup beef nourishment restaurant milk
+fruit meal sushi fruits vegetables provender pasta nutrient pasta fruit cereal

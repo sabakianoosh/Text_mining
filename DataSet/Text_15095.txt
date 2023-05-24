@@ -1,0 +1,99 @@
+15:14 16:50 23:58 18:47 21:25 21:52 16:43 16:33 17:53 10:11
+13:40 14:54 18:50 19:48 10:23 22:41 21:42 16:16 16:20 12:43
+10:35 18:14 17:41 10:24 20:22 13:14 20:12 12:49 13:27 15:50
+22:30 13:32 18:20 14:45 14:35 14:11 16:31 11:19 15:21 20:58
+13:43 17:47 23:45 23:46 23:18 17:45 13:49 13:45 23:50 12:18
+23:12 20:43 11:55 17:11 12:29 10:56 17:24 16:51 12:33 19:23
+18:43 21:30 22:52 14:39 17:49 22:40 18:18 14:58 20:50 16:36
+14:40 22:34 20:53 22:22 16:30 21:45 15:46 14:30 12:45 20:56
+20:42 13:14 15:13 21:13 14:56 22:44 22:26 21:30 11:56 17:38
+15:25 10:16 17:57 18:21 16:48 13:31 11:50 19:42 21:38 21:38
+12:54 17:59 17:11 15:32 11:54 20:37 18:25 10:39 14:21 17:19
+BinaryNumber_1010011 BinaryNumber_1010101 BinaryNumber_1010010 BinaryNumber_0010101 BinaryNumber_0101001 BinaryNumber_0011111 BinaryNumber_0110111 BinaryNumber_0000111 BinaryNumber_1001110 BinaryNumber_0101111
+BinaryNumber_0010010 BinaryNumber_1011001 BinaryNumber_1001100 BinaryNumber_0111100 BinaryNumber_0110110 BinaryNumber_1001010 BinaryNumber_0101100 BinaryNumber_0001111 BinaryNumber_0011001 BinaryNumber_0110110
+BinaryNumber_1011110 BinaryNumber_1000010 BinaryNumber_0000110 BinaryNumber_0001010 BinaryNumber_0110011 BinaryNumber_0100100 BinaryNumber_0000011 BinaryNumber_1100000 BinaryNumber_0001000 BinaryNumber_0001110
+BinaryNumber_0001010 BinaryNumber_0011101 BinaryNumber_0101101 BinaryNumber_0011101 BinaryNumber_0110001 BinaryNumber_0011100 BinaryNumber_0001101 BinaryNumber_0001000 BinaryNumber_1100001 BinaryNumber_1010001
+BinaryNumber_0111000 BinaryNumber_0001000 BinaryNumber_0001111 BinaryNumber_0101110 BinaryNumber_0101000 BinaryNumber_0010110 BinaryNumber_1100000 BinaryNumber_1010101 BinaryNumber_0001100 BinaryNumber_1100010
+BinaryNumber_1001011 BinaryNumber_1011010 BinaryNumber_0110110 BinaryNumber_1010110 BinaryNumber_1011100 BinaryNumber_1010110 BinaryNumber_1001100 BinaryNumber_0001100 BinaryNumber_0101000 BinaryNumber_1100000
+BinaryNumber_0011010 BinaryNumber_0100011 BinaryNumber_1010010 BinaryNumber_1010111 BinaryNumber_0101110 BinaryNumber_1011011 BinaryNumber_0011000 BinaryNumber_0101100 BinaryNumber_1011111 BinaryNumber_1011100
+BinaryNumber_0111110 BinaryNumber_0100001 BinaryNumber_0010010 BinaryNumber_1001101 BinaryNumber_0001110 BinaryNumber_0111110 BinaryNumber_0000101 BinaryNumber_0001101 BinaryNumber_0000000 BinaryNumber_1011111
+BinaryNumber_1001010 BinaryNumber_1001001 BinaryNumber_1000000 BinaryNumber_0101111 BinaryNumber_0010001 BinaryNumber_0010000 BinaryNumber_0011010 BinaryNumber_0001111 BinaryNumber_1010001 BinaryNumber_1010000
+BinaryNumber_0010001 BinaryNumber_0101110 BinaryNumber_0000000 BinaryNumber_0011001 BinaryNumber_0111000 BinaryNumber_0101111 BinaryNumber_0011100 BinaryNumber_0000011 BinaryNumber_0011101 BinaryNumber_1001100
+BinaryNumber_1010000 BinaryNumber_1100011 BinaryNumber_1000110 BinaryNumber_0011110 BinaryNumber_1010000 BinaryNumber_0011101 BinaryNumber_0001100 BinaryNumber_1000000 BinaryNumber_1010100 BinaryNumber_0110001
+CubeNumber_474552 CubeNumber_389017 CubeNumber_262144 CubeNumber_1000 CubeNumber_4913 CubeNumber_27 CubeNumber_12167 CubeNumber_4913 CubeNumber_1728 CubeNumber_778688
+CubeNumber_46656 CubeNumber_35937 CubeNumber_778688 CubeNumber_262144 CubeNumber_8000 CubeNumber_103823 CubeNumber_59319 CubeNumber_729000 CubeNumber_456533 CubeNumber_314432
+CubeNumber_592704 CubeNumber_21952 CubeNumber_343 CubeNumber_64 CubeNumber_125 CubeNumber_68921 CubeNumber_216 CubeNumber_175616 CubeNumber_216000 CubeNumber_753571
+CubeNumber_8 CubeNumber_140608 CubeNumber_15625 CubeNumber_729000 CubeNumber_274625 CubeNumber_64000 CubeNumber_636056 CubeNumber_389017 CubeNumber_27000 CubeNumber_729000
+CubeNumber_19683 CubeNumber_42875 CubeNumber_512000 CubeNumber_438976 CubeNumber_110592 CubeNumber_405224 CubeNumber_4913 CubeNumber_54872 CubeNumber_175616 CubeNumber_157464
+CubeNumber_912673 CubeNumber_195112 CubeNumber_262144 CubeNumber_15625 CubeNumber_226981 CubeNumber_373248 CubeNumber_343000 CubeNumber_238328 CubeNumber_551368 CubeNumber_39304
+CubeNumber_97336 CubeNumber_19683 CubeNumber_32768 CubeNumber_551368 CubeNumber_343 CubeNumber_5832 CubeNumber_46656 CubeNumber_531441 CubeNumber_512000 CubeNumber_456533
+CubeNumber_140608 CubeNumber_1000 CubeNumber_32768 CubeNumber_681472 CubeNumber_226981 CubeNumber_636056 CubeNumber_658503 CubeNumber_571787 CubeNumber_373248 CubeNumber_110592
+CubeNumber_39304 CubeNumber_389017 CubeNumber_91125 CubeNumber_636056 CubeNumber_132651 CubeNumber_226981 CubeNumber_512 CubeNumber_729000 CubeNumber_314432 CubeNumber_42875
+CubeNumber_205379 CubeNumber_4913 CubeNumber_175616 CubeNumber_29791 CubeNumber_157464 CubeNumber_157464 CubeNumber_512 CubeNumber_830584 CubeNumber_5832 CubeNumber_195112
+CubeNumber_148877 CubeNumber_456533 CubeNumber_64 CubeNumber_32768 CubeNumber_4913 CubeNumber_551368 CubeNumber_205379 CubeNumber_857375 CubeNumber_39304 CubeNumber_27000
+Vagina Lips Cervix Hypothalamus Analcanal Clitoris Brain Hypothalamus Cerebellum Brain
+Spleen Lips Mouth Eardrum Kidneys Pons Pharynx Placenta Arteries Esophagus
+Penis Sensoryorgans Analcanal Hypothalamus Pancreas Duodenum Penis Lungs Sensoryorgans Ciliarybody
+Tongue Ciliarybody Lungs Teeth Tongue Thalamus Lymphaticvessel Uterus Muscle Midbrain
+Largeintestine Fallopiantubes Middleear Cerebellum Midbrain Iris Retina Clitoris Mouth Hypothalamus
+Ovaries Cornea Interstitium Uterus Iris Vulva Stomach Spleen Innerear Innerear
+Placenta Capillaries Eye Capillaries Iris Tongue Ileum Spinalnerves Pons Innerear
+Smallintestine Lips Arteries Eardrum Lymphaticvessel Cecum Thalamus Esophagus Esophagus Pancreas
+Tonsils Lens Arteries Spinalnerves Jejunum Outerear Thalamus Middleear Joints Ganglia
+Hypothalamus Vulva Veins Mouth Arteries Cerebrum Vagina Ovaries Largeintestine Tastebuds
+Ciliarybody Ovaries Clitoris Mesentery Placenta Penis Lens Sensoryorgans Ear Vagina
+production creative dance chaconne concertise subtonic clarion wagner merch bhangra
+band phenomenon choir clarinet rockabilly percussion playlist bebop interlude tweedle
+jazz genre literature ensemble solmizate editing jazz genre fugue playlist
+medicine genre pianist metal singers atmosphere recapitulation trio artists accompaniment
+euphony ragtime techno rhapsody ambient harp tweedle instrument interlude musicality
+popular music theme movie musicology timbre ska tune streaming editing reggae
+band sfx tweedle studio ambient motif bars melody guitar entertainment
+bands instrument vibe literature streaming opera action chord bars atonal
+accompaniment madrigal production double bass pitch party carol tuning carol works
+visual paleolithic writing action reading tuning guitar scale tonality lyric
+design artists tabs studio singer saxophone musicians movie studio lights
+temperature__131c temperature__137c temperature__53c temperature__70c temperature__35c temperature__87c temperature__49c temperature__7c temperature__139c temperature__122c
+temperature__41c temperature__120c temperature__31c temperature__27c temperature__49c temperature__138c temperature__77c temperature__11c temperature__10c temperature__11c
+temperature__42c temperature__78c temperature__109c temperature__95c temperature__78c temperature__142c temperature__70c temperature__64c temperature__35c temperature__79c
+temperature__122c temperature__31c temperature__138c temperature__14c temperature__2c temperature__14c temperature__31c temperature__95c temperature__23c temperature__148c
+temperature__11c temperature__57c temperature__106c temperature__58c temperature__68c temperature__90c temperature__59c temperature__34c temperature__49c temperature__51c
+temperature__63c temperature__116c temperature__142c temperature__148c temperature__98c temperature__126c temperature__59c temperature__34c temperature__116c temperature__28c
+temperature__93c temperature__84c temperature__122c temperature__5c temperature__47c temperature__78c temperature__137c temperature__35c temperature__58c temperature__131c
+temperature__0c temperature__69c temperature__31c temperature__129c temperature__77c temperature__130c temperature__52c temperature__17c temperature__77c temperature__92c
+temperature__11c temperature__98c temperature__12c temperature__84c temperature__90c temperature__132c temperature__79c temperature__41c temperature__7c temperature__108c
+temperature__142c temperature__41c temperature__30c temperature__11c temperature__116c temperature__116c temperature__58c temperature__54c temperature__5c temperature__0c
+temperature__26c temperature__3c temperature__74c temperature__51c temperature__74c temperature__70c temperature__148c temperature__120c temperature__139c temperature__11c
+cheese animal fruit victuals rice eat rice edible plant beef
+restaurant fruit seafood sushi seafood animal nourishment plant animal meals
+nourishment eat nutrient cheese meat cheese sushi victuals plant chicken
+vegetable eat nutrition nourishment nutrient animal plant fruits vegetables fruit beef
+animal restaurant nutrition cooking animal nutrition nutrient cereal milk provender
+chicken nutrient nutrition milk seafood restaurant restaurant soup eat rice
+cheese nutrition fruits vegetables pasta meals plant meat sushi plant cheese
+sushi sushi nutrition victuals vegetable plant vegetable cheese edible nourishment
+chicken nourishment vegetable fruits vegetables drinks beef victuals animal meat milk
+chicken victuals cheese milk animal cereal fruits vegetables nutrient animal soup
+meal sushi fruits vegetables victuals cereal pasta nutrition rice meal rice
+work running muscle mutant disport league gymnastics athletics archery frisk
+gym class teams recreation activities concert gymnastics cavort utility extracurricular
+industry utility extracurricular standard safari competition comfort competitive rowing waterski
+cavort hunters skateboard luge movement gamely events games basketball sportsman
+running extracurricular frolic triathlon limited kill dive fun athletics lifestyle
+limited coach sportsmanship coach performance exercises career frisk snowboarding career
+gymnastics snowboarding lifestyle play luge sportsman soccerball physical triathlon safari
+yoga schuss running dynamic referee premium run art dive spar
+pro lark premium company sports social suit judo suit soccer
+bouldering pack muscle field mutant field work dive champion muscle
+feature rollick activity gambol team pro motorcycling recreation performance athletic
+chip machine software console machines social mobile machine computerhardware microprocessor
+desktop computation hardware cell peripheral supercomputer desktopcomputer digitalaudioplayer mainframe data
+server electromechanical floppydisk daw computerscience digitalcommunication server cybertechnology phone vacuumtube
+computerprogramming server dataconverter data social chip chip internet pornographicimages incompatible
+game automation supercomputer floppydisk desktoppcs von neumann machine sliderule laptop floppydisk von neumann machine
+watch microcomputer von neumann machine digitalcomputer ibook mainframe tablet console data chip
+spyware desktoppcs console antivirus astrolabe antivirus cybertechnology mobile incompatible hardware
+software computerprogram smartphone computercide machine smartphone android digital microprocessor imac
+android xbox camera diskette phone game computerprogram cybertechnology digitalaudioplayer computerscience
+sliderule von neumann machine cpu cybertechnology escapekey computerprogram computerprogram automation keyboard incompatible
+laptopcomputer chip browser digitalaudioplayer programmer computerprogram computerprogramming calculator expansionslot personalcomputer

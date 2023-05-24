@@ -1,0 +1,99 @@
+BinaryNumber_0010010 BinaryNumber_0100100 BinaryNumber_0001010 BinaryNumber_1010111 BinaryNumber_1011001 BinaryNumber_0111011 BinaryNumber_1100001 BinaryNumber_0111010 BinaryNumber_0101100 BinaryNumber_0001100
+BinaryNumber_0101100 BinaryNumber_0100110 BinaryNumber_1010101 BinaryNumber_1011101 BinaryNumber_0000011 BinaryNumber_1010000 BinaryNumber_0000100 BinaryNumber_0011011 BinaryNumber_0100011 BinaryNumber_0111011
+BinaryNumber_1001110 BinaryNumber_0010101 BinaryNumber_0001100 BinaryNumber_1100010 BinaryNumber_1011100 BinaryNumber_0100101 BinaryNumber_0000101 BinaryNumber_1010001 BinaryNumber_0000110 BinaryNumber_0000010
+BinaryNumber_1011011 BinaryNumber_0100001 BinaryNumber_0011110 BinaryNumber_1000111 BinaryNumber_1011001 BinaryNumber_0000101 BinaryNumber_0010101 BinaryNumber_0101010 BinaryNumber_0101111 BinaryNumber_0111000
+BinaryNumber_0000100 BinaryNumber_0010111 BinaryNumber_1001110 BinaryNumber_1011001 BinaryNumber_0110100 BinaryNumber_0111101 BinaryNumber_1010100 BinaryNumber_0110010 BinaryNumber_1011101 BinaryNumber_1011001
+BinaryNumber_1000000 BinaryNumber_0111000 BinaryNumber_0001011 BinaryNumber_1010110 BinaryNumber_0001100 BinaryNumber_0000010 BinaryNumber_0110010 BinaryNumber_0010001 BinaryNumber_1001101 BinaryNumber_0101100
+BinaryNumber_1001010 BinaryNumber_1000110 BinaryNumber_1011111 BinaryNumber_1100010 BinaryNumber_1100010 BinaryNumber_0111110 BinaryNumber_0110001 BinaryNumber_0100101 BinaryNumber_0011101 BinaryNumber_1001011
+BinaryNumber_1011011 BinaryNumber_1001100 BinaryNumber_0100001 BinaryNumber_0000000 BinaryNumber_0010011 BinaryNumber_0000111 BinaryNumber_0001000 BinaryNumber_0010110 BinaryNumber_0111000 BinaryNumber_1001101
+BinaryNumber_0001100 BinaryNumber_1001100 BinaryNumber_0010010 BinaryNumber_0101000 BinaryNumber_0010100 BinaryNumber_1011101 BinaryNumber_1001010 BinaryNumber_0010001 BinaryNumber_0110100 BinaryNumber_1000011
+BinaryNumber_1011100 BinaryNumber_0011111 BinaryNumber_1001111 BinaryNumber_0001110 BinaryNumber_0010010 BinaryNumber_1000100 BinaryNumber_0100011 BinaryNumber_1100010 BinaryNumber_1011110 BinaryNumber_0000110
+BinaryNumber_0000101 BinaryNumber_0000110 BinaryNumber_0001101 BinaryNumber_1011100 BinaryNumber_1000010 BinaryNumber_0011101 BinaryNumber_1010010 BinaryNumber_0001001 BinaryNumber_1100001 BinaryNumber_0111110
+10:56 20:18 23:10 21:52 15:40 18:19 21:20 21:26 13:17 11:46
+13:50 22:15 10:27 10:23 18:24 20:55 14:56 12:52 16:41 15:24
+18:34 12:35 12:45 13:23 13:40 23:41 22:30 19:49 19:13 11:26
+13:52 21:47 13:25 11:24 20:44 18:15 11:36 11:16 12:29 14:15
+16:53 10:41 11:29 16:51 16:33 22:50 17:59 18:39 21:45 18:39
+13:17 15:35 11:43 17:57 23:29 20:36 15:46 12:47 21:14 12:35
+21:42 22:21 15:24 18:26 19:41 14:13 12:50 16:57 16:38 20:37
+17:34 17:26 16:40 21:33 11:28 11:18 22:20 15:49 14:26 10:52
+13:20 21:36 20:35 11:42 15:39 10:19 19:42 23:15 12:15 17:12
+10:10 22:25 19:22 21:56 19:33 11:14 12:55 16:42 20:30 15:10
+11:25 21:57 19:27 20:27 12:17 16:24 15:43 15:19 22:35 22:25
+Upholstery Baroque Lintel Cradle Futon Wheelchair Stool Mirror Bed Sconce
+Sconce Loveseat Bentwood Tallboy Crib Mantle Furniture Hassock Hokey Bookshelf
+Wheelchair Cushion Stool Crib Bureau Crib Pillow Table Table Footstool
+Bed Wardrobe Lounger Mattress Hokey Credenza Cart Rack Bureau Recliner
+Tallboy Credenza Volute Stool Cushions Upholstery Table Cot Volute Antique
+Wheelchair Bowfront Rug Screen Shelf Rug Ottoman Fluting Tuffet Drapery
+Baroque Hammock Baroque Mirror Frieze Headboards Clock Cot Bergere Cot
+Pillow Regency Cabinet Buffet Television Rug Antique Cot cubbies Wheelchair
+Cart Clock Sofabed Mantle Chair Cabriole Couch Marquetry Pantry Sconce
+Chair Bowfront Rug Console Hammock Desk Sofa Sideboard Wicker Highchair
+Lounger Pantry Mattress Chair Wicker Wheelchair Breakfront Cabriole Sideboard cubbies
+meal drinks vegetable provender restaurant meals provender fruits vegetables fruits vegetables vegetable
+cheese fruit meal meals pasta nutrient rice cooking nourishment seafood
+meat drinks drinks meals fruits vegetables restaurant chicken restaurant edible provender
+animal milk meals vegetable pasta nutrition plant edible seafood soup
+fruit meat victuals eat edible chicken eat rice cooking cereal
+seafood sushi cereal nourishment restaurant cereal nutrient cereal victuals seafood
+restaurant rice vegetable nourishment provender seafood meat milk fruits vegetables eat
+cheese cooking cheese vegetable beef cooking meals fruit sushi cheese
+cooking fruits vegetables cheese seafood beef edible beef provender pasta pasta
+animal edible nutrition nourishment vegetable nourishment nutrient nutrition meal fruits vegetables
+beef edible meals cereal fruit milk fruits vegetables fruits vegetables fruit fruits vegetables
+PrimeNumber_547 PrimeNumber_349 PrimeNumber_199 PrimeNumber_107 PrimeNumber_313 PrimeNumber_541 PrimeNumber_53 PrimeNumber_197 PrimeNumber_229 PrimeNumber_547
+PrimeNumber_523 PrimeNumber_389 PrimeNumber_181 PrimeNumber_97 PrimeNumber_137 PrimeNumber_523 PrimeNumber_13 PrimeNumber_127 PrimeNumber_277 PrimeNumber_337
+PrimeNumber_271 PrimeNumber_113 PrimeNumber_383 PrimeNumber_479 PrimeNumber_101 PrimeNumber_181 PrimeNumber_181 PrimeNumber_83 PrimeNumber_113 PrimeNumber_19
+PrimeNumber_197 PrimeNumber_277 PrimeNumber_181 PrimeNumber_109 PrimeNumber_479 PrimeNumber_131 PrimeNumber_163 PrimeNumber_67 PrimeNumber_13 PrimeNumber_2
+PrimeNumber_383 PrimeNumber_397 PrimeNumber_47 PrimeNumber_349 PrimeNumber_73 PrimeNumber_421 PrimeNumber_7 PrimeNumber_11 PrimeNumber_59 PrimeNumber_331
+PrimeNumber_541 PrimeNumber_179 PrimeNumber_409 PrimeNumber_313 PrimeNumber_31 PrimeNumber_401 PrimeNumber_223 PrimeNumber_307 PrimeNumber_257 PrimeNumber_179
+PrimeNumber_83 PrimeNumber_523 PrimeNumber_409 PrimeNumber_89 PrimeNumber_149 PrimeNumber_257 PrimeNumber_151 PrimeNumber_211 PrimeNumber_433 PrimeNumber_359
+PrimeNumber_373 PrimeNumber_353 PrimeNumber_163 PrimeNumber_353 PrimeNumber_197 PrimeNumber_383 PrimeNumber_101 PrimeNumber_347 PrimeNumber_2 PrimeNumber_277
+PrimeNumber_109 PrimeNumber_307 PrimeNumber_397 PrimeNumber_313 PrimeNumber_379 PrimeNumber_37 PrimeNumber_61 PrimeNumber_263 PrimeNumber_523 PrimeNumber_409
+PrimeNumber_307 PrimeNumber_397 PrimeNumber_347 PrimeNumber_547 PrimeNumber_439 PrimeNumber_373 PrimeNumber_17 PrimeNumber_103 PrimeNumber_5 PrimeNumber_13
+PrimeNumber_193 PrimeNumber_23 PrimeNumber_293 PrimeNumber_487 PrimeNumber_107 PrimeNumber_241 PrimeNumber_73 PrimeNumber_349 PrimeNumber_67 PrimeNumber_181
+mythical fantasy tiger dog fantasy llamas demon tame fish amphibians
+carnal invertebrate monster vegan fish demon insectivore chickens animals environmental
+insectivorous amphibians animal welfare fantasy ladybug epizootic monster multicellular beast thoroughbred
+pig monster domesticate insectivore tufted reptiles exoticanimals epizootic fauna eukaryotic
+predatoryanimal cats reptile zoology marineanimal dog dogs jellyfish carnivore eukaryotic
+tame zooplankton puppy pigs wildlife fauna cats superdog puppy tame
+chordate reptiles eukaryotic animal welfare rabbit carnal wildlife wild primate chickens
+carnivore birds farming deer poikilotherm fantasy monster shelter insectivore pitbull
+puppy epizootic insectivore demon tame animals poikilotherm tufted amphibians darter
+fantasy beast sheep reptile vertebrate chickens jellyfish frog carnal feline
+chickens fleshly tame dog superdog llamas farming elephants zoo invertebrate
+criminals gangsterism tort muggings guilt lift safety gangsterism gun supernatural
+drug trial corruption accident noir serial poverty supernatural offenses corruption
+blackmail sin snitching forensic pirate homicide drama death gang political
+story serial sentence prison victim hijack unsolved arrest government law
+justice gangster prostitution law unsolved cop bloodshed gun offenders misdemeanor
+story blackmail offenders kill smuggle sin guilt supernatural suspense snitching
+transgression brutality cop illegal racism prison hijack pirate homicide conspiracy
+murder sentence transgression poison suspense misdemeanour homicides conspiracy threats drug
+homicides terrorism unsolved thrillers dark violence terrorism muggings psychological muggings
+assault government misdemeanour punitive victim action shoplift assault legislature terrorism
+blackmail smuggle evidence guilt crime homicide genocide mob legislature justice
+DarkRed Burlywood Gray DarkSalmon Pink LightPink PaleGoldenrod Beige LightSalmon Crimson
+DarkTurquoise MediumSlateBlue Red Linen Seashell Chartreuse OrangeRed Lavender Aquamarine IndianRed
+RosyBrown Red Black PeachPuff PaleVioletRed DarkGray VioletRed SaddleBrown PaleVioletRed OldLace
+ForestGreen SkyBlue DarkSlateBlue AliceBlue DarkGray Moccasin Cyan Purple Gainsboro VioletRed
+Salmon Cyan DarkGray Purple Linen Pink MediumOrchid SlateBlue PapayaWhip MediumAquamarine
+DarkRed PaleTurquoise LightPink Lime BlueViolet DarkSlateBlue Turquoise DarkOrchid LemonChiffon Navy
+MediumSeaGreen DarkKhaki AntiqueWhite SlateGray DarkBlue DarkKhaki DarkSlateGray PeachPuff Feldspar Brown
+Crimson DeepSkyBlue CadetBlue MediumSeaGreen Peru LightSalmon DarkFuchsia DarkSalmon PaleGreen MediumOrchid
+Tomato Brown LightSteelBlue Honeydew PeachPuff GreenYellow IndianRed Blue DarkSlateBlue Chocolate
+BlueViolet Seashell Navy DarkOliveGreen LightSlateBlue AntiqueWhite SkyBlue Sienna DarkGreen MediumBlue
+Chartreuse Snow RosyBrown Pink Chartreuse Green Violet Chocolate Orchid SpringGreen
+android xbox digitalcommunication cybertechnology von neumann machine automation von neumann machine mainframe escapekey computerprogram
+vacuumtube centralprocessing unit digital transistor cell computercircuit information desktoppcs supercomputer phone
+homecomputer ibook supercomputer server computerhardware programmer server arithmetic laptopcomputer cell
+mainframe desktop electrical data imac software digitalcomputer desktoppcs cybertechnology computing
+machinecode daw keyboard hardware keyboard von neumann machine desktopcomputer xbox monitor expansionslot
+phone electrical desktopcomputer algorithm peripheral imac hardware desktopcomputer software desktop
+proprietary analogcomputer tablet electrical desktop chip mobile router electrical processor
+computing computing virtualreality proprietary computerscience vacuumtube cell cpu laptopcomputer analogcomputer
+computercircuit router information incompatible pornographicimages electronics keyboard internet programming computerscience
+xbox mobiledevice tablet laptopcomputer router phone laptop algorithm console centralprocessing unit
+information office cpu chip electrical cpu cell ibook processor desktop

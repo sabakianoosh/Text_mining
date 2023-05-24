@@ -1,0 +1,99 @@
+SquareNumber_1849 SquareNumber_1444 SquareNumber_8649 SquareNumber_10000 SquareNumber_900 SquareNumber_1296 SquareNumber_841 SquareNumber_6241 SquareNumber_36 SquareNumber_1849
+SquareNumber_6724 SquareNumber_2601 SquareNumber_225 SquareNumber_5929 SquareNumber_169 SquareNumber_3721 SquareNumber_9 SquareNumber_9025 SquareNumber_4489 SquareNumber_2025
+SquareNumber_5625 SquareNumber_36 SquareNumber_2601 SquareNumber_3481 SquareNumber_10000 SquareNumber_1521 SquareNumber_7569 SquareNumber_1156 SquareNumber_841 SquareNumber_4761
+SquareNumber_2500 SquareNumber_625 SquareNumber_1296 SquareNumber_9025 SquareNumber_8649 SquareNumber_1225 SquareNumber_1024 SquareNumber_4489 SquareNumber_7921 SquareNumber_5476
+SquareNumber_6561 SquareNumber_2809 SquareNumber_5041 SquareNumber_1764 SquareNumber_2304 SquareNumber_3844 SquareNumber_9216 SquareNumber_5329 SquareNumber_196 SquareNumber_8836
+SquareNumber_3364 SquareNumber_5329 SquareNumber_16 SquareNumber_900 SquareNumber_64 SquareNumber_2401 SquareNumber_2500 SquareNumber_3600 SquareNumber_2916 SquareNumber_4096
+SquareNumber_529 SquareNumber_1369 SquareNumber_100 SquareNumber_2601 SquareNumber_6400 SquareNumber_3136 SquareNumber_36 SquareNumber_7056 SquareNumber_2401 SquareNumber_4225
+SquareNumber_7225 SquareNumber_2025 SquareNumber_8100 SquareNumber_8100 SquareNumber_8100 SquareNumber_16 SquareNumber_4761 SquareNumber_5625 SquareNumber_961 SquareNumber_1369
+SquareNumber_5184 SquareNumber_2601 SquareNumber_6241 SquareNumber_8649 SquareNumber_25 SquareNumber_8836 SquareNumber_4225 SquareNumber_2500 SquareNumber_81 SquareNumber_441
+SquareNumber_9604 SquareNumber_3721 SquareNumber_64 SquareNumber_3136 SquareNumber_1024 SquareNumber_784 SquareNumber_4225 SquareNumber_1089 SquareNumber_3721 SquareNumber_529
+SquareNumber_961 SquareNumber_4761 SquareNumber_6400 SquareNumber_5184 SquareNumber_3481 SquareNumber_3364 SquareNumber_16 SquareNumber_529 SquareNumber_9409 SquareNumber_961
+CubeNumber_29791 CubeNumber_85184 CubeNumber_512 CubeNumber_125000 CubeNumber_2197 CubeNumber_74088 CubeNumber_314432 CubeNumber_1728 CubeNumber_17576 CubeNumber_125000
+CubeNumber_91125 CubeNumber_729000 CubeNumber_1000 CubeNumber_343000 CubeNumber_17576 CubeNumber_125000 CubeNumber_287496 CubeNumber_343 CubeNumber_3375 CubeNumber_274625
+CubeNumber_27000 CubeNumber_753571 CubeNumber_389017 CubeNumber_216000 CubeNumber_35937 CubeNumber_125 CubeNumber_4096 CubeNumber_2197 CubeNumber_753571 CubeNumber_27000
+CubeNumber_64 CubeNumber_6859 CubeNumber_389017 CubeNumber_27 CubeNumber_46656 CubeNumber_19683 CubeNumber_1000 CubeNumber_474552 CubeNumber_64 CubeNumber_551368
+CubeNumber_21952 CubeNumber_474552 CubeNumber_166375 CubeNumber_753571 CubeNumber_8 CubeNumber_226981 CubeNumber_405224 CubeNumber_729 CubeNumber_474552 CubeNumber_9261
+CubeNumber_3375 CubeNumber_110592 CubeNumber_343000 CubeNumber_357911 CubeNumber_300763 CubeNumber_9261 CubeNumber_912673 CubeNumber_857375 CubeNumber_343 CubeNumber_512
+CubeNumber_912673 CubeNumber_343000 CubeNumber_6859 CubeNumber_287496 CubeNumber_614125 CubeNumber_21952 CubeNumber_9261 CubeNumber_9261 CubeNumber_91125 CubeNumber_314432
+CubeNumber_884736 CubeNumber_19683 CubeNumber_389017 CubeNumber_166375 CubeNumber_287496 CubeNumber_3375 CubeNumber_287496 CubeNumber_175616 CubeNumber_68921 CubeNumber_614125
+CubeNumber_12167 CubeNumber_140608 CubeNumber_1728 CubeNumber_1331 CubeNumber_39304 CubeNumber_778688 CubeNumber_32768 CubeNumber_15625 CubeNumber_226981 CubeNumber_274625
+CubeNumber_21952 CubeNumber_405224 CubeNumber_175616 CubeNumber_658503 CubeNumber_64 CubeNumber_512000 CubeNumber_4096 CubeNumber_157464 CubeNumber_512 CubeNumber_110592
+CubeNumber_4096 CubeNumber_636056 CubeNumber_27 CubeNumber_2197 CubeNumber_9261 CubeNumber_493039 CubeNumber_19683 CubeNumber_166375 CubeNumber_5832 CubeNumber_195112
+16:28 23:30 20:33 14:14 14:14 21:30 10:20 17:43 12:10 17:27
+13:18 11:50 20:51 14:50 11:18 14:30 17:55 15:46 12:40 17:57
+16:32 21:51 21:24 16:58 23:40 19:43 13:15 18:15 17:33 21:15
+12:10 20:22 21:36 18:16 18:52 15:50 20:33 16:22 21:16 19:11
+23:25 18:33 13:32 14:55 17:19 23:51 11:32 16:35 21:25 11:10
+12:17 18:29 21:11 17:24 23:26 11:30 12:13 12:50 21:15 18:46
+14:22 13:50 12:44 20:49 15:44 13:31 13:42 14:36 21:58 20:22
+18:44 22:48 16:33 12:40 16:43 22:10 15:46 17:55 15:10 11:49
+11:29 16:59 15:24 17:35 21:54 21:34 10:36 10:20 22:44 17:47
+17:50 16:46 14:11 22:59 20:33 19:32 18:48 17:21 18:57 14:37
+15:32 18:36 11:46 11:40 22:35 12:54 20:34 11:26 13:42 13:44
+sushi cooking animal meal restaurant beef seafood meal rice milk
+provender victuals eat rice fruit beef beef meals fruit eat
+drinks cereal seafood cooking restaurant meat pasta meal animal cooking
+pasta cheese rice nutrient edible drinks nutrition cooking rice seafood
+pasta meal sushi meals seafood seafood plant rice victuals seafood
+fruits vegetables pasta nourishment restaurant fruit nutrient pasta cereal nutrition cereal
+eat provender soup meat chicken milk pasta meat plant restaurant
+eat sushi beef milk eat provender eat vegetable victuals meal
+fruit cooking cereal meals restaurant sushi cereal victuals meals cheese
+fruits vegetables soup cheese victuals nutrition nourishment pasta soup beef fruits vegetables
+milk chicken nutrient cheese cooking cereal fruits vegetables drinks vegetable drinks
+abacus machinecode computerprogram vacuumtube processor social software watch electromechanical information
+bit computerprogram mainframe programming keyboard monitor mainframe information tablet von neumann machine
+mainframe mechanicalcomputer data game computerhardware internet internet electronics game computation
+ibook machine electrical laptop virtualreality personalcomputer computation computing personalcomputer machinecode
+abacus desktop digitalaudioplayer browser tablet visualdisplayunit abacus memory monitor diskette
+floppydisk keyboard microprocessor computercircuit proprietary machinecode chip automation monitor desktop
+mechanicalcomputer digitalaudioplayer imac electrical office device electronics ibook escapekey floppydisk
+keyboard game server office visualdisplayunit server virtualreality mobiledevice virtualreality watch
+machinecode astrolabe cybertechnology desktoppcs monitor dataconverter von neumann machine computation automation pc
+centralprocessing unit virtualreality spyware information integratedcircuit cybertechnology computerhardware internet mainframe antivirus
+integratedcircuit proprietary desktop daw centralprocessing unit laptopcomputer keyboard processor chip digitalaudioplayer
+denigrate sloth authoritarian reputation refute denigrate opportunist extortion engagement scandal
+saga coterie accusation accusation tycoon retaliation extortion debacle coterie obscure
+recrimination feud dictatorship malfeasance solicit authoritarian malfeasance reckless tarnish laconic
+integrity infringement infringement regime blame acolyte bribe parry parry intimidation
+ignorant unethical illicit manipulate influence cadre tarnish expose malfeasance empire
+debacle persecution regime engagement unjust integrity obscure bamboozle alliance accusation
+assail subterfuge tarnish mercurial mendacity impunity revelation beleaguer fiasco prestidigitation
+opportunist subterfuge corruption allegation prestidigitation malfeasance deception onerous authoritarian embezzlement
+corruption saga acolyte resignation impunity endorsement tainted chicanery demagogue illicit
+patriarchy beleaguer alliance mendacity deny influence sloth feud denigrate unethical
+lobby manipulate collaboration scapegoat incident defamation unjust tycoon plutocracy scandalous
+Cantaloupe Rambutan  Lychee Tayberry Guava Plantain Sapodilla Lulo Tangelo Pomegranate
+Raspberry Currant Peach Honeydew Date Cherimoya Kiwifruit Grapefruit Damson Canistel
+Tamarillo Plumcot Cashew Jambul Ackee Durian Banana Banana Prune Tangerine
+Pawpaw Sapodilla Marionberry Plantain Akebi Plum Pineberry Grapefruit Apple Nance
+Rambutan  Marionberry Damson Bilberry Jujube Cantaloupe Apricot Breadfruit Pineapple Orange
+Lulo Blackberry Raspberry Cloudberry Guava Guava Kumquat Ackee Lychee Nectarine
+Cantaloupe Sapodilla Apricot Mango Lemon Apricot Rambutan  Durian Tamarillo Banana
+Jambul Durian Kiwifruit Cherry Soursop Tamarind Orange Cloudberry Pomelo Pomegranate
+Abiu Loquat Açaí Durian Clementine Breadfruit Canistel Fig Nectarine Mandarine
+Cashew Persimmon Plantain Nance Currant Strawberry Banana Loquat Lychee Watermelon
+Satsuma Loganberry Soursop Salak Plumcot Cherimoya Feijoa Jackfruit Watermelon Damson
+polyphony time film beat creative sfx podcast compositions exposition language
+monophony reading polyphony modulate symphonic ambience triple-tongue karaoke pizzicato gospel
+modulate madrigal hyperpop dynamics album cello ragtime cultural violoncello melodies
+tonality pizzicato bars composing melodic classical violin popular music oboe blues
+symphony tune voice videos harpsichord bands tonic tweedle composing harmonise
+visual vibe vocals rag bugle video intonation songwriter voices musicality
+editing concerts lute singer art symphonise melodies texture banjo tonic
+playlist action electronica streaming oboe symphonic compositions muse beat section
+talking compositions rockabilly reading triple-tongue audio double bass gospel tuning score
+electronica ragtime harmonize musicians musicality soundtrack harmony streaming tweedle prelude
+voices rhythm schubert triple-tongue soul muse band lyrics funk fugue
+bug dogs shelter hourse invertebrate reptiles ladybug epizootic bird carnal
+poikilotherm tufted animals creature iguana dinosaur marineanimal pig fleshly dog
+darter sheep birds superdog pitbull animals animalia exoticanimals marineanimal hourse
+animals rodent metazoan reptile insect sensual metazoan octopuses epizootic workanimal
+deer cats object eukaryotic dinosaur beast hourse reptiles pitbull zooplankton
+bug jellyfish chickens pitbull pig heterotroph eukaryotic pups livestock animalia
+frog deer jellyfish farming cats marineanimal carnivore iguana epizootic multicellular
+pups pigs livestock livestock jellyfish feline fish marineanimal pups amphibians
+multicellular demon deer plant marineanimal fleshly insectivore workanimal epizootic superdog
+plant clams shelter insects embryo insects mammal domesticate pups insects
+tufted dogs wildlife dinosaur primate raccoon vegan zoology bobcat carnal

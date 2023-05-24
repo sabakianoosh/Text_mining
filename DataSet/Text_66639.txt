@@ -1,0 +1,99 @@
+BinaryNumber_1000110 BinaryNumber_1011000 BinaryNumber_1011011 BinaryNumber_0110100 BinaryNumber_0011000 BinaryNumber_1000101 BinaryNumber_0110001 BinaryNumber_1010101 BinaryNumber_0000011 BinaryNumber_1100001
+BinaryNumber_0010000 BinaryNumber_0110101 BinaryNumber_1011100 BinaryNumber_0011000 BinaryNumber_1001101 BinaryNumber_1000010 BinaryNumber_0001101 BinaryNumber_1000001 BinaryNumber_1011100 BinaryNumber_0100111
+BinaryNumber_1010011 BinaryNumber_1010110 BinaryNumber_1000000 BinaryNumber_0001000 BinaryNumber_1011011 BinaryNumber_1000011 BinaryNumber_0110011 BinaryNumber_1010110 BinaryNumber_1010111 BinaryNumber_0100110
+BinaryNumber_0110001 BinaryNumber_1011100 BinaryNumber_0001001 BinaryNumber_1011001 BinaryNumber_0010011 BinaryNumber_1011010 BinaryNumber_1001000 BinaryNumber_0011110 BinaryNumber_0001111 BinaryNumber_1010101
+BinaryNumber_1000011 BinaryNumber_0001000 BinaryNumber_0110010 BinaryNumber_0001111 BinaryNumber_1010111 BinaryNumber_0101011 BinaryNumber_0111101 BinaryNumber_0101000 BinaryNumber_1010100 BinaryNumber_1011110
+BinaryNumber_0100100 BinaryNumber_0110001 BinaryNumber_0010010 BinaryNumber_0011011 BinaryNumber_0100100 BinaryNumber_0101000 BinaryNumber_1000100 BinaryNumber_0010111 BinaryNumber_1000111 BinaryNumber_0000101
+BinaryNumber_0011001 BinaryNumber_0001110 BinaryNumber_0101101 BinaryNumber_1011011 BinaryNumber_0000010 BinaryNumber_1011101 BinaryNumber_0101001 BinaryNumber_1000001 BinaryNumber_1011100 BinaryNumber_0010001
+BinaryNumber_0111101 BinaryNumber_0111010 BinaryNumber_1001010 BinaryNumber_0100111 BinaryNumber_0111010 BinaryNumber_0010011 BinaryNumber_1010110 BinaryNumber_0001011 BinaryNumber_1011111 BinaryNumber_0010001
+BinaryNumber_1010101 BinaryNumber_0000110 BinaryNumber_1000111 BinaryNumber_0010111 BinaryNumber_0000000 BinaryNumber_1001111 BinaryNumber_1000101 BinaryNumber_0110001 BinaryNumber_0100000 BinaryNumber_0001011
+BinaryNumber_0111000 BinaryNumber_0111101 BinaryNumber_0100000 BinaryNumber_0010011 BinaryNumber_1001011 BinaryNumber_0010000 BinaryNumber_0010010 BinaryNumber_0110110 BinaryNumber_0010110 BinaryNumber_0100101
+BinaryNumber_1011010 BinaryNumber_0011000 BinaryNumber_1000110 BinaryNumber_0001101 BinaryNumber_0110110 BinaryNumber_0100110 BinaryNumber_0011010 BinaryNumber_0010110 BinaryNumber_0000011 BinaryNumber_0100111
+SquareNumber_4096 SquareNumber_784 SquareNumber_5041 SquareNumber_1849 SquareNumber_4489 SquareNumber_8464 SquareNumber_400 SquareNumber_6084 SquareNumber_7744 SquareNumber_529
+SquareNumber_529 SquareNumber_4096 SquareNumber_25 SquareNumber_5041 SquareNumber_625 SquareNumber_625 SquareNumber_529 SquareNumber_1936 SquareNumber_3969 SquareNumber_484
+SquareNumber_5776 SquareNumber_144 SquareNumber_6241 SquareNumber_9 SquareNumber_2704 SquareNumber_8464 SquareNumber_256 SquareNumber_121 SquareNumber_4900 SquareNumber_529
+SquareNumber_1764 SquareNumber_6561 SquareNumber_1681 SquareNumber_3721 SquareNumber_2500 SquareNumber_2116 SquareNumber_4 SquareNumber_4900 SquareNumber_7744 SquareNumber_225
+SquareNumber_7569 SquareNumber_7921 SquareNumber_3136 SquareNumber_9025 SquareNumber_576 SquareNumber_1764 SquareNumber_484 SquareNumber_256 SquareNumber_9025 SquareNumber_676
+SquareNumber_7921 SquareNumber_8281 SquareNumber_6084 SquareNumber_8649 SquareNumber_169 SquareNumber_324 SquareNumber_9216 SquareNumber_6241 SquareNumber_484 SquareNumber_1156
+SquareNumber_6724 SquareNumber_8836 SquareNumber_9025 SquareNumber_484 SquareNumber_64 SquareNumber_1681 SquareNumber_2809 SquareNumber_8464 SquareNumber_3136 SquareNumber_2500
+SquareNumber_5776 SquareNumber_1225 SquareNumber_400 SquareNumber_196 SquareNumber_2116 SquareNumber_4900 SquareNumber_5929 SquareNumber_196 SquareNumber_4 SquareNumber_7396
+SquareNumber_1156 SquareNumber_121 SquareNumber_100 SquareNumber_7056 SquareNumber_8100 SquareNumber_8464 SquareNumber_2601 SquareNumber_2025 SquareNumber_625 SquareNumber_3600
+SquareNumber_100 SquareNumber_169 SquareNumber_1369 SquareNumber_1225 SquareNumber_4900 SquareNumber_289 SquareNumber_2601 SquareNumber_5929 SquareNumber_441 SquareNumber_1521
+SquareNumber_1024 SquareNumber_9801 SquareNumber_2025 SquareNumber_625 SquareNumber_8649 SquareNumber_1849 SquareNumber_441 SquareNumber_5929 SquareNumber_5625 SquareNumber_1024
+cell computerprogram desktop programmer supercomputer mainframe android game mobile vacuumtube
+xbox visualdisplayunit cell computation calculator ibook electronics phone expansionslot computerhardware
+browser computercircuit cybertechnology compatible router digitalcommunication mobile bit xbox peripheral
+ibook desktopcomputer console internet processor compatible tablet computerprogram cyber mechanicalcomputer
+incompatible monitor programmer social digital laptop desktopcomputer xbox mechanicalcomputer digitalcomputer
+mobiledevice desktopcomputer automation spyware visualdisplayunit mobiledevice turingmachine keyboard microprocessor programming
+digitalaudioplayer computing imac tablet programmer xbox turingmachine computercircuit device cpu
+automation cybertechnology cell transistor antivirus computerprogramming calculator automation screen memory
+xbox von neumann machine bit von neumann machine cpu pc arithmetic digital laptop incompatible
+antivirus memory internet programmer ibook digitalcommunication information imac von neumann machine computerprogramming
+phone screen processor router software abacus machine computercide digital watch
+temperature__84c temperature__136c temperature__39c temperature__16c temperature__138c temperature__71c temperature__92c temperature__44c temperature__144c temperature__93c
+temperature__108c temperature__49c temperature__6c temperature__142c temperature__24c temperature__100c temperature__116c temperature__49c temperature__50c temperature__22c
+temperature__112c temperature__39c temperature__23c temperature__41c temperature__28c temperature__57c temperature__90c temperature__71c temperature__98c temperature__53c
+temperature__16c temperature__78c temperature__129c temperature__61c temperature__95c temperature__93c temperature__40c temperature__137c temperature__31c temperature__8c
+temperature__109c temperature__31c temperature__120c temperature__129c temperature__136c temperature__145c temperature__53c temperature__33c temperature__42c temperature__6c
+temperature__10c temperature__106c temperature__69c temperature__51c temperature__90c temperature__64c temperature__74c temperature__22c temperature__85c temperature__8c
+temperature__30c temperature__77c temperature__111c temperature__28c temperature__73c temperature__64c temperature__46c temperature__53c temperature__147c temperature__100c
+temperature__78c temperature__56c temperature__111c temperature__144c temperature__68c temperature__34c temperature__6c temperature__84c temperature__118c temperature__92c
+temperature__51c temperature__116c temperature__144c temperature__23c temperature__17c temperature__122c temperature__68c temperature__120c temperature__144c temperature__56c
+temperature__56c temperature__26c temperature__138c temperature__138c temperature__130c temperature__98c temperature__41c temperature__74c temperature__12c temperature__139c
+temperature__57c temperature__137c temperature__71c temperature__46c temperature__147c temperature__70c temperature__57c temperature__130c temperature__124c temperature__23c
+clams clams fauna pet dog monster dog tufted marineanimal embryo
+dogs pitbull reptile birds fleshly feline pitbull demon sensual invertebrate
+porifera vegan marineanimal animals biped fish wildlife invertebrate plant wildlife
+fleshly reptile animatebeing invertebrate reptiles scavenger animals fish deer animatebeing
+carnal invertebrate feline cats fantasy animalkingdom primate bug exoticanimals pig
+biped insect tame epizootic pet scavenger llamas frog invertebrate environmental
+heterotroph bobcat bobcat livestock epizootic mammal carnivore chickens primate mammals
+mythical domesticate workanimal primate reptile animal welfare animalkingdom environmental sheep workanimal
+dogs embryo shelter thoroughbred domesticate eukaryotic octopuses animals porifera environmental
+animal welfare carnal fish iguana dinosaur pig dog bug cats tame
+iguana wildlife animal welfare monster poikilotherm sheep dinosaur tufted sheep animals
+20:35 15:59 13:47 19:50 10:43 17:37 14:18 15:54 20:35 15:52
+13:17 16:58 20:22 14:19 18:18 12:27 23:47 15:49 19:33 14:45
+18:44 20:51 14:13 16:13 22:36 12:11 14:54 12:22 18:16 16:33
+23:46 19:14 14:26 23:46 21:32 13:58 20:31 21:27 22:59 11:19
+11:56 12:16 15:27 18:54 22:46 22:54 10:33 22:48 16:50 15:15
+21:19 18:46 17:51 13:39 20:13 11:14 12:59 18:38 14:18 14:45
+12:26 14:17 19:46 17:45 15:42 21:10 15:37 13:18 15:42 17:18
+10:50 15:52 12:54 18:13 21:23 21:42 19:19 12:17 17:17 13:41
+23:29 11:35 11:52 21:13 20:35 16:56 13:52 23:24 10:31 19:10
+11:42 18:53 15:53 19:56 11:53 19:35 22:26 13:39 19:22 19:46
+10:37 10:12 16:52 17:22 12:36 13:24 11:15 13:22 22:18 21:35
+charming handsome better fragile aggressive fine smiling splendid selfish cheerful
+thoughtful energetic weary lovely nice lucky selfish precious happy bored
+excited crazy bored adorable uninterested poised evil enthusiastic gifted disturbed
+homely sparkling zealous foolish average perfect mysterious witty inquisitive annoying
+stormy precious good famous gentle courageous amused real nervous nice
+inexpensive enchanting breakable eager mysterious mushy amused grieving mushy clumsy
+pleasant ill grieving worried sore hurt clever cautious outrageous elated
+eager thoughtless excited motionless fair outstanding beautiful poised inexpensive upset
+frightened jittery average defeated rich funny gorgeous puzzled worrisome panicky
+lively healthy depressed adorable weary black alive cautious quaint kind
+exuberant proud adorable ashamed gleaming wicked nasty cloudy adorable helpless
+DimGray Chocolate LightSlateGray Azure Seashell Peru HotPink PaleTurquoise LightPink PapayaWhip
+DarkRed LightCyan LightSkyBlue LawnGreen MediumTurquoise Orchid DarkGray Orange OliveDrab Yellow
+Pink LightCyan DodgerBlue SandyBrown Maroon BlanchedAlmond Teal LightPink LightGoldenrod BlueViolet
+Orange Honeydew LightYellow Blue Burlywood Burlywood Gray MediumSpringGreen MediumSlateBlue MintCream
+Blue MistyRose Beige Chocolate DimGray Ivory Lime Burlywood LawnGreen Indigo
+PaleGreen LightGreen Olive SeaGreen Navy DimGray DarkRed LightSteelBlue LightYellow Azure
+MistyRose SeaGreen Lavender MediumVioletRed CornflowerBlue Gold Lime Peru SteelBlue Tan
+SaddleBrown Fuchsia MediumOrchid CadetBlue Gold Burlywood Turquoise Orchid DarkSeaGreen Snow
+DeepPink SandyBrown CadetBlue LightGoldenrod DarkGreen MediumTurquoise Burlywood LightSeaGreen LimeGreen PowderBlue
+DarkKhaki Pink Gold SlateGray MediumSpringGreen GreenYellow OliveDrab Chocolate SaddleBrown Gold
+Violet LightPink DarkGreen Yellow BlanchedAlmond Fuchsia WhiteSmoke Purple AliceBlue MintCream
+vegetable animal meal cereal provender chicken fruits vegetables plant nutrition edible
+eat nourishment sushi vegetable cereal meal nutrition cooking nutrition meat
+provender vegetable plant meals eat eat meat cooking meal fruits vegetables
+meal fruits vegetables nutrient nutrition milk cheese rice cooking cereal provender
+fruits vegetables restaurant cooking beef milk nutrient edible soup animal meals
+fruit pasta restaurant nutrition meat seafood provender plant cereal sushi
+cereal nutrition meal meals cereal nutrition milk rice meat milk
+pasta cereal vegetable meal milk pasta milk meals meals nutrient
+seafood fruit cheese cooking nutrient provender drinks milk restaurant edible
+meal fruit meat chicken vegetable nutrition sushi meat fruit chicken
+eat chicken milk nourishment cereal drinks vegetable meals beef meals

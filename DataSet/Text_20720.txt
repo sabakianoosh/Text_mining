@@ -1,0 +1,99 @@
+wild sparkling perfect arrogant strange agreeable perfect zealous old-fashioned sore
+arrogant homeless shy putrid poor victorious motionless uninterested difficult filthy
+drab obedient sparkling proud poor itchy homeless difficult hungry glorious
+thoughtful comfortable fantastic talented average famous magnificent adorable tense crazy
+strange clear lazy annoying foolish victorious lazy open grieving ugliest
+selfish magnificent wicked mysterious selfish foolish ashamed jealous faithful shiny
+colorful obnoxious foolish bewildered cooperative helpless tense helpful courageous innocent
+zealous pleasant calm anxious fierce jolly victorious disturbed crazy excited
+blue crazy ashamed inexpensive tender crazy tough gentle nutty silly
+fragile busy gentle magnificent calm calm cute fantastic hilarious brainy
+defiant ashamed encouraging relieved aggressive outrageous determined hurt puzzled drab
+BinaryNumber_0101111 BinaryNumber_0100011 BinaryNumber_0110000 BinaryNumber_1100001 BinaryNumber_0000110 BinaryNumber_0010110 BinaryNumber_0110011 BinaryNumber_1010100 BinaryNumber_0011010 BinaryNumber_0010010
+BinaryNumber_1000101 BinaryNumber_0111001 BinaryNumber_0000011 BinaryNumber_0011001 BinaryNumber_1010001 BinaryNumber_0111100 BinaryNumber_0101101 BinaryNumber_0110100 BinaryNumber_0110010 BinaryNumber_0011101
+BinaryNumber_1010101 BinaryNumber_0111101 BinaryNumber_0101100 BinaryNumber_0111110 BinaryNumber_0000111 BinaryNumber_1001010 BinaryNumber_0111001 BinaryNumber_1001110 BinaryNumber_0011101 BinaryNumber_1001100
+BinaryNumber_0000110 BinaryNumber_1001001 BinaryNumber_0111110 BinaryNumber_1001000 BinaryNumber_1000100 BinaryNumber_0100001 BinaryNumber_1000110 BinaryNumber_0011101 BinaryNumber_0000111 BinaryNumber_1001000
+BinaryNumber_0010001 BinaryNumber_0010110 BinaryNumber_0101011 BinaryNumber_1011111 BinaryNumber_1000111 BinaryNumber_0101101 BinaryNumber_0001010 BinaryNumber_0010010 BinaryNumber_1010011 BinaryNumber_0000000
+BinaryNumber_0100011 BinaryNumber_1000101 BinaryNumber_0011111 BinaryNumber_0101110 BinaryNumber_0010100 BinaryNumber_1010111 BinaryNumber_0000010 BinaryNumber_1000010 BinaryNumber_0001010 BinaryNumber_1100000
+BinaryNumber_0001111 BinaryNumber_0100100 BinaryNumber_0111011 BinaryNumber_0101100 BinaryNumber_0010101 BinaryNumber_0000100 BinaryNumber_0010000 BinaryNumber_0001010 BinaryNumber_0011100 BinaryNumber_0001111
+BinaryNumber_0110100 BinaryNumber_1001010 BinaryNumber_1010111 BinaryNumber_0011111 BinaryNumber_0100101 BinaryNumber_0111111 BinaryNumber_1011110 BinaryNumber_0011110 BinaryNumber_1010010 BinaryNumber_0001100
+BinaryNumber_0111110 BinaryNumber_1100010 BinaryNumber_1010001 BinaryNumber_0000101 BinaryNumber_0111110 BinaryNumber_1010000 BinaryNumber_0001001 BinaryNumber_0011101 BinaryNumber_0011000 BinaryNumber_0011010
+BinaryNumber_0010111 BinaryNumber_0100101 BinaryNumber_0101001 BinaryNumber_1010101 BinaryNumber_0010000 BinaryNumber_0010111 BinaryNumber_0000101 BinaryNumber_0010011 BinaryNumber_0110110 BinaryNumber_1001100
+BinaryNumber_0111011 BinaryNumber_0011001 BinaryNumber_0110000 BinaryNumber_0011110 BinaryNumber_1001100 BinaryNumber_1001000 BinaryNumber_0110111 BinaryNumber_0000111 BinaryNumber_1100000 BinaryNumber_0111101
+PrimeNumber_547 PrimeNumber_499 PrimeNumber_157 PrimeNumber_139 PrimeNumber_419 PrimeNumber_509 PrimeNumber_439 PrimeNumber_17 PrimeNumber_17 PrimeNumber_331
+PrimeNumber_103 PrimeNumber_149 PrimeNumber_227 PrimeNumber_23 PrimeNumber_263 PrimeNumber_227 PrimeNumber_547 PrimeNumber_191 PrimeNumber_541 PrimeNumber_293
+PrimeNumber_347 PrimeNumber_131 PrimeNumber_79 PrimeNumber_443 PrimeNumber_233 PrimeNumber_223 PrimeNumber_479 PrimeNumber_397 PrimeNumber_439 PrimeNumber_11
+PrimeNumber_293 PrimeNumber_31 PrimeNumber_157 PrimeNumber_179 PrimeNumber_71 PrimeNumber_23 PrimeNumber_53 PrimeNumber_499 PrimeNumber_73 PrimeNumber_89
+PrimeNumber_199 PrimeNumber_311 PrimeNumber_139 PrimeNumber_263 PrimeNumber_419 PrimeNumber_541 PrimeNumber_263 PrimeNumber_239 PrimeNumber_229 PrimeNumber_419
+PrimeNumber_89 PrimeNumber_89 PrimeNumber_79 PrimeNumber_37 PrimeNumber_257 PrimeNumber_3 PrimeNumber_433 PrimeNumber_431 PrimeNumber_173 PrimeNumber_491
+PrimeNumber_103 PrimeNumber_251 PrimeNumber_313 PrimeNumber_383 PrimeNumber_383 PrimeNumber_541 PrimeNumber_499 PrimeNumber_17 PrimeNumber_2 PrimeNumber_83
+PrimeNumber_5 PrimeNumber_197 PrimeNumber_547 PrimeNumber_317 PrimeNumber_41 PrimeNumber_263 PrimeNumber_43 PrimeNumber_89 PrimeNumber_521 PrimeNumber_547
+PrimeNumber_101 PrimeNumber_457 PrimeNumber_389 PrimeNumber_127 PrimeNumber_251 PrimeNumber_283 PrimeNumber_461 PrimeNumber_109 PrimeNumber_17 PrimeNumber_499
+PrimeNumber_101 PrimeNumber_463 PrimeNumber_241 PrimeNumber_311 PrimeNumber_61 PrimeNumber_433 PrimeNumber_293 PrimeNumber_179 PrimeNumber_67 PrimeNumber_419
+PrimeNumber_311 PrimeNumber_37 PrimeNumber_227 PrimeNumber_383 PrimeNumber_2 PrimeNumber_541 PrimeNumber_151 PrimeNumber_179 PrimeNumber_89 PrimeNumber_487
+22:45 11:30 14:11 14:10 21:35 16:25 14:13 14:49 16:44 20:51
+23:26 22:55 10:47 21:28 12:19 23:36 19:46 13:37 17:32 17:43
+12:18 14:50 16:37 19:16 13:45 21:30 13:23 15:38 19:30 10:54
+23:27 11:44 18:41 19:26 10:47 21:38 10:29 20:19 16:12 13:25
+15:17 19:23 11:12 20:12 17:44 17:31 16:20 23:53 11:24 20:52
+21:12 14:50 15:34 13:12 16:49 10:39 23:50 14:37 21:13 17:35
+23:19 22:55 23:42 19:54 10:26 17:27 10:22 21:32 13:30 12:35
+20:32 22:38 23:49 10:34 18:58 14:35 14:54 21:46 23:33 16:24
+22:57 10:25 13:41 18:10 18:39 10:29 18:59 15:19 10:17 20:49
+16:19 19:38 20:33 19:39 14:38 16:20 10:14 16:11 22:32 14:36
+16:16 19:24 11:43 18:42 23:39 21:25 17:50 17:49 10:41 13:17
+meals nutrient plant chicken soup seafood cheese animal vegetable fruit
+pasta restaurant milk cooking nutrition provender provender soup cooking chicken
+meat pasta fruit meals nutrient cheese plant nutrient fruit nourishment
+vegetable provender sushi victuals fruits vegetables cereal soup chicken meat soup
+restaurant fruit provender soup rice sushi vegetable eat sushi eat
+seafood cereal nutrition edible pasta cheese beef fruits vegetables milk fruits vegetables
+edible eat vegetable seafood victuals cooking meals nutrient animal fruits vegetables
+nutrient rice beef animal vegetable meals drinks chicken vegetable rice
+edible chicken animal edible nourishment chicken fruits vegetables chicken meat milk
+meal meals edible victuals fruits vegetables chicken nutrition plant soup seafood
+nourishment sushi soup pasta drinks edible nourishment nutrient provender cheese
+PeachPuff Pink White PaleTurquoise Black Feldspar Goldenrod Teal MediumVioletRed DarkFuchsia
+PaleVioletRed White Gray Thistle Blue PapayaWhip DeepSkyBlue VioletRed PowderBlue DarkFuchsia
+Silver LimeGreen GhostWhite LawnGreen DarkRed Lime White MediumPurple LightSteelBlue LightGray
+LightSlateGray Wheat DarkGray SteelBlue DarkOrange SandyBrown White Beige LavenderBlush Gray
+MediumVioletRed Crimson DarkTurquoise Cyan LightSkyBlue Gainsboro DarkSlateGray DeepPink MediumTurquoise Coral
+IndianRed MediumPurple MediumBlue PaleTurquoise Gold Feldspar Silver Crimson Coral Goldenrod
+OldLace Indigo LightGray Aquamarine RoyalBlue Chocolate Violet Navy SkyBlue SlateBlue
+Azure OldLace PaleGreen WhiteSmoke SlateBlue DarkViolet DarkSeaGreen CadetBlue Cornsilk DarkOrange
+DarkSeaGreen White LightSeaGreen DimGray DarkSeaGreen MediumSeaGreen AntiqueWhite SkyBlue Pink MediumPurple
+Peru OliveDrab PaleGoldenrod Chartreuse Snow MediumBlue SeaGreen MediumSlateBlue Crimson DarkFuchsia
+NavajoWhite Thistle Violet DarkGoldenrod Olive Peru LightCoral DarkTurquoise LightGreen Chocolate
+computercircuit watch mobiledevice game social mainframe hardware laptop device computercide
+software android calculator computing data inputdevice cell xbox dataconverter automation
+arithmetic console electrical compatible sliderule hardware arithmetic hardware computerhardware watch
+von neumann machine social imac electronics floppydisk bit floppydisk server compatible android
+astrolabe diskette cell bit machine proprietary computercircuit mechanicalcomputer astrolabe desktop
+android console electronics integratedcircuit von neumann machine laptop tablet automation spyware machinecode
+cybertechnology computation arithmetic vacuumtube console digitalcomputer hardware dataconverter inputdevice computerprogramming
+visualdisplayunit social centralprocessing unit imac proprietary diskette machinecode screen pc escapekey
+memory incompatible electromechanical monitor tablet cybertechnology escapekey programming floppydisk visualdisplayunit
+screen mainframe cell internet internet escapekey pc mobile mobiledevice digital
+desktop transistor downloader daw abacus von neumann machine internet data digitalaudioplayer mobile
+Ximenia Honeydew Cashew Plum Currant Mulberry Akebi Gooseberry Currant Pomelo
+Pawpaw Rambutan  Cantaloupe Loganberry Persimmon Coconut Ackee Cherry Pineapple Melon
+Akebi Quince Strawberry Breadfruit Longan Canistel Currant Avocado Loganberry Melon
+Araza Ackee Tangerine Mulberry Melon Mandarine Açaí Mangosteen Acerola Lime
+Lychee Gooseberry Huckleberry Tayberry Cloudberry Persimmon Cherry Marionberry Kiwifruit Elderberry
+Breadfruit Plum Grape Araza Acerola Soursop Raspberry Cempedak Tamarillo Akebi
+Pawpaw Breadfruit Acerola Feijoa Gooseberry Soursop Tayberry Araza Fig Grapefruit
+Cherimoya Loquat Plumcot Cloudberry Damson Pineberry Papaya Loganberry Soursop Loquat
+Cherimoya Jujube Blackberry Papaya Persimmon Cloudberry Raspberry Orange Lychee Mulberry
+Abiu Breadfruit Mandarine Nectarine Raspberry Plantain Jambul Tangelo Lychee Salmonberry
+Apple Acerola Pomegranate Açaí Feijoa Lychee Cashew Lychee Apple Sapodilla
+reckless persecution solicit scandal mendacity tarnish reckless demagogue deception conceal
+bamboozle denigrate solicit ignorant illegal illicit opportunist feud infringement scandalous
+defamation bribe persecution anonymity partial sloth alliance persecution retaliation reckless
+unethical privilege mercurial chicanery illegal influence tainted embezzlement defamation deficit
+recrimination scandalous reckless assail retaliation assail sloth tarnish illicit corruption
+ignorant plutocracy illicit benefit deficit lobby sloth integrity scapegoat scandalous
+accusation beleaguer lobby deny massive privilege expose malfeasance demagogue defamation
+feud partial patronage incident laconic career incident dictatorship cadre cadre
+cadre scandalous lobby retaliation tarnish assail revelation denigrate plagiarism rebut
+laconic infringement debacle tycoon deficit blame tarnish regime subterfuge assail
+corruption scandalous fray chicanery tarnish accusation deception scapegoat unjust plutocracy

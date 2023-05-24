@@ -1,0 +1,99 @@
+DarkGray RosyBrown BlanchedAlmond MediumOrchid CornflowerBlue Tan LightSkyBlue Navy Olive CornflowerBlue
+Gold DarkSlateBlue Fuchsia SaddleBrown DarkSalmon MistyRose DarkFuchsia PapayaWhip Linen DarkGoldenrod
+DarkSalmon MediumAquamarine Beige LavenderBlush WhiteSmoke OliveDrab DeepPink MediumOrchid SlateBlue NavajoWhite
+MediumOrchid LightGreen LightGoldenrodYellow Beige DarkSlateGray Ivory MidnightBlue Blue MediumSpringGreen MediumTurquoise
+AliceBlue Maroon Navy Green DarkKhaki LightGreen SandyBrown RoyalBlue LightSteelBlue Yellow
+Orchid LemonChiffon DarkTurquoise Tomato WhiteSmoke Silver DarkTurquoise LightSeaGreen DodgerBlue Tan
+DarkViolet Silver DarkSlateGray Chartreuse LemonChiffon OliveDrab LightSeaGreen DarkSlateBlue Tan NavajoWhite
+DarkBlue Honeydew SkyBlue SlateBlue Cyan LightSteelBlue Gold OldLace Snow Red
+MediumTurquoise RosyBrown Purple DarkViolet LightSalmon GreenYellow DarkViolet Moccasin OldLace Azure
+PaleGoldenrod IndianRed OliveDrab Tan SaddleBrown BlanchedAlmond GhostWhite Peru PaleTurquoise Tan
+Lime Seashell Orchid DarkTurquoise AntiqueWhite SpringGreen MediumVioletRed Salmon SlateBlue SlateGray
+Rack Futon Sideboard Tallboy cubbies Light Hassock Wardrobe Pliant Headboard
+Cushion Island Wicker Footstool Easel Island Bookshelf Footstool Secretary Mattress
+Sofa Sofa Credenza Shelf Footstool Seat Secretary Armoire Seat Baroque
+Couch Clock Dresser Crib Lamp Mirror Sconce Light Armoire Stool
+Valet Breakfront Pew Marquetry Screen Drapery Bench Chest Secretary Mattress
+Vanity Pew Cradle Divan Headboard Lounger Antique Sofabed Tuffet Tallboy
+Applique Mantle Table Fluting Furnishings Footrest Upholstery Chandelier Cart Cabriole
+Chair Cabriole Tansu Cushions Bowfront Secretary Throne Footrest Highchair Fan
+Ottoman Cupboard Bowfront Footstool Regency Sconce Rug Sideboard Bookcase Couch
+Lounger Lintel Jardinière Cushion Mirror Loveseat Bookcase Curtains Waterbed Light
+Chandelier Armchair Sofabed Inlay Furniture Footrest Rug Footstool Secretary Bureau
+temperature__23c temperature__6c temperature__74c temperature__86c temperature__3c temperature__129c temperature__69c temperature__65c temperature__31c temperature__140c
+temperature__8c temperature__39c temperature__8c temperature__6c temperature__141c temperature__88c temperature__119c temperature__137c temperature__57c temperature__30c
+temperature__24c temperature__74c temperature__53c temperature__36c temperature__87c temperature__138c temperature__71c temperature__54c temperature__33c temperature__139c
+temperature__65c temperature__85c temperature__105c temperature__3c temperature__92c temperature__130c temperature__42c temperature__95c temperature__92c temperature__73c
+temperature__8c temperature__100c temperature__30c temperature__6c temperature__91c temperature__136c temperature__138c temperature__70c temperature__41c temperature__93c
+temperature__68c temperature__131c temperature__59c temperature__71c temperature__8c temperature__14c temperature__118c temperature__77c temperature__7c temperature__16c
+temperature__138c temperature__77c temperature__146c temperature__21c temperature__52c temperature__6c temperature__4c temperature__123c temperature__50c temperature__26c
+temperature__21c temperature__53c temperature__85c temperature__23c temperature__3c temperature__68c temperature__58c temperature__82c temperature__33c temperature__111c
+temperature__16c temperature__39c temperature__49c temperature__59c temperature__85c temperature__123c temperature__120c temperature__58c temperature__5c temperature__16c
+temperature__90c temperature__145c temperature__53c temperature__11c temperature__46c temperature__105c temperature__116c temperature__14c temperature__79c temperature__71c
+temperature__14c temperature__14c temperature__26c temperature__136c temperature__132c temperature__124c temperature__41c temperature__116c temperature__147c temperature__119c
+vertebrate fantasy tame iguana dog embryo cat octopuses jellyfish carnivore
+sensual poikilotherm rabbit eukaryotic octopuses clams fantasy bird rabbit metazoan
+pigs bird zoo demon varmint livestock reptiles carnivore fantasy primate
+ladybug tufted vertebrate varmint mammal metazoan elephants elephants zoology scavenger
+carnivore pig object insectivorous biped animals hourse pig fauna livestock
+invertebrate invertebrate bobcat animalkingdom insectivore dinosaur primate eukaryotic exoticanimals llamas
+protist dinosaur animal welfare porifera cat sheep exoticanimals insect embryo dinosaur
+darter meat beast tufted poikilotherm clams bird demon pet fantasy
+zoo tiger dog biped sheep animatebeing environmental insectivore monster bird
+animalia pigs plant elephants amphibians dinosaur iguana porifera heterotroph animals
+amphibians thoroughbred eukaryotic cat reptile marineanimal varmint insect fleshly reptile
+PrimeNumber_443 PrimeNumber_101 PrimeNumber_163 PrimeNumber_271 PrimeNumber_163 PrimeNumber_457 PrimeNumber_41 PrimeNumber_379 PrimeNumber_239 PrimeNumber_379
+PrimeNumber_61 PrimeNumber_193 PrimeNumber_263 PrimeNumber_191 PrimeNumber_83 PrimeNumber_61 PrimeNumber_353 PrimeNumber_13 PrimeNumber_83 PrimeNumber_311
+PrimeNumber_467 PrimeNumber_281 PrimeNumber_5 PrimeNumber_367 PrimeNumber_13 PrimeNumber_149 PrimeNumber_317 PrimeNumber_2 PrimeNumber_449 PrimeNumber_487
+PrimeNumber_113 PrimeNumber_367 PrimeNumber_109 PrimeNumber_2 PrimeNumber_79 PrimeNumber_227 PrimeNumber_379 PrimeNumber_311 PrimeNumber_13 PrimeNumber_191
+PrimeNumber_499 PrimeNumber_283 PrimeNumber_43 PrimeNumber_293 PrimeNumber_509 PrimeNumber_2 PrimeNumber_107 PrimeNumber_467 PrimeNumber_479 PrimeNumber_47
+PrimeNumber_311 PrimeNumber_499 PrimeNumber_79 PrimeNumber_337 PrimeNumber_151 PrimeNumber_211 PrimeNumber_179 PrimeNumber_499 PrimeNumber_523 PrimeNumber_17
+PrimeNumber_193 PrimeNumber_389 PrimeNumber_103 PrimeNumber_241 PrimeNumber_349 PrimeNumber_157 PrimeNumber_11 PrimeNumber_107 PrimeNumber_131 PrimeNumber_367
+PrimeNumber_13 PrimeNumber_97 PrimeNumber_223 PrimeNumber_61 PrimeNumber_43 PrimeNumber_211 PrimeNumber_347 PrimeNumber_349 PrimeNumber_419 PrimeNumber_107
+PrimeNumber_223 PrimeNumber_431 PrimeNumber_349 PrimeNumber_401 PrimeNumber_251 PrimeNumber_181 PrimeNumber_163 PrimeNumber_461 PrimeNumber_13 PrimeNumber_17
+PrimeNumber_461 PrimeNumber_457 PrimeNumber_541 PrimeNumber_43 PrimeNumber_293 PrimeNumber_499 PrimeNumber_53 PrimeNumber_67 PrimeNumber_293 PrimeNumber_131
+PrimeNumber_37 PrimeNumber_149 PrimeNumber_139 PrimeNumber_239 PrimeNumber_19 PrimeNumber_449 PrimeNumber_311 PrimeNumber_113 PrimeNumber_367 PrimeNumber_263
+action government criminal offenders robbery muggings victim gang criminals action
+crime law brutality liberty trafficking pirate offenses cases cases brutality
+mutilation rape cybercrime serial suspense corrupt law-breaking fraud felony death
+threats sentence hijack homelessness action war arrest structuralism supernatural punishment
+mafia arrest law serial heist revenge justice homicides barratry victim
+drugs unsolved misdemeanor thrillers fraud arrest cases legal murder mutilation
+racism abuse robbery crime brutality homicides kill slayings crime felony
+brutality smuggle gangsterism safety arsons transgression muggings offense smuggle unsolved
+revenge gangsterism mutilation trial mutilation arsons guilt legal abuse human
+skyjack safety trafficking threats evidence drugs mob murder arsons muggings
+revenge detective accident punishment structuralism unsolved legal bloodshed spy sentence
+nourishment fruits vegetables soup sushi nutrient cereal eat fruits vegetables drinks eat
+restaurant drinks eat drinks cheese chicken sushi cereal sushi rice
+eat fruits vegetables nourishment eat cereal nutrition provender drinks meat cheese
+plant seafood beef meal pasta chicken meals fruits vegetables fruits vegetables meat
+cheese milk animal pasta milk fruit victuals edible nourishment beef
+nourishment pasta milk provender beef drinks sushi rice eat chicken
+meals soup seafood animal nourishment beef fruit fruit fruits vegetables vegetable
+victuals nutrient soup fruits vegetables vegetable plant drinks plant vegetable cooking
+beef meals plant chicken meat pasta cheese sushi meat meals
+drinks meat vegetable meals drinks cereal victuals meat sushi plant
+beef cooking restaurant victuals vegetable fruit seafood seafood meat meals
+homecomputer electronics astrolabe computing antivirus homecomputer computerprogramming device smartphone imac
+camera android monitor virtualreality centralprocessing unit browser information incompatible microcomputer computing
+supercomputer escapekey computation floppydisk turingmachine turingmachine cell mobiledevice turingmachine calculator
+machine laptop floppydisk computerhardware pc downloader laptop calculator eniac office
+watch browser computerprogramming inputdevice daw android von neumann machine homecomputer computercircuit compatible
+expansionslot turingmachine game mainframe computerprogram ibook digitalaudioplayer imac mechanicalcomputer tablet
+computerhardware server mainframe computation memory mobile server mechanicalcomputer transistor electrical
+homecomputer programmer keyboard cell computerscience calculator daw ibook daw diskette
+game phone digitalaudioplayer phone astrolabe digitalaudioplayer centralprocessing unit device desktop daw
+desktoppcs mainframe social digitalcomputer processor bit supercomputer imac programmer programming
+router machines downloader homecomputer personalcomputer automation visualdisplayunit vacuumtube cell electronics
+12:30 10:39 22:48 23:52 22:26 10:16 18:32 16:13 18:59 17:10
+20:21 19:26 14:25 12:14 14:44 15:12 12:41 11:46 18:57 17:48
+14:15 15:28 16:17 11:41 23:59 16:10 12:51 12:13 17:47 19:41
+13:14 13:56 20:48 21:18 22:32 11:33 15:30 15:55 13:13 13:33
+12:10 11:16 21:10 16:56 18:36 23:23 18:57 23:51 23:45 22:24
+17:17 15:58 15:38 11:58 10:44 17:59 11:35 20:32 12:45 16:43
+16:49 16:25 12:56 11:44 16:55 11:28 18:23 21:58 17:56 20:34
+23:44 15:13 13:46 15:59 19:54 19:17 17:36 17:26 12:54 22:44
+16:24 20:29 21:18 11:22 15:44 17:45 14:16 16:58 18:54 22:44
+19:54 12:52 16:39 18:39 10:37 12:38 15:11 22:48 17:49 10:59
+19:47 11:47 19:46 11:21 10:25 23:54 21:57 17:51 18:31 16:50

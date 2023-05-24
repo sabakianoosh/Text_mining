@@ -1,0 +1,99 @@
+SeaGreen Red Red Chocolate Silver Azure Turquoise SpringGreen Indigo DarkRed
+Sienna Yellow SandyBrown Khaki Maroon Maroon Goldenrod DarkOrange IndianRed DarkTurquoise
+LightYellow PapayaWhip Turquoise Chocolate PaleTurquoise Plum Plum DarkFuchsia DeepPink DarkOrchid
+LimeGreen DarkSeaGreen LightSlateGray CadetBlue MediumVioletRed MediumBlue LightSteelBlue Navy LightSteelBlue LightSteelBlue
+Tomato DarkSalmon Teal Lime PeachPuff CadetBlue Linen DarkRed SlateBlue LightSlateGray
+MediumSlateBlue Fuchsia WhiteSmoke Firebrick SandyBrown Khaki WhiteSmoke Black Teal BlueViolet
+LemonChiffon DarkViolet MediumSpringGreen SlateGray SteelBlue ForestGreen MidnightBlue Burlywood White Navy
+Feldspar FloralWhite ForestGreen LawnGreen LightSeaGreen Fuchsia Lime MediumVioletRed DarkSlateGray CornflowerBlue
+Aquamarine Maroon White Lime DarkGoldenrod PaleTurquoise DarkRed MediumPurple SkyBlue LightCyan
+DarkBlue PaleVioletRed DarkOrange OldLace SlateBlue Olive FloralWhite BlueViolet DarkOrchid Maroon
+Silver CadetBlue CornflowerBlue DarkRed MediumAquamarine Cyan DeepSkyBlue LawnGreen OrangeRed CadetBlue
+Island Cabinet Chandelier Island Fauteuil Mantle Lintel Bookcase Chest Jardinière
+Sofabed Tallboy Frieze Cradle Cart Mirror Tansu Tansu Vitrine Footrest
+Mattress Cart Volute Secretary Bed cubbies Mirror Castor Armchair Cabinet
+Fluting Pliant Bergere Tuffet Credenza Wheelchair Hammock Furnishings Rattle Cabriole
+Bureau Throne Cushions Pew Air-conditioner Zitan Hassock Fluting Lintel Vitrine
+Chair Mattress Bergere Clock Divan Rack Hassock Dresser Sofabed Loveseat
+Cart Sofa Pew Divan Inlay Hutch Castor Curtains Credenza Hassock
+Cabinet Hokey Armoire Baroque Recliner Hammock Cradle Lamp Chest Hokey
+Drapes Armoire Recliner Fauteuil Cradle Bench Etagère Table Headboard Lintel
+Settee Applique Screen Tuffet Sofa Baroque Rattle Armoire Crib Vitrine
+cubbies Hutch Mattress Tuffet Dresser Jardinière Etagère Island Fauteuil Bassinet
+17:31 18:43 13:25 18:51 21:35 21:48 15:33 22:21 17:16 20:41
+17:43 17:34 21:23 14:52 11:11 17:46 13:57 21:15 14:24 16:40
+10:43 20:40 18:17 15:11 13:38 18:46 16:43 13:15 10:20 10:34
+18:27 14:19 10:44 13:14 17:15 19:57 23:11 11:41 10:39 12:28
+14:11 18:16 18:34 23:23 13:33 12:21 19:50 23:55 16:14 15:56
+20:26 10:40 11:17 15:45 20:19 15:37 14:43 18:33 14:56 20:44
+11:44 22:26 23:31 23:12 16:57 12:15 23:34 13:10 13:49 21:30
+14:41 15:48 23:45 21:17 18:14 10:32 15:32 10:27 10:56 22:17
+12:34 21:59 20:16 23:58 22:28 17:10 22:10 20:54 14:58 11:27
+23:38 20:18 16:41 23:36 22:39 18:33 15:26 22:56 19:54 20:18
+12:30 12:56 23:22 21:55 12:17 17:28 15:18 14:34 19:46 23:51
+mafia conspiracy racism detective offence mystery fraud noir criminals crisis
+government barratry guilty drama corrupt transgression evidence suspense trial slayings
+shoplift missing violence serial racism snitching criminality bloodshed punishment incarceration
+death trial brutality hijack conspiracy investigation cop slay spy skyjack
+dark terrorism homelessness hijack fraud prison gangster guilt gangs corrupt
+offence slay incarceration barratry imprisonment forensic offense crisis slayings corruption
+terrorism thrillers psychological corruption revenge mutilation heist crime crime misdemeanor
+felony terrorism skyjack story safety suspense cybercrime abuse homelessness drug
+kill forensic assault gun muggings arsons political thrillers vandalism evidence
+criminal theft misdemeanour homicide threats detective murder poverty assault death
+structuralism homicide mystery dark drama crisis gangs statutory drama corruption
+edible nourishment nourishment plant eat cooking plant pasta victuals fruits vegetables
+meal animal soup beef meals fruits vegetables plant seafood milk sushi
+milk victuals nourishment plant sushi beef nutrition fruits vegetables provender seafood
+drinks cooking seafood pasta cooking beef plant edible pasta sushi
+fruits vegetables sushi edible vegetable soup sushi fruit chicken fruit edible
+rice eat meal vegetable provender chicken beef soup soup animal
+fruit restaurant eat seafood soup eat chicken meal nourishment cheese
+nutrition milk soup meal meals fruits vegetables restaurant meal vegetable eat
+drinks nourishment milk rice meal pasta rice fruits vegetables drinks victuals
+meat vegetable plant nutrient meal pasta fruit meal eat meat
+pasta seafood meal restaurant cheese sushi meal fruits vegetables nourishment meat
+BinaryNumber_0110000 BinaryNumber_1001010 BinaryNumber_0001100 BinaryNumber_0001110 BinaryNumber_1011111 BinaryNumber_1100010 BinaryNumber_0010010 BinaryNumber_0101000 BinaryNumber_1010111 BinaryNumber_1001010
+BinaryNumber_0101111 BinaryNumber_0110010 BinaryNumber_0001100 BinaryNumber_1001001 BinaryNumber_0011001 BinaryNumber_0000111 BinaryNumber_0110110 BinaryNumber_1011011 BinaryNumber_0101101 BinaryNumber_0111101
+BinaryNumber_1001011 BinaryNumber_0001110 BinaryNumber_0001111 BinaryNumber_1000101 BinaryNumber_1001011 BinaryNumber_1011011 BinaryNumber_1001100 BinaryNumber_1011000 BinaryNumber_0010110 BinaryNumber_0011011
+BinaryNumber_1010011 BinaryNumber_0110001 BinaryNumber_0101011 BinaryNumber_1010010 BinaryNumber_0110011 BinaryNumber_0000001 BinaryNumber_1001111 BinaryNumber_0001101 BinaryNumber_0100011 BinaryNumber_0100100
+BinaryNumber_1000111 BinaryNumber_0110111 BinaryNumber_1011011 BinaryNumber_0001010 BinaryNumber_0000110 BinaryNumber_0111101 BinaryNumber_1100010 BinaryNumber_0110010 BinaryNumber_0011110 BinaryNumber_1011010
+BinaryNumber_0010001 BinaryNumber_1010010 BinaryNumber_1000010 BinaryNumber_0010011 BinaryNumber_1100011 BinaryNumber_1010011 BinaryNumber_1010000 BinaryNumber_0010100 BinaryNumber_1001101 BinaryNumber_1001010
+BinaryNumber_1000001 BinaryNumber_0001011 BinaryNumber_1011100 BinaryNumber_0110111 BinaryNumber_0101001 BinaryNumber_1000110 BinaryNumber_0011001 BinaryNumber_1010101 BinaryNumber_0100011 BinaryNumber_0010111
+BinaryNumber_0100100 BinaryNumber_0010111 BinaryNumber_0010000 BinaryNumber_0000010 BinaryNumber_0100100 BinaryNumber_0100101 BinaryNumber_1001011 BinaryNumber_0111010 BinaryNumber_1010010 BinaryNumber_1010001
+BinaryNumber_0010001 BinaryNumber_1011000 BinaryNumber_0010100 BinaryNumber_1010111 BinaryNumber_1011101 BinaryNumber_0101001 BinaryNumber_0000000 BinaryNumber_0101000 BinaryNumber_0110011 BinaryNumber_0001010
+BinaryNumber_0011000 BinaryNumber_0001011 BinaryNumber_1000001 BinaryNumber_0011100 BinaryNumber_1100000 BinaryNumber_1001110 BinaryNumber_1000011 BinaryNumber_0110100 BinaryNumber_1000011 BinaryNumber_0111010
+BinaryNumber_0101011 BinaryNumber_0101101 BinaryNumber_0100110 BinaryNumber_0101111 BinaryNumber_1100011 BinaryNumber_0000101 BinaryNumber_0100011 BinaryNumber_0100011 BinaryNumber_1000001 BinaryNumber_1010010
+Pons Scrotum Retina Sensoryorgans Liver Tonsils Tongue Lens Ossicles Cornea
+Tongue Cervix Vulva Largeintestine Largeintestine Mouth Thalamus Eye Interstitium Vulva
+Ovaries Ganglia Ovaries Joints Vulva Thalamus Teeth Rectum Mouth Earlobe
+Scrotum Hypothalamus Capillaries Bladder Vulva Rectum Tonsils Brain Duodenum Bone 
+Thalamus Duodenum Interstitium Joints Mouth Ileum Analcanal Gallbladder Vagina skeleton
+Thymus Larynx Cerebellum Cochlea Lungs Smallintestine Cecum Tastebuds Veins Ureter
+Spinalnerves Brain Cerebrum Capillaries Thymus Arteries Tonsils Tendons Heart Ileum
+Cervix Placenta Stomach Pharynx Ileum Arteries Larynx Iris Thalamus Retina
+Esophagus Tastebuds Bronchi Cranialnerves Cervix Tendons Pancreas Pancreas Scrotum Heart
+Mouth Veins Lungs Tastebuds Penis Tongue Earlobe Eardrum Ureter Eye
+Tendons Capillaries Veins Ovaries Scrotum Ligaments Bone  Ganglia Retina Largeintestine
+temperature__0c temperature__71c temperature__57c temperature__129c temperature__93c temperature__40c temperature__44c temperature__136c temperature__41c temperature__8c
+temperature__22c temperature__36c temperature__69c temperature__79c temperature__39c temperature__131c temperature__65c temperature__142c temperature__82c temperature__138c
+temperature__40c temperature__95c temperature__137c temperature__106c temperature__90c temperature__52c temperature__28c temperature__17c temperature__64c temperature__86c
+temperature__73c temperature__146c temperature__91c temperature__26c temperature__93c temperature__51c temperature__2c temperature__7c temperature__52c temperature__23c
+temperature__49c temperature__120c temperature__22c temperature__132c temperature__100c temperature__44c temperature__92c temperature__93c temperature__131c temperature__63c
+temperature__33c temperature__73c temperature__100c temperature__7c temperature__98c temperature__51c temperature__136c temperature__139c temperature__47c temperature__50c
+temperature__70c temperature__129c temperature__69c temperature__71c temperature__68c temperature__59c temperature__61c temperature__142c temperature__47c temperature__124c
+temperature__73c temperature__65c temperature__17c temperature__141c temperature__90c temperature__111c temperature__59c temperature__122c temperature__6c temperature__44c
+temperature__138c temperature__49c temperature__41c temperature__85c temperature__108c temperature__16c temperature__21c temperature__46c temperature__3c temperature__106c
+temperature__106c temperature__12c temperature__17c temperature__88c temperature__136c temperature__77c temperature__24c temperature__5c temperature__2c temperature__148c
+temperature__144c temperature__65c temperature__129c temperature__46c temperature__116c temperature__82c temperature__10c temperature__17c temperature__17c temperature__140c
+vacuumtube sliderule supercomputer router internet computing von neumann machine antivirus digitalaudioplayer astrolabe
+virtualreality laptopcomputer diskette bit desktop computerhardware watch monitor memory keyboard
+machines tablet router personalcomputer inputdevice computerscience von neumann machine smartphone microprocessor ibook
+smartphone antivirus computing mechanicalcomputer incompatible microprocessor office personalcomputer computerhardware software
+computing social mobile device hardware machines screen expansionslot keyboard astrolabe
+digitalcommunication pornographicimages ibook computercircuit phone desktoppcs computercide digital desktoppcs mainframe
+electromechanical microprocessor android visualdisplayunit software browser bit floppydisk programmer centralprocessing unit
+memory screen machines browser internet digitalaudioplayer electromechanical peripheral calculator computation
+transistor expansionslot monitor bit monitor desktoppcs computerhardware memory calculator downloader
+cell transistor laptop server astrolabe floppydisk astrolabe computerscience analogcomputer automation
+ibook homecomputer pc memory pornographicimages keyboard compatible memory abacus monitor

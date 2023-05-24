@@ -1,0 +1,99 @@
+BinaryNumber_1001111 BinaryNumber_0100010 BinaryNumber_0100101 BinaryNumber_0000010 BinaryNumber_0100001 BinaryNumber_0011010 BinaryNumber_0010110 BinaryNumber_0111000 BinaryNumber_1000011 BinaryNumber_0100011
+BinaryNumber_0010110 BinaryNumber_1011001 BinaryNumber_0011110 BinaryNumber_0011100 BinaryNumber_0111001 BinaryNumber_0011011 BinaryNumber_0010100 BinaryNumber_0111010 BinaryNumber_1001010 BinaryNumber_0111000
+BinaryNumber_0001110 BinaryNumber_1000001 BinaryNumber_0000001 BinaryNumber_1000011 BinaryNumber_1000010 BinaryNumber_0101100 BinaryNumber_0101101 BinaryNumber_0101101 BinaryNumber_0001110 BinaryNumber_1000000
+BinaryNumber_0111010 BinaryNumber_1010110 BinaryNumber_1010011 BinaryNumber_0100100 BinaryNumber_1100010 BinaryNumber_0001101 BinaryNumber_0110001 BinaryNumber_0110000 BinaryNumber_0010111 BinaryNumber_0010001
+BinaryNumber_0011010 BinaryNumber_1010111 BinaryNumber_0100110 BinaryNumber_0111100 BinaryNumber_0111101 BinaryNumber_0011101 BinaryNumber_0011010 BinaryNumber_0101100 BinaryNumber_0000010 BinaryNumber_1001101
+BinaryNumber_0001010 BinaryNumber_0011101 BinaryNumber_1010011 BinaryNumber_0010111 BinaryNumber_0001011 BinaryNumber_0001110 BinaryNumber_0010100 BinaryNumber_1001101 BinaryNumber_1010110 BinaryNumber_0101111
+BinaryNumber_1011010 BinaryNumber_0011111 BinaryNumber_0100101 BinaryNumber_1010010 BinaryNumber_1000100 BinaryNumber_1000001 BinaryNumber_0001100 BinaryNumber_0111100 BinaryNumber_0011011 BinaryNumber_1001100
+BinaryNumber_0110010 BinaryNumber_0001111 BinaryNumber_1001100 BinaryNumber_1000111 BinaryNumber_0101001 BinaryNumber_0011110 BinaryNumber_0100000 BinaryNumber_1010000 BinaryNumber_0100110 BinaryNumber_1001001
+BinaryNumber_0110111 BinaryNumber_0011001 BinaryNumber_0110100 BinaryNumber_1011101 BinaryNumber_1001000 BinaryNumber_0011000 BinaryNumber_1000000 BinaryNumber_0111010 BinaryNumber_0010100 BinaryNumber_1011111
+BinaryNumber_1010001 BinaryNumber_0001111 BinaryNumber_0011101 BinaryNumber_0010000 BinaryNumber_0110101 BinaryNumber_1011001 BinaryNumber_1010101 BinaryNumber_0010100 BinaryNumber_0100100 BinaryNumber_1001001
+BinaryNumber_1000011 BinaryNumber_1001100 BinaryNumber_0100011 BinaryNumber_0110011 BinaryNumber_1010101 BinaryNumber_0001100 BinaryNumber_0001011 BinaryNumber_0101011 BinaryNumber_1000010 BinaryNumber_1000100
+LightSteelBlue Snow LightGray DeepSkyBlue SlateBlue Black LightGoldenrod Thistle PaleTurquoise DarkSlateBlue
+Sienna Burlywood Crimson Burlywood DeepPink OrangeRed LightSlateBlue Blue MediumOrchid MediumPurple
+MediumSeaGreen LightBlue Gold Teal Navy LemonChiffon Sienna Gold DarkGray LemonChiffon
+IndianRed FloralWhite DarkGray MediumSpringGreen LightYellow Black Wheat LavenderBlush Gray Moccasin
+SteelBlue DarkRed OldLace Snow MidnightBlue DarkSalmon Firebrick White NavajoWhite Peru
+PaleTurquoise SeaGreen NavajoWhite Teal DarkViolet MintCream DarkFuchsia CadetBlue PaleTurquoise NavajoWhite
+SaddleBrown AliceBlue LemonChiffon LightGoldenrod DarkCyan DarkTurquoise HotPink Pink CadetBlue Purple
+Beige MediumAquamarine AliceBlue DarkTurquoise PowderBlue RosyBrown LightSlateGray DarkGray MediumOrchid Peru
+RosyBrown Green Sienna PaleTurquoise DarkFuchsia DeepPink Beige Turquoise RoyalBlue Red
+LightGreen Gray Tan DarkRed DimGray SeaGreen Feldspar Moccasin MintCream LightBlue
+Aquamarine ForestGreen Green SteelBlue PowderBlue Black PaleGreen SandyBrown AntiqueWhite Tomato
+PrimeNumber_53 PrimeNumber_19 PrimeNumber_349 PrimeNumber_281 PrimeNumber_127 PrimeNumber_449 PrimeNumber_409 PrimeNumber_43 PrimeNumber_127 PrimeNumber_7
+PrimeNumber_97 PrimeNumber_433 PrimeNumber_157 PrimeNumber_499 PrimeNumber_419 PrimeNumber_269 PrimeNumber_457 PrimeNumber_461 PrimeNumber_317 PrimeNumber_389
+PrimeNumber_347 PrimeNumber_31 PrimeNumber_263 PrimeNumber_359 PrimeNumber_43 PrimeNumber_211 PrimeNumber_103 PrimeNumber_499 PrimeNumber_239 PrimeNumber_461
+PrimeNumber_389 PrimeNumber_7 PrimeNumber_281 PrimeNumber_277 PrimeNumber_47 PrimeNumber_389 PrimeNumber_107 PrimeNumber_433 PrimeNumber_383 PrimeNumber_409
+PrimeNumber_419 PrimeNumber_227 PrimeNumber_61 PrimeNumber_509 PrimeNumber_7 PrimeNumber_223 PrimeNumber_509 PrimeNumber_97 PrimeNumber_239 PrimeNumber_67
+PrimeNumber_359 PrimeNumber_211 PrimeNumber_383 PrimeNumber_151 PrimeNumber_3 PrimeNumber_7 PrimeNumber_59 PrimeNumber_347 PrimeNumber_13 PrimeNumber_181
+PrimeNumber_257 PrimeNumber_241 PrimeNumber_379 PrimeNumber_227 PrimeNumber_37 PrimeNumber_233 PrimeNumber_37 PrimeNumber_337 PrimeNumber_139 PrimeNumber_509
+PrimeNumber_103 PrimeNumber_173 PrimeNumber_5 PrimeNumber_17 PrimeNumber_389 PrimeNumber_367 PrimeNumber_317 PrimeNumber_137 PrimeNumber_179 PrimeNumber_541
+PrimeNumber_23 PrimeNumber_59 PrimeNumber_251 PrimeNumber_17 PrimeNumber_37 PrimeNumber_409 PrimeNumber_431 PrimeNumber_431 PrimeNumber_181 PrimeNumber_523
+PrimeNumber_73 PrimeNumber_67 PrimeNumber_71 PrimeNumber_5 PrimeNumber_113 PrimeNumber_479 PrimeNumber_19 PrimeNumber_373 PrimeNumber_7 PrimeNumber_331
+PrimeNumber_389 PrimeNumber_103 PrimeNumber_167 PrimeNumber_311 PrimeNumber_17 PrimeNumber_67 PrimeNumber_463 PrimeNumber_263 PrimeNumber_349 PrimeNumber_31
+sin cop assault homicide gangster muggings slayings blackmail thrillers lift
+genocide felony offense law-breaking offenses imprisonment incarceration gangs genocide gangsterism
+poison crisis corrupt drug offenses government gang cases guilt government
+corruption offence drugs accident violence sentence rape smuggle misdemeanor gangs
+law serial pirate safety homicides rape illegal homicide statutory jurisdiction
+highjack homelessness crime justice guilt cases mystery highjack gangster homicide
+illegal gun offence thrillers shoplift threats liberty liberty terrorism serial
+mafia offenders offenses liberty threats skyjack arrest mystery thriller muggings
+abuse rape offence trafficking conspiracy dark sentence accident investigation detective
+arrest homeless corrupt suspense sin vandalism war imprisonment arsons arrest
+thrillers massacre gangsterism murders robbery corruption prison conspiracy law structuralism
+recapitulation genre beat compositions polyphony clapping dynamics speak drum melody
+hymn prelude accompaniment triple-tongue instrumentals tabs instruments hiphop interlude soulful
+bebop drum ambience language song recording movie subtonic scale tongue
+harpsichord classical story dixieland solmizate dance mp3s band studio composer
+atmosphere editing conduct concerto ska soundtracks reading bars graduation club
+artists literature electronica entertainment podcasts vinyl intonation bass singers folk
+percussion conduct talking chord harpsichord electronica funk poetry guitar recording
+saxophone drum karaoke reggae violoncello banjo bar pizzicato madrigal musical
+guitar karaoke entertainment prelude theatre subtonic noises part rock voice
+maps gospel tuba monophony streaming chaconne movie clapping wagner vinyl
+band hymn label metal talking timbre composing instrumentals podcasts release
+puppy creature mammals amphibians beast dogs scavenger puppy frog scavenger
+environmental workanimal thoroughbred beast pet fish mythical deer eukaryotic animalkingdom
+animal welfare predatoryanimal plant rabbit animatebeing pups predatoryanimal vegan eukaryotic multicellular
+porifera fauna feline mythical tiger scavenger meat fish bird meat
+heterotroph hourse mythical metazoan amphibians pigs puppy clams environmental superdog
+animal welfare feline poikilotherm protist thoroughbred environmental cat metazoan tame pitbull
+exoticanimals rabbit birds multicellular porifera mammals iguana plant predatoryanimal animalkingdom
+plant wildlife puppy plant llamas deer mythical mammals epizootic rodent
+bobcat protist object cats amphibians bird carnivore carnal monster wild
+pitbull cat pups cat fauna varmint environmental carnivore tame zooplankton
+ladybug multicellular tiger eukaryotic varmint reptile pigs sensual cat invertebrate
+electrical computerhardware supercomputer digitalcommunication centralprocessing unit desktoppcs computing proprietary digitalaudioplayer microprocessor
+console computercircuit von neumann machine xbox computerprogramming astrolabe desktopcomputer imac social astrolabe
+computercircuit transistor watch mechanicalcomputer incompatible desktoppcs smartphone desktopcomputer server desktop
+digitalcommunication transistor centralprocessing unit dataconverter spyware peripheral information electrical electrical programmer
+microprocessor cell diskette mechanicalcomputer incompatible digitalcomputer machinecode electromechanical cell centralprocessing unit
+digitalaudioplayer digitalaudioplayer sliderule abacus watch mainframe electronics microcomputer machine compatible
+digital programmer phone machinecode microcomputer tablet diskette programming information compatible
+device phone turingmachine digitalcomputer analogcomputer incompatible arithmetic xbox software incompatible
+arithmetic desktop watch digitalaudioplayer microprocessor cybertechnology peripheral transistor visualdisplayunit pornographicimages
+router mainframe homecomputer microprocessor laptop smartphone incompatible cpu desktop computing
+integratedcircuit mobiledevice laptopcomputer computerscience centralprocessing unit machines digital xbox bit sliderule
+beef pasta nutrition rice chicken nutrient meals rice milk drinks
+restaurant victuals soup nourishment cooking cereal soup vegetable fruit drinks
+nourishment nutrition fruit animal fruit cooking sushi victuals rice seafood
+drinks cheese animal seafood meat eat vegetable nutrient drinks plant
+edible meals milk animal eat fruits vegetables soup eat cheese cooking
+meals pasta meat cheese nutrient cheese edible edible fruit drinks
+eat drinks pasta meat pasta cheese rice eat animal vegetable
+fruits vegetables fruit beef drinks rice nutrient meal chicken nutrient edible
+cheese restaurant milk vegetable soup animal cooking nutrition fruits vegetables cheese
+pasta drinks soup beef plant meal meals eat nourishment restaurant
+soup soup vegetable restaurant eat sushi cooking nutrient eat fruit
+Tayberry Apricot Fig Nectarine Pawpaw Lime Grapefruit Apricot Cashew Honeydew
+Cashew Clementine Honeyberry Peach Clementine Ackee Tangerine Blackberry Longan Damson
+Lulo Acerola Banana Currant Tamarillo Jambul Gooseberry Mulberry Nectarine Raisin
+Rambutan  Tangelo Breadfruit Plantain Blackcurrant Guava Tayberry Avocado Kiwifruit Nectarine
+Jujube Cherry Boysenberry Raisin Pineapple Jackfruit Lemon Cranberry Grapefruit Lime
+Mandarine Raisin Cherimoya Quince Blueberry Tayberry Mandarine Jackfruit Coconut Canistel
+Salmonberry Breadfruit Lemon Lemon Nectarine Date Strawberry Coconut Araza Apricot
+Currant Blackcurrant Pineberry Orange Loquat Acerola Kumquat Strawberry Honeydew Orange
+Tamarillo Watermelon Araza Jambul Loquat Clementine Kumquat Papaya Tayberry Lulo
+Cempedak Lemon Tamarillo Pear Tangerine Marionberry Papaya Papaya Honeydew Boysenberry
+Breadfruit Peach Pomegranate Boysenberry Peach Mangosteen Akebi Sapote Kumquat Nectarine

@@ -1,0 +1,99 @@
+BlueViolet Fuchsia MediumPurple MediumBlue MediumOrchid LightCoral MediumSeaGreen GreenYellow DarkRed MediumVioletRed
+LightSteelBlue Firebrick NavajoWhite Lime WhiteSmoke Plum DeepSkyBlue LightYellow IndianRed DarkViolet
+DarkSeaGreen FloralWhite Cornsilk DarkOrchid White LavenderBlush DeepSkyBlue Peru Bisque RosyBrown
+DodgerBlue DodgerBlue Linen HotPink DarkBlue LightGoldenrod Gray MediumAquamarine AliceBlue Goldenrod
+DarkViolet Silver Salmon Maroon DarkOrchid RoyalBlue SpringGreen MistyRose Violet Brown
+LightYellow LightSkyBlue PaleVioletRed SaddleBrown DeepSkyBlue SkyBlue Salmon MistyRose DarkFuchsia LightPink
+Sienna Peru OliveDrab WhiteSmoke GreenYellow Burlywood MediumSlateBlue PaleGreen MediumAquamarine DarkOrange
+DarkSeaGreen BlanchedAlmond PeachPuff Turquoise DarkOrange DarkKhaki MediumSeaGreen SteelBlue CornflowerBlue Moccasin
+Fuchsia LightSteelBlue Gray DodgerBlue DarkViolet PapayaWhip Lime DarkSlateBlue Maroon IndianRed
+Blue DarkCyan Aquamarine Aquamarine DeepPink SkyBlue LightSteelBlue LightSeaGreen White Bisque
+DarkViolet Navy CadetBlue DarkSlateGray Violet DarkCyan Lime LemonChiffon MistyRose MediumBlue
+temperature__90c temperature__27c temperature__138c temperature__109c temperature__79c temperature__4c temperature__23c temperature__26c temperature__146c temperature__148c
+temperature__12c temperature__120c temperature__59c temperature__28c temperature__26c temperature__2c temperature__27c temperature__5c temperature__24c temperature__31c
+temperature__11c temperature__124c temperature__28c temperature__58c temperature__58c temperature__56c temperature__120c temperature__146c temperature__87c temperature__22c
+temperature__122c temperature__53c temperature__123c temperature__58c temperature__116c temperature__23c temperature__49c temperature__8c temperature__7c temperature__54c
+temperature__39c temperature__88c temperature__106c temperature__70c temperature__91c temperature__68c temperature__40c temperature__123c temperature__112c temperature__130c
+temperature__31c temperature__56c temperature__119c temperature__86c temperature__87c temperature__137c temperature__51c temperature__54c temperature__50c temperature__131c
+temperature__141c temperature__31c temperature__90c temperature__3c temperature__63c temperature__95c temperature__74c temperature__4c temperature__6c temperature__122c
+temperature__6c temperature__108c temperature__111c temperature__82c temperature__42c temperature__82c temperature__79c temperature__0c temperature__129c temperature__0c
+temperature__33c temperature__40c temperature__119c temperature__73c temperature__11c temperature__144c temperature__28c temperature__59c temperature__147c temperature__24c
+temperature__85c temperature__122c temperature__85c temperature__34c temperature__91c temperature__79c temperature__93c temperature__98c temperature__77c temperature__71c
+temperature__46c temperature__140c temperature__88c temperature__65c temperature__57c temperature__144c temperature__130c temperature__74c temperature__26c temperature__3c
+vegetable plant provender drinks eat animal victuals cooking provender rice
+meat milk edible restaurant sushi cereal fruits vegetables cheese plant edible
+meal edible milk meal restaurant rice rice nutrition edible nutrient
+fruits vegetables cheese milk nutrition drinks milk drinks nutrition rice eat
+eat cereal beef meal soup meal milk milk meals drinks
+rice cereal nutrient soup nutrient victuals seafood meat chicken meal
+nutrition meat animal seafood fruit provender nourishment rice chicken cheese
+vegetable provender nourishment provender chicken plant victuals nutrition eat soup
+fruit cooking soup cooking seafood cereal drinks cereal sushi meals
+fruit cooking animal rice animal cheese fruits vegetables provender drinks animal
+plant drinks plant provender cereal drinks fruits vegetables nutrition chicken beef
+PrimeNumber_523 PrimeNumber_359 PrimeNumber_349 PrimeNumber_433 PrimeNumber_281 PrimeNumber_211 PrimeNumber_463 PrimeNumber_523 PrimeNumber_409 PrimeNumber_41
+PrimeNumber_337 PrimeNumber_419 PrimeNumber_293 PrimeNumber_257 PrimeNumber_367 PrimeNumber_151 PrimeNumber_157 PrimeNumber_107 PrimeNumber_233 PrimeNumber_307
+PrimeNumber_239 PrimeNumber_271 PrimeNumber_509 PrimeNumber_419 PrimeNumber_313 PrimeNumber_433 PrimeNumber_349 PrimeNumber_47 PrimeNumber_73 PrimeNumber_89
+PrimeNumber_263 PrimeNumber_11 PrimeNumber_439 PrimeNumber_401 PrimeNumber_331 PrimeNumber_29 PrimeNumber_19 PrimeNumber_379 PrimeNumber_401 PrimeNumber_397
+PrimeNumber_149 PrimeNumber_541 PrimeNumber_241 PrimeNumber_457 PrimeNumber_379 PrimeNumber_149 PrimeNumber_229 PrimeNumber_439 PrimeNumber_13 PrimeNumber_499
+PrimeNumber_103 PrimeNumber_139 PrimeNumber_353 PrimeNumber_499 PrimeNumber_449 PrimeNumber_479 PrimeNumber_523 PrimeNumber_281 PrimeNumber_397 PrimeNumber_179
+PrimeNumber_541 PrimeNumber_433 PrimeNumber_227 PrimeNumber_71 PrimeNumber_431 PrimeNumber_367 PrimeNumber_331 PrimeNumber_251 PrimeNumber_379 PrimeNumber_29
+PrimeNumber_389 PrimeNumber_127 PrimeNumber_317 PrimeNumber_293 PrimeNumber_211 PrimeNumber_421 PrimeNumber_167 PrimeNumber_499 PrimeNumber_443 PrimeNumber_353
+PrimeNumber_17 PrimeNumber_547 PrimeNumber_349 PrimeNumber_379 PrimeNumber_23 PrimeNumber_547 PrimeNumber_461 PrimeNumber_31 PrimeNumber_47 PrimeNumber_313
+PrimeNumber_173 PrimeNumber_107 PrimeNumber_157 PrimeNumber_241 PrimeNumber_271 PrimeNumber_53 PrimeNumber_197 PrimeNumber_337 PrimeNumber_281 PrimeNumber_31
+PrimeNumber_113 PrimeNumber_397 PrimeNumber_499 PrimeNumber_19 PrimeNumber_73 PrimeNumber_419 PrimeNumber_3 PrimeNumber_43 PrimeNumber_163 PrimeNumber_307
+cell digitalcomputer android computerprogramming information desktop turingmachine laptop floppydisk turingmachine
+digitalcomputer visualdisplayunit mechanicalcomputer computerprogram microcomputer imac computercircuit cell memory peripheral
+daw router monitor browser memory internet daw algorithm computercircuit centralprocessing unit
+dataconverter automation office analogcomputer calculator personalcomputer pornographicimages microcomputer floppydisk transistor
+virtualreality von neumann machine turingmachine router processor cpu digital machine electrical microprocessor
+computerscience computation digitalaudioplayer cpu cpu machine hardware cpu keyboard screen
+programmer inputdevice digitalcomputer desktoppcs machines abacus eniac personalcomputer machine camera
+dataconverter mobiledevice pornographicimages algorithm electromechanical von neumann machine electronics pornographicimages computerprogramming machinecode
+inputdevice computercide inputdevice keyboard computation abacus computerprogramming game mechanicalcomputer screen
+integratedcircuit von neumann machine integratedcircuit camera camera virtualreality turingmachine cell microcomputer monitor
+abacus peripheral mechanicalcomputer electronics mobiledevice ibook mainframe centralprocessing unit monitor cybertechnology
+activity feature football hobby motorsports casual supersport activity rugby sportaccord
+art tennis multisport fighting position game movement skateboarding horseracing tennis
+chess hunters gymnastics offside sports pack hobbies dynamic funambulism tradition
+job funambulism hockey skylark judo company entertainment esport martial comfort
+hobby tradition motorcycling lifestyle lifestyle waterski casual events performance rugby
+club skateboarding cycling rowing cycling skylark athletics kill gym fitness
+offside entertainment frisk motorsports lark pro esport gymnastics culture exercise
+chess triathlon luge gymnastics diver game martial music kill fighting
+athletic soccer games skateboard spar dynamic bike referee soccer position
+champion esport show fast skating suit premium players soccerball triathlon
+motorsports judo champion rollick skateboarding athletics casual recreation shoot basketball
+breakable happy ill handsome better zealous splendid courageous modern smoggy
+adventurous friendly excited tasty joyous mushy glamorous disturbed evil faithful
+enthusiastic important elated muddy courageous ashamed aggressive rich adventurous amused
+rich nutty clumsy silly silly helpless real plain super nasty
+homeless blue-eyed talented tired stupid sleepy magnificent naughty mysterious agreeable
+enthusiastic hurt average proud misty wild itchy distinct expensive concerned
+hungry poor good agreeable nutty misty happy adorable expensive crazy
+tense upset enthusiastic fantastic gorgeous tasty motionless eager thankful old-fashioned
+frightened homely hurt cautious witty adventurous concerned proud fine joyous
+eager funny easy busy spotless wild vivacious quaint odd gleaming
+grieving strange creepy tough condemned splendid dead precious amused uptight
+gangs human police police legislature crisis heist war felony offenders
+muggings drama murders drugs crime homelessness accident law-breaking transgression statutory
+drug criminals gangster investigation structuralism structuralism offence misdemeanour action offense
+cop country genocide homelessness spy terrorism prison missing slay racism
+death guilt genocide justice gangster murder heist imprisonment slayings liberty
+evidence fraud skyjack criminality punishment threats cases serial punitive imprisonment
+incarceration sin smuggle blackmail safety violence vandalism bloodshed statutory racism
+noir bloodshed gangsterism imprisonment arrest offenses gangsterism victim shootings massacre
+massacre sentence safety gangs offense structuralism evidence fraud prostitution trial
+structuralism blackmail imprisonment gangster illegal rape abuse transgression revenge heist
+poison investigation corruption criminals gangs government cases trafficking spy arsons
+14:47 16:45 19:16 15:22 21:34 14:48 15:40 12:38 18:57 15:16
+10:44 21:46 14:16 16:12 14:57 22:51 13:19 11:17 16:26 15:43
+11:41 11:30 23:48 14:36 19:35 14:38 15:39 15:45 20:50 22:20
+13:10 19:58 11:16 21:14 22:32 20:47 13:51 14:14 13:58 14:10
+21:11 14:42 17:28 15:19 13:44 17:54 12:28 10:14 15:50 11:55
+21:36 10:46 19:55 22:56 11:36 18:27 19:26 16:52 14:15 16:49
+10:39 21:18 16:59 13:59 17:13 12:10 15:39 12:34 21:58 17:10
+11:27 14:18 14:51 21:53 20:53 11:49 14:22 10:38 13:34 14:54
+21:50 21:18 13:51 23:31 19:11 14:45 15:21 18:14 14:56 13:24
+19:36 20:17 18:58 12:13 19:42 20:55 12:38 16:47 19:22 16:52
+22:59 23:23 18:27 13:16 21:26 23:15 12:41 21:44 14:35 21:20

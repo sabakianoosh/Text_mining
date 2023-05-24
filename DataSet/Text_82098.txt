@@ -1,0 +1,99 @@
+BinaryNumber_0000111 BinaryNumber_0100000 BinaryNumber_0001001 BinaryNumber_1000101 BinaryNumber_1000001 BinaryNumber_1011000 BinaryNumber_0011011 BinaryNumber_0110111 BinaryNumber_1100011 BinaryNumber_1100010
+BinaryNumber_0101010 BinaryNumber_1001001 BinaryNumber_0111000 BinaryNumber_1011011 BinaryNumber_0110001 BinaryNumber_0000010 BinaryNumber_0010001 BinaryNumber_0101100 BinaryNumber_1001000 BinaryNumber_0001011
+BinaryNumber_1011101 BinaryNumber_0010011 BinaryNumber_0100000 BinaryNumber_0111010 BinaryNumber_0101011 BinaryNumber_0111101 BinaryNumber_0101101 BinaryNumber_1001100 BinaryNumber_0110100 BinaryNumber_0011111
+BinaryNumber_0110001 BinaryNumber_1010101 BinaryNumber_1100010 BinaryNumber_0001011 BinaryNumber_1011010 BinaryNumber_0011110 BinaryNumber_1000000 BinaryNumber_1010001 BinaryNumber_0010111 BinaryNumber_1100000
+BinaryNumber_0000110 BinaryNumber_1000101 BinaryNumber_1000011 BinaryNumber_0011011 BinaryNumber_0110111 BinaryNumber_0111111 BinaryNumber_0000111 BinaryNumber_0000010 BinaryNumber_0000001 BinaryNumber_1010110
+BinaryNumber_0111101 BinaryNumber_0010001 BinaryNumber_0110101 BinaryNumber_0000101 BinaryNumber_0100000 BinaryNumber_0010110 BinaryNumber_1010000 BinaryNumber_1011100 BinaryNumber_1011010 BinaryNumber_0111101
+BinaryNumber_0110001 BinaryNumber_1001001 BinaryNumber_0101000 BinaryNumber_1100001 BinaryNumber_0010100 BinaryNumber_1010010 BinaryNumber_1000001 BinaryNumber_0100000 BinaryNumber_0111010 BinaryNumber_0001010
+BinaryNumber_1011001 BinaryNumber_1001110 BinaryNumber_1001010 BinaryNumber_0001110 BinaryNumber_0101111 BinaryNumber_0110100 BinaryNumber_0101111 BinaryNumber_0001110 BinaryNumber_1010101 BinaryNumber_0101000
+BinaryNumber_0100111 BinaryNumber_1010100 BinaryNumber_1000011 BinaryNumber_0010011 BinaryNumber_0110100 BinaryNumber_0100000 BinaryNumber_0001010 BinaryNumber_0100000 BinaryNumber_0101101 BinaryNumber_0110000
+BinaryNumber_1010011 BinaryNumber_1000011 BinaryNumber_0011011 BinaryNumber_0010111 BinaryNumber_1001011 BinaryNumber_0100100 BinaryNumber_1001101 BinaryNumber_0011100 BinaryNumber_0001100 BinaryNumber_0010101
+BinaryNumber_0111000 BinaryNumber_0110000 BinaryNumber_1000101 BinaryNumber_0011001 BinaryNumber_0111011 BinaryNumber_0010000 BinaryNumber_0010110 BinaryNumber_1001111 BinaryNumber_0111010 BinaryNumber_1100000
+Furniture Sconce Antique Drapery Armchair Recliner Bed Cart Furnishings Tallboy
+Zitan Lamp Cupboard Carpet Dresser Headboards Divan Fan Breakfront Cupboard
+Breakfront Bassinet Easel Pantry Upholstery Footrest Cradle Desk Desk Cabinet
+Bureau Stool Cart Seat Credenza Lounger Table Drapery Upholstery Furnishings
+Bowfront Rattle Cabriole Armoire Cradle Bench cubbies Sideboard Mirror Sofa
+Screen Pillow Bed Futon Screen Cupboard Mattress Ottoman Applique Marquetry
+Tallboy Mantle Zitan Bookshelf Console Shelf Pliant Rattle Regency Frieze
+Sofa Pew Marquetry Buffet Etagère Divan Crib Wardrobe Bookcase Settee
+Ottoman Vitrine cubbies Futon Tansu Credenza Cradle Cushion Zitan Carpet
+Mirror Pliant Couch Tallboy Armchair Bookshelf Volute Wheelchair Cradle Buffet
+Furnishings Hassock Divan Shelf Screen Inlay Settee Vanity Antique Island
+deny embezzlement covert corruption corruption scandal prestidigitation extortion opportunist resignation
+tainted solicit prestidigitation reputation malfeasance cadre scandal laconic integrity incident
+incident claim reputation infringement tarnish unethical bribe defamation recrimination intimidation
+accusation denigrate illegal infringement revelation revelation illegal anonymity subterfuge mendacity
+bamboozle prestidigitation sloth unsavory coterie parry saga defamation parry expose
+unethical unjust demagogue reckless bamboozle expose tycoon coercion beleaguer tarnish
+incident assail career chicanery manipulate fray anonymity impunity unjust revelation
+privilege fiasco authoritarian conceal privilege manipulate hypocrisy solicit illicit unjust
+deception revelation unsavory tarnish mercurial patronage rebut mercurial impunity claim
+sloth covert bribe chicanery assail unethical demagogue patronage influence deception
+revelation fiasco career blame conceal mendacity conceal malfeasance regime plutocracy
+perfect puzzled thankful doubtful calm precious gorgeous eager vast fancy
+fragile distinct odd nice itchy friendly plain sleepy courageous blushing
+innocent adventurous frail different uptight agreeable fragile wrong bad distinct
+colorful delightful blushing dangerous defeated frightened stupid cheerful sparkling drab
+terrible embarrassed glorious witty brave lazy thankful filthy alive alert
+faithful careful repulsive cruel muddy motionless bloody wrong lazy jolly
+colorful powerful motionless mysterious wrong enthusiastic courageous odd successful concerned
+attractive frightened calm helpful anxious encouraging embarrassed smiling arrogant lucky
+tense blue-eyed blue-eyed homely innocent happy tense agreeable uninterested defiant
+sleepy putrid enchanting eager drab distinct doubtful thoughtless cautious nervous
+unsightly difficult powerful zealous ugly jealous outrageous zealous puzzled smoggy
+SquareNumber_9216 SquareNumber_8464 SquareNumber_2304 SquareNumber_5329 SquareNumber_9 SquareNumber_1089 SquareNumber_1936 SquareNumber_3721 SquareNumber_441 SquareNumber_2809
+SquareNumber_1600 SquareNumber_1849 SquareNumber_5625 SquareNumber_361 SquareNumber_8649 SquareNumber_1156 SquareNumber_3364 SquareNumber_2916 SquareNumber_4900 SquareNumber_2916
+SquareNumber_1225 SquareNumber_4489 SquareNumber_6400 SquareNumber_1089 SquareNumber_4900 SquareNumber_256 SquareNumber_3025 SquareNumber_961 SquareNumber_9216 SquareNumber_676
+SquareNumber_4624 SquareNumber_7921 SquareNumber_784 SquareNumber_225 SquareNumber_6241 SquareNumber_4624 SquareNumber_625 SquareNumber_9409 SquareNumber_5625 SquareNumber_1600
+SquareNumber_784 SquareNumber_2401 SquareNumber_4 SquareNumber_1369 SquareNumber_5625 SquareNumber_6889 SquareNumber_5329 SquareNumber_3721 SquareNumber_6889 SquareNumber_2116
+SquareNumber_900 SquareNumber_1764 SquareNumber_2209 SquareNumber_3136 SquareNumber_2916 SquareNumber_1681 SquareNumber_256 SquareNumber_36 SquareNumber_8464 SquareNumber_144
+SquareNumber_36 SquareNumber_4624 SquareNumber_36 SquareNumber_7225 SquareNumber_400 SquareNumber_6561 SquareNumber_9801 SquareNumber_576 SquareNumber_4 SquareNumber_36
+SquareNumber_2500 SquareNumber_4761 SquareNumber_1024 SquareNumber_8649 SquareNumber_6561 SquareNumber_5329 SquareNumber_5625 SquareNumber_5625 SquareNumber_8836 SquareNumber_196
+SquareNumber_6084 SquareNumber_9216 SquareNumber_784 SquareNumber_5476 SquareNumber_2304 SquareNumber_676 SquareNumber_2025 SquareNumber_256 SquareNumber_10000 SquareNumber_3364
+SquareNumber_25 SquareNumber_9801 SquareNumber_4 SquareNumber_225 SquareNumber_1089 SquareNumber_10000 SquareNumber_8464 SquareNumber_4 SquareNumber_3364 SquareNumber_3249
+SquareNumber_1936 SquareNumber_16 SquareNumber_25 SquareNumber_441 SquareNumber_9801 SquareNumber_4761 SquareNumber_256 SquareNumber_121 SquareNumber_4489 SquareNumber_9025
+Azure FloralWhite AntiqueWhite DimGray Gainsboro DarkBlue SlateGray Gray Navy PeachPuff
+Goldenrod OliveDrab Snow DeepSkyBlue SaddleBrown DarkGoldenrod MediumAquamarine VioletRed HotPink MidnightBlue
+Gray MediumSeaGreen PowderBlue AntiqueWhite VioletRed Wheat Green DarkTurquoise LemonChiffon AliceBlue
+LightGoldenrod FloralWhite LavenderBlush Turquoise Honeydew MediumOrchid RosyBrown Gray DarkSeaGreen DarkBlue
+Peru DarkGoldenrod Purple LightSkyBlue Lavender AliceBlue Plum PeachPuff LemonChiffon Olive
+Navy PeachPuff Sienna LightSeaGreen Red MistyRose LightSeaGreen Violet Brown Sienna
+DodgerBlue PeachPuff CadetBlue Indigo Lime Chartreuse NavajoWhite SaddleBrown AntiqueWhite Sienna
+PowderBlue MediumOrchid Wheat Lavender Goldenrod Chocolate Crimson LightGreen MediumSlateBlue MediumVioletRed
+MediumAquamarine SteelBlue MediumSlateBlue Goldenrod SlateGray OrangeRed Navy Honeydew MediumBlue PaleVioletRed
+DarkViolet PaleGoldenrod Cyan SlateGray AntiqueWhite Crimson FloralWhite Feldspar DarkBlue IndianRed
+DarkOliveGreen DarkBlue Orange SkyBlue SeaGreen LightSlateBlue LightPink RoyalBlue Lavender Chocolate
+nutrition cereal cereal chicken cooking milk nourishment cheese sushi fruits vegetables
+meat restaurant restaurant soup animal meal cooking provender eat nutrition
+cereal vegetable milk eat nutrition rice seafood plant fruit seafood
+pasta provender fruit milk fruits vegetables pasta eat chicken cheese soup
+nutrition restaurant fruits vegetables edible sushi nourishment meals chicken provender victuals
+seafood chicken nutrition animal nutrition meal vegetable fruits vegetables chicken meal
+seafood fruit animal sushi meal fruits vegetables fruits vegetables nutrition plant fruits vegetables
+nutrition plant sushi animal meal nutrient fruit nutrition plant rice
+nourishment pasta milk victuals rice fruits vegetables animal victuals plant cereal
+sushi nutrient nutrition soup drinks drinks chicken meals meals victuals
+meat pasta drinks meat provender cereal edible eat nutrition animal
+bands improvisation carol live atonality hiphop record atonality art music jazzfunk
+musicality band folk phenomenon prelude club jazzfunk noises phenomenon soul
+audio rhapsody metre label subdivision jazzfunk talking bassline songwriter modulate
+sound tongue sound bebop rag musicality literature funk singing label
+piano film party folk bands rock interlude production media reading
+ska lyrics ensemble instrumentals symphonic silence double bass music ragtime graphics
+euphony bugle work lyric literature ragtime culture opera graphics bars
+vibe creative paleolithic madrigal rhapsody voice bugle artist texture trumpet
+soulful motif popular music motif artist atmosphere piano entertainment paleolithic symphony
+jazz accompaniment subdivision vocal lute rag concerto albums guitar tuba
+piano medicine sonata songs sforzando mediant blues roulade hymn symphonise
+ski disport company dynamic combat gym teams players rollick teams
+action job badminton tournament frolic supersport motorsports snowboarding sport lark
+wipeout team social hobbies challenge tournaments company martial physical culture
+esports schuss lifestyle offside soccerball esport skateboard run cross premium
+goal sportsmanship position players league boulder sport teams eco utility
+supersport gymnastics competitive limited fast job athlete muscle schuss wipeout
+safari frisk league comfort players sports rowing hobby position performance
+competition skateboarding rollick physical league activities dive comfort culture schuss
+lark action sportaccord skiing racing competitive waterski exercises gym tradition
+tournament athletic activity eco skateboarding physical romp limited social gym
+skateboarding standard challenge skill exercise fast sportsmanship pack fun bike

@@ -1,0 +1,99 @@
+10:45 17:22 16:16 17:48 20:14 10:46 15:53 20:45 23:23 12:59
+22:15 12:32 12:34 20:21 16:37 14:54 17:13 12:46 10:19 22:37
+16:38 20:59 20:20 13:56 18:52 23:42 23:22 11:33 20:28 22:52
+21:27 22:16 15:32 13:40 23:33 10:34 12:44 13:41 19:58 15:23
+19:30 17:39 19:29 21:43 15:36 13:48 13:22 15:18 14:20 12:50
+22:43 21:47 18:44 15:19 14:43 20:32 12:24 15:47 14:24 14:13
+16:13 13:24 16:13 21:12 22:16 11:48 19:23 17:46 14:12 15:25
+15:46 16:40 17:32 22:43 17:54 17:32 18:58 21:50 19:24 18:59
+23:33 12:48 16:19 21:18 14:11 16:46 15:33 13:15 23:21 16:21
+14:29 22:23 14:41 20:13 12:15 13:58 11:50 22:32 17:16 16:32
+13:12 20:31 16:37 23:24 15:45 23:50 15:25 13:57 15:35 14:46
+MediumTurquoise MediumSpringGreen LightGray PowderBlue LightYellow Pink Blue BlueViolet Blue Sienna
+LightCoral SlateBlue DarkSalmon LightSalmon Peru Firebrick Brown Tomato Lime Orchid
+DarkTurquoise LightCoral ForestGreen PaleGoldenrod LightSalmon PowderBlue Feldspar DarkKhaki LightGray Lime
+Turquoise Blue SteelBlue Azure Indigo Coral Indigo Chocolate Navy Chocolate
+OliveDrab Plum Red MediumSlateBlue Lavender LightYellow Navy FloralWhite LightCyan LightCoral
+Burlywood Cyan PapayaWhip SkyBlue Cornsilk DeepSkyBlue MediumTurquoise LightYellow SpringGreen MediumTurquoise
+LavenderBlush Tomato GhostWhite SkyBlue PaleTurquoise PapayaWhip DarkRed SteelBlue Crimson Coral
+FloralWhite DarkKhaki Lime Violet Plum AntiqueWhite RoyalBlue LavenderBlush PaleTurquoise DeepPink
+DarkRed DimGray MediumTurquoise Teal Cyan Olive DeepSkyBlue FloralWhite Brown Olive
+DarkFuchsia Gray LightYellow NavajoWhite Lavender Seashell PapayaWhip Pink MediumSeaGreen LightSalmon
+Turquoise DarkSlateBlue DodgerBlue DarkOliveGreen Crimson Goldenrod Thistle LightSkyBlue DarkCyan CadetBlue
+Veins Retina Teeth Ileum Bronchi Gallbladder Tonsils Lips Cecum Veins
+Liver Bone  Pharynx Pharynx Tongue Smallintestine Nerves Tongue Rectum Tonsils
+Retina Spleen Pharynx Outerear Bronchi Cervix Interstitium Pharynx Eye Largeintestine
+Lens Arteries Ear Ligaments Outerear Mouth Mouth Pharynx Tendons Arteries
+Stomach Gallbladder Retina Ileum Trachea Vagina Lips Ciliarybody Teeth Earlobe
+Vagina Smallintestine Kidneys Cochlea Veins Vagina Ileum Rectum Lungs Veins
+Lungs Thymus Jejunum Capillaries Cerebrum Cecum Lips Muscle Duodenum Outerear
+Ureter Eardrum Hypothalamus Brain Pharynx Ileum Pancreas Ciliarybody Innerear Ganglia
+Hypothalamus Tongue Mouth Mouth Muscle Ganglia Teeth Teeth Sensoryorgans Penis
+Cornea Uterus Brain Mouth Uterus Spleen Brain Smallintestine Midbrain Ovaries
+Ureter Spleen Cecum Stomach Hypothalamus Mesentery Cervix Pancreas Scrotum Thalamus
+Television Marquetry Etagère Breakfront Shelf Bergere Sconce Buffet Vanity Cot
+Easel Clock Baroque Pantry Cradle Daybed Carpet Buffet Volute Vanity
+Hokey Chandelier Tallboy Console Lintel Stool Sofa Recliner Tallboy Curtains
+Vitrine Bookshelf Footrest Pillow Bergere Drapes Fluting Cushion Screen Television
+Drapes Wardrobe Screen Cushions Headboard Etagère Mirror Pillow Desk Mattress
+Lamp Footrest Tansu Lamp Valet Pew Hokey Table Drapery Daybed
+Tuffet Curtains Tuffet Chest Zitan Armoire Shelf Armoire Bergere Loveseat
+Seat Sideboard Rack Air-conditioner Secretary Zitan Pliant Waterbed Fan Tuffet
+Chest Regency Bergere Tallboy Headboards Furniture Headboards Pew Regency Sofa
+Cushion Cabriole Wicker Screen Easel Settee Rattle Armoire Volute Fluting
+Seat Headboards Furniture Table Furnishings Headboard Upholstery Fluting Stool Hassock
+android digitalcomputer electrical arithmetic algorithm social computation desktop expansionslot chip
+social computercircuit digital dataconverter sliderule floppydisk digitalaudioplayer imac eniac information
+game ibook microcomputer daw von neumann machine cpu transistor daw daw office
+computercide keyboard inputdevice mobile pornographicimages game software internet visualdisplayunit android
+screen virtualreality android computing supercomputer office computerprogramming information electromechanical smartphone
+electromechanical integratedcircuit von neumann machine camera personalcomputer camera bit transistor screen cyber
+diskette programmer memory desktoppcs computerprogram spyware electromechanical android mechanicalcomputer desktoppcs
+keyboard virtualreality digital integratedcircuit ibook turingmachine information office calculator computing
+supercomputer imac daw console office server visualdisplayunit compatible diskette diskette
+escapekey watch integratedcircuit monitor integratedcircuit social camera downloader mobile compatible
+mobiledevice homecomputer peripheral processor arithmetic computing ibook keyboard calculator computing
+CubeNumber_512 CubeNumber_166375 CubeNumber_29791 CubeNumber_6859 CubeNumber_21952 CubeNumber_4913 CubeNumber_54872 CubeNumber_1728 CubeNumber_658503 CubeNumber_27000
+CubeNumber_125000 CubeNumber_185193 CubeNumber_941192 CubeNumber_2197 CubeNumber_328509 CubeNumber_314432 CubeNumber_9261 CubeNumber_941192 CubeNumber_125000 CubeNumber_238328
+CubeNumber_166375 CubeNumber_405224 CubeNumber_389017 CubeNumber_15625 CubeNumber_3375 CubeNumber_46656 CubeNumber_571787 CubeNumber_4096 CubeNumber_571787 CubeNumber_571787
+CubeNumber_39304 CubeNumber_729000 CubeNumber_4913 CubeNumber_373248 CubeNumber_389017 CubeNumber_729000 CubeNumber_132651 CubeNumber_103823 CubeNumber_226981 CubeNumber_79507
+CubeNumber_238328 CubeNumber_262144 CubeNumber_50653 CubeNumber_216000 CubeNumber_551368 CubeNumber_2197 CubeNumber_79507 CubeNumber_2744 CubeNumber_314432 CubeNumber_753571
+CubeNumber_85184 CubeNumber_2744 CubeNumber_2744 CubeNumber_592704 CubeNumber_262144 CubeNumber_10648 CubeNumber_438976 CubeNumber_636056 CubeNumber_195112 CubeNumber_804357
+CubeNumber_405224 CubeNumber_274625 CubeNumber_8 CubeNumber_438976 CubeNumber_64000 CubeNumber_343 CubeNumber_729 CubeNumber_328509 CubeNumber_250047 CubeNumber_117649
+CubeNumber_1331 CubeNumber_2744 CubeNumber_704969 CubeNumber_205379 CubeNumber_287496 CubeNumber_493039 CubeNumber_91125 CubeNumber_753571 CubeNumber_531441 CubeNumber_29791
+CubeNumber_79507 CubeNumber_1728 CubeNumber_753571 CubeNumber_512000 CubeNumber_753571 CubeNumber_405224 CubeNumber_343 CubeNumber_195112 CubeNumber_571787 CubeNumber_262144
+CubeNumber_166375 CubeNumber_438976 CubeNumber_614125 CubeNumber_175616 CubeNumber_185193 CubeNumber_125000 CubeNumber_103823 CubeNumber_5832 CubeNumber_2744 CubeNumber_15625
+CubeNumber_185193 CubeNumber_35937 CubeNumber_1331 CubeNumber_9261 CubeNumber_27 CubeNumber_39304 CubeNumber_778688 CubeNumber_512000 CubeNumber_19683 CubeNumber_125000
+insects chordate fish fleshly clams pups animalia feline dinosaur insect
+meat amphibians fleshly animatebeing workanimal carnivore rabbit metazoan pitbull eukaryotic
+multicellular eukaryotic bird deer raccoon frog sheep farming invertebrate cat
+vegan tame porifera vertebrate wildlife rabbit insect sensual rodent rodent
+reptile porifera wild monster pitbull scavenger llamas superdog bird bear
+raccoon tiger octopuses biped darter clams sensual animal welfare workanimal llamas
+mammal reptile protist shelter llamas heterotroph birds bird farming feline
+tufted monster pitbull animal welfare protist hourse insects animatebeing sheep pups
+carnal insectivorous animal welfare multicellular multicellular heterotroph zoo elephants dogs fauna
+pigs livestock vertebrate beast dinosaur insectivore pitbull invertebrate animalia cats
+octopuses animalkingdom rodent invertebrate pet protist frog exoticanimals multicellular iguana
+animal eat beef meat plant provender drinks drinks meals sushi
+fruits vegetables plant pasta nutrition restaurant vegetable nourishment eat chicken nutrient
+cereal nutrition restaurant drinks seafood nourishment meat restaurant milk provender
+animal vegetable fruit cereal soup animal fruit plant edible seafood
+meat rice cheese cheese vegetable provender vegetable fruits vegetables drinks plant
+vegetable nutrient fruits vegetables meal plant vegetable eat restaurant eat milk
+plant eat sushi cheese restaurant fruits vegetables sushi seafood plant animal
+meal cheese edible victuals rice pasta cheese cereal chicken chicken
+drinks seafood soup pasta fruits vegetables fruits vegetables edible fruits vegetables seafood vegetable
+nutrient pasta nourishment meat nourishment milk edible pasta soup soup
+victuals fruit nutrition rice victuals beef fruit milk meat cooking
+temperature__111c temperature__90c temperature__40c temperature__93c temperature__108c temperature__109c temperature__106c temperature__42c temperature__120c temperature__59c
+temperature__7c temperature__91c temperature__49c temperature__126c temperature__8c temperature__17c temperature__119c temperature__16c temperature__130c temperature__74c
+temperature__88c temperature__23c temperature__145c temperature__109c temperature__34c temperature__141c temperature__142c temperature__86c temperature__24c temperature__47c
+temperature__56c temperature__84c temperature__148c temperature__92c temperature__106c temperature__108c temperature__61c temperature__0c temperature__2c temperature__31c
+temperature__40c temperature__146c temperature__40c temperature__79c temperature__131c temperature__40c temperature__140c temperature__100c temperature__105c temperature__39c
+temperature__10c temperature__58c temperature__56c temperature__42c temperature__109c temperature__5c temperature__92c temperature__31c temperature__142c temperature__124c
+temperature__59c temperature__118c temperature__90c temperature__36c temperature__47c temperature__119c temperature__142c temperature__84c temperature__28c temperature__4c
+temperature__21c temperature__8c temperature__137c temperature__24c temperature__56c temperature__138c temperature__21c temperature__65c temperature__74c temperature__132c
+temperature__91c temperature__132c temperature__147c temperature__36c temperature__71c temperature__109c temperature__36c temperature__78c temperature__116c temperature__88c
+temperature__106c temperature__98c temperature__144c temperature__116c temperature__35c temperature__27c temperature__112c temperature__79c temperature__119c temperature__36c
+temperature__105c temperature__140c temperature__84c temperature__148c temperature__124c temperature__17c temperature__42c temperature__17c temperature__0c temperature__4c

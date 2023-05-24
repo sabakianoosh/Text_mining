@@ -1,0 +1,99 @@
+CubeNumber_110592 CubeNumber_74088 CubeNumber_4913 CubeNumber_195112 CubeNumber_941192 CubeNumber_195112 CubeNumber_91125 CubeNumber_97336 CubeNumber_804357 CubeNumber_636056
+CubeNumber_35937 CubeNumber_148877 CubeNumber_729 CubeNumber_132651 CubeNumber_551368 CubeNumber_389017 CubeNumber_343000 CubeNumber_9261 CubeNumber_636056 CubeNumber_97336
+CubeNumber_1728 CubeNumber_3375 CubeNumber_24389 CubeNumber_1728 CubeNumber_778688 CubeNumber_2744 CubeNumber_250047 CubeNumber_175616 CubeNumber_571787 CubeNumber_314432
+CubeNumber_15625 CubeNumber_8 CubeNumber_54872 CubeNumber_91125 CubeNumber_46656 CubeNumber_97336 CubeNumber_804357 CubeNumber_2197 CubeNumber_148877 CubeNumber_512000
+CubeNumber_857375 CubeNumber_205379 CubeNumber_343 CubeNumber_79507 CubeNumber_357911 CubeNumber_238328 CubeNumber_405224 CubeNumber_19683 CubeNumber_658503 CubeNumber_531441
+CubeNumber_185193 CubeNumber_1000 CubeNumber_39304 CubeNumber_512 CubeNumber_27 CubeNumber_85184 CubeNumber_3375 CubeNumber_185193 CubeNumber_658503 CubeNumber_19683
+CubeNumber_941192 CubeNumber_59319 CubeNumber_15625 CubeNumber_729000 CubeNumber_97336 CubeNumber_9261 CubeNumber_830584 CubeNumber_531441 CubeNumber_216000 CubeNumber_830584
+CubeNumber_91125 CubeNumber_35937 CubeNumber_493039 CubeNumber_5832 CubeNumber_4913 CubeNumber_4096 CubeNumber_195112 CubeNumber_1000 CubeNumber_17576 CubeNumber_238328
+CubeNumber_1000 CubeNumber_226981 CubeNumber_64 CubeNumber_8000 CubeNumber_68921 CubeNumber_1331 CubeNumber_216000 CubeNumber_216 CubeNumber_343000 CubeNumber_59319
+CubeNumber_250047 CubeNumber_125 CubeNumber_13824 CubeNumber_132651 CubeNumber_59319 CubeNumber_636056 CubeNumber_636056 CubeNumber_250047 CubeNumber_91125 CubeNumber_531441
+CubeNumber_29791 CubeNumber_140608 CubeNumber_140608 CubeNumber_405224 CubeNumber_24389 CubeNumber_421875 CubeNumber_474552 CubeNumber_226981 CubeNumber_704969 CubeNumber_300763
+18:24 20:58 12:58 19:26 12:44 20:30 10:38 19:33 18:50 23:14
+16:59 21:31 23:32 22:18 17:49 13:43 16:51 21:23 19:22 13:15
+12:16 13:24 17:33 18:17 17:43 12:45 12:50 11:30 15:11 10:56
+12:45 14:11 11:18 12:39 19:41 20:58 20:55 10:48 15:26 23:11
+22:26 18:40 10:47 20:10 16:52 23:54 11:15 20:52 10:24 10:21
+14:42 15:15 16:26 10:35 18:50 19:45 13:20 16:27 16:23 16:27
+13:34 15:51 21:46 17:13 21:57 10:41 14:31 17:52 14:55 15:48
+10:14 19:51 20:54 23:36 16:54 14:16 23:53 20:37 14:47 14:58
+12:41 14:56 19:53 15:19 15:25 22:21 14:27 11:36 12:50 10:48
+14:21 16:40 23:50 16:23 21:16 23:48 22:12 11:58 11:53 21:47
+17:16 12:17 19:41 16:22 19:15 17:16 22:29 21:55 19:28 19:31
+Pomegranate Blueberry Sapote Sapote Cantaloupe Cherimoya Açaí Tangelo Plum Marionberry
+Raisin Strawberry Cherry Kiwifruit Huckleberry Longan Cloudberry Cashew Damson Melon
+Ximenia Watermelon Grapefruit Gooseberry Honeydew Satsuma Melon Huckleberry Kiwano Ximenia
+Orange Feijoa Jujube Jackfruit Feijoa Yuzu Canistel Lychee Sapote Date
+Marionberry Jambul Sapodilla Nance Jambul Plum Strawberry Cherry Peach Lime
+Apricot Grape Nectarine Grapefruit Honeyberry Lemon Mandarine Honeyberry Salak Damson
+Clementine Nectarine Mangosteen Cherry Plantain Lemon Tamarind Kumquat Coconut Mandarine
+Banana Araza Strawberry Tamarind Mangosteen Yuzu Huckleberry Blackberry Abiu Blackcurrant
+Plantain Tayberry Grapefruit Mandarine Boysenberry Prune Damson Banana Avocado Blueberry
+Longan Papaya Rambutan  Boysenberry Orange Açaí Tangerine Akebi Redcurrant Peach
+Cempedak Huckleberry Pear Sapote Tamarind Plantain Prune Cranberry Orange Feijoa
+Azure MediumAquamarine DarkViolet PeachPuff Yellow NavajoWhite MidnightBlue DarkCyan LemonChiffon LightGreen
+Wheat SkyBlue DeepPink Pink Beige Bisque NavajoWhite Purple Orange GreenYellow
+Cornsilk RosyBrown DarkFuchsia SpringGreen Honeydew Feldspar LightSteelBlue Seashell PapayaWhip Azure
+Crimson CornflowerBlue Blue DeepPink NavajoWhite AntiqueWhite Chocolate Brown Chartreuse PaleGoldenrod
+DarkFuchsia CornflowerBlue Coral DarkSeaGreen Chocolate MidnightBlue LightSkyBlue VioletRed Cyan PapayaWhip
+SeaGreen DarkSalmon MintCream GreenYellow Blue Black DimGray DarkCyan PaleGoldenrod Wheat
+DarkTurquoise Khaki DarkCyan SpringGreen Snow Honeydew Crimson LemonChiffon DarkGoldenrod MediumAquamarine
+Lavender DarkTurquoise MediumOrchid CornflowerBlue SaddleBrown MediumPurple PowderBlue SaddleBrown Chocolate OldLace
+MediumPurple MediumPurple Coral DeepSkyBlue Honeydew MediumBlue Indigo DarkViolet Thistle Gray
+Bisque RosyBrown DarkKhaki LavenderBlush MediumPurple Tomato DarkSlateBlue SteelBlue FloralWhite Chartreuse
+Ivory DeepSkyBlue Fuchsia MistyRose DarkRed MediumVioletRed RoyalBlue SteelBlue Pink DarkGreen
+temperature__39c temperature__109c temperature__111c temperature__120c temperature__141c temperature__148c temperature__69c temperature__138c temperature__120c temperature__126c
+temperature__69c temperature__132c temperature__88c temperature__52c temperature__58c temperature__28c temperature__8c temperature__6c temperature__69c temperature__59c
+temperature__31c temperature__116c temperature__108c temperature__145c temperature__139c temperature__64c temperature__53c temperature__78c temperature__131c temperature__57c
+temperature__120c temperature__74c temperature__147c temperature__7c temperature__130c temperature__33c temperature__86c temperature__85c temperature__39c temperature__22c
+temperature__2c temperature__129c temperature__16c temperature__27c temperature__126c temperature__36c temperature__73c temperature__56c temperature__28c temperature__27c
+temperature__24c temperature__116c temperature__59c temperature__2c temperature__130c temperature__50c temperature__73c temperature__73c temperature__73c temperature__28c
+temperature__47c temperature__56c temperature__24c temperature__30c temperature__4c temperature__68c temperature__100c temperature__3c temperature__79c temperature__73c
+temperature__59c temperature__65c temperature__131c temperature__49c temperature__111c temperature__91c temperature__130c temperature__21c temperature__137c temperature__57c
+temperature__106c temperature__16c temperature__8c temperature__44c temperature__36c temperature__69c temperature__47c temperature__36c temperature__30c temperature__36c
+temperature__44c temperature__39c temperature__47c temperature__87c temperature__84c temperature__141c temperature__142c temperature__84c temperature__17c temperature__106c
+temperature__50c temperature__106c temperature__6c temperature__58c temperature__100c temperature__53c temperature__53c temperature__49c temperature__63c temperature__27c
+curious bored amused enchanting obnoxious tired inexpensive envious dull selfish
+agreeable dull confused beautiful repulsive wrong embarrassed vivacious wrong brainy
+grumpy encouraging evil fancy delightful black amused naughty blue-eyed kind
+mysterious thoughtless hilarious anxious dull adventurous tender good enchanting elegant
+pleasant handsome fancy hungry worrisome colorful spotless prickly misty prickly
+poised brainy sore dangerous evil fantastic impossible brainy lively distinct
+defeated inexpensive tense faithful clean upset disgusted innocent friendly important
+embarrassed jolly jealous good comfortable lucky itchy cooperative famous amused
+envious smiling misty panicky modern obnoxious light super disturbed lively
+dark silly blue-eyed fierce mushy black glamorous cautious nasty jolly
+inexpensive graceful thankful cautious sore modern nutty splendid happy adventurous
+feline fleshly bug domesticate animals eukaryotic bug mythical rodent bug
+exoticanimals insects animalia tufted hourse heterotroph iguana hourse carnivore ladybug
+insect varmint ladybug workanimal beast tiger fleshly farming reptile chickens
+marineanimal insectivorous creature carnivore bobcat ladybug primate multicellular pitbull rodent
+eukaryotic dinosaur porifera rabbit animal welfare chordate invertebrate eukaryotic sensual bug
+fauna zooplankton mythical varmint epizootic bear embryo predatoryanimal bobcat insects
+animal welfare plant rabbit environmental domesticate pups marineanimal darter protist thoroughbred
+invertebrate jellyfish pigs fleshly multicellular dinosaur tufted chordate farming animalia
+feline predatoryanimal metazoan deer scavenger iguana livestock poikilotherm creature creature
+fish dog fleshly shelter animal welfare vegan heterotroph insectivore embryo insectivore
+hourse dogs biped chordate ladybug domesticate insectivore pig wild marineanimal
+milk plant victuals drinks cereal chicken cereal nutrient drinks provender
+cereal sushi sushi cooking fruits vegetables chicken seafood fruit animal cereal
+meat fruits vegetables eat meals milk cheese nourishment chicken chicken cooking
+fruit nutrient beef cheese nutrition soup nutrient sushi animal vegetable
+cooking beef fruits vegetables pasta vegetable sushi victuals pasta edible provender
+milk beef cereal eat seafood victuals nourishment victuals beef nutrition
+nutrition plant cheese nutrient pasta rice nutrition seafood pasta victuals
+soup vegetable chicken cooking pasta meal rice animal plant nutrition
+nutrient soup restaurant drinks animal soup meals fruit nutrient cheese
+cereal vegetable soup seafood seafood provender eat milk meat provender
+fruits vegetables nutrient pasta nutrient milk nutrient nourishment meals beef provender
+incompatible server desktop router desktoppcs digital social machines router computerscience
+software tablet mobile console computing imac social floppydisk chip desktop
+von neumann machine centralprocessing unit cyber sliderule laptop pornographicimages laptop computing eniac digitalcomputer
+machine calculator bit analogcomputer spyware office dataconverter proprietary bit keyboard
+sliderule mobiledevice personalcomputer programming chip android mainframe cybertechnology device mobile
+processor centralprocessing unit phone machinecode cell desktopcomputer turingmachine calculator console xbox
+analogcomputer computing camera watch xbox cell bit digital hardware information
+microprocessor cyber integratedcircuit centralprocessing unit vacuumtube floppydisk expansionslot mainframe computerprogram browser
+peripheral microprocessor analogcomputer digital programmer computerprogram arithmetic bit bit homecomputer
+digital computerhardware hardware computerprogram cyber proprietary visualdisplayunit router laptop electronics
+spyware integratedcircuit ibook social escapekey analogcomputer desktop chip tablet centralprocessing unit

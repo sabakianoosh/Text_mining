@@ -1,0 +1,99 @@
+temperature__8c temperature__131c temperature__51c temperature__69c temperature__106c temperature__130c temperature__26c temperature__74c temperature__88c temperature__57c
+temperature__105c temperature__84c temperature__46c temperature__126c temperature__46c temperature__41c temperature__82c temperature__39c temperature__57c temperature__11c
+temperature__10c temperature__145c temperature__17c temperature__40c temperature__118c temperature__39c temperature__73c temperature__4c temperature__91c temperature__139c
+temperature__22c temperature__4c temperature__84c temperature__112c temperature__109c temperature__2c temperature__85c temperature__144c temperature__57c temperature__8c
+temperature__58c temperature__118c temperature__51c temperature__30c temperature__63c temperature__98c temperature__140c temperature__64c temperature__12c temperature__92c
+temperature__6c temperature__33c temperature__21c temperature__144c temperature__31c temperature__36c temperature__120c temperature__16c temperature__129c temperature__49c
+temperature__59c temperature__145c temperature__84c temperature__109c temperature__6c temperature__57c temperature__36c temperature__28c temperature__57c temperature__79c
+temperature__116c temperature__49c temperature__64c temperature__70c temperature__139c temperature__111c temperature__44c temperature__132c temperature__138c temperature__24c
+temperature__122c temperature__71c temperature__145c temperature__144c temperature__31c temperature__17c temperature__11c temperature__148c temperature__10c temperature__65c
+temperature__4c temperature__91c temperature__138c temperature__24c temperature__85c temperature__77c temperature__8c temperature__8c temperature__5c temperature__74c
+temperature__51c temperature__63c temperature__23c temperature__132c temperature__126c temperature__21c temperature__106c temperature__82c temperature__140c temperature__105c
+SquareNumber_9 SquareNumber_2704 SquareNumber_4 SquareNumber_10000 SquareNumber_9025 SquareNumber_4096 SquareNumber_1849 SquareNumber_2116 SquareNumber_7056 SquareNumber_5476
+SquareNumber_25 SquareNumber_1024 SquareNumber_100 SquareNumber_169 SquareNumber_7056 SquareNumber_441 SquareNumber_324 SquareNumber_4900 SquareNumber_2500 SquareNumber_1849
+SquareNumber_9801 SquareNumber_7744 SquareNumber_64 SquareNumber_1444 SquareNumber_8464 SquareNumber_196 SquareNumber_4761 SquareNumber_3600 SquareNumber_441 SquareNumber_8281
+SquareNumber_324 SquareNumber_4624 SquareNumber_1600 SquareNumber_9216 SquareNumber_1764 SquareNumber_4 SquareNumber_3600 SquareNumber_4624 SquareNumber_5184 SquareNumber_4225
+SquareNumber_441 SquareNumber_3364 SquareNumber_6724 SquareNumber_225 SquareNumber_7569 SquareNumber_1681 SquareNumber_6561 SquareNumber_4096 SquareNumber_2304 SquareNumber_225
+SquareNumber_3844 SquareNumber_361 SquareNumber_3481 SquareNumber_961 SquareNumber_2116 SquareNumber_3025 SquareNumber_2704 SquareNumber_5625 SquareNumber_4489 SquareNumber_676
+SquareNumber_1156 SquareNumber_4096 SquareNumber_1849 SquareNumber_2601 SquareNumber_5776 SquareNumber_1764 SquareNumber_8649 SquareNumber_2209 SquareNumber_3025 SquareNumber_4624
+SquareNumber_900 SquareNumber_2304 SquareNumber_361 SquareNumber_8281 SquareNumber_7225 SquareNumber_9604 SquareNumber_2601 SquareNumber_2916 SquareNumber_100 SquareNumber_3249
+SquareNumber_16 SquareNumber_4225 SquareNumber_9 SquareNumber_6241 SquareNumber_5476 SquareNumber_6889 SquareNumber_64 SquareNumber_1681 SquareNumber_8464 SquareNumber_400
+SquareNumber_961 SquareNumber_2704 SquareNumber_8100 SquareNumber_841 SquareNumber_169 SquareNumber_900 SquareNumber_1369 SquareNumber_7225 SquareNumber_784 SquareNumber_8836
+SquareNumber_8281 SquareNumber_361 SquareNumber_961 SquareNumber_529 SquareNumber_4356 SquareNumber_9 SquareNumber_144 SquareNumber_3249 SquareNumber_2601 SquareNumber_4489
+CubeNumber_35937 CubeNumber_6859 CubeNumber_493039 CubeNumber_300763 CubeNumber_27 CubeNumber_6859 CubeNumber_4096 CubeNumber_79507 CubeNumber_148877 CubeNumber_39304
+CubeNumber_778688 CubeNumber_39304 CubeNumber_15625 CubeNumber_343 CubeNumber_125 CubeNumber_19683 CubeNumber_3375 CubeNumber_551368 CubeNumber_68921 CubeNumber_46656
+CubeNumber_1000 CubeNumber_32768 CubeNumber_8 CubeNumber_512000 CubeNumber_175616 CubeNumber_658503 CubeNumber_3375 CubeNumber_6859 CubeNumber_300763 CubeNumber_195112
+CubeNumber_216 CubeNumber_15625 CubeNumber_857375 CubeNumber_830584 CubeNumber_941192 CubeNumber_74088 CubeNumber_175616 CubeNumber_474552 CubeNumber_91125 CubeNumber_474552
+CubeNumber_1728 CubeNumber_357911 CubeNumber_50653 CubeNumber_10648 CubeNumber_636056 CubeNumber_4913 CubeNumber_238328 CubeNumber_1000 CubeNumber_91125 CubeNumber_97336
+CubeNumber_46656 CubeNumber_778688 CubeNumber_274625 CubeNumber_373248 CubeNumber_79507 CubeNumber_551368 CubeNumber_59319 CubeNumber_15625 CubeNumber_830584 CubeNumber_64
+CubeNumber_456533 CubeNumber_39304 CubeNumber_140608 CubeNumber_4913 CubeNumber_4096 CubeNumber_17576 CubeNumber_216 CubeNumber_438976 CubeNumber_1728 CubeNumber_85184
+CubeNumber_4913 CubeNumber_59319 CubeNumber_389017 CubeNumber_857375 CubeNumber_343 CubeNumber_343 CubeNumber_238328 CubeNumber_704969 CubeNumber_592704 CubeNumber_10648
+CubeNumber_314432 CubeNumber_729000 CubeNumber_64 CubeNumber_68921 CubeNumber_421875 CubeNumber_35937 CubeNumber_32768 CubeNumber_704969 CubeNumber_551368 CubeNumber_884736
+CubeNumber_389017 CubeNumber_9261 CubeNumber_804357 CubeNumber_24389 CubeNumber_658503 CubeNumber_64000 CubeNumber_636056 CubeNumber_328509 CubeNumber_32768 CubeNumber_79507
+CubeNumber_238328 CubeNumber_238328 CubeNumber_27000 CubeNumber_592704 CubeNumber_778688 CubeNumber_753571 CubeNumber_1331 CubeNumber_27 CubeNumber_912673 CubeNumber_74088
+laptopcomputer downloader office office analogcomputer downloader eniac microcomputer ibook expansionslot
+laptopcomputer electronics arithmetic arithmetic calculator incompatible ibook microcomputer turingmachine desktop
+abacus eniac centralprocessing unit desktopcomputer screen digitalcomputer hardware virtualreality desktopcomputer vacuumtube
+digitalaudioplayer integratedcircuit inputdevice floppydisk machines watch digitalcomputer cpu eniac server
+arithmetic pc router keyboard dataconverter desktop spyware abacus machinecode information
+memory pornographicimages expansionslot microcomputer von neumann machine digitalcomputer floppydisk watch laptopcomputer cell
+smartphone algorithm calculator vacuumtube keyboard analogcomputer game internet floppydisk electronics
+eniac desktoppcs router router algorithm cell computerprogramming desktopcomputer inputdevice social
+integratedcircuit mechanicalcomputer incompatible integratedcircuit desktop daw centralprocessing unit monitor software machine
+microprocessor computerscience electromechanical expansionslot peripheral incompatible machine computercide mechanicalcomputer analogcomputer
+office supercomputer laptop cell computercircuit eniac watch computercircuit desktoppcs daw
+restaurant vegetable milk provender milk edible drinks victuals edible meal
+animal chicken cooking rice eat meal soup animal vegetable chicken
+plant drinks chicken fruits vegetables soup meal victuals animal plant sushi
+nutrient restaurant meal cooking soup fruit animal vegetable meat meals
+eat fruits vegetables meal cheese sushi chicken vegetable beef nourishment drinks
+victuals cooking beef plant restaurant beef animal rice plant meat
+cereal fruit rice cooking meal provender restaurant pasta fruits vegetables edible
+meal cereal pasta rice nutrition fruits vegetables soup animal cereal edible
+beef meals plant beef nourishment chicken plant animal meal animal
+meal rice pasta rice fruits vegetables nutrient meat vegetable nutrient animal
+chicken restaurant victuals beef chicken eat meat rice meals meat
+recrimination career infringement unethical proxy partial deflect regime saga deny
+onerous coterie engagement intimidation anonymity bamboozle retaliation resignation fiasco temptation
+collaboration unethical temptation embezzlement prestidigitation assail blame rebut benefit empire
+beleaguer career claim hypocrisy sloth engagement cadre tycoon hypocrisy tarnish
+debacle manipulate cadre deny fray collaboration career malfeasance resignation refute
+deny conceal influence tainted prestidigitation intimidation deception blame tycoon extortion
+unethical lobby retaliation tainted dictatorship infringement prestidigitation regime mercurial alliance
+reputation coercion privilege opportunist anonymity tainted allegation patronage defamation accusation
+coterie career conceal endorsement denigrate endorsement unjust lobby partial integrity
+scapegoat accusation alliance tainted mendacity infringement dictatorship infringement mercurial massive
+deflect mercurial tycoon deficit illegal parry defamation temptation revelation bribe
+iguana raccoon tiger sheep embryo object mammal meat varmint bear
+poikilotherm frog plant frog pitbull protist llamas iguana reptiles eukaryotic
+tame invertebrate domesticate elephants frog monster metazoan predatoryanimal environmental cats
+insectivorous pups insects pitbull animal welfare elephants mammal tame wild iguana
+scavenger insectivore epizootic puppy animals darter sensual rabbit puppy jellyfish
+poikilotherm deer fauna vegan llamas epizootic wildlife mammal creature sensual
+environmental jellyfish animals rodent insectivore exoticanimals bird pups animal welfare feline
+multicellular reptile fantasy animalia reptiles creature jellyfish frog frog domesticate
+chickens varmint cats frog exoticanimals chickens thoroughbred bird vegan animalia
+environmental mammals elephants raccoon dog livestock llamas wildlife workanimal carnal
+fish eukaryotic fish vertebrate iguana shelter elephants embryo reptiles farming
+folk electronica violin monophony key soulful merch noises fermata tongue
+lyrics videos theme festival albums atmosphere metre headphones genres tuba
+lyric harmony soundtrack radio entertainment polyphony bhangra subdivision muses media
+sound reharmonize hymn bass melodic scale melody graduation wagner graphics
+single tuning noises piano playlist motif story cultural tone muse
+techno movies beats bpm conducting jazzfunk improvisation chord tone vocals
+tune lights pizzicato texture musicians ska clarion talk mediant conduct
+reggae lyric live phenomenon popular music performance design soundtrack bar noise
+part composing tuba scale rag vinyl key soundtrack streaming improvisation
+studio mp3s rag soundtrack roulade soundtrack gospel folk playlist graduation
+tongue double bass part paleolithic tonic rhapsody pizzicato soundtracks hymn recapitulation
+13:58 20:17 23:29 17:19 18:44 12:15 20:46 14:54 23:58 12:22
+15:15 12:46 14:42 17:29 23:28 21:44 15:17 18:50 21:14 13:35
+17:55 13:20 10:42 15:15 23:26 22:58 10:30 22:51 18:45 19:37
+10:43 12:37 22:44 16:47 11:39 15:21 17:39 14:53 15:58 12:40
+11:44 14:26 21:44 21:36 18:47 21:26 18:45 19:22 16:33 23:34
+21:19 18:47 14:35 15:47 12:12 21:37 10:51 11:57 16:31 16:24
+10:41 16:14 19:29 15:38 12:31 17:21 11:46 22:19 13:25 21:30
+18:22 21:54 18:17 19:40 21:35 22:45 20:53 10:59 21:20 14:55
+18:15 14:37 13:44 13:44 16:17 16:49 14:59 18:36 19:31 11:55
+20:57 17:54 15:15 22:58 12:43 12:56 22:22 18:31 17:51 17:38
+23:46 20:21 16:37 22:39 16:34 12:44 14:45 11:42 10:12 16:38

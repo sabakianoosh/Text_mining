@@ -1,0 +1,99 @@
+23:40 21:21 19:31 10:46 18:18 18:29 15:36 21:57 20:44 20:17
+10:48 14:30 19:26 11:24 12:40 12:10 12:59 20:33 18:48 11:47
+20:36 11:18 10:53 23:56 19:11 10:17 22:52 23:49 22:59 13:18
+14:25 15:28 16:44 10:57 21:54 14:24 17:45 14:55 21:28 15:47
+19:39 14:56 22:37 14:31 22:10 16:13 14:38 20:34 23:15 18:32
+20:15 19:59 10:46 14:48 21:49 18:51 17:22 16:13 10:41 19:56
+16:57 17:43 21:30 21:26 21:11 15:29 12:15 12:47 18:13 19:58
+17:49 15:36 21:25 10:58 22:49 18:47 12:14 14:16 18:27 21:27
+19:45 16:34 20:43 15:17 20:17 19:46 15:41 13:52 11:49 12:53
+10:33 15:59 10:16 19:57 17:59 12:59 15:55 12:13 12:28 22:32
+21:25 17:55 14:28 14:33 14:54 23:44 14:14 10:20 21:42 20:32
+BinaryNumber_0101001 BinaryNumber_0111111 BinaryNumber_0000001 BinaryNumber_1000101 BinaryNumber_0111011 BinaryNumber_1011011 BinaryNumber_1001000 BinaryNumber_0001010 BinaryNumber_0101101 BinaryNumber_0101101
+BinaryNumber_1000010 BinaryNumber_1011011 BinaryNumber_0010010 BinaryNumber_1011001 BinaryNumber_0010001 BinaryNumber_1011110 BinaryNumber_0101111 BinaryNumber_0000100 BinaryNumber_0011010 BinaryNumber_1011000
+BinaryNumber_0000100 BinaryNumber_0010000 BinaryNumber_0110111 BinaryNumber_1001000 BinaryNumber_1001000 BinaryNumber_0011101 BinaryNumber_1100000 BinaryNumber_1000110 BinaryNumber_0001010 BinaryNumber_1000011
+BinaryNumber_0010010 BinaryNumber_1011000 BinaryNumber_1001111 BinaryNumber_0111000 BinaryNumber_1000001 BinaryNumber_0100000 BinaryNumber_0110101 BinaryNumber_1100011 BinaryNumber_0101001 BinaryNumber_0000110
+BinaryNumber_0010110 BinaryNumber_1001100 BinaryNumber_0011000 BinaryNumber_0001100 BinaryNumber_1011110 BinaryNumber_0010111 BinaryNumber_1011101 BinaryNumber_0110100 BinaryNumber_0100001 BinaryNumber_0011111
+BinaryNumber_1001000 BinaryNumber_0000000 BinaryNumber_1011001 BinaryNumber_0111100 BinaryNumber_0001001 BinaryNumber_1010101 BinaryNumber_1001110 BinaryNumber_0101101 BinaryNumber_1000110 BinaryNumber_0010100
+BinaryNumber_1001010 BinaryNumber_0111001 BinaryNumber_0001100 BinaryNumber_1011100 BinaryNumber_0010111 BinaryNumber_0100000 BinaryNumber_0100100 BinaryNumber_1011010 BinaryNumber_1000111 BinaryNumber_0100000
+BinaryNumber_1000110 BinaryNumber_1011010 BinaryNumber_1011100 BinaryNumber_1001010 BinaryNumber_1011111 BinaryNumber_0100111 BinaryNumber_1000000 BinaryNumber_1010011 BinaryNumber_1010000 BinaryNumber_1000111
+BinaryNumber_1010110 BinaryNumber_0101011 BinaryNumber_0011001 BinaryNumber_1010111 BinaryNumber_1011101 BinaryNumber_0111001 BinaryNumber_0001011 BinaryNumber_0101001 BinaryNumber_1000101 BinaryNumber_0011011
+BinaryNumber_0001100 BinaryNumber_0110100 BinaryNumber_1100000 BinaryNumber_0010010 BinaryNumber_0110000 BinaryNumber_0001010 BinaryNumber_1000111 BinaryNumber_1011101 BinaryNumber_0000110 BinaryNumber_0011011
+BinaryNumber_1011100 BinaryNumber_0001011 BinaryNumber_0000011 BinaryNumber_0111101 BinaryNumber_1001010 BinaryNumber_0000011 BinaryNumber_0100110 BinaryNumber_0101010 BinaryNumber_0000111 BinaryNumber_0001111
+temperature__131c temperature__88c temperature__132c temperature__70c temperature__79c temperature__98c temperature__116c temperature__73c temperature__105c temperature__34c
+temperature__92c temperature__28c temperature__26c temperature__130c temperature__123c temperature__59c temperature__70c temperature__78c temperature__8c temperature__140c
+temperature__26c temperature__47c temperature__3c temperature__5c temperature__50c temperature__139c temperature__6c temperature__124c temperature__54c temperature__63c
+temperature__98c temperature__59c temperature__138c temperature__6c temperature__111c temperature__22c temperature__130c temperature__136c temperature__40c temperature__63c
+temperature__93c temperature__140c temperature__111c temperature__142c temperature__92c temperature__141c temperature__52c temperature__28c temperature__82c temperature__47c
+temperature__17c temperature__8c temperature__57c temperature__5c temperature__64c temperature__118c temperature__36c temperature__87c temperature__52c temperature__39c
+temperature__24c temperature__39c temperature__26c temperature__79c temperature__59c temperature__68c temperature__52c temperature__106c temperature__22c temperature__137c
+temperature__98c temperature__28c temperature__6c temperature__90c temperature__136c temperature__74c temperature__84c temperature__119c temperature__141c temperature__54c
+temperature__132c temperature__132c temperature__16c temperature__90c temperature__3c temperature__26c temperature__57c temperature__91c temperature__68c temperature__142c
+temperature__49c temperature__71c temperature__98c temperature__12c temperature__26c temperature__112c temperature__136c temperature__120c temperature__148c temperature__24c
+temperature__124c temperature__141c temperature__65c temperature__27c temperature__47c temperature__138c temperature__64c temperature__64c temperature__50c temperature__87c
+scary poised busy glamorous wandering annoyed ashamed delightful colorful inexpensive
+funny bloody splendid sparkling courageous confused condemned successful friendly silly
+doubtful gorgeous super jealous tender successful grieving lucky sparkling puzzled
+obnoxious healthy clean gorgeous tough tender clear determined tasty disturbed
+enchanting homely doubtful annoyed nasty gifted happy wild courageous distinct
+nice curious cautious annoyed wandering real putrid depressed eager enchanting
+charming clumsy vivacious angry nervous successful lively fierce wide-eyed impossible
+bored depressed bewildered condemned busy healthy fantastic expensive light condemned
+fancy beautiful hungry impossible modern troubled famous terrible bloody cooperative
+witty important alert scary friendly light stupid depressed bad rich
+annoying lovely dizzy tasty zany nutty annoyed nice worrisome wild
+party guitar silence saxophone trumpet song drum motif creative euphony
+instruments concertize lyric sforzando symphonic gospel songs schubert radio vibe
+blues tonic carol banjo radio podcasts talking musicology films roulade
+atonality vocals clarinet writing design single key poetry tweedle instrumentals
+story piano hymn bar visual songs conducting sfx favorite medicine
+atmosphere intonation maps soul talking instrumentals tempo conduct hymn score
+part studio bassline monophony madrigal artists lyrics exposition audio action
+visual musicology subdivision bassline artists roulade soundtrack chorus cadence vocal
+music atonality work films mp3s fermata voice production composing flute
+bugle texture wagner instrumentals action design single composing bands soundtrack
+rockabilly symphonise lyrics mp3s opera harmony label noise playlist chaconne
+algorithm xbox desktoppcs data incompatible daw automation computerscience desktoppcs smartphone
+information camera incompatible computerhardware keyboard desktoppcs xbox visualdisplayunit digitalaudioplayer peripheral
+daw hardware calculator cell electromechanical chip computation server browser machines
+bit computerhardware visualdisplayunit antivirus integratedcircuit bit monitor xbox imac screen
+computerscience peripheral integratedcircuit software sliderule digital device android social sliderule
+software computerscience eniac cybertechnology programming compatible eniac information homecomputer homecomputer
+algorithm hardware computerprogramming personalcomputer algorithm ibook keyboard algorithm device analogcomputer
+computerprogram browser phone phone inputdevice digitalcomputer desktopcomputer supercomputer xbox computerhardware
+laptopcomputer mobile turingmachine pc expansionslot vacuumtube expansionslot abacus computation mainframe
+phone desktoppcs hardware desktopcomputer daw computercircuit software machinecode mobile smartphone
+smartphone analogcomputer internet watch smartphone von neumann machine transistor digitalcomputer diskette spyware
+Mantle Cupboard Screen Island Hutch Cushion Mantle Sofabed Daybed Mattress
+Recliner Drapes Lounger Ottoman Buffet Mattress Buffet Fluting Lamp Recliner
+Wicker Fluting Cabriole Drapery Jardinière Bookcase Lintel Hokey Couch Breakfront
+Zitan Fauteuil Breakfront Television Castor Bench Hutch Valet Cushions Cot
+Tuffet Chair Fauteuil Mattress Bentwood Secretary Headboards Bergere Couch Footrest
+Bookcase Jardinière Mattress Lintel Lamp Jardinière Frieze Marquetry Bassinet Wicker
+Antique Frieze Regency Sconce Mattress Zitan Inlay Mattress Pew Ottoman
+Loveseat Bureau Buffet Hassock Sofabed Hokey Headboards Furnishings Cradle Mirror
+Stool Pillow Sofa Armchair Secretary Furnishings Bergere Drapes Headboards Desk
+Air-conditioner Ottoman Easel Headboards Vitrine Table Hammock Lintel Console Bentwood
+Valet Bookcase Throne Marquetry Headboard Waterbed Pliant Ottoman Waterbed Mattress
+edible meals nutrient pasta meals restaurant pasta edible soup victuals
+plant nourishment plant vegetable meal vegetable cereal meat meals cooking
+meat fruit nutrient restaurant drinks vegetable plant fruits vegetables soup meal
+nourishment meals sushi fruit meals meat chicken fruits vegetables nutrient milk
+provender rice fruits vegetables nourishment plant provender cereal fruit milk vegetable
+victuals vegetable provender nutrition nutrient sushi fruit cereal chicken fruits vegetables
+cooking meat victuals milk fruits vegetables sushi animal seafood restaurant meal
+provender vegetable soup plant plant plant nutrient drinks provender restaurant
+rice edible edible rice cereal sushi cereal beef provender sushi
+meal pasta fruits vegetables meal nourishment edible beef fruit milk victuals
+meal meat cereal rice meals drinks fruit fruit soup cheese
+feline pitbull chickens predatoryanimal plant pitbull carnal cat animatebeing mammals
+wild pet rodent epizootic darter embryo predatoryanimal hourse creature wild
+marineanimal workanimal dog multicellular jellyfish pitbull animal welfare thoroughbred elephants reptile
+chordate pet predatoryanimal fish animal welfare wildlife zooplankton bear carnal chickens
+varmint animals wild dog insect dogs biped animals animalkingdom exoticanimals
+varmint vertebrate shelter bird puppy fantasy reptile shelter eukaryotic superdog
+object chickens dinosaur birds beast pups workanimal predatoryanimal tame feline
+beast thoroughbred livestock darter mammal meat hourse fantasy dinosaur puppy
+jellyfish carnivore raccoon farming jellyfish monster environmental exoticanimals elephants fleshly
+scavenger octopuses environmental clams fleshly animalkingdom wildlife elephants domesticate animalia
+fleshly workanimal farming rodent darter vertebrate octopuses scavenger cat cat

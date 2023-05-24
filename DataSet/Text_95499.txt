@@ -1,0 +1,99 @@
+BinaryNumber_0110010 BinaryNumber_0100101 BinaryNumber_0010001 BinaryNumber_0011111 BinaryNumber_1001001 BinaryNumber_0001101 BinaryNumber_0000111 BinaryNumber_1010011 BinaryNumber_1011101 BinaryNumber_1011110
+BinaryNumber_0010011 BinaryNumber_0010110 BinaryNumber_0101001 BinaryNumber_1011110 BinaryNumber_1011000 BinaryNumber_1010011 BinaryNumber_0111111 BinaryNumber_0111001 BinaryNumber_0001111 BinaryNumber_0111000
+BinaryNumber_0001010 BinaryNumber_0100001 BinaryNumber_0011001 BinaryNumber_0111100 BinaryNumber_0110110 BinaryNumber_0100110 BinaryNumber_0000111 BinaryNumber_0110010 BinaryNumber_0011100 BinaryNumber_0000001
+BinaryNumber_0111111 BinaryNumber_0100000 BinaryNumber_1001110 BinaryNumber_0110111 BinaryNumber_1000001 BinaryNumber_0100010 BinaryNumber_0111100 BinaryNumber_1000010 BinaryNumber_0011001 BinaryNumber_1000110
+BinaryNumber_1010100 BinaryNumber_0011100 BinaryNumber_0000111 BinaryNumber_0000100 BinaryNumber_0000111 BinaryNumber_0101100 BinaryNumber_1000010 BinaryNumber_1001010 BinaryNumber_0011000 BinaryNumber_0000101
+BinaryNumber_0011101 BinaryNumber_0011110 BinaryNumber_0100000 BinaryNumber_0011100 BinaryNumber_0100100 BinaryNumber_0101011 BinaryNumber_0000011 BinaryNumber_0111010 BinaryNumber_1010011 BinaryNumber_0100100
+BinaryNumber_0101110 BinaryNumber_0111010 BinaryNumber_1010000 BinaryNumber_0011011 BinaryNumber_1001001 BinaryNumber_1000100 BinaryNumber_1011101 BinaryNumber_1100001 BinaryNumber_1000000 BinaryNumber_1001001
+BinaryNumber_1011111 BinaryNumber_1100010 BinaryNumber_0100100 BinaryNumber_0101001 BinaryNumber_1100001 BinaryNumber_0001000 BinaryNumber_0000011 BinaryNumber_0001011 BinaryNumber_1100000 BinaryNumber_0100011
+BinaryNumber_1100000 BinaryNumber_1011011 BinaryNumber_1010000 BinaryNumber_0101000 BinaryNumber_0000111 BinaryNumber_0001110 BinaryNumber_0110111 BinaryNumber_1001010 BinaryNumber_1011001 BinaryNumber_0101101
+BinaryNumber_0110101 BinaryNumber_0101001 BinaryNumber_1000111 BinaryNumber_1011011 BinaryNumber_0100000 BinaryNumber_0010000 BinaryNumber_1000000 BinaryNumber_0101101 BinaryNumber_1000101 BinaryNumber_1001100
+BinaryNumber_0001000 BinaryNumber_0010011 BinaryNumber_0100010 BinaryNumber_0110011 BinaryNumber_0011110 BinaryNumber_1010101 BinaryNumber_0110101 BinaryNumber_0010110 BinaryNumber_0010110 BinaryNumber_0110001
+ambience tongue clarion sound conduct tabs karaoke band blues beats
+tuba drum popular music harmony clarinet genres cadence artist electronica movies
+bars fugue story label podcasts cello carol spotify polyphony song
+lyric atonality singers art music spotify banjo songs phenomenon concertize beats
+trio soundtracks mp3s melody madrigal blues bar score triple-tongue design
+folk vocal saxophone harmonize tonality metal genre instrumental section harmony
+vocals media polyphony key media voice muses work party bhangra
+video oboe conducting rockabilly violin creative key trio instrument euphony
+instrumental party metal bluegrass pianist banjo language blues mp3s electronica
+bugle concerts phone singing cultural entertainment techno talk clarion action
+tuba chaconne violin editing tonality harp hiphop key section schubert
+vacuumtube inputdevice electronics chip internet computation phone computerscience analogcomputer watch
+keyboard monitor spyware memory floppydisk ibook cyber office cyber inputdevice
+server chip laptopcomputer compatible microprocessor dataconverter vacuumtube pc tablet smartphone
+expansionslot inputdevice office pornographicimages mobiledevice abacus algorithm computercircuit computerscience eniac
+sliderule pc monitor compatible imac digitalaudioplayer camera pc computerscience pornographicimages
+cyber expansionslot ibook integratedcircuit supercomputer proprietary digitalcomputer ibook tablet chip
+programming computation transistor automation cyber proprietary analogcomputer expansionslot computerhardware arithmetic
+microprocessor dataconverter computerhardware computercide virtualreality phone laptopcomputer mobiledevice watch tablet
+automation software mechanicalcomputer antivirus dataconverter programmer von neumann machine router internet server
+computerprogram screen diskette machine browser abacus computerhardware arithmetic mobiledevice tablet
+daw watch xbox keyboard computercircuit mobile incompatible hardware watch integratedcircuit
+beef restaurant meals nourishment eat cheese meal drinks soup meat
+rice victuals vegetable nutrition eat cheese fruits vegetables plant soup plant
+beef edible fruits vegetables nutrient victuals animal victuals cheese cereal rice
+edible chicken chicken vegetable pasta seafood drinks animal meal cooking
+fruits vegetables meals animal meals nourishment nutrient chicken sushi sushi pasta
+drinks plant meat meat meat plant milk beef cooking cooking
+milk rice beef milk vegetable sushi drinks cooking chicken edible
+meal cereal nutrient nourishment cheese provender animal seafood rice fruit
+beef nutrient restaurant vegetable vegetable nutrient cereal seafood pasta provender
+drinks edible nutrient cheese nutrition eat meals seafood sushi meat
+drinks sushi sushi nutrition cheese nourishment nutrient nourishment nutrition fruits vegetables
+CubeNumber_405224 CubeNumber_328509 CubeNumber_4913 CubeNumber_1728 CubeNumber_64 CubeNumber_12167 CubeNumber_216000 CubeNumber_250047 CubeNumber_493039 CubeNumber_456533
+CubeNumber_912673 CubeNumber_64000 CubeNumber_166375 CubeNumber_24389 CubeNumber_39304 CubeNumber_343000 CubeNumber_216 CubeNumber_778688 CubeNumber_205379 CubeNumber_166375
+CubeNumber_373248 CubeNumber_27 CubeNumber_46656 CubeNumber_19683 CubeNumber_343000 CubeNumber_216 CubeNumber_614125 CubeNumber_2744 CubeNumber_531441 CubeNumber_125000
+CubeNumber_29791 CubeNumber_2744 CubeNumber_2197 CubeNumber_12167 CubeNumber_24389 CubeNumber_1728 CubeNumber_216000 CubeNumber_103823 CubeNumber_35937 CubeNumber_27
+CubeNumber_1000 CubeNumber_328509 CubeNumber_328509 CubeNumber_59319 CubeNumber_35937 CubeNumber_21952 CubeNumber_729000 CubeNumber_5832 CubeNumber_474552 CubeNumber_103823
+CubeNumber_753571 CubeNumber_103823 CubeNumber_300763 CubeNumber_5832 CubeNumber_132651 CubeNumber_5832 CubeNumber_68921 CubeNumber_753571 CubeNumber_132651 CubeNumber_175616
+CubeNumber_857375 CubeNumber_42875 CubeNumber_216 CubeNumber_125000 CubeNumber_300763 CubeNumber_64 CubeNumber_125 CubeNumber_9261 CubeNumber_438976 CubeNumber_157464
+CubeNumber_166375 CubeNumber_42875 CubeNumber_857375 CubeNumber_195112 CubeNumber_592704 CubeNumber_19683 CubeNumber_343000 CubeNumber_195112 CubeNumber_205379 CubeNumber_19683
+CubeNumber_1331 CubeNumber_238328 CubeNumber_54872 CubeNumber_175616 CubeNumber_493039 CubeNumber_373248 CubeNumber_512000 CubeNumber_195112 CubeNumber_658503 CubeNumber_4913
+CubeNumber_778688 CubeNumber_103823 CubeNumber_287496 CubeNumber_27000 CubeNumber_103823 CubeNumber_804357 CubeNumber_24389 CubeNumber_103823 CubeNumber_5832 CubeNumber_778688
+CubeNumber_1728 CubeNumber_185193 CubeNumber_753571 CubeNumber_157464 CubeNumber_157464 CubeNumber_456533 CubeNumber_175616 CubeNumber_10648 CubeNumber_531441 CubeNumber_42875
+political lift imprisonment pirate felony supernatural felony dark accident evidence
+dark homicide misdemeanor evidence mafia safety terrorism skyjack hijack fraud
+fraud law-breaking homeless investigation murders snitching police racism country snitching
+drugs human serial smuggle war vandalism revenge poison statutory theft
+spy pirate serial bloodshed justice fraud incarceration homicides robbery dark
+muggings revenge accident drug country blackmail homeless story gangsterism human
+gangsterism slayings cybercrime snitching guilty sin punishment muggings conspiracy crisis
+poverty homicide threats suspense legislature missing homelessness offenses cop cybercrime
+thriller drugs punitive highjack blackmail war violence illegal threats liberty
+dark genocide guilty illegal heist blackmail terrorism justice homicides psychological
+statutory punishment suspense transgression illegal misdemeanor structuralism threats conspiracy genocide
+mammal fantasy embryo workanimal object carnivore eukaryotic domesticate varmint mammals
+marineanimal wildlife jellyfish animal welfare poikilotherm birds rodent eukaryotic bug zoo
+bird amphibians chordate animal welfare jellyfish llamas vertebrate heterotroph environmental tame
+amphibians reptiles reptiles reptile eukaryotic zooplankton zooplankton ladybug reptile insect
+bug tiger fish bird exoticanimals vertebrate jellyfish heterotroph insectivorous metazoan
+puppy sensual eukaryotic protist birds pups tufted pet dogs workanimal
+eukaryotic animalia insects fish feline rodent workanimal ladybug insectivore rabbit
+hourse reptiles predatoryanimal tame embryo iguana pet beast octopuses poikilotherm
+darter animalkingdom reptiles exoticanimals pigs pitbull wildlife zoo raccoon feline
+plant tufted monster animalkingdom superdog zoo dogs animalia sensual meat
+scavenger porifera beast iguana bird carnal predatoryanimal feline tame rodent
+covert beleaguer alliance endorsement allegation mendacity unsavory deficit covert denigrate
+patronage denigrate collaboration beleaguer refute tarnish recrimination obscure temptation impunity
+blame illicit regime tycoon tycoon extortion acolyte allegation allegation beleaguer
+anonymity illegal corruption incident partial denigrate endorsement blame coercion blame
+alliance benefit empire partial impunity tainted impunity deception anonymity tarnish
+alliance fiasco proxy deny illicit embezzlement cadre intimidation demagogue unethical
+parry partial embezzlement infringement coercion illicit corruption parry persecution fray
+scandal scandal expose feud obscure revelation scandalous scandal partial deflect
+plutocracy influence feud scandal empire deficit infringement deception temptation fiasco
+resignation parry deny expose expose reckless scapegoat integrity saga deficit
+reckless empire refute bribe collaboration opportunist unsavory alliance incident unethical
+23:11 20:27 13:29 18:55 13:12 17:33 11:37 13:51 15:48 20:46
+21:21 22:17 11:17 17:37 22:55 10:51 11:57 22:40 10:37 22:34
+16:55 13:19 15:44 23:31 15:47 19:36 22:50 22:14 11:28 21:27
+20:45 19:52 22:14 22:15 15:49 11:54 13:38 19:11 20:43 22:57
+18:33 22:28 17:29 12:20 10:37 14:48 17:33 20:37 13:57 23:42
+21:37 19:42 11:36 13:36 19:35 19:13 14:16 20:52 19:38 15:37
+15:42 12:24 23:31 10:11 18:46 21:58 13:46 12:13 19:16 13:19
+19:17 11:10 22:21 23:15 16:29 12:37 19:17 23:48 12:54 20:43
+16:10 16:25 20:52 10:43 21:59 20:35 15:55 12:58 10:16 21:48
+12:19 10:34 14:12 15:41 19:39 10:25 20:30 22:23 18:48 11:17
+11:59 21:54 18:32 16:25 17:53 10:47 20:53 14:36 11:29 21:38

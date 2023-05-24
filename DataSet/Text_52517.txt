@@ -1,0 +1,99 @@
+MediumOrchid MediumOrchid ForestGreen Feldspar Cyan LightPink MintCream LightSlateBlue BlanchedAlmond Cyan
+Wheat LightCyan LightSalmon HotPink LavenderBlush Plum Indigo LemonChiffon LightSlateGray DarkOrchid
+Coral LightGoldenrodYellow Firebrick DimGray Pink Cyan Red GhostWhite DarkGoldenrod BlueViolet
+MediumVioletRed VioletRed DarkOrchid Lime MediumAquamarine SandyBrown PapayaWhip DarkSlateBlue Brown LightGray
+Azure Navy OrangeRed DodgerBlue Pink Cyan OldLace Peru RoyalBlue LightSteelBlue
+DarkKhaki PeachPuff LightGoldenrod LightSlateBlue DarkSalmon MistyRose Moccasin DimGray NavajoWhite RoyalBlue
+MediumTurquoise LightSkyBlue Cyan DarkRed DodgerBlue LawnGreen PaleTurquoise PaleTurquoise DimGray MediumVioletRed
+DarkGray DarkOliveGreen Peru LightSalmon Orange LightSteelBlue Lime OldLace MidnightBlue DarkFuchsia
+LightSteelBlue DarkBlue LightCyan LightSeaGreen DimGray Sienna PeachPuff DarkKhaki Blue RosyBrown
+LightSkyBlue DarkGoldenrod Green Turquoise LavenderBlush SeaGreen LightSalmon Firebrick Crimson Coral
+Moccasin PaleGoldenrod Lime Coral SkyBlue MediumTurquoise Peru RosyBrown CornflowerBlue Burlywood
+temperature__27c temperature__124c temperature__70c temperature__148c temperature__91c temperature__118c temperature__124c temperature__112c temperature__2c temperature__147c
+temperature__14c temperature__40c temperature__88c temperature__59c temperature__87c temperature__8c temperature__77c temperature__137c temperature__4c temperature__63c
+temperature__53c temperature__10c temperature__2c temperature__22c temperature__10c temperature__111c temperature__6c temperature__74c temperature__7c temperature__87c
+temperature__146c temperature__16c temperature__116c temperature__16c temperature__109c temperature__31c temperature__8c temperature__148c temperature__90c temperature__17c
+temperature__16c temperature__136c temperature__126c temperature__144c temperature__98c temperature__86c temperature__14c temperature__21c temperature__109c temperature__120c
+temperature__33c temperature__4c temperature__0c temperature__106c temperature__84c temperature__27c temperature__54c temperature__5c temperature__69c temperature__123c
+temperature__2c temperature__10c temperature__126c temperature__23c temperature__49c temperature__2c temperature__58c temperature__119c temperature__27c temperature__16c
+temperature__35c temperature__122c temperature__145c temperature__59c temperature__40c temperature__100c temperature__8c temperature__108c temperature__109c temperature__118c
+temperature__85c temperature__141c temperature__26c temperature__147c temperature__0c temperature__30c temperature__52c temperature__130c temperature__7c temperature__63c
+temperature__24c temperature__70c temperature__52c temperature__30c temperature__86c temperature__59c temperature__14c temperature__40c temperature__41c temperature__22c
+temperature__63c temperature__42c temperature__90c temperature__0c temperature__65c temperature__139c temperature__136c temperature__146c temperature__142c temperature__65c
+CubeNumber_4096 CubeNumber_85184 CubeNumber_493039 CubeNumber_941192 CubeNumber_3375 CubeNumber_79507 CubeNumber_110592 CubeNumber_110592 CubeNumber_10648 CubeNumber_778688
+CubeNumber_1000 CubeNumber_8 CubeNumber_250047 CubeNumber_166375 CubeNumber_438976 CubeNumber_216000 CubeNumber_421875 CubeNumber_941192 CubeNumber_148877 CubeNumber_5832
+CubeNumber_9261 CubeNumber_238328 CubeNumber_658503 CubeNumber_59319 CubeNumber_571787 CubeNumber_389017 CubeNumber_64000 CubeNumber_300763 CubeNumber_68921 CubeNumber_64000
+CubeNumber_8000 CubeNumber_262144 CubeNumber_314432 CubeNumber_175616 CubeNumber_4913 CubeNumber_125 CubeNumber_85184 CubeNumber_8 CubeNumber_884736 CubeNumber_50653
+CubeNumber_132651 CubeNumber_19683 CubeNumber_658503 CubeNumber_614125 CubeNumber_216000 CubeNumber_8 CubeNumber_125000 CubeNumber_389017 CubeNumber_753571 CubeNumber_42875
+CubeNumber_175616 CubeNumber_238328 CubeNumber_512 CubeNumber_166375 CubeNumber_110592 CubeNumber_8 CubeNumber_205379 CubeNumber_9261 CubeNumber_614125 CubeNumber_512
+CubeNumber_17576 CubeNumber_551368 CubeNumber_592704 CubeNumber_8 CubeNumber_39304 CubeNumber_857375 CubeNumber_512 CubeNumber_456533 CubeNumber_753571 CubeNumber_195112
+CubeNumber_592704 CubeNumber_2744 CubeNumber_357911 CubeNumber_68921 CubeNumber_778688 CubeNumber_2197 CubeNumber_729000 CubeNumber_175616 CubeNumber_531441 CubeNumber_15625
+CubeNumber_4096 CubeNumber_753571 CubeNumber_27 CubeNumber_91125 CubeNumber_300763 CubeNumber_262144 CubeNumber_804357 CubeNumber_681472 CubeNumber_50653 CubeNumber_8000
+CubeNumber_614125 CubeNumber_216000 CubeNumber_166375 CubeNumber_68921 CubeNumber_804357 CubeNumber_300763 CubeNumber_166375 CubeNumber_778688 CubeNumber_438976 CubeNumber_250047
+CubeNumber_314432 CubeNumber_1728 CubeNumber_474552 CubeNumber_421875 CubeNumber_729 CubeNumber_59319 CubeNumber_421875 CubeNumber_216000 CubeNumber_300763 CubeNumber_74088
+fruits vegetables provender meat eat meals sushi cooking vegetable edible sushi
+rice fruit cereal plant provender cheese fruits vegetables milk restaurant animal
+meat cooking provender rice cooking plant chicken vegetable meat nutrient
+beef nutrition restaurant plant soup eat nutrient nourishment chicken rice
+fruits vegetables fruit chicken nutrient vegetable soup milk cooking provender meals
+edible cooking pasta pasta animal sushi animal animal cooking vegetable
+sushi eat fruit rice pasta nourishment provender seafood eat vegetable
+nutrient nutrient fruit plant chicken cereal provender drinks nourishment nourishment
+plant meals drinks meals cheese provender meal nutrient meal animal
+pasta fruits vegetables soup victuals vegetable meals cheese nutrient animal rice
+seafood edible sushi nutrient chicken cheese fruit fruit restaurant vegetable
+Tayberry Guava Kiwano Cashew Cempedak Canistel Marionberry Cashew Loquat Cherry
+Akebi Jostaberry Marionberry Cashew Prune Durian Pineberry Salmonberry Guava Lulo
+Grape Salak Damson Strawberry Pawpaw Cherimoya Plum Tangerine Grapefruit Araza
+Loganberry Pomelo Feijoa Orange Pineapple Nance Orange Yuzu Watermelon Elderberry
+Jambul Loquat Gooseberry Guava Kiwifruit Nance Tamarillo Persimmon Pomegranate Mango
+Quince Banana Pear Watermelon Mulberry Ximenia Plantain Breadfruit Persimmon Lulo
+Nance Avocado Raisin Plantain Lemon Bilberry Blackcurrant Salak Açaí Akebi
+Pomegranate Durian Nance Plumcot Blackberry Tamarillo Mandarine Nectarine Elderberry Honeydew
+Tangerine Salmonberry Lime Blueberry Soursop Papaya Pineberry Blackberry Blueberry Huckleberry
+Redcurrant Plum Canistel Apple Ximenia Apricot Pineberry Nectarine Cempedak Canistel
+Kiwifruit Sapote Orange Kiwifruit Abiu Guava Watermelon Nance Blackberry Jambul
+careful lazy dead wrong panicky elegant brainy horrible hungry better
+distinct fragile enchanting zealous real enchanting cloudy calm long witty
+impossible gorgeous dead frightened helpless cooperative wandering inquisitive muddy helpless
+powerful odd blue-eyed odd filthy cheerful quaint fancy obnoxious filthy
+encouraging cruel jittery poor wandering talented splendid sore fair smiling
+glorious glorious zany embarrassed naughty hurt awful homeless itchy itchy
+dead delightful poor hungry confused adorable defeated easy panicky worried
+happy frantic poised disturbed horrible dangerous clumsy attractive joyous happy
+clever envious poor concerned delightful jolly fantastic elegant condemned different
+nasty eager blue-eyed tender perfect attractive bright worrisome faithful dangerous
+modern attractive inexpensive mushy talented obnoxious determined cute worried envious
+13:35 12:45 19:58 15:33 21:37 10:57 14:46 14:59 22:59 21:16
+18:30 20:38 23:51 22:58 14:35 18:41 18:58 22:30 20:26 12:36
+18:33 11:32 12:33 10:19 19:10 20:43 14:28 11:17 18:11 10:15
+16:51 14:17 17:23 10:51 21:51 21:32 14:57 16:54 22:35 17:18
+19:17 18:43 11:50 23:55 10:35 10:15 10:27 18:23 22:54 18:35
+10:20 16:49 23:18 20:22 10:55 13:17 14:57 22:26 18:30 20:29
+21:28 22:50 12:57 13:52 22:43 14:25 16:42 10:22 10:40 14:15
+18:22 21:35 23:29 20:17 14:12 19:27 20:18 19:17 15:14 21:45
+19:14 20:42 19:44 15:27 20:17 21:32 22:12 11:43 16:41 16:18
+19:33 13:18 23:41 23:59 14:10 14:16 16:54 14:43 14:39 22:12
+18:22 18:44 19:36 16:34 18:50 22:16 12:11 11:32 18:26 23:54
+computerscience mobiledevice astrolabe von neumann machine imac centralprocessing unit router programming browser camera
+supercomputer console router floppydisk machinecode virtualreality mobile computercide von neumann machine screen
+software monitor digitalaudioplayer proprietary computerscience downloader bit programmer analogcomputer incompatible
+programming electromechanical smartphone device floppydisk desktoppcs desktop algorithm centralprocessing unit computerprogram
+xbox spyware expansionslot tablet laptop tablet virtualreality memory cybertechnology watch
+computerhardware abacus laptopcomputer computerhardware personalcomputer centralprocessing unit electrical cell mechanicalcomputer electromechanical
+electromechanical algorithm memory dataconverter processor vacuumtube computing integratedcircuit desktopcomputer cpu
+algorithm desktopcomputer desktop daw cell electromechanical escapekey floppydisk digitalaudioplayer machinecode
+machine computercircuit vacuumtube watch electrical computerprogram laptop desktopcomputer cell laptopcomputer
+game daw integratedcircuit algorithm abacus calculator cell pc cpu programming
+digital digitalaudioplayer digitalcomputer mainframe device peripheral software automation screen computerprogramming
+release symphony conduct songwriter sonata cadence tone poetry trio concertise
+podcasts tabs song vocals modulate festival modulate media ensemble label
+harp sing concerts classical bhangra ensemble streaming tonic recording ambient
+popular music vinyl instrumentals conducting arts guitar genre hyperpop rag conduct
+interlude beat editing atmosphere tongue ensemble soundtrack genre lights musical
+concerts songs dynamics live story fermata maps sounds wagner radio
+euphony soul jazz trumpet films work interlude music harp electronica
+editing pizzicato electronica mp3s beat scale trio dance bassline improvisation
+dixieland festival conducting single harmonize double bass melodies violin classical jazz
+noises section video voices melody drum schubert mp3s ska record
+jazz live vinyl audio harmonize entertainment melodic compositions subdivision singer

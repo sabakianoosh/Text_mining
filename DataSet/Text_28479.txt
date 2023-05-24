@@ -1,0 +1,99 @@
+BinaryNumber_1001011 BinaryNumber_0110001 BinaryNumber_1011101 BinaryNumber_0011010 BinaryNumber_0000011 BinaryNumber_0011001 BinaryNumber_1001100 BinaryNumber_0010000 BinaryNumber_1100000 BinaryNumber_1100011
+BinaryNumber_1000110 BinaryNumber_0110111 BinaryNumber_1011101 BinaryNumber_1011101 BinaryNumber_0101101 BinaryNumber_0000110 BinaryNumber_1000001 BinaryNumber_0110111 BinaryNumber_0100101 BinaryNumber_0100101
+BinaryNumber_1011100 BinaryNumber_1100011 BinaryNumber_0110101 BinaryNumber_0100110 BinaryNumber_0010011 BinaryNumber_0010110 BinaryNumber_0101100 BinaryNumber_0001001 BinaryNumber_0011000 BinaryNumber_0110100
+BinaryNumber_1010110 BinaryNumber_1000011 BinaryNumber_0101110 BinaryNumber_0001011 BinaryNumber_0110001 BinaryNumber_0110011 BinaryNumber_0001100 BinaryNumber_0110011 BinaryNumber_0101011 BinaryNumber_0111001
+BinaryNumber_0000100 BinaryNumber_0010001 BinaryNumber_0111001 BinaryNumber_0000011 BinaryNumber_0010110 BinaryNumber_0010110 BinaryNumber_0110101 BinaryNumber_0011101 BinaryNumber_0001101 BinaryNumber_1011001
+BinaryNumber_0110111 BinaryNumber_0101001 BinaryNumber_1001101 BinaryNumber_1000001 BinaryNumber_0000001 BinaryNumber_0101011 BinaryNumber_1100010 BinaryNumber_1010000 BinaryNumber_1011001 BinaryNumber_1010001
+BinaryNumber_0010010 BinaryNumber_1010011 BinaryNumber_0100111 BinaryNumber_0001010 BinaryNumber_0000001 BinaryNumber_0110111 BinaryNumber_1010011 BinaryNumber_1001100 BinaryNumber_0111100 BinaryNumber_0010111
+BinaryNumber_0000100 BinaryNumber_1011111 BinaryNumber_0010111 BinaryNumber_1100010 BinaryNumber_0101110 BinaryNumber_0001100 BinaryNumber_0110010 BinaryNumber_0111111 BinaryNumber_1010110 BinaryNumber_0111010
+BinaryNumber_0111011 BinaryNumber_0010000 BinaryNumber_0101111 BinaryNumber_1001000 BinaryNumber_0110001 BinaryNumber_1001101 BinaryNumber_0100011 BinaryNumber_0001000 BinaryNumber_0111100 BinaryNumber_1100001
+BinaryNumber_1001010 BinaryNumber_0001110 BinaryNumber_1001011 BinaryNumber_0001001 BinaryNumber_1011101 BinaryNumber_0101011 BinaryNumber_1100010 BinaryNumber_0000011 BinaryNumber_1010011 BinaryNumber_1011111
+BinaryNumber_0010110 BinaryNumber_0000100 BinaryNumber_0111000 BinaryNumber_0111101 BinaryNumber_0010101 BinaryNumber_1011110 BinaryNumber_0000100 BinaryNumber_0101111 BinaryNumber_0101110 BinaryNumber_1001001
+SquareNumber_4900 SquareNumber_4096 SquareNumber_7225 SquareNumber_8100 SquareNumber_6889 SquareNumber_4356 SquareNumber_784 SquareNumber_5476 SquareNumber_576 SquareNumber_625
+SquareNumber_3136 SquareNumber_4489 SquareNumber_3600 SquareNumber_676 SquareNumber_4900 SquareNumber_625 SquareNumber_361 SquareNumber_1764 SquareNumber_2209 SquareNumber_8281
+SquareNumber_8464 SquareNumber_10000 SquareNumber_3364 SquareNumber_2304 SquareNumber_36 SquareNumber_2704 SquareNumber_10000 SquareNumber_9604 SquareNumber_169 SquareNumber_8649
+SquareNumber_5929 SquareNumber_225 SquareNumber_9025 SquareNumber_1521 SquareNumber_10000 SquareNumber_625 SquareNumber_729 SquareNumber_961 SquareNumber_625 SquareNumber_8836
+SquareNumber_8100 SquareNumber_3481 SquareNumber_9409 SquareNumber_2704 SquareNumber_9 SquareNumber_7396 SquareNumber_2304 SquareNumber_1600 SquareNumber_1521 SquareNumber_3481
+SquareNumber_4489 SquareNumber_576 SquareNumber_16 SquareNumber_7056 SquareNumber_841 SquareNumber_2025 SquareNumber_1764 SquareNumber_5041 SquareNumber_25 SquareNumber_3249
+SquareNumber_3136 SquareNumber_9216 SquareNumber_8649 SquareNumber_81 SquareNumber_7569 SquareNumber_81 SquareNumber_3721 SquareNumber_2025 SquareNumber_3249 SquareNumber_625
+SquareNumber_4489 SquareNumber_4489 SquareNumber_441 SquareNumber_1296 SquareNumber_144 SquareNumber_1225 SquareNumber_196 SquareNumber_4900 SquareNumber_3844 SquareNumber_1089
+SquareNumber_4225 SquareNumber_1296 SquareNumber_5184 SquareNumber_100 SquareNumber_1024 SquareNumber_8100 SquareNumber_64 SquareNumber_10000 SquareNumber_3969 SquareNumber_3481
+SquareNumber_1225 SquareNumber_1600 SquareNumber_529 SquareNumber_2209 SquareNumber_256 SquareNumber_4225 SquareNumber_5041 SquareNumber_4225 SquareNumber_3600 SquareNumber_1600
+SquareNumber_4761 SquareNumber_1024 SquareNumber_6561 SquareNumber_9409 SquareNumber_5929 SquareNumber_2025 SquareNumber_9216 SquareNumber_9409 SquareNumber_225 SquareNumber_9216
+15:53 21:36 19:22 16:17 18:58 23:52 22:47 16:57 19:13 18:54
+15:31 17:25 15:25 21:25 19:12 14:41 19:21 17:23 23:49 22:52
+14:35 16:25 14:40 18:26 15:54 16:31 20:52 12:59 12:16 12:36
+17:25 21:19 21:59 15:57 11:50 17:32 17:14 17:21 23:16 21:27
+23:53 12:44 18:54 19:44 10:57 14:53 11:24 18:42 19:42 19:24
+16:14 22:59 16:38 10:24 23:23 10:19 16:24 23:24 15:23 19:40
+15:42 14:34 19:27 17:31 21:13 12:57 14:53 19:31 18:27 21:34
+15:33 21:30 13:23 21:31 14:29 17:44 12:37 13:16 18:44 12:40
+14:44 17:16 16:55 19:31 13:41 15:31 20:48 10:31 12:42 11:17
+12:17 16:57 21:54 20:39 21:29 11:42 17:35 17:52 10:52 15:37
+13:45 22:54 11:36 13:41 15:39 13:49 12:55 21:36 11:31 10:54
+Blueberry Apricot Fig Longan Blackberry Jostaberry Jostaberry Pomegranate Cashew Apricot
+Yuzu Coconut Pawpaw Grape Plantain Plantain Cranberry Ximenia Boysenberry Apple
+Nance Damson Quince Longan Mangosteen Raspberry Mulberry Sapodilla Lime Damson
+Jambul Cantaloupe Feijoa Acerola Pineapple Lime Pear Tamarind Apple Passionfruit
+Passionfruit Lime Jujube Mulberry Lemon Guava Salak Mangosteen Blackcurrant Tayberry
+Yuzu Longan Loquat Sapodilla Mulberry Cantaloupe Tamarillo Canistel Lulo Lulo
+Plumcot Ackee Raisin Cashew Strawberry Cherry Nance Damson Açaí Cherry
+Elderberry Plumcot Kumquat Blueberry Abiu Jujube Elderberry Nance Tamarind Orange
+Watermelon Jostaberry Mandarine Grapefruit Abiu Peach Honeyberry Honeydew Pomelo Mango
+Honeydew Pear Apricot Honeyberry Longan Tangelo Date Plumcot Rambutan  Kiwifruit
+Jujube Nance Jujube Strawberry Rambutan  Ximenia Pomegranate Plumcot Grapefruit Loquat
+computerscience browser microprocessor antivirus cpu desktop machinecode floppydisk internet internet
+desktopcomputer analogcomputer information information centralprocessing unit desktop inputdevice data computercircuit digital
+centralprocessing unit digitalcommunication software electronics escapekey vacuumtube social visualdisplayunit computercide chip
+computercircuit bit proprietary computerscience screen android algorithm machines server cpu
+browser microprocessor virtualreality diskette pornographicimages cybertechnology computerprogramming machine centralprocessing unit incompatible
+screen computercircuit desktop escapekey digital electrical software console office internet
+inputdevice imac abacus inputdevice dataconverter centralprocessing unit console centralprocessing unit cell daw
+centralprocessing unit von neumann machine tablet astrolabe internet tablet eniac escapekey supercomputer desktop
+data digital programming screen cyber cybertechnology computerprogram information computerprogram von neumann machine
+turingmachine game homecomputer laptop machine laptop computerhardware desktoppcs analogcomputer microprocessor
+xbox data desktop bit android device integratedcircuit xbox monitor supercomputer
+unusual glamorous amused witty long scary fragile clear terrible dark
+filthy shy jolly open sleepy grumpy vast fragile panicky blue-eyed
+nice disturbed ashamed tame dangerous relieved nasty itchy hilarious grumpy
+creepy misty thoughtful naughty cheerful difficult amused outstanding lucky relieved
+charming fantastic unsightly itchy envious healthy difficult mysterious poised condemned
+shiny hilarious creepy successful sore difficult tender silly open distinct
+quaint nervous wild super outrageous grieving encouraging difficult splendid gleaming
+creepy silly careful gorgeous open sore thoughtless shy glamorous sore
+tender long witty encouraging innocent pleasant condemned tense lively open
+bored shiny wide-eyed talented grotesque foolish wicked embarrassed vivacious outstanding
+healthy uptight puzzled terrible jealous curious thoughtful crowded comfortable enthusiastic
+restaurant nutrition soup cereal soup plant meals sushi animal provender
+provender seafood nutrient milk rice vegetable drinks nourishment chicken nourishment
+fruits vegetables plant cheese animal nutrient drinks sushi plant animal sushi
+provender fruits vegetables cereal cheese provender beef victuals sushi edible restaurant
+nutrition eat sushi meal soup pasta sushi drinks soup cheese
+nutrition edible meal meat fruits vegetables vegetable animal rice nutrient fruit
+plant provender eat restaurant rice meat plant cheese nutrient vegetable
+milk meal chicken milk meal plant beef restaurant beef cooking
+meat fruit nutrient meat seafood beef drinks edible beef beef
+fruits vegetables cooking fruits vegetables meals sushi milk meal cereal nutrient vegetable
+vegetable pasta restaurant animal rice sushi meals eat rice provender
+temperature__12c temperature__119c temperature__35c temperature__130c temperature__87c temperature__105c temperature__118c temperature__132c temperature__116c temperature__78c
+temperature__34c temperature__51c temperature__64c temperature__148c temperature__91c temperature__14c temperature__59c temperature__59c temperature__93c temperature__30c
+temperature__31c temperature__108c temperature__106c temperature__64c temperature__56c temperature__50c temperature__129c temperature__95c temperature__91c temperature__16c
+temperature__70c temperature__82c temperature__129c temperature__36c temperature__109c temperature__11c temperature__22c temperature__33c temperature__141c temperature__2c
+temperature__130c temperature__57c temperature__98c temperature__73c temperature__8c temperature__64c temperature__21c temperature__86c temperature__42c temperature__57c
+temperature__90c temperature__68c temperature__8c temperature__59c temperature__120c temperature__111c temperature__22c temperature__16c temperature__84c temperature__14c
+temperature__36c temperature__129c temperature__12c temperature__5c temperature__34c temperature__106c temperature__57c temperature__78c temperature__147c temperature__86c
+temperature__129c temperature__119c temperature__50c temperature__86c temperature__77c temperature__42c temperature__39c temperature__57c temperature__7c temperature__30c
+temperature__10c temperature__120c temperature__74c temperature__17c temperature__52c temperature__82c temperature__98c temperature__105c temperature__79c temperature__50c
+temperature__92c temperature__53c temperature__118c temperature__28c temperature__42c temperature__34c temperature__74c temperature__22c temperature__105c temperature__54c
+temperature__21c temperature__23c temperature__78c temperature__146c temperature__87c temperature__27c temperature__41c temperature__119c temperature__2c temperature__6c
+reputation fiasco partial tarnish integrity illicit engagement revelation unsavory tycoon
+reckless corruption subterfuge reputation unethical extortion partial revelation unsavory solicit
+unjust feud expose unsavory unethical career conceal tainted feud subterfuge
+parry integrity benefit privilege denigrate obscure patronage recrimination tainted revelation
+blame illegal engagement plutocracy endorsement coercion scandalous patriarchy expose endorsement
+subterfuge coercion revelation dictatorship fiasco alliance laconic deception bamboozle scandalous
+deny intimidation claim lobby acolyte reckless assail malfeasance deny unjust
+manipulate deflect proxy unsavory unjust laconic cadre impunity sloth reputation
+alliance scapegoat blame proxy authoritarian unsavory unethical bribe impunity acolyte
+illicit massive mendacity retaliation mercurial refute incident resignation rebut patronage
+feud deception coterie tainted opportunist deflect retaliation illegal deception plutocracy

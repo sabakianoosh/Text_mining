@@ -1,0 +1,99 @@
+SquareNumber_961 SquareNumber_7056 SquareNumber_100 SquareNumber_64 SquareNumber_1156 SquareNumber_1089 SquareNumber_3600 SquareNumber_6889 SquareNumber_225 SquareNumber_289
+SquareNumber_4225 SquareNumber_8281 SquareNumber_2304 SquareNumber_3969 SquareNumber_2025 SquareNumber_169 SquareNumber_625 SquareNumber_1156 SquareNumber_4225 SquareNumber_4761
+SquareNumber_6084 SquareNumber_7569 SquareNumber_256 SquareNumber_576 SquareNumber_3844 SquareNumber_6724 SquareNumber_144 SquareNumber_729 SquareNumber_10000 SquareNumber_4761
+SquareNumber_7396 SquareNumber_3249 SquareNumber_3481 SquareNumber_81 SquareNumber_1296 SquareNumber_1936 SquareNumber_2916 SquareNumber_6889 SquareNumber_5329 SquareNumber_841
+SquareNumber_3481 SquareNumber_289 SquareNumber_2116 SquareNumber_3969 SquareNumber_100 SquareNumber_7921 SquareNumber_7396 SquareNumber_5476 SquareNumber_6889 SquareNumber_2704
+SquareNumber_2401 SquareNumber_169 SquareNumber_1521 SquareNumber_1156 SquareNumber_8464 SquareNumber_676 SquareNumber_9025 SquareNumber_1225 SquareNumber_5184 SquareNumber_2025
+SquareNumber_3481 SquareNumber_49 SquareNumber_7744 SquareNumber_1521 SquareNumber_1521 SquareNumber_529 SquareNumber_4761 SquareNumber_1024 SquareNumber_6561 SquareNumber_289
+SquareNumber_1369 SquareNumber_1521 SquareNumber_5476 SquareNumber_196 SquareNumber_64 SquareNumber_7396 SquareNumber_784 SquareNumber_289 SquareNumber_81 SquareNumber_361
+SquareNumber_9409 SquareNumber_7396 SquareNumber_2304 SquareNumber_529 SquareNumber_2601 SquareNumber_3969 SquareNumber_49 SquareNumber_5184 SquareNumber_2304 SquareNumber_6241
+SquareNumber_196 SquareNumber_3249 SquareNumber_1024 SquareNumber_121 SquareNumber_4761 SquareNumber_3249 SquareNumber_10000 SquareNumber_25 SquareNumber_2025 SquareNumber_2500
+SquareNumber_4489 SquareNumber_2304 SquareNumber_5929 SquareNumber_36 SquareNumber_3025 SquareNumber_10000 SquareNumber_1681 SquareNumber_4761 SquareNumber_2916 SquareNumber_4225
+team class performance ski bouldering shoot rollick football racing work
+sportsman lifestyle boast judo community chess downfield volleyball run exercises
+play volleyball rowing yoga motorcycling competition league pack goal athletics
+funambulism boulder job cavort archery athletic games football performance team
+safari racing supersport offside performance athletic funambulism form hunting exercise
+hunters movement supersport entertainment physical hobbies fast tradition company esports
+suit run racing gamely running athlete run triathlon dive yoga
+movement games bike pro extracurricular safari champion boast physical team
+skateboarding offside performance sportaccord badminton club goal limited bike music
+work organization boulder field dive eco comfort eco fitness supersport
+judo fast tournament romp performance downfield feature players coach polo
+object farming metazoan insectivore epizootic tufted embryo octopuses cat rabbit
+pig creature bobcat predatoryanimal mythical pig pups carnal vegan darter
+tufted monster animalia iguana dogs multicellular sensual frog thoroughbred insects
+wild tufted pitbull reptile reptile plant multicellular epizootic bug rabbit
+marineanimal fish beast biped clams ladybug superdog pitbull zoo frog
+bobcat animals eukaryotic pigs chickens darter embryo puppy chickens mammal
+tufted mammal pet superdog varmint pigs clams bug environmental deer
+wildlife zoology chickens plant animalia bobcat embryo sheep tufted dog
+cat shelter fleshly tiger iguana invertebrate bear dinosaur animal welfare bobcat
+animalia clams tiger vegan bird beast shelter deer ladybug animalia
+puppy hourse animalkingdom raccoon porifera tiger superdog pups exoticanimals sheep
+seafood drinks milk drinks cheese drinks nutrition nutrition animal pasta
+fruits vegetables edible chicken cheese meat rice edible soup victuals milk
+meals cereal cheese fruit fruit milk seafood cooking sushi meals
+nourishment eat fruits vegetables fruit vegetable animal cooking fruit vegetable edible
+meals nutrition animal cereal provender cereal nutrition pasta drinks fruits vegetables
+vegetable sushi nutrient cooking rice milk sushi provender sushi rice
+meals pasta meat fruits vegetables plant fruit pasta cooking beef cereal
+nutrient fruit eat sushi meat victuals fruits vegetables sushi nutrition nutrition
+fruits vegetables cereal cheese soup drinks cheese restaurant nourishment sushi eat
+meat beef beef nourishment eat cooking cereal beef rice restaurant
+cheese victuals edible provender meat sushi fruit nutrition cooking victuals
+BinaryNumber_1011110 BinaryNumber_1011110 BinaryNumber_0010010 BinaryNumber_1001111 BinaryNumber_0011101 BinaryNumber_0000110 BinaryNumber_0110100 BinaryNumber_0011100 BinaryNumber_0110000 BinaryNumber_1100001
+BinaryNumber_0011000 BinaryNumber_0110011 BinaryNumber_1100000 BinaryNumber_0100110 BinaryNumber_1001101 BinaryNumber_0001111 BinaryNumber_0111011 BinaryNumber_0110100 BinaryNumber_0101011 BinaryNumber_1100000
+BinaryNumber_0010000 BinaryNumber_1011001 BinaryNumber_1001100 BinaryNumber_1011101 BinaryNumber_0001001 BinaryNumber_0100011 BinaryNumber_1010000 BinaryNumber_1010010 BinaryNumber_0101111 BinaryNumber_1001000
+BinaryNumber_1010001 BinaryNumber_0100000 BinaryNumber_1001110 BinaryNumber_0110000 BinaryNumber_1010010 BinaryNumber_0111110 BinaryNumber_1001111 BinaryNumber_1100001 BinaryNumber_1000101 BinaryNumber_0110001
+BinaryNumber_1001010 BinaryNumber_1010010 BinaryNumber_1000111 BinaryNumber_1000111 BinaryNumber_0111000 BinaryNumber_0010101 BinaryNumber_0001010 BinaryNumber_0000011 BinaryNumber_1011001 BinaryNumber_1011010
+BinaryNumber_1100010 BinaryNumber_0101100 BinaryNumber_0010001 BinaryNumber_0011011 BinaryNumber_0101101 BinaryNumber_1001100 BinaryNumber_0110111 BinaryNumber_0101001 BinaryNumber_1000100 BinaryNumber_1100011
+BinaryNumber_0101111 BinaryNumber_0000110 BinaryNumber_0011011 BinaryNumber_0011100 BinaryNumber_0011100 BinaryNumber_0111101 BinaryNumber_0101111 BinaryNumber_0001111 BinaryNumber_0001001 BinaryNumber_0011111
+BinaryNumber_0000001 BinaryNumber_1000000 BinaryNumber_0000010 BinaryNumber_1000100 BinaryNumber_0001101 BinaryNumber_0001011 BinaryNumber_0010101 BinaryNumber_0110101 BinaryNumber_0011001 BinaryNumber_1010001
+BinaryNumber_1001010 BinaryNumber_0101010 BinaryNumber_1011111 BinaryNumber_0000101 BinaryNumber_0001010 BinaryNumber_0100111 BinaryNumber_1010010 BinaryNumber_0011010 BinaryNumber_0011111 BinaryNumber_1010111
+BinaryNumber_0101100 BinaryNumber_0011100 BinaryNumber_1010100 BinaryNumber_0111110 BinaryNumber_1011011 BinaryNumber_0101010 BinaryNumber_1100010 BinaryNumber_0011000 BinaryNumber_0111001 BinaryNumber_0000111
+BinaryNumber_0101100 BinaryNumber_1100000 BinaryNumber_1001101 BinaryNumber_1001011 BinaryNumber_1010111 BinaryNumber_0000101 BinaryNumber_1011000 BinaryNumber_0011100 BinaryNumber_0001101 BinaryNumber_1011110
+mafia murder shoplift skyjack smuggle cybercrime theft country guilt sin
+highjack assault legislature country war vandalism unsolved gangsterism skyjack violence
+detective shoplift suspense vandalism gangster threats poverty cases terrorism gangsterism
+homelessness gang shoplift supernatural arrest snitching brutality law-breaking criminality country
+murder rape blackmail murders trial gangsterism illegal unsolved poverty gun
+terrorism human noir missing mafia misdemeanour conspiracy cop snitching detective
+arsons offence crisis smuggle homicide criminal crisis accident law-breaking hijack
+spy racism crime gangs skyjack forensic conspiracy mutilation human story
+criminal statutory poison missing mafia violence revenge theft missing muggings
+legislature mob incarceration prostitution rape punishment suspense barratry kill guilty
+accident structuralism dark homicides drug genocide psychological law-breaking bloodshed victim
+16:36 15:15 22:28 17:43 19:15 23:50 14:45 12:27 18:15 21:19
+13:33 13:23 10:51 16:21 18:10 16:23 21:39 16:31 13:12 14:23
+20:56 21:44 16:17 22:34 15:17 12:50 12:26 22:29 20:53 17:36
+18:37 15:29 19:55 18:46 12:52 12:55 16:40 22:49 21:43 13:54
+20:31 16:54 16:12 20:10 20:38 22:22 17:58 14:59 17:43 21:24
+21:51 21:44 14:21 23:45 23:23 13:18 20:10 22:57 22:39 11:20
+21:11 23:58 23:45 18:28 22:17 13:58 23:10 23:59 15:36 11:30
+14:50 17:57 17:17 11:20 17:50 18:47 11:37 16:20 11:39 17:45
+17:48 11:31 16:53 23:24 22:30 20:22 18:46 14:31 12:42 21:37
+20:44 10:50 16:57 11:57 14:46 18:50 19:20 20:51 10:42 22:18
+14:55 21:43 15:48 11:39 12:28 15:46 16:35 21:37 16:49 22:42
+electronics computercide imac android escapekey cell programming downloader tablet eniac
+device microprocessor phone computerscience turingmachine microcomputer mechanicalcomputer vacuumtube watch data
+mechanicalcomputer computing machines desktopcomputer algorithm computation office centralprocessing unit desktoppcs computerhardware
+cybertechnology keyboard digitalcommunication cpu desktopcomputer machines microprocessor keyboard proprietary inputdevice
+machines smartphone personalcomputer machinecode desktoppcs android internet bit laptopcomputer personalcomputer
+centralprocessing unit analogcomputer electromechanical digitalcommunication desktop office smartphone office programming tablet
+supercomputer microcomputer cybertechnology mobile von neumann machine machines bit abacus programming ibook
+diskette camera android chip device analogcomputer information memory computerscience von neumann machine
+computercide mobile inputdevice antivirus abacus compatible android automation watch abacus
+processor ibook computercide supercomputer monitor computercide mobiledevice ibook memory electronics
+compatible spyware social personalcomputer laptop desktopcomputer transistor abacus laptopcomputer office
+ugliest happy excited ill thoughtless gleaming smoggy bright arrogant odd
+upset gleaming mushy faithful blushing adventurous bored stupid disturbed fierce
+arrogant bloody selfish dangerous outstanding gifted ugly confused jealous glorious
+scary filthy better delightful ugly puzzled clumsy graceful charming perfect
+blushing tense crazy cloudy troubled difficult uninterested defiant scary confused
+difficult frightened ill poor tired joyous wandering exuberant pleasant thankful
+agreeable scary bewildered hungry real arrogant aggressive panicky clumsy uninterested
+old-fashioned innocent rich courageous calm lucky handsome successful depressed funny
+adorable stupid wide-eyed outrageous enchanting bloody aggressive tough dark healthy
+obedient jittery uptight glorious mushy spotless wide-eyed scary selfish troubled
+open alert famous different silly outstanding gorgeous mysterious mushy grieving

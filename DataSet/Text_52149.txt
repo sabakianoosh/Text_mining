@@ -1,0 +1,99 @@
+temperature__130c temperature__63c temperature__85c temperature__146c temperature__122c temperature__74c temperature__108c temperature__24c temperature__86c temperature__52c
+temperature__23c temperature__24c temperature__85c temperature__90c temperature__34c temperature__126c temperature__90c temperature__51c temperature__108c temperature__77c
+temperature__57c temperature__52c temperature__91c temperature__50c temperature__2c temperature__86c temperature__52c temperature__41c temperature__139c temperature__142c
+temperature__6c temperature__92c temperature__129c temperature__59c temperature__27c temperature__46c temperature__100c temperature__144c temperature__118c temperature__108c
+temperature__69c temperature__98c temperature__71c temperature__98c temperature__64c temperature__40c temperature__39c temperature__84c temperature__59c temperature__57c
+temperature__59c temperature__91c temperature__36c temperature__42c temperature__23c temperature__64c temperature__10c temperature__41c temperature__14c temperature__33c
+temperature__139c temperature__132c temperature__27c temperature__91c temperature__120c temperature__58c temperature__68c temperature__90c temperature__28c temperature__8c
+temperature__53c temperature__141c temperature__4c temperature__126c temperature__71c temperature__35c temperature__106c temperature__106c temperature__109c temperature__56c
+temperature__142c temperature__41c temperature__40c temperature__142c temperature__2c temperature__116c temperature__21c temperature__92c temperature__24c temperature__85c
+temperature__73c temperature__69c temperature__78c temperature__145c temperature__0c temperature__50c temperature__61c temperature__35c temperature__100c temperature__112c
+temperature__64c temperature__126c temperature__59c temperature__138c temperature__64c temperature__8c temperature__91c temperature__52c temperature__92c temperature__16c
+expensive lucky troubled enthusiastic tough wicked witty open clever careful
+frantic stormy hungry ill enchanting curious open shiny wandering helpful
+smoggy scary cautious obnoxious magnificent handsome glorious grumpy pleasant lucky
+cruel charming thankful wrong wrong distinct filthy alert angry quaint
+tired panicky confused amused mysterious clumsy disgusted cheerful calm alert
+bloody zealous calm mysterious witty thankful delightful innocent annoying outrageous
+busy exuberant brainy important ugliest jittery stormy troubled determined charming
+angry adorable tasty helpless disturbed clever funny adorable naughty calm
+witty energetic ashamed worrisome putrid ugliest grumpy drab better glamorous
+hilarious healthy nutty relieved gleaming friendly outstanding wrong cautious agreeable
+homeless bad friendly bloody unsightly cruel splendid naughty tired naughty
+17:28 17:59 13:30 19:38 10:36 19:31 19:25 14:32 12:48 17:58
+20:38 11:52 23:57 12:51 15:17 22:53 16:30 11:23 11:10 13:26
+23:26 11:38 17:29 18:20 13:28 20:39 14:32 18:55 16:54 21:34
+21:21 16:28 23:32 22:30 16:49 23:47 20:19 20:11 17:54 13:17
+20:11 14:26 16:35 22:29 12:22 19:24 10:31 21:34 12:51 11:11
+11:53 21:59 15:49 22:45 18:56 16:54 11:46 15:40 16:36 15:28
+16:51 11:26 21:42 12:43 14:18 17:34 22:36 14:47 18:48 10:50
+18:28 22:19 11:31 17:29 21:22 23:19 22:42 12:24 13:49 19:34
+17:18 15:47 19:58 14:24 12:29 17:58 21:14 11:31 19:46 23:13
+16:48 14:13 22:44 11:11 22:50 15:54 10:31 23:20 19:11 14:31
+16:55 19:40 22:26 15:56 15:48 19:49 10:45 20:23 21:40 20:55
+BinaryNumber_1001110 BinaryNumber_0111110 BinaryNumber_0110101 BinaryNumber_0111101 BinaryNumber_1000000 BinaryNumber_0001001 BinaryNumber_0111110 BinaryNumber_1000111 BinaryNumber_1001101 BinaryNumber_0111110
+BinaryNumber_1001001 BinaryNumber_0001110 BinaryNumber_0110101 BinaryNumber_0000001 BinaryNumber_0100111 BinaryNumber_0000101 BinaryNumber_1011010 BinaryNumber_0111010 BinaryNumber_0111011 BinaryNumber_0010100
+BinaryNumber_0011001 BinaryNumber_0100001 BinaryNumber_1010010 BinaryNumber_0100011 BinaryNumber_0101101 BinaryNumber_1010001 BinaryNumber_0111100 BinaryNumber_0101100 BinaryNumber_1100010 BinaryNumber_0001000
+BinaryNumber_0011100 BinaryNumber_0011011 BinaryNumber_0110000 BinaryNumber_0011011 BinaryNumber_0100101 BinaryNumber_0111100 BinaryNumber_0110000 BinaryNumber_1001000 BinaryNumber_0101011 BinaryNumber_0001001
+BinaryNumber_0100110 BinaryNumber_0100001 BinaryNumber_1011100 BinaryNumber_0100001 BinaryNumber_0010100 BinaryNumber_0100011 BinaryNumber_1011001 BinaryNumber_1000000 BinaryNumber_0011101 BinaryNumber_1010111
+BinaryNumber_0100011 BinaryNumber_1011100 BinaryNumber_0110001 BinaryNumber_0111100 BinaryNumber_1001110 BinaryNumber_0100011 BinaryNumber_1000000 BinaryNumber_0100001 BinaryNumber_1011110 BinaryNumber_0000110
+BinaryNumber_0011110 BinaryNumber_1000100 BinaryNumber_0000001 BinaryNumber_1010101 BinaryNumber_1010110 BinaryNumber_0001011 BinaryNumber_1010110 BinaryNumber_0101100 BinaryNumber_0011110 BinaryNumber_1010101
+BinaryNumber_1000011 BinaryNumber_0010110 BinaryNumber_1000101 BinaryNumber_1010001 BinaryNumber_0001101 BinaryNumber_0001111 BinaryNumber_1001110 BinaryNumber_0001011 BinaryNumber_0111110 BinaryNumber_0101011
+BinaryNumber_1000000 BinaryNumber_1011111 BinaryNumber_0110111 BinaryNumber_0010101 BinaryNumber_1010011 BinaryNumber_0110010 BinaryNumber_1001111 BinaryNumber_0000001 BinaryNumber_0101110 BinaryNumber_0100110
+BinaryNumber_1100000 BinaryNumber_0101110 BinaryNumber_0100001 BinaryNumber_0101101 BinaryNumber_0000001 BinaryNumber_0111111 BinaryNumber_1010001 BinaryNumber_1011101 BinaryNumber_0101100 BinaryNumber_0101000
+BinaryNumber_0101101 BinaryNumber_0011111 BinaryNumber_1011000 BinaryNumber_1000100 BinaryNumber_1001111 BinaryNumber_0101101 BinaryNumber_0101010 BinaryNumber_0000100 BinaryNumber_0111100 BinaryNumber_0111100
+hourse octopuses animatebeing pups beast cat zoo embryo cat jellyfish
+wild animals reptile fish heterotroph elephants animals domesticate bear workanimal
+puppy metazoan octopuses llamas livestock primate sheep biped farming rabbit
+wild sheep birds animal welfare wild fantasy animalia animatebeing birds dogs
+pet chordate bug environmental animalia frog octopuses clams invertebrate protist
+reptiles insectivore superdog predatoryanimal deer octopuses farming vegan bug rodent
+frog pet bird carnal fleshly amphibians octopuses meat raccoon epizootic
+eukaryotic animal welfare carnivore cat creature workanimal mammals shelter insects multicellular
+rodent rodent mammal carnal frog mammals clams porifera chickens llamas
+wild tufted protist iguana zoo shelter dog chordate ladybug tiger
+zoo environmental fantasy demon animalia reptile puppy exoticanimals farming livestock
+edible edible plant fruits vegetables meal provender pasta victuals sushi nourishment
+restaurant soup plant edible fruit cheese fruit chicken edible animal
+meal plant nutrition fruit seafood eat fruits vegetables cheese nutrition pasta
+meals restaurant fruits vegetables meat milk nutrition cooking rice plant milk
+nourishment nutrient plant drinks drinks meal fruit cooking victuals chicken
+nutrition chicken sushi cheese drinks eat eat meal restaurant sushi
+milk soup fruits vegetables cheese cereal nutrient vegetable restaurant sushi animal
+meal meat chicken cereal nourishment soup soup beef fruits vegetables nutrient
+sushi cereal edible pasta provender beef provender vegetable cheese cooking
+restaurant edible cooking drinks meat nutrient meal beef eat rice
+cheese provender eat soup milk fruit cheese chicken nutrition plant
+Peach Plantain Pomegranate Sapote Raspberry Tangelo Cherry Durian Prune Pineapple
+Blackberry Açaí Cantaloupe Lulo Tamarillo Passionfruit Lemon Tangelo Acerola Raspberry
+Huckleberry Pomelo Peach Plumcot Redcurrant Sapote Tamarind Cherry Cranberry Sapodilla
+Tamarillo Gooseberry Fig Lychee Apple Apricot Jujube Jambul Fig Sapote
+Jackfruit Jackfruit Guava Mango Ackee Tayberry Jambul Breadfruit Jackfruit Rambutan 
+Strawberry Peach Akebi Mandarine Cherry Acerola Sapodilla Lime Papaya Pawpaw
+Akebi Soursop Plumcot Salak Ximenia Huckleberry Canistel Akebi Jostaberry Plumcot
+Grape Redcurrant Prune Strawberry Mangosteen Ackee Tayberry Raspberry Tamarillo Canistel
+Lemon Canistel Lychee Loquat Kumquat Currant Cherry Loquat Mango Pawpaw
+Mangosteen Raspberry Loquat Watermelon Sapote Cloudberry Cempedak Cherimoya Peach Marionberry
+Marionberry Cempedak Fig Watermelon Abiu Pear Elderberry Tangerine Banana Redcurrant
+PaleTurquoise Moccasin DarkOrchid Cyan LightSlateGray Purple Gainsboro Thistle SaddleBrown Turquoise
+DarkGreen DarkCyan Cornsilk DarkFuchsia MediumSeaGreen AntiqueWhite DarkGreen White Brown AntiqueWhite
+MediumVioletRed Cyan LightPink DarkSalmon DarkFuchsia LightBlue Linen LightGoldenrod Silver MediumSlateBlue
+Firebrick DarkGray LavenderBlush Cyan Wheat LimeGreen DarkTurquoise BlueViolet Coral DarkTurquoise
+Goldenrod IndianRed DarkFuchsia AntiqueWhite ForestGreen Indigo NavajoWhite DodgerBlue Azure DarkOrchid
+Khaki LightSteelBlue OldLace Gold DarkGray BlanchedAlmond Gold MistyRose PaleGreen MediumPurple
+LightPink DarkSeaGreen MediumTurquoise DarkSeaGreen LightSlateBlue Moccasin DarkOliveGreen PaleGreen White Aquamarine
+DarkRed Aquamarine Chartreuse Coral Seashell MediumTurquoise RoyalBlue SaddleBrown Brown Pink
+Coral Navy Firebrick Ivory Firebrick Sienna PeachPuff MediumBlue RoyalBlue LimeGreen
+DarkTurquoise LightSalmon LightGoldenrod Purple Seashell LightSkyBlue LightCoral GhostWhite PaleGreen PaleGreen
+DarkSeaGreen BlanchedAlmond DarkGreen Coral SlateBlue LightSlateBlue Firebrick BlueViolet LavenderBlush DarkSlateGray
+computercircuit internet electrical monitor cpu electronics automation phone bit machine
+mobile digitalcommunication cyber machinecode proprietary mobiledevice android laptopcomputer processor abacus
+keyboard proprietary memory device computerprogram data sliderule cell desktopcomputer programmer
+antivirus spyware monitor watch escapekey computercide computercircuit digitalaudioplayer analogcomputer integratedcircuit
+machines floppydisk digitalcommunication processor antivirus personalcomputer watch von neumann machine calculator bit
+diskette sliderule homecomputer programmer browser spyware device router incompatible vacuumtube
+camera processor console phone inputdevice mobile bit spyware digitalaudioplayer electromechanical
+programmer laptopcomputer cpu vacuumtube browser turingmachine sliderule computerprogram downloader watch
+digital smartphone arithmetic console centralprocessing unit machines machines sliderule computerprogramming office
+memory chip desktop chip xbox pornographicimages downloader desktop inputdevice camera
+pc desktopcomputer cybertechnology spyware homecomputer electromechanical virtualreality proprietary desktopcomputer calculator

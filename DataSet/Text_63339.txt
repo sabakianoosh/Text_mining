@@ -1,0 +1,99 @@
+temperature__64c temperature__119c temperature__10c temperature__31c temperature__112c temperature__22c temperature__105c temperature__124c temperature__54c temperature__12c
+temperature__0c temperature__41c temperature__7c temperature__82c temperature__120c temperature__39c temperature__144c temperature__49c temperature__58c temperature__58c
+temperature__119c temperature__130c temperature__87c temperature__131c temperature__139c temperature__123c temperature__123c temperature__61c temperature__139c temperature__147c
+temperature__49c temperature__5c temperature__5c temperature__26c temperature__54c temperature__63c temperature__0c temperature__49c temperature__39c temperature__10c
+temperature__50c temperature__68c temperature__46c temperature__34c temperature__46c temperature__12c temperature__57c temperature__27c temperature__54c temperature__64c
+temperature__31c temperature__78c temperature__78c temperature__112c temperature__86c temperature__34c temperature__31c temperature__23c temperature__51c temperature__21c
+temperature__3c temperature__146c temperature__14c temperature__77c temperature__86c temperature__138c temperature__74c temperature__90c temperature__42c temperature__22c
+temperature__86c temperature__124c temperature__84c temperature__90c temperature__148c temperature__47c temperature__136c temperature__59c temperature__120c temperature__118c
+temperature__78c temperature__145c temperature__84c temperature__141c temperature__28c temperature__53c temperature__51c temperature__12c temperature__146c temperature__36c
+temperature__58c temperature__123c temperature__33c temperature__118c temperature__86c temperature__147c temperature__142c temperature__16c temperature__4c temperature__31c
+temperature__59c temperature__12c temperature__90c temperature__36c temperature__57c temperature__82c temperature__8c temperature__24c temperature__17c temperature__58c
+SquareNumber_3844 SquareNumber_729 SquareNumber_9409 SquareNumber_9 SquareNumber_2916 SquareNumber_7225 SquareNumber_1024 SquareNumber_289 SquareNumber_9409 SquareNumber_5625
+SquareNumber_1849 SquareNumber_7056 SquareNumber_1156 SquareNumber_9 SquareNumber_8281 SquareNumber_3249 SquareNumber_5329 SquareNumber_7921 SquareNumber_9025 SquareNumber_2601
+SquareNumber_9216 SquareNumber_2704 SquareNumber_2809 SquareNumber_6084 SquareNumber_8649 SquareNumber_9 SquareNumber_5476 SquareNumber_1521 SquareNumber_625 SquareNumber_49
+SquareNumber_729 SquareNumber_4489 SquareNumber_784 SquareNumber_4 SquareNumber_1681 SquareNumber_4 SquareNumber_1296 SquareNumber_6561 SquareNumber_6241 SquareNumber_6561
+SquareNumber_900 SquareNumber_3481 SquareNumber_8836 SquareNumber_1089 SquareNumber_225 SquareNumber_225 SquareNumber_9801 SquareNumber_3249 SquareNumber_9409 SquareNumber_2500
+SquareNumber_7921 SquareNumber_5041 SquareNumber_9604 SquareNumber_1296 SquareNumber_8100 SquareNumber_324 SquareNumber_4225 SquareNumber_5776 SquareNumber_324 SquareNumber_9604
+SquareNumber_7921 SquareNumber_225 SquareNumber_144 SquareNumber_2704 SquareNumber_1849 SquareNumber_2304 SquareNumber_100 SquareNumber_289 SquareNumber_25 SquareNumber_121
+SquareNumber_2916 SquareNumber_9 SquareNumber_7396 SquareNumber_6889 SquareNumber_5476 SquareNumber_576 SquareNumber_4761 SquareNumber_8836 SquareNumber_2304 SquareNumber_289
+SquareNumber_25 SquareNumber_4900 SquareNumber_6889 SquareNumber_4761 SquareNumber_1936 SquareNumber_5625 SquareNumber_324 SquareNumber_100 SquareNumber_64 SquareNumber_1521
+SquareNumber_8281 SquareNumber_8649 SquareNumber_7921 SquareNumber_8281 SquareNumber_4489 SquareNumber_8836 SquareNumber_7921 SquareNumber_9025 SquareNumber_7225 SquareNumber_4900
+SquareNumber_4900 SquareNumber_169 SquareNumber_4 SquareNumber_121 SquareNumber_2704 SquareNumber_5184 SquareNumber_7744 SquareNumber_361 SquareNumber_9216 SquareNumber_225
+Lime Khaki CornflowerBlue Red DarkOrange LightSeaGreen Feldspar DimGray DarkOrchid MediumSlateBlue
+WhiteSmoke LightPink DarkOrchid MediumAquamarine SlateGray Ivory MistyRose SandyBrown Teal DarkGoldenrod
+DarkCyan Burlywood Fuchsia PowderBlue Black PowderBlue Purple DarkSeaGreen DarkFuchsia DeepPink
+LimeGreen Honeydew AliceBlue Chocolate Burlywood LightSteelBlue Orchid DodgerBlue VioletRed Burlywood
+DarkKhaki LimeGreen PeachPuff LimeGreen Yellow MediumVioletRed Chartreuse SeaGreen Moccasin LawnGreen
+MediumSpringGreen DarkGray LawnGreen DimGray DarkSeaGreen LightSlateBlue LightSteelBlue ForestGreen Honeydew Maroon
+AntiqueWhite Orchid Tomato Orange Ivory Cornsilk LawnGreen Seashell DarkGray Navy
+ForestGreen LightSteelBlue Firebrick LightYellow HotPink Coral Cornsilk Chocolate DarkOliveGreen LightSeaGreen
+LightGoldenrod Burlywood RoyalBlue SlateBlue Burlywood DarkSeaGreen SlateGray Orchid Khaki Goldenrod
+Honeydew PaleGreen SkyBlue AliceBlue Ivory DarkGray SpringGreen OrangeRed PowderBlue DarkTurquoise
+Turquoise Red PaleVioletRed Goldenrod Red DarkSlateGray DodgerBlue LightSalmon Violet DarkFuchsia
+marineanimal animal welfare object darter insects pups fauna insectivore zooplankton iguana
+zoo clams marineanimal primate deer elephants workanimal vertebrate metazoan dog
+zooplankton eukaryotic object octopuses carnivore pigs pet insect pigs predatoryanimal
+vertebrate dinosaur iguana insects demon protist porifera ladybug varmint puppy
+birds poikilotherm llamas eukaryotic beast mammal exoticanimals demon superdog heterotroph
+octopuses creature jellyfish predatoryanimal zoo wild frog animals domesticate domesticate
+animalkingdom farming animal welfare carnivore animatebeing zoology porifera fleshly insect animalkingdom
+chickens exoticanimals primate octopuses domesticate animalkingdom rabbit workanimal beast carnivore
+monster reptiles heterotroph workanimal monster chickens insects wildlife animals sensual
+predatoryanimal tufted rodent insectivorous farming thoroughbred object thoroughbred jellyfish insects
+elephants tiger thoroughbred dinosaur porifera pig zooplankton plant meat biped
+meals pasta cereal nutrition victuals rice pasta soup chicken vegetable
+restaurant cereal nutrient edible animal plant meal cheese cooking beef
+fruits vegetables beef chicken drinks soup meat fruits vegetables nutrient eat cereal
+provender soup restaurant fruit fruits vegetables fruit soup victuals cereal beef
+rice meals plant meal milk beef milk eat victuals meals
+meal animal eat chicken seafood nutrition fruits vegetables cheese provender nutrient
+cooking provender edible meals sushi vegetable provender soup soup animal
+chicken meat fruit fruits vegetables beef animal beef nutrient cooking fruits vegetables
+chicken cereal nourishment fruit eat provender cooking provender nutrition beef
+plant soup meals chicken fruits vegetables sushi cereal eat nourishment nutrition
+cooking milk nutrition pasta meal fruits vegetables beef plant rice plant
+diskette device spyware von neumann machine social dataconverter smartphone spyware turingmachine abacus
+information expansionslot computing transistor cpu mobile keyboard dataconverter information software
+internet memory virtualreality keyboard console antivirus watch downloader von neumann machine digital
+game compatible desktopcomputer integratedcircuit computerhardware vacuumtube game hardware astrolabe ibook
+daw inputdevice digitalcommunication diskette escapekey computercide machines computerhardware machinecode android
+abacus laptopcomputer device homecomputer xbox processor bit cyber astrolabe programming
+mechanicalcomputer server desktop personalcomputer eniac cpu xbox router antivirus computercide
+microprocessor computerprogramming digitalcomputer laptop server cell ibook escapekey server desktop
+desktop transistor diskette digitalcomputer cybertechnology game daw game pc console
+mechanicalcomputer keyboard router incompatible router microprocessor computing eniac computation hardware
+supercomputer device tablet supercomputer expansionslot calculator downloader desktoppcs machine digitalcomputer
+envious clever relieved nasty inquisitive horrible putrid annoyed smiling real
+vivacious blue-eyed alive lovely precious alert good tense dead jealous
+vivacious careful stormy proud open gifted grieving hurt good gleaming
+distinct cloudy nervous nervous alive alert clumsy inquisitive ugliest misty
+important dead silly selfish anxious smiling inexpensive uninterested magnificent brainy
+defiant dull ugly fantastic mysterious expensive itchy stupid fancy curious
+enchanting ill odd tense repulsive splendid attractive blue angry encouraging
+cloudy cautious helpless angry determined precious tired precious evil fragile
+fancy delightful stupid crowded difficult tasty plain lively joyous embarrassed
+charming glorious courageous fair cautious beautiful clever fantastic light faithful
+frantic joyous awful shiny colorful long elated zany filthy outstanding
+regime beleaguer temptation coercion intimidation corruption impunity refute deficit bamboozle
+incident anonymity illegal obscure manipulate scandal defamation deception partial temptation
+onerous impunity feud career unsavory opportunist coercion bamboozle dictatorship fray
+feud recrimination accusation fray refute dictatorship laconic subterfuge bamboozle scapegoat
+engagement deficit denigrate unjust ignorant persecution bamboozle sloth manipulate influence
+covert incident regime demagogue engagement coterie tycoon hypocrisy incident scandal
+collaboration mercurial claim denigrate onerous parry beleaguer persecution influence corruption
+retaliation impunity mendacity incident fiasco chicanery tarnish covert lobby extortion
+influence patronage chicanery benefit massive integrity onerous lobby impunity covert
+reckless temptation authoritarian covert denigrate massive engagement illicit claim fiasco
+deny expose reckless integrity corruption authoritarian incident regime parry debacle
+prison corrupt mob offense investigation government sentence violence highjack accident
+supernatural war offenses illegal supernatural country drama gangs blackmail crisis
+bloodshed sentence justice terrorism misdemeanor conspiracy bloodshed criminality supernatural police
+crime action homicides action evidence guilty criminals prostitution gun incarceration
+forensic corrupt investigation prostitution spy law poison mutilation war conspiracy
+abuse abuse prison tort jurisdiction dark gang crisis lift felony
+threats guilt smuggle robbery vandalism pirate arsons accident police drugs
+arrest racism death criminals felony hijack missing shootings psychological government
+victim structuralism blackmail supernatural police terrorism misdemeanor noir offenders story
+robbery trial homeless bloodshed death assault punitive serial arrest mystery
+thrillers sentence abuse fraud criminality blackmail missing massacre lift mob

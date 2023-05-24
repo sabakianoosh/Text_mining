@@ -1,0 +1,99 @@
+nourishment meat victuals drinks vegetable meal cheese rice nourishment restaurant
+drinks victuals meat soup cheese fruit fruit meal pasta eat
+victuals meal nutrient eat vegetable meal animal chicken eat seafood
+chicken eat nutrition meat vegetable meal milk vegetable edible fruits vegetables
+seafood plant cereal vegetable meal vegetable animal meals fruit milk
+chicken chicken seafood nutrient sushi drinks rice plant provender seafood
+nutrient fruits vegetables fruits vegetables cereal plant restaurant cereal sushi animal rice
+meal milk soup cereal vegetable victuals provender provender cheese edible
+sushi nutrient meat sushi eat beef nourishment soup meals fruit
+plant edible fruits vegetables pasta cooking victuals soup animal animal restaurant
+cooking nutrition rice edible cereal seafood eat drinks restaurant eat
+BinaryNumber_0110001 BinaryNumber_0001101 BinaryNumber_1000100 BinaryNumber_1001010 BinaryNumber_0111000 BinaryNumber_1011111 BinaryNumber_1100000 BinaryNumber_0000110 BinaryNumber_0111101 BinaryNumber_1001010
+BinaryNumber_0001111 BinaryNumber_0110011 BinaryNumber_0110000 BinaryNumber_0011000 BinaryNumber_0110011 BinaryNumber_0011010 BinaryNumber_0000110 BinaryNumber_1011011 BinaryNumber_1001110 BinaryNumber_1011110
+BinaryNumber_0001101 BinaryNumber_1000100 BinaryNumber_0000100 BinaryNumber_0100100 BinaryNumber_0110011 BinaryNumber_0011000 BinaryNumber_1001010 BinaryNumber_0001100 BinaryNumber_0000000 BinaryNumber_0001000
+BinaryNumber_0100011 BinaryNumber_0100000 BinaryNumber_0111011 BinaryNumber_1001100 BinaryNumber_0011110 BinaryNumber_0001100 BinaryNumber_0010111 BinaryNumber_0100000 BinaryNumber_0010000 BinaryNumber_0101110
+BinaryNumber_0001110 BinaryNumber_0101001 BinaryNumber_0110011 BinaryNumber_1011011 BinaryNumber_0110001 BinaryNumber_1011001 BinaryNumber_1010011 BinaryNumber_1000101 BinaryNumber_0010001 BinaryNumber_0110101
+BinaryNumber_0011000 BinaryNumber_1000010 BinaryNumber_1010010 BinaryNumber_0011011 BinaryNumber_0001101 BinaryNumber_0001101 BinaryNumber_1010010 BinaryNumber_1100001 BinaryNumber_0001100 BinaryNumber_1000000
+BinaryNumber_1000100 BinaryNumber_0001100 BinaryNumber_0010101 BinaryNumber_0110110 BinaryNumber_0000001 BinaryNumber_0001100 BinaryNumber_0100111 BinaryNumber_1100001 BinaryNumber_0001011 BinaryNumber_1010111
+BinaryNumber_1000000 BinaryNumber_0111010 BinaryNumber_0110001 BinaryNumber_1000000 BinaryNumber_1011100 BinaryNumber_0010100 BinaryNumber_0000010 BinaryNumber_1001110 BinaryNumber_0111010 BinaryNumber_0010010
+BinaryNumber_0000001 BinaryNumber_0000001 BinaryNumber_0111010 BinaryNumber_0111101 BinaryNumber_1011000 BinaryNumber_0110101 BinaryNumber_0001110 BinaryNumber_1000010 BinaryNumber_0011011 BinaryNumber_0111001
+BinaryNumber_0000111 BinaryNumber_0000011 BinaryNumber_1100000 BinaryNumber_0110001 BinaryNumber_0101110 BinaryNumber_0100000 BinaryNumber_0101001 BinaryNumber_0011110 BinaryNumber_1100011 BinaryNumber_0101100
+BinaryNumber_0100001 BinaryNumber_1010101 BinaryNumber_0010101 BinaryNumber_0111001 BinaryNumber_0101011 BinaryNumber_1001111 BinaryNumber_0111111 BinaryNumber_0111100 BinaryNumber_0011011 BinaryNumber_0111100
+PrimeNumber_193 PrimeNumber_373 PrimeNumber_137 PrimeNumber_61 PrimeNumber_313 PrimeNumber_449 PrimeNumber_53 PrimeNumber_149 PrimeNumber_53 PrimeNumber_277
+PrimeNumber_293 PrimeNumber_277 PrimeNumber_31 PrimeNumber_491 PrimeNumber_179 PrimeNumber_191 PrimeNumber_43 PrimeNumber_241 PrimeNumber_353 PrimeNumber_197
+PrimeNumber_277 PrimeNumber_193 PrimeNumber_449 PrimeNumber_331 PrimeNumber_179 PrimeNumber_503 PrimeNumber_109 PrimeNumber_47 PrimeNumber_353 PrimeNumber_19
+PrimeNumber_37 PrimeNumber_421 PrimeNumber_491 PrimeNumber_311 PrimeNumber_37 PrimeNumber_37 PrimeNumber_137 PrimeNumber_523 PrimeNumber_373 PrimeNumber_11
+PrimeNumber_223 PrimeNumber_139 PrimeNumber_331 PrimeNumber_181 PrimeNumber_277 PrimeNumber_43 PrimeNumber_521 PrimeNumber_3 PrimeNumber_269 PrimeNumber_397
+PrimeNumber_251 PrimeNumber_331 PrimeNumber_457 PrimeNumber_541 PrimeNumber_491 PrimeNumber_37 PrimeNumber_127 PrimeNumber_461 PrimeNumber_431 PrimeNumber_367
+PrimeNumber_181 PrimeNumber_409 PrimeNumber_173 PrimeNumber_131 PrimeNumber_109 PrimeNumber_67 PrimeNumber_17 PrimeNumber_127 PrimeNumber_349 PrimeNumber_83
+PrimeNumber_457 PrimeNumber_367 PrimeNumber_479 PrimeNumber_53 PrimeNumber_103 PrimeNumber_349 PrimeNumber_383 PrimeNumber_541 PrimeNumber_433 PrimeNumber_509
+PrimeNumber_31 PrimeNumber_283 PrimeNumber_379 PrimeNumber_151 PrimeNumber_137 PrimeNumber_293 PrimeNumber_101 PrimeNumber_389 PrimeNumber_547 PrimeNumber_389
+PrimeNumber_41 PrimeNumber_61 PrimeNumber_227 PrimeNumber_151 PrimeNumber_59 PrimeNumber_29 PrimeNumber_61 PrimeNumber_239 PrimeNumber_499 PrimeNumber_397
+PrimeNumber_199 PrimeNumber_461 PrimeNumber_179 PrimeNumber_197 PrimeNumber_509 PrimeNumber_113 PrimeNumber_389 PrimeNumber_509 PrimeNumber_463 PrimeNumber_269
+lyrics writing vinyl maps audio carol accompaniment accompaniment carol bassline
+phone concertise bar rag wagner rockabilly fugue talking hyperpop concerto
+movies symphonic artists bugle song tongue singer entertainment fugue noise
+clarion films drum club talk melody art music lyric popular music percussion
+concertize symphonise atonal metre timbre cello carol bass soundtrack sounds
+tabs podcast silence triple-tongue composing clarinet cadence piano merch harmonize
+poetry melodies interlude harmony language cadence dynamics graphics arts lyrics
+reharmonize atonality opera muses party hymn interlude muses choir double bass
+jazzfunk vibe double bass art music concert beat art music violoncello mediant banjo
+talking visual time ska speak double bass action symphonic writing tone
+mp3s tweedle dixieland lights violin muse language electronica ska soundtracks
+microprocessor monitor abacus phone analogcomputer digital mobiledevice eniac electromechanical screen
+proprietary social laptop machine laptop hardware microprocessor keyboard digitalcommunication computercide
+cell laptop memory microprocessor bit device programming daw device keyboard
+imac imac laptopcomputer mobiledevice digitalaudioplayer personalcomputer screen computercircuit browser phone
+diskette pc mechanicalcomputer automation camera memory virtualreality centralprocessing unit desktop vacuumtube
+centralprocessing unit pc daw transistor computerscience server mechanicalcomputer computerprogramming vacuumtube floppydisk
+computation peripheral centralprocessing unit cell mechanicalcomputer peripheral monitor monitor compatible algorithm
+digital phone abacus visualdisplayunit processor desktoppcs computing digitalcommunication processor expansionslot
+computerhardware incompatible computercircuit computing android browser dataconverter escapekey calculator dataconverter
+cell computing proprietary arithmetic downloader programmer xbox downloader camera machinecode
+digital algorithm smartphone automation machine centralprocessing unit digitalcommunication computercircuit microprocessor social
+misdemeanor racism homicides fraud crisis legal jurisdiction law-breaking snitching psychological
+punitive homeless arsons crime offense crisis theft drug vandalism dark
+terrorism liberty police homicides justice mutilation transgression theft conspiracy accident
+death blackmail forensic murder law-breaking story conspiracy cop law poison
+felony criminality homelessness cases legal cop incarceration misdemeanor cases assault
+abuse psychological human criminals murders criminal theft revenge country genocide
+government genocide spy unsolved drugs thriller victim revenge rape action
+action bloodshed mystery law bloodshed kill pirate criminality punitive murders
+psychological law war bloodshed rape law cases human misdemeanour offenses
+sin punishment human fraud spy crime sentence barratry homelessness drugs
+liberty gun cybercrime gangster lift highjack detective detective thriller homelessness
+MediumSeaGreen Orange DarkFuchsia DeepSkyBlue DodgerBlue RosyBrown Navy Salmon IndianRed PeachPuff
+DarkBlue MediumSeaGreen Feldspar DarkOrchid MidnightBlue AntiqueWhite PapayaWhip PapayaWhip PowderBlue LightSeaGreen
+Crimson PaleGreen LightGoldenrod Pink DarkOliveGreen Violet Brown BlanchedAlmond Gold Tan
+Burlywood LimeGreen Indigo Purple Brown Tomato DarkOrange Brown LightSalmon Feldspar
+DarkTurquoise WhiteSmoke Lime Cyan Turquoise DimGray RosyBrown DarkOliveGreen LightGray IndianRed
+Lime SandyBrown DarkSeaGreen Chocolate PeachPuff Violet Chartreuse LightSeaGreen VioletRed Chartreuse
+Goldenrod SkyBlue SaddleBrown Teal LightGray Black Feldspar LavenderBlush Burlywood Navy
+SlateGray MediumVioletRed DarkSlateGray DarkRed Olive LightSteelBlue MediumSeaGreen PaleTurquoise Moccasin Burlywood
+LimeGreen SpringGreen DeepPink Coral DarkOrchid Fuchsia Azure CornflowerBlue SlateBlue Beige
+Pink FloralWhite Cornsilk Maroon Coral Chartreuse Moccasin Yellow Salmon Goldenrod
+SpringGreen Pink Khaki Crimson FloralWhite PeachPuff GreenYellow LightSeaGreen MidnightBlue LightSlateGray
+20:13 22:36 21:21 19:51 12:46 15:47 18:59 13:53 18:21 15:12
+18:20 12:14 17:35 22:39 23:56 23:42 19:18 22:21 11:52 19:52
+22:45 16:33 20:37 11:33 15:23 21:26 18:12 16:49 10:18 19:42
+15:16 13:21 17:43 19:20 18:42 22:20 21:15 15:10 17:57 16:28
+16:42 23:31 11:27 19:26 11:26 22:54 12:26 11:28 16:25 19:22
+21:19 15:21 19:22 20:59 22:41 18:48 23:24 18:45 19:35 18:11
+14:56 20:31 13:40 16:43 22:20 19:33 20:42 11:24 23:37 12:19
+12:56 16:13 18:46 10:24 16:48 20:36 23:30 22:28 21:15 12:22
+16:19 10:33 11:45 18:11 18:42 11:39 23:16 23:36 12:35 23:24
+23:38 16:42 16:25 11:11 19:36 22:49 11:58 19:32 14:34 14:58
+13:34 22:50 12:43 20:18 20:42 16:37 20:29 13:38 15:42 19:52
+temperature__88c temperature__93c temperature__34c temperature__59c temperature__116c temperature__118c temperature__90c temperature__40c temperature__56c temperature__33c
+temperature__77c temperature__33c temperature__147c temperature__36c temperature__84c temperature__116c temperature__86c temperature__69c temperature__12c temperature__108c
+temperature__2c temperature__59c temperature__3c temperature__78c temperature__120c temperature__109c temperature__92c temperature__131c temperature__54c temperature__146c
+temperature__131c temperature__88c temperature__129c temperature__87c temperature__118c temperature__85c temperature__139c temperature__78c temperature__84c temperature__51c
+temperature__44c temperature__21c temperature__82c temperature__12c temperature__100c temperature__144c temperature__109c temperature__116c temperature__58c temperature__56c
+temperature__21c temperature__26c temperature__14c temperature__64c temperature__93c temperature__49c temperature__79c temperature__122c temperature__131c temperature__64c
+temperature__46c temperature__70c temperature__7c temperature__28c temperature__47c temperature__6c temperature__52c temperature__51c temperature__106c temperature__21c
+temperature__12c temperature__63c temperature__77c temperature__141c temperature__82c temperature__26c temperature__24c temperature__10c temperature__73c temperature__148c
+temperature__144c temperature__63c temperature__51c temperature__140c temperature__64c temperature__126c temperature__16c temperature__84c temperature__31c temperature__68c
+temperature__59c temperature__137c temperature__122c temperature__28c temperature__3c temperature__4c temperature__70c temperature__14c temperature__84c temperature__30c
+temperature__118c temperature__2c temperature__46c temperature__7c temperature__98c temperature__2c temperature__109c temperature__51c temperature__33c temperature__106c

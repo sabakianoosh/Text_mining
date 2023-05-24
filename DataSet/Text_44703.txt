@@ -1,0 +1,99 @@
+temperature__39c temperature__108c temperature__36c temperature__52c temperature__137c temperature__59c temperature__31c temperature__129c temperature__90c temperature__88c
+temperature__146c temperature__106c temperature__124c temperature__95c temperature__22c temperature__141c temperature__61c temperature__122c temperature__3c temperature__120c
+temperature__100c temperature__71c temperature__21c temperature__126c temperature__0c temperature__130c temperature__42c temperature__47c temperature__4c temperature__53c
+temperature__111c temperature__56c temperature__64c temperature__77c temperature__12c temperature__79c temperature__65c temperature__140c temperature__41c temperature__109c
+temperature__23c temperature__129c temperature__8c temperature__79c temperature__31c temperature__10c temperature__23c temperature__71c temperature__65c temperature__24c
+temperature__35c temperature__93c temperature__58c temperature__23c temperature__8c temperature__144c temperature__8c temperature__44c temperature__105c temperature__132c
+temperature__138c temperature__77c temperature__68c temperature__139c temperature__56c temperature__46c temperature__139c temperature__141c temperature__59c temperature__7c
+temperature__57c temperature__105c temperature__86c temperature__132c temperature__100c temperature__31c temperature__5c temperature__21c temperature__57c temperature__95c
+temperature__2c temperature__88c temperature__51c temperature__50c temperature__92c temperature__142c temperature__91c temperature__21c temperature__123c temperature__91c
+temperature__5c temperature__105c temperature__136c temperature__35c temperature__147c temperature__28c temperature__4c temperature__2c temperature__92c temperature__84c
+temperature__100c temperature__7c temperature__3c temperature__17c temperature__142c temperature__42c temperature__50c temperature__91c temperature__65c temperature__11c
+Cerebellum Ossicles Iris Kidneys Mesentery Uterus Muscle Eye Nerves Thymus
+Earlobe Eardrum Bladder Urethra Largeintestine Uterus Outerear Tongue Retina Analcanal
+Bronchi Largeintestine Scrotum Bladder Eye Joints Largeintestine Smallintestine Scrotum Bronchi
+Lips Spinalnerves Analcanal Iris Mesentery Muscle Jejunum skeleton Gallbladder Smallintestine
+Veins Retina Earlobe Lymphaticvessel Liver Uterus Fallopiantubes Cervix Cecum Tongue
+Largeintestine Ossicles Lymphaticvessel Lungs Vagina Eye Thalamus Clitoris Tongue Earlobe
+Pons Ossicles Ganglia Vulva Penis Lens Cochlea Nerves Lymphaticvessel Ileum
+Pons Iris Esophagus Tastebuds Cervix Interstitium Tonsils Midbrain Lips Lungs
+Thalamus Capillaries Lymphaticvessel Nerves Veins Ganglia Cervix Tendons Arteries Ciliarybody
+Cranialnerves Gallbladder Vagina Outerear Midbrain Outerear Cranialnerves Jejunum Sensoryorgans skeleton
+Interstitium Duodenum Liver Rectum Clitoris Ovaries Mesentery Teeth Pharynx Cornea
+15:30 23:35 20:37 20:33 23:50 13:14 11:41 20:40 11:41 14:50
+23:34 23:48 16:25 10:52 21:11 23:39 23:15 20:24 15:33 19:44
+19:25 22:40 12:31 10:10 17:40 23:11 10:56 22:21 15:13 14:13
+11:58 10:27 16:22 16:29 14:36 20:47 17:46 16:10 12:22 20:38
+23:23 20:30 22:55 10:25 15:36 15:47 16:43 20:57 17:39 16:13
+15:19 15:38 12:40 14:46 23:53 14:17 15:54 10:52 16:18 16:54
+16:59 10:19 20:37 23:39 11:49 23:59 19:49 15:36 18:44 14:59
+19:35 21:21 20:52 11:33 13:58 12:51 11:21 15:47 23:58 15:31
+12:57 15:15 11:17 21:28 12:41 16:21 14:12 14:25 11:44 20:21
+19:49 10:48 12:20 13:49 18:12 19:29 14:51 13:21 11:27 17:44
+18:49 21:47 22:21 10:20 12:36 10:10 18:58 20:27 19:46 22:19
+retaliation plutocracy deny alliance rebut defamation laconic chicanery alliance assail
+fray prestidigitation revelation partial integrity rebut temptation deception partial cadre
+rebut fiasco fiasco bribe rebut illegal engagement mendacity feud embezzlement
+allegation claim onerous assail tycoon deficit lobby privilege coterie impunity
+integrity tycoon onerous extortion illicit manipulate deny illicit scandal deny
+patriarchy resignation chicanery sloth reckless obscure endorsement blame temptation illicit
+authoritarian opportunist authoritarian persecution career cadre privilege retaliation onerous saga
+expose extortion partial scapegoat recrimination collaboration revelation tainted deflect dictatorship
+deficit obscure defamation parry scandalous corruption ignorant rebut reputation authoritarian
+extortion deny deny dictatorship regime partial deny saga unethical beleaguer
+mercurial coterie onerous intimidation unsavory dictatorship chicanery acolyte empire subterfuge
+BinaryNumber_0000001 BinaryNumber_0110010 BinaryNumber_0111111 BinaryNumber_0111110 BinaryNumber_1010001 BinaryNumber_1010101 BinaryNumber_0101011 BinaryNumber_0111101 BinaryNumber_0101101 BinaryNumber_1010111
+BinaryNumber_0000000 BinaryNumber_1001010 BinaryNumber_1000001 BinaryNumber_0000000 BinaryNumber_1011101 BinaryNumber_1000001 BinaryNumber_0010100 BinaryNumber_1011110 BinaryNumber_1010000 BinaryNumber_1011010
+BinaryNumber_1011011 BinaryNumber_0111111 BinaryNumber_0011001 BinaryNumber_0000000 BinaryNumber_0100011 BinaryNumber_0100101 BinaryNumber_0011110 BinaryNumber_1011101 BinaryNumber_0001101 BinaryNumber_0100001
+BinaryNumber_0001011 BinaryNumber_0010100 BinaryNumber_0001101 BinaryNumber_1001101 BinaryNumber_1010011 BinaryNumber_0010101 BinaryNumber_0010000 BinaryNumber_0101001 BinaryNumber_0010111 BinaryNumber_1001000
+BinaryNumber_0101101 BinaryNumber_0010000 BinaryNumber_0010011 BinaryNumber_1000100 BinaryNumber_1010111 BinaryNumber_0110010 BinaryNumber_0011011 BinaryNumber_0100001 BinaryNumber_0110000 BinaryNumber_1000101
+BinaryNumber_0100000 BinaryNumber_1010000 BinaryNumber_0001001 BinaryNumber_1011000 BinaryNumber_0010111 BinaryNumber_0110010 BinaryNumber_1000000 BinaryNumber_0100011 BinaryNumber_1000010 BinaryNumber_1010100
+BinaryNumber_0111010 BinaryNumber_0000100 BinaryNumber_0000100 BinaryNumber_0101001 BinaryNumber_1010111 BinaryNumber_1100010 BinaryNumber_0100101 BinaryNumber_1001100 BinaryNumber_0111010 BinaryNumber_1100000
+BinaryNumber_1011011 BinaryNumber_0010100 BinaryNumber_0101110 BinaryNumber_0110100 BinaryNumber_0100010 BinaryNumber_1001101 BinaryNumber_0100101 BinaryNumber_0010101 BinaryNumber_0101011 BinaryNumber_0011000
+BinaryNumber_0011010 BinaryNumber_0010101 BinaryNumber_1100011 BinaryNumber_1001010 BinaryNumber_1000110 BinaryNumber_0001111 BinaryNumber_1011010 BinaryNumber_1001010 BinaryNumber_1010010 BinaryNumber_1011100
+BinaryNumber_0001010 BinaryNumber_1000101 BinaryNumber_0011000 BinaryNumber_1000001 BinaryNumber_0100000 BinaryNumber_1001001 BinaryNumber_0101011 BinaryNumber_0001100 BinaryNumber_0111110 BinaryNumber_0110000
+BinaryNumber_1001000 BinaryNumber_0110010 BinaryNumber_0011110 BinaryNumber_0001001 BinaryNumber_1011011 BinaryNumber_1010100 BinaryNumber_0100110 BinaryNumber_1011000 BinaryNumber_1010101 BinaryNumber_1000101
+esport dirt yoga feature recreation muscle soccerball tradition limited active
+sportaccord motorsports standard horseracing mutant sportaccord video show multisport culture
+culture concert social club referee multisport sportsman soccerball triathlon activities
+basketball athletes social job hobbies diver utility schuss standard eco
+rugby romp fighting yoga judo lead challenge athlete performance funambulism
+lead movement industry tennis skylark hiking basketball cross challenge premium
+frisk class sportsman cycling job sport career boast skiing organization
+wipeout basketball yoga active challenge ineligible gymnastics job supersport lead
+hobbies dirt performance casual racing spar sport cycling community fast
+form badminton blazers suit challenge hunting position athlete sportsmanship champion
+bike wipeout rugby racing ineligible skating tournaments pack polo martial
+animal welfare insectivore pitbull animal welfare ladybug pig wildlife wild puppy octopuses
+reptile hourse thoroughbred amphibians tufted heterotroph clams reptile environmental workanimal
+tufted puppy hourse sensual superdog demon dogs shelter animalkingdom animatebeing
+llamas chordate tiger sensual birds vegan workanimal fantasy primate mammals
+fleshly biped mammals animal welfare monster heterotroph fantasy biped environmental pig
+elephants beast environmental zooplankton dog octopuses fauna superdog fantasy creature
+marineanimal reptiles zoology animalia multicellular thoroughbred llamas marineanimal insect pitbull
+livestock marineanimal pups carnal environmental animalia rodent insectivore animal welfare bear
+superdog rabbit thoroughbred predatoryanimal livestock thoroughbred rodent frog monster marineanimal
+insectivore tufted deer thoroughbred primate puppy zoo pet sheep environmental
+invertebrate vegan object insect mammals birds dogs fish zoo llamas
+desktop turingmachine personalcomputer browser mainframe computation device eniac desktop programmer
+abacus personalcomputer chip digitalcommunication monitor information pc machinecode calculator desktop
+virtualreality mechanicalcomputer algorithm microprocessor machine laptopcomputer cell von neumann machine digital incompatible
+centralprocessing unit supercomputer electromechanical cell escapekey computation desktopcomputer screen computerscience virtualreality
+desktopcomputer pornographicimages homecomputer camera digital electromechanical homecomputer antivirus phone information
+digitalaudioplayer astrolabe astrolabe laptopcomputer peripheral mobile xbox cpu smartphone computerscience
+microprocessor centralprocessing unit antivirus computercide computerprogramming expansionslot digitalcommunication software diskette cyber
+automation digitalaudioplayer social virtualreality astrolabe microcomputer turingmachine cyber hardware desktoppcs
+desktoppcs computation compatible dataconverter microcomputer homecomputer personalcomputer machines screen homecomputer
+console mobiledevice algorithm digitalcomputer server programming antivirus astrolabe cybertechnology calculator
+desktopcomputer memory android console machinecode mechanicalcomputer pc floppydisk vacuumtube microcomputer
+double bass oboe bpm concert clapping bugle melody editing clapping sforzando
+reharmonize harpsichord oboe polyphony spotify album euphony time classical single
+recording soundtrack musical pianist section composer chorus art paleolithic section
+metal concerto timbre roulade singing fermata rhapsody rag tuning tuning
+conducting reading tongue lyric subtonic concerts merch tuba instrument beat
+tuning popular music concerts music dixieland editing creative theme headphones audio
+metal bars muse tempo bands cadence podcast vocals subtonic symphonise
+harmonise atonal popular music poetry cadence symphony talk monophony choir soulful
+gospel rock metal playlist maps texture songwriter instrument clarinet editing
+pianist record chorus theme maps bhangra dance hiphop bands ambience
+films intonation single bands release bands atonality ensemble clarion key

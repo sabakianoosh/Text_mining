@@ -1,0 +1,99 @@
+Eye Sensoryorgans Ciliarybody Pharynx Vulva Esophagus Sensoryorgans Heart Kidneys Ganglia
+Pons Interstitium Tendons Arteries Veins Lens Cecum Sensoryorgans Ligaments Retina
+Fallopiantubes Cochlea Muscle Placenta Tongue Bronchi Larynx Placenta Cranialnerves Tastebuds
+Vulva Stomach Ciliarybody Urethra Cecum Bone  Ileum Urethra Ligaments Kidneys
+Spinalnerves Stomach Duodenum Cecum Tongue Thymus Thalamus Vulva Iris Thalamus
+Pons Cecum Eye Cervix Kidneys Mesentery Vulva Duodenum Brain Capillaries
+Eardrum Cochlea Vulva Ciliarybody Lymphaticvessel Largeintestine skeleton Pons Tendons Cranialnerves
+Ureter Iris Penis Ileum Vulva Pancreas Middleear Cornea Nerves Pancreas
+Veins Interstitium Pancreas Trachea Thymus skeleton Mouth Ureter Teeth Fallopiantubes
+Vulva Stomach Tastebuds Liver Pons Analcanal Thalamus Tonsils Ovaries Fallopiantubes
+Arteries Mesentery Veins Ear Tongue Jejunum Kidneys Bone  Iris Thymus
+DarkGray CornflowerBlue WhiteSmoke LimeGreen Ivory PaleGreen DeepPink MediumOrchid Orange DarkGreen
+LightSalmon AntiqueWhite Cyan SpringGreen Olive PaleGoldenrod Bisque LavenderBlush LemonChiffon LimeGreen
+CadetBlue Beige SaddleBrown Teal Teal DarkRed MediumBlue MediumVioletRed Green Sienna
+Green Gold LightBlue RosyBrown Indigo DarkKhaki IndianRed Chartreuse Gainsboro Cyan
+MediumOrchid HotPink DarkSlateGray Violet LightYellow Snow Khaki Pink AliceBlue DarkRed
+PowderBlue OrangeRed ForestGreen Snow PaleGreen Olive LemonChiffon DarkSeaGreen AntiqueWhite MediumPurple
+Indigo MediumVioletRed SkyBlue DarkOrchid SandyBrown Turquoise DarkCyan MintCream Lime Gray
+ForestGreen DarkCyan SkyBlue SlateBlue GhostWhite LightGoldenrod SandyBrown Salmon Peru Seashell
+Snow Red RoyalBlue MediumOrchid Thistle Olive PowderBlue LightSlateBlue LavenderBlush Ivory
+LightCoral Turquoise CadetBlue Sienna DarkBlue Burlywood Cyan LightGray DeepPink LightCyan
+OliveDrab AntiqueWhite Silver RosyBrown GhostWhite Teal Plum RosyBrown LightBlue Cornsilk
+BinaryNumber_0011101 BinaryNumber_1001001 BinaryNumber_1000110 BinaryNumber_0010001 BinaryNumber_0011100 BinaryNumber_0110110 BinaryNumber_1010110 BinaryNumber_0110111 BinaryNumber_1000000 BinaryNumber_1000010
+BinaryNumber_1010011 BinaryNumber_0011010 BinaryNumber_1010000 BinaryNumber_1010001 BinaryNumber_1011011 BinaryNumber_1011100 BinaryNumber_0010111 BinaryNumber_0110000 BinaryNumber_1010111 BinaryNumber_0101000
+BinaryNumber_1011000 BinaryNumber_0111001 BinaryNumber_0010000 BinaryNumber_0001011 BinaryNumber_1010011 BinaryNumber_0101010 BinaryNumber_1010111 BinaryNumber_0101000 BinaryNumber_1010110 BinaryNumber_1001010
+BinaryNumber_1011011 BinaryNumber_0101001 BinaryNumber_0100100 BinaryNumber_0101101 BinaryNumber_1010010 BinaryNumber_0001010 BinaryNumber_1000100 BinaryNumber_0011010 BinaryNumber_1010100 BinaryNumber_0101110
+BinaryNumber_1000001 BinaryNumber_1010010 BinaryNumber_0011011 BinaryNumber_1000000 BinaryNumber_0011101 BinaryNumber_1010000 BinaryNumber_0000110 BinaryNumber_0000000 BinaryNumber_0110100 BinaryNumber_1001000
+BinaryNumber_0111001 BinaryNumber_1001001 BinaryNumber_0010110 BinaryNumber_1001100 BinaryNumber_1000101 BinaryNumber_0111101 BinaryNumber_1001111 BinaryNumber_0000000 BinaryNumber_1000100 BinaryNumber_0010111
+BinaryNumber_0110101 BinaryNumber_1000100 BinaryNumber_0101010 BinaryNumber_0001101 BinaryNumber_0011011 BinaryNumber_0001100 BinaryNumber_0011101 BinaryNumber_0111111 BinaryNumber_0000010 BinaryNumber_1010010
+BinaryNumber_0001010 BinaryNumber_0011110 BinaryNumber_0100101 BinaryNumber_0010000 BinaryNumber_0100001 BinaryNumber_0010011 BinaryNumber_0100101 BinaryNumber_1010000 BinaryNumber_0001111 BinaryNumber_1100010
+BinaryNumber_0011100 BinaryNumber_0100000 BinaryNumber_0111010 BinaryNumber_0001011 BinaryNumber_1011101 BinaryNumber_0100111 BinaryNumber_0001001 BinaryNumber_0110000 BinaryNumber_0010101 BinaryNumber_1001111
+BinaryNumber_1001101 BinaryNumber_0001101 BinaryNumber_1010100 BinaryNumber_0101101 BinaryNumber_0010011 BinaryNumber_1001011 BinaryNumber_1010011 BinaryNumber_0111101 BinaryNumber_1001110 BinaryNumber_1000011
+BinaryNumber_1000100 BinaryNumber_0011111 BinaryNumber_0110111 BinaryNumber_0001110 BinaryNumber_1001011 BinaryNumber_1001010 BinaryNumber_0000100 BinaryNumber_0100100 BinaryNumber_0010100 BinaryNumber_1011011
+fruit victuals nutrient victuals victuals vegetable fruits vegetables rice chicken eat
+fruits vegetables vegetable rice cheese meal animal sushi meals vegetable nutrition
+rice victuals eat cooking seafood animal vegetable cereal animal animal
+vegetable nourishment nutrition drinks plant milk sushi meat milk meal
+victuals edible vegetable nourishment drinks beef milk edible soup meat
+cooking plant victuals nutrient meal meals plant meals victuals vegetable
+pasta animal drinks fruit nutrient pasta milk cooking victuals milk
+fruit soup meal eat beef restaurant nutrient victuals eat rice
+nourishment sushi cheese sushi meals eat edible meals animal plant
+pasta fruits vegetables cheese provender soup animal fruits vegetables restaurant provender restaurant
+vegetable vegetable nutrition sushi fruits vegetables drinks cooking meal drinks cereal
+temperature__49c temperature__2c temperature__112c temperature__61c temperature__98c temperature__108c temperature__137c temperature__78c temperature__49c temperature__23c
+temperature__148c temperature__50c temperature__61c temperature__52c temperature__132c temperature__98c temperature__57c temperature__39c temperature__123c temperature__144c
+temperature__148c temperature__3c temperature__61c temperature__142c temperature__112c temperature__130c temperature__23c temperature__69c temperature__119c temperature__26c
+temperature__68c temperature__93c temperature__95c temperature__69c temperature__79c temperature__122c temperature__91c temperature__126c temperature__106c temperature__106c
+temperature__77c temperature__51c temperature__139c temperature__70c temperature__100c temperature__137c temperature__126c temperature__35c temperature__68c temperature__123c
+temperature__7c temperature__8c temperature__105c temperature__59c temperature__92c temperature__146c temperature__70c temperature__10c temperature__119c temperature__58c
+temperature__41c temperature__146c temperature__112c temperature__136c temperature__130c temperature__131c temperature__85c temperature__47c temperature__74c temperature__126c
+temperature__7c temperature__6c temperature__92c temperature__51c temperature__126c temperature__108c temperature__26c temperature__85c temperature__131c temperature__2c
+temperature__124c temperature__132c temperature__16c temperature__22c temperature__50c temperature__87c temperature__35c temperature__4c temperature__73c temperature__2c
+temperature__109c temperature__109c temperature__64c temperature__65c temperature__123c temperature__144c temperature__147c temperature__87c temperature__0c temperature__123c
+temperature__58c temperature__11c temperature__139c temperature__138c temperature__137c temperature__86c temperature__22c temperature__69c temperature__35c temperature__123c
+muggings law-breaking slayings thriller political rape abuse felony liberty terrorism
+drugs punishment homeless slay massacre genocide criminality mutilation safety robbery
+dark corrupt homeless theft jurisdiction incarceration lift misdemeanor imprisonment justice
+war cybercrime homicides supernatural death serial conspiracy cybercrime thrillers shootings
+slay guilt guilt shoplift supernatural brutality hijack mafia legislature arsons
+cop poison drugs law structuralism gangsterism story arrest homicide cybercrime
+violence justice misdemeanor revenge felony safety revenge drug threats bloodshed
+muggings lift felony barratry drugs lift justice dark mob felony
+supernatural investigation pirate homicide unsolved mystery war snitching cases mutilation
+guilt smuggle murders victim gun smuggle fraud safety drama cybercrime
+poison genocide structuralism suspense guilt legislature jurisdiction guilty robbery racism
+corruption plutocracy bamboozle mendacity persecution coterie reputation unsavory demagogue accusation
+tainted resignation patriarchy anonymity demagogue retaliation blame expose coterie integrity
+solicit corruption recrimination opportunist illicit resignation lobby subterfuge denigrate beleaguer
+solicit extortion subterfuge intimidation recrimination reputation refute dictatorship plagiarism fiasco
+patronage blame prestidigitation benefit authoritarian assail temptation deception defamation partial
+mercurial unethical tarnish dictatorship regime denigrate hypocrisy proxy bamboozle laconic
+infringement coercion saga extortion feud tainted bribe impunity tainted accusation
+coterie fray feud reckless impunity acolyte accusation illicit alliance ignorant
+accusation blame accusation alliance plagiarism unjust integrity bamboozle blame scandalous
+illegal ignorant retaliation tainted unjust tainted feud authoritarian mercurial proxy
+unjust embezzlement mercurial rebut engagement patriarchy incident refute malfeasance rebut
+information automation downloader expansionslot router imac desktopcomputer laptopcomputer desktop calculator
+console xbox laptopcomputer centralprocessing unit antivirus programmer proprietary mobiledevice phone microprocessor
+computing laptopcomputer dataconverter downloader social turingmachine cpu machine spyware homecomputer
+proprietary smartphone visualdisplayunit virtualreality screen server computing chip proprietary browser
+software browser computerprogramming computercide computing laptop escapekey desktop chip spyware
+router von neumann machine electronics microprocessor computerscience desktoppcs desktop programming cpu mainframe
+diskette sliderule von neumann machine digitalcommunication game digitalcommunication mobile computerprogramming cyber visualdisplayunit
+digitalaudioplayer phone expansionslot chip laptopcomputer algorithm centralprocessing unit computerprogram visualdisplayunit turingmachine
+diskette electronics dataconverter cell software incompatible virtualreality floppydisk turingmachine computing
+internet browser computerprogramming machinecode compatible machinecode cpu office server vacuumtube
+incompatible keyboard electrical bit imac android floppydisk ibook spyware peripheral
+movies beats choir podcast fugue concert medicine classical jazz media
+funk part atonality genre poetry funk part songwriter time cultural
+roulade release paleolithic ska cadence subdivision symphony intonation lyric singers
+key movie dance artists tabs club reggae sforzando festival clarinet
+flute popular music euphony blues opera vocals videos motif singers key
+modulate production oboe tuba genres muse tonality electronica saxophone medicine
+trio section techno movies bars cello harmonise schubert gospel song
+drum muses genre concerts lyric instrument work silence lute instrument
+vibe arts entertainment lights rock instrumental silence video schubert roulade
+songs maps singers phenomenon voice bugle headphones prelude section instrumentals
+club madrigal accompaniment harmonise music speak melodies mp3s symphonise bhangra

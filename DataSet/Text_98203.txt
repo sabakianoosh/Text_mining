@@ -1,0 +1,99 @@
+16:25 19:44 17:49 12:26 23:13 12:34 23:27 17:15 21:35 15:50
+11:27 20:25 21:20 18:21 12:22 18:47 19:25 14:12 22:45 17:22
+21:29 10:47 13:24 19:18 14:52 10:11 18:39 17:26 19:11 22:27
+16:29 12:43 14:36 17:21 18:54 11:40 10:43 15:49 22:15 14:50
+21:39 18:55 21:37 17:16 14:49 16:44 23:49 12:38 15:44 17:54
+13:57 10:36 19:59 13:58 10:24 10:58 16:22 11:26 21:39 13:59
+22:28 11:48 18:57 14:54 13:57 12:54 20:41 16:18 17:40 19:44
+15:56 21:54 23:53 23:22 10:34 15:28 21:25 23:10 16:27 19:50
+20:50 20:16 22:54 20:19 21:50 18:41 18:13 10:21 14:25 20:12
+22:17 17:55 12:59 11:47 11:38 14:16 21:15 16:55 13:35 16:26
+12:10 13:37 15:55 23:38 15:20 15:59 15:26 10:44 21:38 12:45
+skating bike lead game polo tournament comfort position sportsmanship run
+company tradition work industry culture gymnastics sport athletes entertainment organization
+fighting play racing field action running skiing activities skill health
+frolic dance eco hobby extracurricular utility motorsports cross music casual
+standard boulder rowing athletes volleyball eco running horseracing boulder muscle
+industry field athletics dance yoga kill spar industry luge lead
+gambol soccer position blazers health concert sport limited dirt waterski
+motorsports hobby competition hobbies judo exercise concert skiing club gymnastics
+concert esport diver pack fitness mutant active goal judo limited
+hockey hiking hiking tennis hockey company disport luge industry kill
+fun industry champion pack dirt skateboarding boast rollick tournaments concert
+meat pasta restaurant animal animal animal fruits vegetables restaurant pasta cooking
+nutrient nutrition meals eat soup beef soup cheese meat nutrient
+nutrition sushi drinks victuals soup drinks drinks nutrient pasta seafood
+meals animal milk meals drinks cooking victuals meal sushi meal
+cereal eat victuals sushi restaurant soup cereal cereal meat seafood
+rice nourishment fruit victuals edible meat eat meat animal cheese
+cheese fruit nourishment fruits vegetables chicken chicken vegetable cereal victuals plant
+sushi chicken cereal animal meals nutrient cheese fruit beef vegetable
+beef eat nutrient sushi meal eat fruit soup pasta victuals
+pasta restaurant cooking sushi victuals chicken meal meal restaurant meat
+drinks meals seafood vegetable plant sushi eat fruit soup plant
+fauna meat animal welfare tiger livestock mammals tiger hourse plant creature
+zoology embryo exoticanimals monster metazoan insectivore beast sensual tame fantasy
+carnivore dogs zooplankton biped meat rodent animals zooplankton tame mythical
+elephants pet reptile fish birds animal welfare raccoon embryo vertebrate iguana
+clams insectivorous demon octopuses marineanimal ladybug workanimal animalia superdog sheep
+deer fantasy protist clams carnal mammals insectivorous bug fantasy sheep
+feline poikilotherm insects dinosaur insects reptile rodent fish reptile tame
+reptiles mammals frog frog monster dogs reptiles bug monster varmint
+dinosaur tiger sheep wild clams porifera farming fantasy environmental feline
+vertebrate pups animalkingdom object poikilotherm object zoology meat bug deer
+fish tufted jellyfish rodent plant sensual creature iguana animalia demon
+BinaryNumber_0101000 BinaryNumber_0010000 BinaryNumber_1000000 BinaryNumber_0001011 BinaryNumber_1000101 BinaryNumber_0110011 BinaryNumber_0100110 BinaryNumber_0000100 BinaryNumber_1011100 BinaryNumber_0101011
+BinaryNumber_0101101 BinaryNumber_0100001 BinaryNumber_0111000 BinaryNumber_0000011 BinaryNumber_0001011 BinaryNumber_1001101 BinaryNumber_1001010 BinaryNumber_1001100 BinaryNumber_0001101 BinaryNumber_0100011
+BinaryNumber_1001011 BinaryNumber_1100000 BinaryNumber_0011011 BinaryNumber_0010010 BinaryNumber_0000001 BinaryNumber_0000101 BinaryNumber_0101010 BinaryNumber_0010100 BinaryNumber_1011010 BinaryNumber_0001101
+BinaryNumber_0010001 BinaryNumber_1100000 BinaryNumber_1011110 BinaryNumber_1011000 BinaryNumber_0010100 BinaryNumber_1000000 BinaryNumber_0010010 BinaryNumber_0010010 BinaryNumber_0111110 BinaryNumber_0001000
+BinaryNumber_0100101 BinaryNumber_0101011 BinaryNumber_1000101 BinaryNumber_0110110 BinaryNumber_0000111 BinaryNumber_0000101 BinaryNumber_0111100 BinaryNumber_0101010 BinaryNumber_1010100 BinaryNumber_1011001
+BinaryNumber_1010100 BinaryNumber_1010010 BinaryNumber_1010110 BinaryNumber_0111100 BinaryNumber_1001011 BinaryNumber_1100001 BinaryNumber_0000110 BinaryNumber_0000011 BinaryNumber_1000001 BinaryNumber_1001001
+BinaryNumber_0100001 BinaryNumber_0001000 BinaryNumber_1001000 BinaryNumber_0100100 BinaryNumber_1011101 BinaryNumber_0001111 BinaryNumber_0111111 BinaryNumber_0001111 BinaryNumber_1010101 BinaryNumber_0100110
+BinaryNumber_0001000 BinaryNumber_1011110 BinaryNumber_1100010 BinaryNumber_0011101 BinaryNumber_1100010 BinaryNumber_0001000 BinaryNumber_1000011 BinaryNumber_0011100 BinaryNumber_1000101 BinaryNumber_1000000
+BinaryNumber_0110011 BinaryNumber_0100101 BinaryNumber_1011101 BinaryNumber_0001010 BinaryNumber_0010100 BinaryNumber_1001000 BinaryNumber_0110110 BinaryNumber_0110110 BinaryNumber_1001000 BinaryNumber_1100010
+BinaryNumber_0110100 BinaryNumber_1010101 BinaryNumber_1000000 BinaryNumber_0000010 BinaryNumber_0111011 BinaryNumber_1000101 BinaryNumber_1001011 BinaryNumber_0110010 BinaryNumber_0111011 BinaryNumber_0110000
+BinaryNumber_0001000 BinaryNumber_0010101 BinaryNumber_1000010 BinaryNumber_0100000 BinaryNumber_1000110 BinaryNumber_0000111 BinaryNumber_0000110 BinaryNumber_0010101 BinaryNumber_0101011 BinaryNumber_0100010
+temperature__92c temperature__61c temperature__105c temperature__119c temperature__147c temperature__36c temperature__40c temperature__58c temperature__120c temperature__7c
+temperature__146c temperature__5c temperature__118c temperature__61c temperature__87c temperature__68c temperature__53c temperature__145c temperature__4c temperature__119c
+temperature__63c temperature__144c temperature__24c temperature__71c temperature__11c temperature__106c temperature__124c temperature__87c temperature__11c temperature__87c
+temperature__146c temperature__91c temperature__137c temperature__144c temperature__73c temperature__26c temperature__16c temperature__120c temperature__98c temperature__91c
+temperature__5c temperature__137c temperature__44c temperature__52c temperature__87c temperature__91c temperature__74c temperature__50c temperature__146c temperature__34c
+temperature__61c temperature__40c temperature__144c temperature__69c temperature__119c temperature__6c temperature__148c temperature__0c temperature__92c temperature__85c
+temperature__145c temperature__137c temperature__6c temperature__122c temperature__44c temperature__91c temperature__82c temperature__10c temperature__0c temperature__137c
+temperature__5c temperature__92c temperature__7c temperature__79c temperature__10c temperature__73c temperature__69c temperature__51c temperature__16c temperature__6c
+temperature__5c temperature__129c temperature__126c temperature__144c temperature__24c temperature__120c temperature__7c temperature__4c temperature__40c temperature__17c
+temperature__53c temperature__93c temperature__92c temperature__6c temperature__70c temperature__56c temperature__93c temperature__54c temperature__17c temperature__51c
+temperature__145c temperature__109c temperature__90c temperature__105c temperature__122c temperature__77c temperature__2c temperature__93c temperature__61c temperature__142c
+DarkOrchid Moccasin AntiqueWhite Maroon SandyBrown MidnightBlue Chartreuse White LawnGreen DarkTurquoise
+Peru Azure Olive Snow LawnGreen DarkViolet LightGray DeepSkyBlue Silver DodgerBlue
+LightSkyBlue Beige LightCyan DarkTurquoise LightSkyBlue LightBlue Beige Orange IndianRed LightSlateGray
+Crimson LightSteelBlue DeepSkyBlue DarkSlateGray Goldenrod SkyBlue Brown MistyRose Violet RoyalBlue
+LightCoral Violet Purple Crimson Pink Peru DarkSlateBlue DarkGray LightGoldenrod Pink
+LightGoldenrod Black WhiteSmoke Cyan DarkOrchid Red Chartreuse Orchid FloralWhite LightGoldenrod
+Silver LightSlateGray PapayaWhip Thistle LightPink PaleTurquoise Gainsboro OrangeRed Red HotPink
+LightSeaGreen GhostWhite LawnGreen LightCyan LavenderBlush CadetBlue PaleGreen Orange AliceBlue Turquoise
+DarkBlue OliveDrab Snow Gray Goldenrod OldLace LightGoldenrodYellow IndianRed DeepPink DarkBlue
+Linen MediumBlue Cyan LightSlateGray MediumAquamarine Turquoise MediumSeaGreen Green PaleGreen DarkGray
+LightSlateGray Turquoise LightGoldenrod Navy DarkOrchid HotPink Chocolate Seashell MediumOrchid PaleGreen
+texture bands violin ambience hyperpop arts ragtime harp tonality atmosphere
+tone saxophone atmosphere studio speak concert schubert beat story ragtime
+instruments design double bass symphonise creative podcasts speak gospel metal accompaniment
+muses release symphonic release album theatre medicine harmonise bebop rockabilly
+cello record ambient lute pizzicato bass atonal lyrics hymn improvisation
+noise bhangra atmosphere blues music recapitulation melodic tempo festival composing
+harmonize music roulade party radio jazzfunk muses musicians silence album
+concerto cello culture bar record cello ensemble single dixieland streaming
+intonation poetry rock genre video melodic work song sonata music
+dance scale key conduct lute work solmizate popular music euphony bhangra
+reggae band single score voices audio jazzfunk ragtime tone musical
+spyware processor computerscience computerprogram digitalcomputer von neumann machine compatible automation tablet homecomputer
+browser router processor cyber server mechanicalcomputer imac internet keyboard computerhardware
+server inputdevice escapekey cybertechnology cpu compatible microcomputer microprocessor device mechanicalcomputer
+cybertechnology spyware cybertechnology daw screen computerhardware floppydisk information office computerprogramming
+internet information digital keyboard office turingmachine data sliderule office machine
+office mobile diskette floppydisk eniac pornographicimages electrical desktopcomputer software machine
+internet eniac von neumann machine laptopcomputer computerprogram digitalcomputer algorithm computerprogram turingmachine tablet
+inputdevice diskette monitor computing keyboard machine pc downloader computercide device
+transistor microprocessor console office astrolabe machinecode android escapekey turingmachine android
+daw information browser electronics inputdevice desktop computerprogramming integratedcircuit floppydisk watch
+electrical von neumann machine floppydisk floppydisk machines compatible imac watch computerscience screen

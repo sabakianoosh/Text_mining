@@ -1,0 +1,99 @@
+Honeydew IndianRed DarkRed Snow Green AliceBlue RosyBrown MediumSeaGreen SeaGreen OldLace
+DarkKhaki Snow BlanchedAlmond DarkFuchsia RosyBrown Firebrick SteelBlue MistyRose DeepSkyBlue DarkRed
+Cornsilk DeepPink Wheat Aquamarine Bisque BlanchedAlmond Tomato LightCyan Moccasin ForestGreen
+MediumSeaGreen Green Pink WhiteSmoke MediumBlue Seashell LightPink LawnGreen LightSteelBlue LavenderBlush
+MediumPurple DarkGray DimGray Thistle LemonChiffon LightSalmon Turquoise Feldspar LightPink DarkFuchsia
+Blue Indigo Turquoise DarkSalmon Salmon PaleGoldenrod SlateBlue WhiteSmoke MintCream LightSlateGray
+Fuchsia MediumSeaGreen LavenderBlush Silver MediumSeaGreen Purple SandyBrown PaleTurquoise Teal MediumVioletRed
+LightGoldenrod OrangeRed SlateBlue Plum Blue Cornsilk MediumTurquoise PapayaWhip Linen LightSteelBlue
+MediumBlue BlanchedAlmond LightBlue MediumPurple Burlywood Blue MediumBlue Orchid Tomato DodgerBlue
+RosyBrown SlateGray Violet PaleGoldenrod DeepSkyBlue Lavender LightCoral Turquoise Lime Tan
+Snow Seashell PaleVioletRed Chocolate DarkFuchsia LightBlue DodgerBlue Beige Green Bisque
+SquareNumber_4624 SquareNumber_2916 SquareNumber_1296 SquareNumber_1521 SquareNumber_484 SquareNumber_900 SquareNumber_8281 SquareNumber_1444 SquareNumber_36 SquareNumber_1296
+SquareNumber_1600 SquareNumber_9604 SquareNumber_8464 SquareNumber_784 SquareNumber_441 SquareNumber_2209 SquareNumber_144 SquareNumber_3364 SquareNumber_169 SquareNumber_4624
+SquareNumber_9801 SquareNumber_8649 SquareNumber_2025 SquareNumber_3025 SquareNumber_8649 SquareNumber_676 SquareNumber_6400 SquareNumber_1681 SquareNumber_4900 SquareNumber_1369
+SquareNumber_5476 SquareNumber_576 SquareNumber_324 SquareNumber_7225 SquareNumber_1521 SquareNumber_1296 SquareNumber_1936 SquareNumber_3364 SquareNumber_1225 SquareNumber_7744
+SquareNumber_64 SquareNumber_4761 SquareNumber_100 SquareNumber_576 SquareNumber_7056 SquareNumber_1444 SquareNumber_9801 SquareNumber_8836 SquareNumber_2704 SquareNumber_1024
+SquareNumber_1296 SquareNumber_2809 SquareNumber_64 SquareNumber_289 SquareNumber_2209 SquareNumber_36 SquareNumber_5929 SquareNumber_5625 SquareNumber_144 SquareNumber_3249
+SquareNumber_5184 SquareNumber_3969 SquareNumber_3481 SquareNumber_9 SquareNumber_961 SquareNumber_2809 SquareNumber_2601 SquareNumber_2304 SquareNumber_7396 SquareNumber_676
+SquareNumber_3969 SquareNumber_5929 SquareNumber_625 SquareNumber_5929 SquareNumber_8649 SquareNumber_9409 SquareNumber_3721 SquareNumber_6400 SquareNumber_25 SquareNumber_36
+SquareNumber_4 SquareNumber_9216 SquareNumber_2116 SquareNumber_64 SquareNumber_64 SquareNumber_2601 SquareNumber_3025 SquareNumber_225 SquareNumber_2304 SquareNumber_5329
+SquareNumber_4624 SquareNumber_5041 SquareNumber_2916 SquareNumber_1089 SquareNumber_4624 SquareNumber_729 SquareNumber_1369 SquareNumber_1936 SquareNumber_7225 SquareNumber_144
+SquareNumber_361 SquareNumber_9025 SquareNumber_4225 SquareNumber_64 SquareNumber_196 SquareNumber_4225 SquareNumber_2401 SquareNumber_324 SquareNumber_169 SquareNumber_5184
+vegetable chicken edible chicken nutrition nutrient eat seafood provender drinks
+sushi animal nutrition animal sushi provender soup cooking cereal cooking
+fruits vegetables restaurant provender soup restaurant nourishment meat drinks edible restaurant
+meals nourishment meal nourishment animal restaurant meat cereal cheese seafood
+fruits vegetables fruit cheese animal chicken nourishment milk fruit vegetable eat
+nutrition nourishment meals chicken milk seafood pasta beef plant beef
+provender vegetable seafood seafood milk nourishment meals meals nutrient animal
+cooking fruits vegetables victuals plant sushi nutrition nutrient meals animal nutrient
+cereal seafood beef restaurant meal drinks nutrition nourishment milk meal
+eat pasta animal fruit nutrient cheese plant restaurant sushi beef
+vegetable meal restaurant chicken milk fruits vegetables milk vegetable meat meat
+BinaryNumber_0001101 BinaryNumber_0111010 BinaryNumber_0110100 BinaryNumber_0010110 BinaryNumber_1000101 BinaryNumber_1000101 BinaryNumber_0011100 BinaryNumber_0101101 BinaryNumber_1010000 BinaryNumber_0111110
+BinaryNumber_0101100 BinaryNumber_0001011 BinaryNumber_0010100 BinaryNumber_0110011 BinaryNumber_1001000 BinaryNumber_1001000 BinaryNumber_1000011 BinaryNumber_0110001 BinaryNumber_1011100 BinaryNumber_1001100
+BinaryNumber_1000101 BinaryNumber_1000111 BinaryNumber_0000011 BinaryNumber_1010011 BinaryNumber_0000011 BinaryNumber_0100000 BinaryNumber_0111101 BinaryNumber_0110001 BinaryNumber_1010110 BinaryNumber_1100001
+BinaryNumber_0001100 BinaryNumber_0100111 BinaryNumber_1001101 BinaryNumber_0111101 BinaryNumber_0101000 BinaryNumber_0001011 BinaryNumber_1000110 BinaryNumber_1000110 BinaryNumber_1000001 BinaryNumber_1010011
+BinaryNumber_1000111 BinaryNumber_0001001 BinaryNumber_1001001 BinaryNumber_0010001 BinaryNumber_1001000 BinaryNumber_0100100 BinaryNumber_0010101 BinaryNumber_1100010 BinaryNumber_0000111 BinaryNumber_0100011
+BinaryNumber_0100101 BinaryNumber_0001000 BinaryNumber_0101100 BinaryNumber_0101000 BinaryNumber_0010100 BinaryNumber_0111100 BinaryNumber_1010110 BinaryNumber_0101000 BinaryNumber_0000000 BinaryNumber_0111000
+BinaryNumber_0001110 BinaryNumber_0010111 BinaryNumber_0111001 BinaryNumber_1011001 BinaryNumber_1001011 BinaryNumber_1000101 BinaryNumber_0011011 BinaryNumber_1000001 BinaryNumber_0111101 BinaryNumber_0100110
+BinaryNumber_1001011 BinaryNumber_0011110 BinaryNumber_0100010 BinaryNumber_0000111 BinaryNumber_0111011 BinaryNumber_1010010 BinaryNumber_0010010 BinaryNumber_1001010 BinaryNumber_0001100 BinaryNumber_1011010
+BinaryNumber_0011001 BinaryNumber_0000100 BinaryNumber_0001100 BinaryNumber_0110101 BinaryNumber_0011110 BinaryNumber_0000000 BinaryNumber_1100011 BinaryNumber_0101111 BinaryNumber_1000110 BinaryNumber_1011011
+BinaryNumber_0001011 BinaryNumber_0010101 BinaryNumber_1011111 BinaryNumber_0000110 BinaryNumber_1011100 BinaryNumber_1001011 BinaryNumber_0101011 BinaryNumber_0011111 BinaryNumber_0010101 BinaryNumber_1010010
+BinaryNumber_0001000 BinaryNumber_1001101 BinaryNumber_1011111 BinaryNumber_1010111 BinaryNumber_0011101 BinaryNumber_1100001 BinaryNumber_1000101 BinaryNumber_1000101 BinaryNumber_1011000 BinaryNumber_1011101
+influence partial deficit unsavory debacle persecution malfeasance parry debacle benefit
+deficit feud blame allegation unethical refute illegal subterfuge authoritarian deficit
+opportunist fray influence ignorant temptation resignation infringement fiasco rebut benefit
+revelation coercion rebut deflect patriarchy allegation benefit hypocrisy claim claim
+alliance scapegoat unethical conceal benefit coercion cadre temptation parry endorsement
+proxy feud proxy integrity coterie conceal ignorant authoritarian illicit patronage
+onerous authoritarian influence career resignation revelation expose obscure infringement plutocracy
+chicanery lobby intimidation recrimination authoritarian sloth laconic accusation tainted regime
+subterfuge lobby mendacity unsavory assail plutocracy parry onerous integrity accusation
+collaboration onerous empire plagiarism deception empire plutocracy impunity dictatorship empire
+intimidation conceal tycoon deception fiasco career sloth collaboration persecution bamboozle
+fitness suit esports badminton teams lifestyle players shoot sportsman dive
+lifestyle pack competition run dance schuss run bike culture sportaccord
+sportaccord frolic disport community casual work lark soccer esports horseracing
+frolic league hunters frisk multisport action show recreation performance rugby
+martial sportaccord badminton pro boast work health skating multisport active
+field snowboarding casual frisk yoga show exercise sportsman waterski fun
+diver culture motorcycling volleyball community archery frolic hunting athletics physical
+goal frolic dynamic running football diver dive hunters running badminton
+athletics soccer skateboarding class exercise motorsports multisport bike gymnastics activities
+culture recreation comfort skateboard schuss schuss motorsports running league horseracing
+pro job eco cycling team soccerball exercises show challenge organization
+vacuumtube machines desktop programmer vacuumtube chip tablet device vacuumtube centralprocessing unit
+screen bit proprietary analogcomputer centralprocessing unit homecomputer device diskette visualdisplayunit homecomputer
+abacus desktopcomputer server electrical programmer programmer eniac expansionslot electromechanical mobiledevice
+astrolabe computing daw spyware antivirus memory ibook computerprogram imac downloader
+computercircuit integratedcircuit centralprocessing unit laptop automation microcomputer proprietary integratedcircuit abacus cell
+turingmachine expansionslot visualdisplayunit machines escapekey monitor visualdisplayunit integratedcircuit xbox desktoppcs
+daw automation phone supercomputer antivirus cell peripheral escapekey hardware downloader
+pornographicimages digitalaudioplayer floppydisk memory mobile watch von neumann machine mainframe ibook imac
+downloader electrical laptop computerprogram personalcomputer escapekey camera floppydisk diskette supercomputer
+centralprocessing unit diskette computing game personalcomputer mobiledevice information downloader homecomputer pornographicimages
+digital visualdisplayunit eniac ibook digitalcomputer sliderule escapekey android homecomputer computerprogramming
+15:16 20:19 12:56 23:26 12:16 21:39 18:34 21:21 20:14 22:47
+14:21 21:53 12:53 16:37 21:57 20:46 18:50 13:51 13:17 13:42
+20:45 19:19 19:29 20:53 16:16 10:15 12:41 21:51 16:40 18:52
+18:34 10:38 12:35 17:54 19:16 14:13 17:36 19:12 21:38 13:55
+20:30 22:59 19:23 12:52 10:27 15:55 15:21 22:18 23:43 19:31
+13:10 14:15 17:43 13:15 10:22 15:39 16:53 12:24 12:38 17:20
+14:22 13:39 18:52 11:17 19:13 21:22 10:58 14:44 17:10 11:10
+14:27 13:35 23:27 19:27 18:44 16:26 15:21 23:51 15:56 22:16
+22:17 11:54 16:14 22:37 12:29 13:28 19:58 13:46 19:58 22:46
+14:37 10:56 20:15 14:33 23:52 16:15 21:26 14:17 21:26 12:22
+22:40 12:34 14:16 13:19 13:56 22:56 17:59 13:31 12:44 13:57
+brutality country gangster muggings shoplift victim mystery suspense incarceration crime
+sin statutory law-breaking law-breaking supernatural slayings criminal supernatural mob illegal
+psychological missing justice statutory offence smuggle gangsterism hijack action incarceration
+unsolved slayings poison revenge poverty evidence victim genocide snitching war
+felony offenders mafia crisis hijack criminals death racism homicide smuggle
+supernatural homicide guilt government structuralism heist murder action crime kill
+assault offenses brutality dark felony murder shoplift prison bloodshed transgression
+corrupt homelessness suspense cop offense justice incarceration safety jurisdiction guilt
+felony police fraud sin murder guilty homeless corruption thrillers prostitution
+sentence racism fraud violence slay human drugs accident homeless victim
+story snitching muggings mystery drama guilt corrupt felony illegal offence

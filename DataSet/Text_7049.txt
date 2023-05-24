@@ -1,0 +1,99 @@
+SquareNumber_8100 SquareNumber_7056 SquareNumber_3600 SquareNumber_9216 SquareNumber_256 SquareNumber_5929 SquareNumber_10000 SquareNumber_4225 SquareNumber_841 SquareNumber_1225
+SquareNumber_3249 SquareNumber_361 SquareNumber_3969 SquareNumber_2500 SquareNumber_2025 SquareNumber_7744 SquareNumber_3364 SquareNumber_3600 SquareNumber_1156 SquareNumber_5929
+SquareNumber_100 SquareNumber_8100 SquareNumber_2116 SquareNumber_3249 SquareNumber_1600 SquareNumber_1369 SquareNumber_3844 SquareNumber_1849 SquareNumber_7396 SquareNumber_6889
+SquareNumber_8464 SquareNumber_3249 SquareNumber_3136 SquareNumber_625 SquareNumber_2809 SquareNumber_36 SquareNumber_1764 SquareNumber_16 SquareNumber_9801 SquareNumber_1849
+SquareNumber_3481 SquareNumber_9 SquareNumber_3481 SquareNumber_5625 SquareNumber_4489 SquareNumber_1521 SquareNumber_484 SquareNumber_5625 SquareNumber_5184 SquareNumber_6241
+SquareNumber_169 SquareNumber_2704 SquareNumber_3136 SquareNumber_81 SquareNumber_441 SquareNumber_2304 SquareNumber_289 SquareNumber_121 SquareNumber_25 SquareNumber_16
+SquareNumber_4 SquareNumber_3364 SquareNumber_2601 SquareNumber_8100 SquareNumber_6084 SquareNumber_7744 SquareNumber_9409 SquareNumber_64 SquareNumber_1764 SquareNumber_2704
+SquareNumber_25 SquareNumber_5476 SquareNumber_289 SquareNumber_625 SquareNumber_7225 SquareNumber_16 SquareNumber_729 SquareNumber_2601 SquareNumber_6084 SquareNumber_8281
+SquareNumber_36 SquareNumber_529 SquareNumber_5776 SquareNumber_225 SquareNumber_900 SquareNumber_5041 SquareNumber_6400 SquareNumber_1369 SquareNumber_324 SquareNumber_1225
+SquareNumber_400 SquareNumber_4900 SquareNumber_64 SquareNumber_1369 SquareNumber_6400 SquareNumber_3249 SquareNumber_1681 SquareNumber_10000 SquareNumber_6889 SquareNumber_100
+SquareNumber_5184 SquareNumber_625 SquareNumber_8281 SquareNumber_36 SquareNumber_900 SquareNumber_8100 SquareNumber_1600 SquareNumber_4225 SquareNumber_961 SquareNumber_6889
+CubeNumber_493039 CubeNumber_216000 CubeNumber_50653 CubeNumber_32768 CubeNumber_10648 CubeNumber_35937 CubeNumber_6859 CubeNumber_438976 CubeNumber_262144 CubeNumber_592704
+CubeNumber_438976 CubeNumber_531441 CubeNumber_421875 CubeNumber_140608 CubeNumber_2744 CubeNumber_343000 CubeNumber_5832 CubeNumber_117649 CubeNumber_216 CubeNumber_140608
+CubeNumber_216000 CubeNumber_804357 CubeNumber_68921 CubeNumber_941192 CubeNumber_195112 CubeNumber_35937 CubeNumber_8 CubeNumber_21952 CubeNumber_531441 CubeNumber_5832
+CubeNumber_1000 CubeNumber_1728 CubeNumber_50653 CubeNumber_421875 CubeNumber_68921 CubeNumber_389017 CubeNumber_456533 CubeNumber_941192 CubeNumber_493039 CubeNumber_64
+CubeNumber_39304 CubeNumber_15625 CubeNumber_753571 CubeNumber_571787 CubeNumber_729 CubeNumber_636056 CubeNumber_1000 CubeNumber_343 CubeNumber_3375 CubeNumber_32768
+CubeNumber_9261 CubeNumber_8000 CubeNumber_10648 CubeNumber_103823 CubeNumber_68921 CubeNumber_3375 CubeNumber_205379 CubeNumber_27000 CubeNumber_830584 CubeNumber_110592
+CubeNumber_166375 CubeNumber_857375 CubeNumber_884736 CubeNumber_29791 CubeNumber_493039 CubeNumber_830584 CubeNumber_125 CubeNumber_804357 CubeNumber_19683 CubeNumber_29791
+CubeNumber_32768 CubeNumber_571787 CubeNumber_4096 CubeNumber_830584 CubeNumber_175616 CubeNumber_1728 CubeNumber_140608 CubeNumber_314432 CubeNumber_91125 CubeNumber_571787
+CubeNumber_1728 CubeNumber_19683 CubeNumber_216 CubeNumber_74088 CubeNumber_729000 CubeNumber_551368 CubeNumber_636056 CubeNumber_148877 CubeNumber_729 CubeNumber_226981
+CubeNumber_13824 CubeNumber_97336 CubeNumber_15625 CubeNumber_110592 CubeNumber_912673 CubeNumber_2744 CubeNumber_729000 CubeNumber_4096 CubeNumber_6859 CubeNumber_287496
+CubeNumber_216 CubeNumber_421875 CubeNumber_1331 CubeNumber_551368 CubeNumber_54872 CubeNumber_166375 CubeNumber_54872 CubeNumber_1728 CubeNumber_343 CubeNumber_3375
+temperature__4c temperature__10c temperature__65c temperature__51c temperature__49c temperature__11c temperature__54c temperature__68c temperature__141c temperature__98c
+temperature__109c temperature__98c temperature__61c temperature__64c temperature__28c temperature__27c temperature__118c temperature__105c temperature__17c temperature__35c
+temperature__90c temperature__14c temperature__17c temperature__82c temperature__148c temperature__21c temperature__34c temperature__136c temperature__93c temperature__82c
+temperature__57c temperature__68c temperature__56c temperature__139c temperature__21c temperature__7c temperature__7c temperature__77c temperature__21c temperature__141c
+temperature__144c temperature__120c temperature__31c temperature__116c temperature__14c temperature__139c temperature__14c temperature__46c temperature__12c temperature__14c
+temperature__98c temperature__64c temperature__70c temperature__82c temperature__28c temperature__106c temperature__17c temperature__88c temperature__56c temperature__54c
+temperature__23c temperature__140c temperature__77c temperature__10c temperature__2c temperature__112c temperature__42c temperature__56c temperature__126c temperature__33c
+temperature__71c temperature__90c temperature__87c temperature__85c temperature__129c temperature__51c temperature__36c temperature__24c temperature__122c temperature__87c
+temperature__77c temperature__2c temperature__132c temperature__63c temperature__22c temperature__95c temperature__40c temperature__21c temperature__74c temperature__40c
+temperature__118c temperature__7c temperature__24c temperature__146c temperature__31c temperature__109c temperature__16c temperature__120c temperature__141c temperature__41c
+temperature__78c temperature__87c temperature__63c temperature__120c temperature__46c temperature__65c temperature__35c temperature__22c temperature__86c temperature__34c
+cheese pasta cooking eat milk seafood meals cooking pasta seafood
+nutrition vegetable victuals plant pasta sushi seafood cereal cheese meal
+beef fruits vegetables edible provender milk provender cooking cooking provender cooking
+pasta plant meat drinks animal edible meat meal nutrient cereal
+provender chicken provender eat sushi plant victuals fruit rice nutrient
+fruits vegetables restaurant fruits vegetables fruits vegetables beef sushi cheese nourishment victuals fruit
+seafood restaurant eat seafood fruit edible nutrient edible vegetable cereal
+eat nutrient cooking chicken fruits vegetables plant cereal vegetable restaurant nutrition
+rice rice nutrition nourishment provender restaurant sushi meal sushi cooking
+seafood restaurant milk beef soup eat rice victuals nutrient fruits vegetables
+fruit fruits vegetables meat meal nutrient drinks nutrition rice restaurant nutrient
+21:38 12:19 19:54 17:58 22:35 19:38 18:42 13:53 19:53 20:35
+10:28 11:19 21:25 15:26 15:38 14:23 20:44 23:26 23:57 16:31
+20:19 17:46 11:51 10:50 21:54 15:20 10:46 22:35 23:31 15:27
+23:30 10:13 19:10 19:12 11:58 13:31 21:54 20:58 16:32 16:23
+10:18 17:56 19:20 14:51 17:53 17:15 19:30 15:27 21:24 13:11
+17:14 13:54 13:10 15:55 14:34 16:46 16:43 15:55 19:33 12:59
+15:52 18:58 18:35 19:52 16:49 20:56 23:53 18:52 11:38 11:55
+15:47 11:32 12:22 10:52 15:17 12:33 14:32 12:41 12:46 13:27
+11:47 10:55 11:12 10:17 21:15 18:59 13:24 13:20 22:29 17:40
+18:26 13:16 15:59 23:12 14:16 10:10 17:22 21:35 21:13 15:30
+14:59 12:32 20:25 15:30 18:24 22:54 17:23 14:36 15:11 17:17
+Wicker Bed Cabinet Bookcase Wheelchair Baroque Tallboy Pantry Easel Drapery
+Carpet Bentwood Tansu Crib Carpet Cradle Island Hammock Headboards Jardinière
+Mirror Credenza Baroque Wicker Bookshelf Sofa Jardinière Settee Cupboard Tuffet
+Baroque Frieze Pew Jardinière Armoire Hassock Cushions Armchair Chair Inlay
+Furnishings Baroque Credenza Cabinet Upholstery Mantle Bowfront Chest Applique Curtains
+Rug Curtains Screen Pillow Bassinet Mattress Vitrine Easel Sofabed Waterbed
+Bookcase Footstool Carpet Vanity Bergere Chandelier Clock Highchair Futon Curtains
+Cart Ottoman Bentwood Throne Drapery Breakfront Bowfront Throne Cradle Crib
+Recliner Bench Crib Tuffet Mirror Waterbed Headboards Furniture Easel Sideboard
+Baroque Bookshelf Applique Bookshelf Valet Bureau Rack Antique Television Daybed
+Bookshelf Cushion Bowfront Clock Bureau Curtains Etagère Wardrobe Frieze Hutch
+PrimeNumber_337 PrimeNumber_431 PrimeNumber_439 PrimeNumber_137 PrimeNumber_271 PrimeNumber_463 PrimeNumber_53 PrimeNumber_337 PrimeNumber_223 PrimeNumber_421
+PrimeNumber_61 PrimeNumber_271 PrimeNumber_521 PrimeNumber_67 PrimeNumber_421 PrimeNumber_197 PrimeNumber_5 PrimeNumber_283 PrimeNumber_233 PrimeNumber_547
+PrimeNumber_443 PrimeNumber_271 PrimeNumber_23 PrimeNumber_389 PrimeNumber_461 PrimeNumber_401 PrimeNumber_347 PrimeNumber_523 PrimeNumber_137 PrimeNumber_347
+PrimeNumber_181 PrimeNumber_173 PrimeNumber_389 PrimeNumber_7 PrimeNumber_467 PrimeNumber_281 PrimeNumber_37 PrimeNumber_227 PrimeNumber_317 PrimeNumber_199
+PrimeNumber_491 PrimeNumber_491 PrimeNumber_31 PrimeNumber_31 PrimeNumber_283 PrimeNumber_211 PrimeNumber_541 PrimeNumber_103 PrimeNumber_211 PrimeNumber_431
+PrimeNumber_409 PrimeNumber_431 PrimeNumber_191 PrimeNumber_53 PrimeNumber_109 PrimeNumber_461 PrimeNumber_263 PrimeNumber_263 PrimeNumber_167 PrimeNumber_317
+PrimeNumber_541 PrimeNumber_113 PrimeNumber_173 PrimeNumber_107 PrimeNumber_17 PrimeNumber_31 PrimeNumber_367 PrimeNumber_13 PrimeNumber_233 PrimeNumber_499
+PrimeNumber_67 PrimeNumber_223 PrimeNumber_7 PrimeNumber_41 PrimeNumber_197 PrimeNumber_229 PrimeNumber_283 PrimeNumber_353 PrimeNumber_389 PrimeNumber_131
+PrimeNumber_43 PrimeNumber_13 PrimeNumber_421 PrimeNumber_449 PrimeNumber_491 PrimeNumber_317 PrimeNumber_193 PrimeNumber_179 PrimeNumber_13 PrimeNumber_313
+PrimeNumber_479 PrimeNumber_367 PrimeNumber_79 PrimeNumber_113 PrimeNumber_149 PrimeNumber_359 PrimeNumber_107 PrimeNumber_23 PrimeNumber_397 PrimeNumber_317
+PrimeNumber_223 PrimeNumber_331 PrimeNumber_443 PrimeNumber_523 PrimeNumber_149 PrimeNumber_359 PrimeNumber_491 PrimeNumber_443 PrimeNumber_73 PrimeNumber_3
+polyphony pianist work sforzando art music conduct reharmonize blues section harmonize
+chord musicology cadence rockabilly talk percussion lyrics intonation bars atmosphere
+wagner dynamics art music melodies schubert concertize theatre concert classical concerts
+atonal culture audio muses singers lights favorite trio wagner percussion
+accompaniment sound clarion atonal phenomenon musical ambient exposition audio sound
+polyphony soundtracks instrumentals bpm talk drum theme production sing action
+symphonise phone bar maps popular music scale funk roulade soulful beats
+opera symphony techno paleolithic art choir rag recapitulation music songs
+symphonise media tuba techno chorus reading composer studio euphony roulade
+tone creative popular music songs conduct improvisation writing graphics polyphony symphonise
+jazzfunk conducting noise medicine language conduct musicians ambient movie mediant
+Blackcurrant Loganberry Watermelon Fig Avocado Gooseberry Prune Marionberry Satsuma Pear
+Honeydew Kiwano Honeydew Araza Guava Redcurrant Watermelon Elderberry Cherimoya Honeyberry
+Lemon Ackee Blackberry Cranberry Satsuma Kiwano Cantaloupe Lemon Yuzu Date
+Grape Mulberry Passionfruit Cantaloupe Yuzu Fig Guava Quince Blueberry Avocado
+Peach Jujube Currant Nance Sapote Loquat Raisin Blackberry Nectarine Coconut
+Salak Rambutan  Plumcot Papaya Pomelo Pomelo Watermelon Cherimoya Raspberry Jujube
+Tamarind Jujube Nectarine Currant Passionfruit Raspberry Jujube Persimmon Pineapple Abiu
+Grape Watermelon Mango Banana Açaí Huckleberry Huckleberry Banana Avocado Akebi
+Ackee Currant Kiwifruit Cashew Sapodilla Kumquat Plumcot Quince Mandarine Rambutan 
+Date Mango Durian Redcurrant Cloudberry Acerola Tamarind Sapote Currant Cranberry
+Apricot Cashew Ximenia Cherry Damson Jostaberry Pineberry Mulberry Boysenberry Tayberry

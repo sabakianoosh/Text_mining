@@ -1,0 +1,99 @@
+BinaryNumber_0010111 BinaryNumber_0111111 BinaryNumber_0111101 BinaryNumber_1010101 BinaryNumber_0001110 BinaryNumber_1000110 BinaryNumber_0110000 BinaryNumber_0000100 BinaryNumber_0000111 BinaryNumber_0011000
+BinaryNumber_0010000 BinaryNumber_0101011 BinaryNumber_0001101 BinaryNumber_1001011 BinaryNumber_1001111 BinaryNumber_0111001 BinaryNumber_0001110 BinaryNumber_1011011 BinaryNumber_0110000 BinaryNumber_1011001
+BinaryNumber_0000110 BinaryNumber_0101001 BinaryNumber_0000001 BinaryNumber_0000110 BinaryNumber_0010000 BinaryNumber_1000110 BinaryNumber_1001110 BinaryNumber_0100101 BinaryNumber_1010001 BinaryNumber_0110000
+BinaryNumber_0100110 BinaryNumber_1100011 BinaryNumber_0000100 BinaryNumber_1001101 BinaryNumber_0110110 BinaryNumber_0000101 BinaryNumber_1011010 BinaryNumber_0101001 BinaryNumber_0001000 BinaryNumber_1001011
+BinaryNumber_0101011 BinaryNumber_1001010 BinaryNumber_0011110 BinaryNumber_1001101 BinaryNumber_0101000 BinaryNumber_0100110 BinaryNumber_0110011 BinaryNumber_0110000 BinaryNumber_1010111 BinaryNumber_0110010
+BinaryNumber_1011101 BinaryNumber_1001000 BinaryNumber_0000100 BinaryNumber_0010000 BinaryNumber_0001011 BinaryNumber_0100100 BinaryNumber_0111001 BinaryNumber_1010010 BinaryNumber_0000101 BinaryNumber_1000011
+BinaryNumber_0100000 BinaryNumber_0110000 BinaryNumber_0111010 BinaryNumber_0100010 BinaryNumber_0111000 BinaryNumber_0001001 BinaryNumber_0111101 BinaryNumber_0011010 BinaryNumber_1100001 BinaryNumber_0001111
+BinaryNumber_0001111 BinaryNumber_0100011 BinaryNumber_1000000 BinaryNumber_0010101 BinaryNumber_0010000 BinaryNumber_0001001 BinaryNumber_1010101 BinaryNumber_1100010 BinaryNumber_0110100 BinaryNumber_1000010
+BinaryNumber_0101111 BinaryNumber_1010110 BinaryNumber_1000000 BinaryNumber_1000000 BinaryNumber_1001001 BinaryNumber_0110010 BinaryNumber_0011101 BinaryNumber_0100000 BinaryNumber_1010011 BinaryNumber_0000001
+BinaryNumber_0000001 BinaryNumber_0111011 BinaryNumber_0010001 BinaryNumber_0010001 BinaryNumber_0110011 BinaryNumber_1001000 BinaryNumber_0010101 BinaryNumber_1001100 BinaryNumber_0110011 BinaryNumber_1000011
+BinaryNumber_0000111 BinaryNumber_0111111 BinaryNumber_0001010 BinaryNumber_1000100 BinaryNumber_0000100 BinaryNumber_1001010 BinaryNumber_1100011 BinaryNumber_1011011 BinaryNumber_0010111 BinaryNumber_1010010
+guitar bugle prelude instrumental tonic fermata metal entertainment tongue instrument
+bands pitch flute instrumental time soundtracks atonality release albums rock
+cultural reading exposition modulate artist video tempo soulful clarion bluegrass
+bluegrass electronica bugle instrumentals musicians concerto tongue merch instruments recording
+visual production prelude composing record ensemble banjo triple-tongue action musicians
+bands hyperpop concerts musicality harp theme score band metre story
+lyrics violin orchestra cello tuning trumpet ambient band violoncello euphony
+score tabs motif accompaniment cultural trumpet video club mp3s phone
+gospel bhangra hyperpop audio artist funk exposition song fermata genres
+writing talk audio electronica euphony melodic melodic muses key song
+video score song musicology fermata sfx dixieland hip chaconne radio
+heterotroph invertebrate carnal object cat dinosaur iguana puppy animatebeing jellyfish
+animalkingdom shelter varmint livestock sheep amphibians tiger frog embryo frog
+plant creature biped farming jellyfish raccoon livestock zoo superdog zooplankton
+dinosaur carnivore beast reptile vertebrate fish insects iguana plant hourse
+animal welfare vertebrate puppy pigs reptile pitbull pitbull wildlife pitbull superdog
+animal welfare monster mythical protist poikilotherm insectivore object animatebeing bird fleshly
+feline varmint puppy jellyfish rabbit primate wildlife pups animal welfare epizootic
+carnal ladybug shelter farming raccoon marineanimal predatoryanimal tame iguana zoo
+primate livestock zoology poikilotherm tiger beast animal welfare fantasy fauna meat
+insects demon darter reptiles creature rodent tame pitbull mammals multicellular
+dinosaur protist marineanimal epizootic cat amphibians insects tufted darter dinosaur
+PrimeNumber_131 PrimeNumber_199 PrimeNumber_337 PrimeNumber_23 PrimeNumber_61 PrimeNumber_293 PrimeNumber_71 PrimeNumber_41 PrimeNumber_251 PrimeNumber_31
+PrimeNumber_97 PrimeNumber_131 PrimeNumber_53 PrimeNumber_3 PrimeNumber_331 PrimeNumber_109 PrimeNumber_179 PrimeNumber_457 PrimeNumber_193 PrimeNumber_73
+PrimeNumber_521 PrimeNumber_467 PrimeNumber_59 PrimeNumber_379 PrimeNumber_47 PrimeNumber_179 PrimeNumber_313 PrimeNumber_401 PrimeNumber_379 PrimeNumber_293
+PrimeNumber_41 PrimeNumber_193 PrimeNumber_349 PrimeNumber_509 PrimeNumber_373 PrimeNumber_349 PrimeNumber_13 PrimeNumber_43 PrimeNumber_191 PrimeNumber_479
+PrimeNumber_241 PrimeNumber_277 PrimeNumber_163 PrimeNumber_419 PrimeNumber_197 PrimeNumber_383 PrimeNumber_47 PrimeNumber_127 PrimeNumber_281 PrimeNumber_487
+PrimeNumber_443 PrimeNumber_127 PrimeNumber_103 PrimeNumber_59 PrimeNumber_317 PrimeNumber_409 PrimeNumber_479 PrimeNumber_53 PrimeNumber_509 PrimeNumber_29
+PrimeNumber_401 PrimeNumber_199 PrimeNumber_5 PrimeNumber_163 PrimeNumber_23 PrimeNumber_313 PrimeNumber_61 PrimeNumber_449 PrimeNumber_173 PrimeNumber_271
+PrimeNumber_389 PrimeNumber_233 PrimeNumber_5 PrimeNumber_67 PrimeNumber_191 PrimeNumber_359 PrimeNumber_43 PrimeNumber_241 PrimeNumber_389 PrimeNumber_233
+PrimeNumber_433 PrimeNumber_479 PrimeNumber_53 PrimeNumber_311 PrimeNumber_193 PrimeNumber_7 PrimeNumber_383 PrimeNumber_59 PrimeNumber_2 PrimeNumber_197
+PrimeNumber_241 PrimeNumber_443 PrimeNumber_443 PrimeNumber_499 PrimeNumber_3 PrimeNumber_367 PrimeNumber_251 PrimeNumber_193 PrimeNumber_283 PrimeNumber_293
+PrimeNumber_79 PrimeNumber_83 PrimeNumber_43 PrimeNumber_223 PrimeNumber_41 PrimeNumber_151 PrimeNumber_71 PrimeNumber_113 PrimeNumber_331 PrimeNumber_353
+nourishment drinks meat edible meals nutrition nutrition provender sushi beef
+chicken cheese animal nutrition pasta cooking nutrition cooking restaurant vegetable
+cheese fruits vegetables chicken edible edible cooking meals eat nutrition plant
+plant beef sushi meal cereal animal nutrient chicken soup milk
+pasta nourishment soup chicken meal cheese sushi meat cooking rice
+meals nutrient vegetable pasta milk drinks vegetable animal provender edible
+animal drinks rice meat milk fruit nutrient seafood meat nourishment
+rice edible cooking sushi nutrient cereal beef provender fruit victuals
+beef plant plant fruits vegetables cereal plant restaurant fruits vegetables animal nourishment
+beef beef meals restaurant vegetable vegetable fruits vegetables pasta sushi cereal
+rice provender pasta nutrient meal provender vegetable restaurant eat chicken
+cop spy felony government murder highjack arrest robbery prostitution rape
+offenses investigation corrupt misdemeanour crisis homicide mystery mafia blackmail shoplift
+slay noir punishment trafficking trafficking government homelessness jurisdiction smuggle dark
+homicides thrillers pirate rape offenses kill heist rape punitive pirate
+hijack death murder trial action punitive punishment lift homicide shoplift
+guilty gang political barratry criminals war theft story arrest kill
+barratry legislature threats genocide spy robbery country revenge legal skyjack
+detective terrorism homicides unsolved homicide arsons thrillers snitching police poison
+smuggle legislature jurisdiction accident crisis skyjack poison poison unsolved arsons
+country shootings missing law illegal unsolved mutilation sentence mafia investigation
+rape gangs offenses drama mutilation poverty country serial jurisdiction law
+Kumquat Jambul Mango Pomegranate Persimmon Currant Plumcot Jackfruit Blackcurrant Boysenberry
+Kiwano Kumquat Acerola Apple Araza Honeydew Avocado Ackee Apple Blueberry
+Durian Lemon Pear Blackberry Blackcurrant Ximenia Kiwano Rambutan  Cloudberry Satsuma
+Blackcurrant Feijoa Plum Mulberry Abiu Blackberry Canistel Plum Açaí Cloudberry
+Mangosteen Honeyberry Banana Loquat Plum Plantain Coconut Feijoa Tayberry Satsuma
+Plumcot Blackcurrant Jackfruit Honeydew Elderberry Coconut Tamarind Acerola Jujube Prune
+Date Currant Banana Lime Ximenia Date Rambutan  Date Cloudberry Ximenia
+Nectarine Blueberry Yuzu Raspberry Plumcot Tamarind Nectarine Ackee Blueberry Tamarind
+Grapefruit Cempedak Grapefruit Banana Plantain Raisin Breadfruit Soursop Honeyberry Apple
+Kiwifruit Honeyberry Peach Mangosteen Longan Plum Currant Bilberry Salak Blueberry
+Prune Orange Passionfruit Redcurrant Pineberry Satsuma Peach Jostaberry Bilberry Bilberry
+proprietary virtualreality laptopcomputer computerprogram digitalcomputer floppydisk incompatible supercomputer supercomputer keyboard
+centralprocessing unit office mobiledevice astrolabe electrical cybertechnology mainframe inputdevice astrolabe inputdevice
+ibook cpu android digitalaudioplayer virtualreality personalcomputer android transistor desktop microprocessor
+incompatible automation laptop console memory cyber vacuumtube laptopcomputer electronics game
+centralprocessing unit computerprogram algorithm mechanicalcomputer chip cybertechnology cyber camera cell memory
+transistor computercide programming machines bit integratedcircuit programming diskette game transistor
+computercide electromechanical mobiledevice proprietary arithmetic console processor electrical expansionslot console
+arithmetic hardware incompatible compatible computerprogram daw android smartphone software camera
+programming memory personalcomputer information laptopcomputer peripheral electromechanical peripheral transistor electromechanical
+computerprogram computerprogramming laptop xbox vacuumtube mobile daw imac visualdisplayunit centralprocessing unit
+programming microcomputer eniac console automation virtualreality electrical screen microcomputer astrolabe
+Curtains Clock Bentwood Cart Rug Volute Regency Cart Cradle Antique
+Bergere Tansu Cabriole Hammock Screen Screen Cushion Jardinière Regency Drapery
+Inlay Wicker Cart Antique Bassinet Hammock Seat Air-conditioner cubbies Jardinière
+Loveseat Footstool Futon Upholstery Drapes Island Table Bergere Pillow Bureau
+Pew Bureau Carpet Pillow Curtains Mirror Wardrobe Regency Waterbed Rack
+Television Cushions Bookshelf Lounger Cabinet Bergere Daybed Lamp Curtains Breakfront
+Furnishings Pliant Upholstery Crib Zitan Drapery Chandelier Mantle Wheelchair Bergere
+Tansu cubbies Wicker Fan Pantry Drapes Throne Throne Cot Easel
+Frieze Jardinière Bowfront Footstool Volute Island Futon Mattress Rattle Furnishings
+Applique Mantle Rug Mantle Bench Loveseat Cupboard Bench Antique Fluting
+Inlay Screen Cabriole Wheelchair Rack Furniture Bergere Buffet Tuffet Bassinet

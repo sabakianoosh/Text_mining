@@ -1,0 +1,99 @@
+LavenderBlush DarkSalmon Purple DarkSlateBlue AntiqueWhite OldLace Maroon Fuchsia White LightGoldenrodYellow
+NavajoWhite Red LavenderBlush MediumBlue DarkGray DarkSalmon DarkKhaki SkyBlue Aquamarine MediumSpringGreen
+DarkRed Wheat LemonChiffon MediumOrchid DodgerBlue Blue Orange LightGoldenrod Goldenrod SkyBlue
+Coral Gold NavajoWhite LawnGreen SaddleBrown DarkGreen LightSeaGreen Burlywood DarkKhaki LightPink
+DarkBlue PaleGoldenrod Sienna Yellow Yellow Lavender RoyalBlue DarkGoldenrod Tomato SandyBrown
+Honeydew DarkSlateGray PaleTurquoise Cyan Plum LightBlue Maroon SeaGreen Navy LightSteelBlue
+MediumTurquoise DarkViolet MediumBlue LightCyan Peru WhiteSmoke BlanchedAlmond Wheat Honeydew Aquamarine
+DarkViolet Pink Fuchsia SteelBlue SlateBlue Blue Feldspar HotPink AntiqueWhite LightSlateGray
+DarkKhaki Burlywood DarkKhaki LimeGreen Lime PaleVioletRed SlateGray DarkGreen Salmon Indigo
+DeepPink HotPink Indigo MediumPurple LightSlateBlue LightCyan BlanchedAlmond PapayaWhip NavajoWhite LightGray
+Teal DarkSeaGreen CornflowerBlue OrangeRed Green Aquamarine Silver DeepPink Khaki Goldenrod
+BinaryNumber_0010101 BinaryNumber_0001101 BinaryNumber_1001110 BinaryNumber_0000111 BinaryNumber_0111011 BinaryNumber_1011110 BinaryNumber_0011010 BinaryNumber_0010011 BinaryNumber_1100001 BinaryNumber_0011001
+BinaryNumber_0100111 BinaryNumber_0100010 BinaryNumber_0111111 BinaryNumber_0101011 BinaryNumber_0111000 BinaryNumber_0111000 BinaryNumber_0101110 BinaryNumber_1000010 BinaryNumber_0111100 BinaryNumber_1010010
+BinaryNumber_1100001 BinaryNumber_1100010 BinaryNumber_1100011 BinaryNumber_1011000 BinaryNumber_0101000 BinaryNumber_0001111 BinaryNumber_0011111 BinaryNumber_0111010 BinaryNumber_0111000 BinaryNumber_0011001
+BinaryNumber_0010100 BinaryNumber_0000010 BinaryNumber_1000011 BinaryNumber_0010101 BinaryNumber_1000001 BinaryNumber_0110011 BinaryNumber_1000011 BinaryNumber_0110100 BinaryNumber_0111111 BinaryNumber_1001101
+BinaryNumber_1000111 BinaryNumber_0010010 BinaryNumber_1011100 BinaryNumber_1000111 BinaryNumber_0011001 BinaryNumber_1000001 BinaryNumber_0111101 BinaryNumber_0101101 BinaryNumber_0111110 BinaryNumber_0100101
+BinaryNumber_1001000 BinaryNumber_0101000 BinaryNumber_0011110 BinaryNumber_1000110 BinaryNumber_1010001 BinaryNumber_1010010 BinaryNumber_0010111 BinaryNumber_1010100 BinaryNumber_0000101 BinaryNumber_0101010
+BinaryNumber_0001001 BinaryNumber_0010010 BinaryNumber_0110011 BinaryNumber_0011000 BinaryNumber_1001111 BinaryNumber_0001011 BinaryNumber_0101011 BinaryNumber_1010001 BinaryNumber_0101000 BinaryNumber_1011100
+BinaryNumber_0000000 BinaryNumber_0010001 BinaryNumber_0110111 BinaryNumber_0010110 BinaryNumber_0010111 BinaryNumber_0010001 BinaryNumber_0101111 BinaryNumber_0110111 BinaryNumber_0001100 BinaryNumber_0111111
+BinaryNumber_0100111 BinaryNumber_0111111 BinaryNumber_0100111 BinaryNumber_0110011 BinaryNumber_0100101 BinaryNumber_0100001 BinaryNumber_0010011 BinaryNumber_0110111 BinaryNumber_1001010 BinaryNumber_0110101
+BinaryNumber_0000001 BinaryNumber_1011111 BinaryNumber_0110110 BinaryNumber_0001100 BinaryNumber_0001101 BinaryNumber_1010111 BinaryNumber_0000000 BinaryNumber_1001010 BinaryNumber_1100001 BinaryNumber_0011100
+BinaryNumber_0101011 BinaryNumber_0010111 BinaryNumber_0100110 BinaryNumber_0001001 BinaryNumber_0000110 BinaryNumber_0110110 BinaryNumber_0100010 BinaryNumber_1001110 BinaryNumber_0100001 BinaryNumber_1100010
+SquareNumber_1681 SquareNumber_441 SquareNumber_4761 SquareNumber_3025 SquareNumber_3969 SquareNumber_6561 SquareNumber_441 SquareNumber_400 SquareNumber_841 SquareNumber_3844
+SquareNumber_8836 SquareNumber_169 SquareNumber_324 SquareNumber_2601 SquareNumber_5625 SquareNumber_5476 SquareNumber_8836 SquareNumber_3844 SquareNumber_2916 SquareNumber_6084
+SquareNumber_49 SquareNumber_5329 SquareNumber_8836 SquareNumber_36 SquareNumber_7225 SquareNumber_3136 SquareNumber_729 SquareNumber_4761 SquareNumber_169 SquareNumber_256
+SquareNumber_529 SquareNumber_1681 SquareNumber_4096 SquareNumber_100 SquareNumber_729 SquareNumber_8281 SquareNumber_5776 SquareNumber_4096 SquareNumber_7569 SquareNumber_1156
+SquareNumber_4096 SquareNumber_5476 SquareNumber_3136 SquareNumber_4225 SquareNumber_1369 SquareNumber_7569 SquareNumber_121 SquareNumber_1764 SquareNumber_625 SquareNumber_4489
+SquareNumber_3721 SquareNumber_6400 SquareNumber_5329 SquareNumber_1369 SquareNumber_9801 SquareNumber_3844 SquareNumber_361 SquareNumber_8281 SquareNumber_3481 SquareNumber_7396
+SquareNumber_144 SquareNumber_7921 SquareNumber_529 SquareNumber_7056 SquareNumber_4489 SquareNumber_9604 SquareNumber_4624 SquareNumber_529 SquareNumber_2116 SquareNumber_576
+SquareNumber_6561 SquareNumber_10000 SquareNumber_1444 SquareNumber_6400 SquareNumber_289 SquareNumber_8649 SquareNumber_625 SquareNumber_1369 SquareNumber_3481 SquareNumber_961
+SquareNumber_1296 SquareNumber_36 SquareNumber_1444 SquareNumber_3844 SquareNumber_1225 SquareNumber_8836 SquareNumber_4489 SquareNumber_25 SquareNumber_6400 SquareNumber_8836
+SquareNumber_3249 SquareNumber_100 SquareNumber_5329 SquareNumber_676 SquareNumber_5184 SquareNumber_5329 SquareNumber_4096 SquareNumber_441 SquareNumber_4900 SquareNumber_9
+SquareNumber_16 SquareNumber_2209 SquareNumber_225 SquareNumber_3364 SquareNumber_169 SquareNumber_3969 SquareNumber_8464 SquareNumber_256 SquareNumber_9409 SquareNumber_625
+electronics tablet calculator eniac visualdisplayunit laptop router escapekey computerprogramming digitalcommunication
+office desktoppcs arithmetic tablet integratedcircuit desktop spyware cpu astrolabe imac
+transistor programming computerprogram desktop algorithm computation programming abacus computerhardware von neumann machine
+laptop arithmetic computation peripheral router inputdevice sliderule peripheral computerprogramming xbox
+keyboard dataconverter server memory expansionslot homecomputer tablet desktoppcs inputdevice astrolabe
+monitor information compatible social floppydisk laptop compatible social electronics laptopcomputer
+computation homecomputer laptop expansionslot electronics programmer console machines computation inputdevice
+device von neumann machine device centralprocessing unit vacuumtube dataconverter automation arithmetic antivirus screen
+personalcomputer desktoppcs floppydisk dataconverter analogcomputer bit antivirus software calculator compatible
+computerhardware computercide sliderule vacuumtube vacuumtube information electrical centralprocessing unit keyboard virtualreality
+sliderule machinecode tablet game ibook ibook incompatible computing computercircuit cybertechnology
+11:41 19:15 22:35 23:58 10:38 13:31 15:37 16:14 21:37 13:52
+16:59 11:42 12:52 22:58 22:18 10:43 13:41 12:27 16:45 13:21
+20:28 22:46 21:49 17:38 18:46 16:47 10:45 11:39 17:34 17:26
+20:21 22:37 20:21 15:33 23:33 10:31 22:19 18:13 11:50 11:32
+11:11 19:50 12:26 21:36 14:29 22:47 15:55 20:27 17:44 22:28
+21:54 18:13 21:49 20:11 17:21 14:37 10:13 23:27 21:17 15:14
+21:58 21:14 12:49 12:28 16:52 18:53 18:16 12:39 18:53 21:19
+14:45 23:56 19:42 17:10 20:32 19:44 23:56 20:31 20:32 22:51
+22:20 14:17 20:43 19:59 22:31 18:37 16:39 15:33 19:26 17:28
+22:49 13:38 11:51 19:28 18:32 11:26 19:23 16:35 11:15 15:17
+17:20 13:41 12:51 11:16 19:30 17:29 18:11 13:19 13:38 15:52
+temperature__109c temperature__105c temperature__21c temperature__88c temperature__92c temperature__64c temperature__36c temperature__57c temperature__108c temperature__33c
+temperature__30c temperature__57c temperature__129c temperature__23c temperature__112c temperature__144c temperature__12c temperature__27c temperature__3c temperature__26c
+temperature__44c temperature__11c temperature__98c temperature__28c temperature__119c temperature__74c temperature__112c temperature__116c temperature__5c temperature__6c
+temperature__112c temperature__34c temperature__52c temperature__44c temperature__146c temperature__141c temperature__11c temperature__42c temperature__141c temperature__39c
+temperature__44c temperature__69c temperature__129c temperature__28c temperature__95c temperature__147c temperature__36c temperature__39c temperature__3c temperature__26c
+temperature__6c temperature__24c temperature__44c temperature__12c temperature__124c temperature__93c temperature__8c temperature__50c temperature__140c temperature__31c
+temperature__130c temperature__3c temperature__95c temperature__123c temperature__11c temperature__8c temperature__24c temperature__93c temperature__35c temperature__22c
+temperature__140c temperature__73c temperature__106c temperature__82c temperature__4c temperature__27c temperature__35c temperature__0c temperature__86c temperature__4c
+temperature__49c temperature__116c temperature__136c temperature__50c temperature__22c temperature__51c temperature__23c temperature__137c temperature__112c temperature__95c
+temperature__22c temperature__118c temperature__85c temperature__145c temperature__64c temperature__148c temperature__88c temperature__100c temperature__86c temperature__112c
+temperature__52c temperature__124c temperature__139c temperature__84c temperature__126c temperature__73c temperature__61c temperature__51c temperature__79c temperature__51c
+activity eco chess dance eco team utility triathlon waterski performance
+romp soccerball horseracing running limited rugby racing judo organization rollick
+exercise esports badminton snowboarding art downfield run referee comfort activity
+goal champion cycling show physical snowboarding rollick skateboarding coach dynamic
+fitness community offside industry active fast action combat gambol offside
+movement multisport frisk events industry schuss job dive gambol recreation
+chess movement triathlon badminton job gamely gambol diver club cavort
+hobby physical rollick active football skill video romp bouldering run
+active company diver pack badminton coach referee eco athletic fitness
+events sports work work entertainment volleyball fun field boulder feature
+offside skylark music social soccerball performance boulder disport referee ineligible
+plant animal cheese animal nutrient fruits vegetables meal cooking restaurant seafood
+cooking provender nourishment plant milk fruits vegetables nutrition rice rice fruit
+edible eat seafood seafood milk victuals meals rice vegetable victuals
+eat meal cheese restaurant nourishment victuals nutrient nutrition milk eat
+seafood fruits vegetables chicken cheese beef milk meals eat eat restaurant
+animal beef eat cooking seafood rice nutrient animal sushi fruit
+meat animal fruits vegetables pasta cooking drinks nutrient sushi meat meal
+nutrient cereal victuals plant fruits vegetables chicken meals provender eat chicken
+cooking nutrient rice drinks cheese nutrition milk victuals pasta fruits vegetables
+chicken soup meal nutrient provender nutrition seafood sushi fruit restaurant
+provender nutrient provender beef vegetable cooking restaurant cereal meal provender
+scavenger sheep plant wildlife llamas plant pig mammals zoo insectivorous
+tufted vertebrate metazoan llamas monster frog dogs vertebrate rabbit iguana
+pitbull shelter bear biped feline thoroughbred wildlife amphibians wildlife shelter
+fantasy rabbit heterotroph mammal eukaryotic feline mammal vegan carnivore elephants
+amphibians eukaryotic mammals zooplankton chickens multicellular dog farming pups mammals
+monster iguana hourse multicellular multicellular scavenger vertebrate sheep carnal cats
+superdog vegan animalia mammals tufted varmint reptiles insects pig animal welfare
+bear livestock zooplankton cat wild environmental mythical animals darter workanimal
+demon clams livestock insectivore animalia marineanimal dog fauna meat insectivore
+scavenger amphibians eukaryotic birds sheep animalkingdom eukaryotic bug animals pig
+dogs zoo protist demon animalkingdom metazoan insect primate dinosaur farming

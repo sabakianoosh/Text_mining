@@ -1,0 +1,99 @@
+13:32 17:45 10:31 22:40 10:17 15:48 18:52 10:32 21:26 14:36
+13:12 19:46 14:31 19:29 18:55 17:46 20:56 21:16 18:46 16:20
+15:23 16:59 17:29 10:26 16:41 17:45 11:28 19:51 12:21 18:27
+21:25 17:23 18:48 20:48 22:41 20:23 15:31 20:39 18:14 15:57
+12:36 13:21 13:53 17:17 15:52 11:11 19:42 16:43 18:35 18:46
+19:20 11:24 22:13 19:51 21:53 17:35 15:29 13:36 12:26 17:17
+21:43 12:21 11:25 22:42 20:58 19:30 17:27 21:22 10:35 19:18
+23:48 12:58 16:46 14:15 19:37 13:56 19:57 23:40 12:17 21:29
+13:27 22:40 12:44 12:45 19:27 10:20 18:54 18:44 10:34 14:44
+17:31 11:24 18:56 22:28 11:42 18:11 15:24 20:58 18:47 13:34
+22:26 18:52 17:40 20:37 10:16 16:42 16:12 16:45 10:38 15:42
+SquareNumber_6561 SquareNumber_625 SquareNumber_81 SquareNumber_7921 SquareNumber_3249 SquareNumber_3249 SquareNumber_8836 SquareNumber_7569 SquareNumber_10000 SquareNumber_900
+SquareNumber_729 SquareNumber_2500 SquareNumber_8464 SquareNumber_16 SquareNumber_4225 SquareNumber_625 SquareNumber_8464 SquareNumber_4900 SquareNumber_5929 SquareNumber_1296
+SquareNumber_5776 SquareNumber_5776 SquareNumber_2025 SquareNumber_289 SquareNumber_4096 SquareNumber_6241 SquareNumber_7744 SquareNumber_5929 SquareNumber_5041 SquareNumber_1024
+SquareNumber_9 SquareNumber_324 SquareNumber_4900 SquareNumber_1296 SquareNumber_7744 SquareNumber_8649 SquareNumber_8836 SquareNumber_3481 SquareNumber_4356 SquareNumber_8464
+SquareNumber_5329 SquareNumber_6889 SquareNumber_2209 SquareNumber_4900 SquareNumber_529 SquareNumber_2916 SquareNumber_3721 SquareNumber_9801 SquareNumber_8281 SquareNumber_7921
+SquareNumber_49 SquareNumber_2809 SquareNumber_6724 SquareNumber_3025 SquareNumber_1296 SquareNumber_121 SquareNumber_1296 SquareNumber_1024 SquareNumber_121 SquareNumber_7744
+SquareNumber_784 SquareNumber_9216 SquareNumber_6400 SquareNumber_5929 SquareNumber_841 SquareNumber_1225 SquareNumber_9409 SquareNumber_64 SquareNumber_64 SquareNumber_256
+SquareNumber_324 SquareNumber_289 SquareNumber_324 SquareNumber_1444 SquareNumber_81 SquareNumber_1089 SquareNumber_729 SquareNumber_7225 SquareNumber_36 SquareNumber_2809
+SquareNumber_5625 SquareNumber_9216 SquareNumber_3600 SquareNumber_1369 SquareNumber_5929 SquareNumber_7569 SquareNumber_9409 SquareNumber_7396 SquareNumber_6084 SquareNumber_1024
+SquareNumber_576 SquareNumber_1156 SquareNumber_5184 SquareNumber_1024 SquareNumber_484 SquareNumber_25 SquareNumber_7921 SquareNumber_49 SquareNumber_5041 SquareNumber_9801
+SquareNumber_4356 SquareNumber_9409 SquareNumber_400 SquareNumber_625 SquareNumber_121 SquareNumber_2025 SquareNumber_1156 SquareNumber_1936 SquareNumber_2916 SquareNumber_529
+SteelBlue Olive RosyBrown MediumSpringGreen DarkOliveGreen Lavender Tan MediumPurple BlanchedAlmond Maroon
+GreenYellow Blue Khaki Beige DarkRed DarkOliveGreen Gray LightYellow BlueViolet Burlywood
+OliveDrab Gainsboro LightSeaGreen GhostWhite LightCyan Peru ForestGreen LightSteelBlue Aquamarine PaleVioletRed
+Cyan Bisque Azure Wheat Snow Lavender MediumSeaGreen Indigo Coral Honeydew
+Salmon MistyRose Chartreuse Cornsilk MistyRose Tomato Sienna Salmon Beige MediumVioletRed
+Thistle PaleGreen Maroon Fuchsia DeepPink HotPink DodgerBlue Tan LightGray SandyBrown
+LightSlateGray ForestGreen Snow Burlywood Burlywood PapayaWhip Wheat MidnightBlue LightGray Gainsboro
+DeepSkyBlue Moccasin Lavender RosyBrown Gray Chocolate DarkFuchsia GhostWhite MediumAquamarine Snow
+DarkSlateBlue LightSlateGray MediumOrchid Thistle DarkViolet Navy WhiteSmoke DarkSalmon Wheat MediumSeaGreen
+DimGray Chartreuse SeaGreen DarkBlue LightSteelBlue LimeGreen Blue DarkSalmon LemonChiffon Beige
+Turquoise CadetBlue OldLace Peru MediumVioletRed BlanchedAlmond LawnGreen LightGoldenrodYellow GreenYellow PapayaWhip
+Jambul Melon Watermelon Honeyberry Tamarind Pineberry Plum Huckleberry Papaya Blackberry
+Sapodilla Pineberry Melon Kiwifruit Pawpaw Watermelon Yuzu Banana Orange Ackee
+Lemon Clementine Araza Marionberry Damson Currant Marionberry Nance Gooseberry Elderberry
+Nectarine Loquat Cherry Cempedak Mango Raisin Satsuma Cranberry Mandarine Currant
+Mulberry Grape Mangosteen Pear Prune Pomegranate Mangosteen Jujube Orange Cempedak
+Ackee Persimmon Pineapple Rambutan  Araza Yuzu Jackfruit Longan Ximenia Coconut
+Nectarine Strawberry Raspberry Durian Cranberry Blackcurrant Cherimoya Tangerine Orange Honeyberry
+Plum Akebi Grape Loganberry Loganberry Pineberry Grape Huckleberry Mangosteen Honeydew
+Cherry Acerola Lulo Bilberry Quince Peach Grape Pomegranate Banana Tayberry
+Cranberry Gooseberry Cranberry Cempedak Tangelo Strawberry Persimmon Elderberry Elderberry Pomegranate
+Mango Tamarillo Abiu Gooseberry Loganberry Açaí Feijoa Loquat Plumcot Mulberry
+frail dark outrageous worried bright relieved thankful frantic defeated muddy
+gentle magnificent fancy grieving aggressive uninterested ugliest naughty light anxious
+rich elegant annoying blue-eyed adventurous confused fragile super shiny annoying
+grotesque lively plain upset splendid bad upset excited stupid rich
+scary tired tasty horrible light depressed faithful cute curious weary
+homeless odd precious combative easy wide-eyed creepy elated odd brave
+dizzy super open talented relieved energetic smoggy jealous quaint embarrassed
+energetic odd determined depressed average real helpful envious different frightened
+enchanting creepy pleasant different quaint innocent nutty poor thoughtless uptight
+agreeable brainy funny poor smiling cruel smoggy encouraging troubled shy
+itchy thoughtful delightful thoughtless inexpensive bewildered uptight itchy healthy fragile
+victuals restaurant rice animal nutrient vegetable chicken meals pasta fruits vegetables
+milk sushi edible meat provender chicken nutrient provender cheese seafood
+cooking cheese cereal meal nutrient drinks cheese meat fruits vegetables eat
+nutrition seafood milk milk victuals restaurant restaurant vegetable restaurant pasta
+nutrition victuals nutrition nourishment plant drinks victuals rice provender fruit
+cheese provender vegetable restaurant cereal nutrition milk meat cereal cooking
+cheese cheese plant plant eat pasta soup cooking eat edible
+restaurant cooking drinks sushi chicken provender pasta beef milk fruits vegetables
+nourishment nutrition cereal meals pasta milk nutrient vegetable drinks eat
+restaurant restaurant cheese beef cereal sushi animal nutrition milk beef
+drinks sushi drinks nourishment drinks chicken rice vegetable fruits vegetables meal
+BinaryNumber_1100000 BinaryNumber_0110101 BinaryNumber_1000001 BinaryNumber_1100010 BinaryNumber_1010001 BinaryNumber_0111100 BinaryNumber_0011111 BinaryNumber_1001000 BinaryNumber_1100010 BinaryNumber_1010001
+BinaryNumber_0001101 BinaryNumber_0111110 BinaryNumber_0000000 BinaryNumber_0111010 BinaryNumber_1001010 BinaryNumber_0001110 BinaryNumber_0110110 BinaryNumber_0000100 BinaryNumber_0100101 BinaryNumber_0000001
+BinaryNumber_0110110 BinaryNumber_0101100 BinaryNumber_0000110 BinaryNumber_0011011 BinaryNumber_0110110 BinaryNumber_0010101 BinaryNumber_1010010 BinaryNumber_1010111 BinaryNumber_1010000 BinaryNumber_0100000
+BinaryNumber_0001001 BinaryNumber_1100010 BinaryNumber_1011110 BinaryNumber_1011000 BinaryNumber_0011010 BinaryNumber_0000010 BinaryNumber_0110001 BinaryNumber_0011111 BinaryNumber_1001111 BinaryNumber_0001001
+BinaryNumber_0100101 BinaryNumber_1100001 BinaryNumber_0011001 BinaryNumber_0101101 BinaryNumber_0101100 BinaryNumber_0010111 BinaryNumber_0001010 BinaryNumber_0011010 BinaryNumber_1011011 BinaryNumber_1011110
+BinaryNumber_0011101 BinaryNumber_0100011 BinaryNumber_0110010 BinaryNumber_1010101 BinaryNumber_1011011 BinaryNumber_1011010 BinaryNumber_0111010 BinaryNumber_1000000 BinaryNumber_1011100 BinaryNumber_1000110
+BinaryNumber_1001001 BinaryNumber_1011011 BinaryNumber_0000111 BinaryNumber_1001101 BinaryNumber_0011000 BinaryNumber_1011011 BinaryNumber_0101001 BinaryNumber_0011101 BinaryNumber_1010111 BinaryNumber_1010011
+BinaryNumber_1000010 BinaryNumber_0111010 BinaryNumber_0010010 BinaryNumber_1000101 BinaryNumber_0001110 BinaryNumber_1010011 BinaryNumber_0000011 BinaryNumber_1001010 BinaryNumber_0111100 BinaryNumber_1011110
+BinaryNumber_0011000 BinaryNumber_1100011 BinaryNumber_1011001 BinaryNumber_0110100 BinaryNumber_1001111 BinaryNumber_1001110 BinaryNumber_0001011 BinaryNumber_1100001 BinaryNumber_1010011 BinaryNumber_0110000
+BinaryNumber_0100110 BinaryNumber_1011011 BinaryNumber_1010000 BinaryNumber_1000100 BinaryNumber_1011111 BinaryNumber_1000110 BinaryNumber_0001110 BinaryNumber_1001100 BinaryNumber_0011011 BinaryNumber_1011011
+BinaryNumber_1010110 BinaryNumber_1011111 BinaryNumber_0001010 BinaryNumber_0111001 BinaryNumber_0100010 BinaryNumber_0110011 BinaryNumber_1010100 BinaryNumber_0110101 BinaryNumber_1100010 BinaryNumber_0100111
+temperature__50c temperature__0c temperature__4c temperature__93c temperature__69c temperature__63c temperature__23c temperature__68c temperature__92c temperature__137c
+temperature__69c temperature__44c temperature__56c temperature__132c temperature__2c temperature__53c temperature__52c temperature__51c temperature__17c temperature__105c
+temperature__131c temperature__3c temperature__4c temperature__63c temperature__36c temperature__139c temperature__12c temperature__105c temperature__87c temperature__46c
+temperature__74c temperature__91c temperature__84c temperature__54c temperature__31c temperature__4c temperature__27c temperature__148c temperature__40c temperature__42c
+temperature__131c temperature__118c temperature__88c temperature__87c temperature__39c temperature__91c temperature__33c temperature__109c temperature__2c temperature__27c
+temperature__41c temperature__31c temperature__148c temperature__74c temperature__109c temperature__51c temperature__22c temperature__93c temperature__12c temperature__88c
+temperature__53c temperature__93c temperature__130c temperature__87c temperature__2c temperature__138c temperature__91c temperature__2c temperature__130c temperature__59c
+temperature__69c temperature__2c temperature__52c temperature__88c temperature__84c temperature__148c temperature__65c temperature__73c temperature__139c temperature__93c
+temperature__14c temperature__90c temperature__100c temperature__11c temperature__56c temperature__22c temperature__93c temperature__142c temperature__87c temperature__87c
+temperature__68c temperature__79c temperature__123c temperature__147c temperature__85c temperature__141c temperature__3c temperature__10c temperature__118c temperature__39c
+temperature__106c temperature__95c temperature__122c temperature__36c temperature__28c temperature__5c temperature__119c temperature__100c temperature__21c temperature__142c
+laptop personalcomputer peripheral homecomputer hardware homecomputer centralprocessing unit turingmachine spyware integratedcircuit
+analogcomputer pornographicimages pc mobiledevice internet compatible downloader electrical tablet peripheral
+centralprocessing unit keyboard desktop office algorithm server eniac imac turingmachine programming
+mobiledevice calculator astrolabe programming smartphone calculator cyber computercide supercomputer programmer
+personalcomputer incompatible programming digitalcommunication cybertechnology von neumann machine visualdisplayunit floppydisk tablet pornographicimages
+downloader computerprogramming integratedcircuit computerscience arithmetic analogcomputer analogcomputer digitalaudioplayer incompatible incompatible
+screen eniac eniac turingmachine transistor diskette computerprogram chip cell computing
+machine programmer centralprocessing unit vacuumtube vacuumtube xbox smartphone incompatible screen machinecode
+computerprogramming microcomputer console cybertechnology screen mobile electromechanical console programmer router
+computerhardware dataconverter computing mechanicalcomputer bit digitalcommunication laptopcomputer information cell android
+pc homecomputer programming downloader mobiledevice arithmetic downloader inputdevice information centralprocessing unit

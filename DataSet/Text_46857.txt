@@ -1,0 +1,99 @@
+10:42 13:35 23:13 16:21 13:51 10:18 12:19 14:29 14:49 23:21
+18:30 11:14 23:45 20:58 11:28 14:14 23:32 13:25 16:45 15:41
+13:10 13:46 12:49 10:24 20:32 16:38 21:49 22:48 10:34 11:59
+20:37 10:10 14:24 12:51 21:51 11:31 10:49 18:27 21:59 22:29
+16:48 15:28 23:35 15:11 14:48 23:39 14:26 23:27 16:10 23:14
+19:22 11:33 19:36 13:40 19:23 19:56 11:39 17:15 15:25 23:24
+17:46 21:46 19:46 13:48 20:13 21:38 19:36 20:18 20:13 11:29
+22:50 13:11 21:52 17:33 14:28 21:47 16:38 16:18 14:19 19:59
+18:44 13:18 16:44 19:50 12:23 10:37 23:15 19:32 21:12 16:21
+12:40 23:34 14:19 19:40 16:41 12:15 19:57 14:57 16:28 20:57
+18:56 14:23 13:48 10:31 20:55 10:46 14:31 21:36 11:30 16:57
+BinaryNumber_1001011 BinaryNumber_1001111 BinaryNumber_0110110 BinaryNumber_0100001 BinaryNumber_0000101 BinaryNumber_0011101 BinaryNumber_1011001 BinaryNumber_1011111 BinaryNumber_0100010 BinaryNumber_0000111
+BinaryNumber_0001100 BinaryNumber_0000100 BinaryNumber_1001110 BinaryNumber_0101011 BinaryNumber_0011101 BinaryNumber_0111111 BinaryNumber_1000101 BinaryNumber_0010110 BinaryNumber_0010100 BinaryNumber_0000011
+BinaryNumber_1001111 BinaryNumber_0011100 BinaryNumber_0000000 BinaryNumber_0101001 BinaryNumber_1000000 BinaryNumber_0101110 BinaryNumber_0011110 BinaryNumber_0001110 BinaryNumber_1000101 BinaryNumber_0110101
+BinaryNumber_0010101 BinaryNumber_1010101 BinaryNumber_1000110 BinaryNumber_0011100 BinaryNumber_0011011 BinaryNumber_1000100 BinaryNumber_1001101 BinaryNumber_0001001 BinaryNumber_1001011 BinaryNumber_1011110
+BinaryNumber_0010011 BinaryNumber_0100000 BinaryNumber_0111000 BinaryNumber_1001011 BinaryNumber_1010110 BinaryNumber_0100001 BinaryNumber_0010101 BinaryNumber_1000001 BinaryNumber_1000111 BinaryNumber_1001101
+BinaryNumber_0110101 BinaryNumber_0111110 BinaryNumber_1000101 BinaryNumber_1001110 BinaryNumber_0101001 BinaryNumber_0110110 BinaryNumber_0010010 BinaryNumber_0001010 BinaryNumber_0100111 BinaryNumber_0011010
+BinaryNumber_1100000 BinaryNumber_1000101 BinaryNumber_0101101 BinaryNumber_0010101 BinaryNumber_0010010 BinaryNumber_0000010 BinaryNumber_1010010 BinaryNumber_0000110 BinaryNumber_1000100 BinaryNumber_0100100
+BinaryNumber_1010100 BinaryNumber_0010010 BinaryNumber_0100000 BinaryNumber_0110101 BinaryNumber_0000100 BinaryNumber_1010111 BinaryNumber_0101111 BinaryNumber_0010110 BinaryNumber_0100110 BinaryNumber_0111001
+BinaryNumber_0101111 BinaryNumber_0101100 BinaryNumber_0000000 BinaryNumber_0000000 BinaryNumber_0101110 BinaryNumber_0101111 BinaryNumber_0110000 BinaryNumber_1100011 BinaryNumber_0000011 BinaryNumber_1100001
+BinaryNumber_1010111 BinaryNumber_0111000 BinaryNumber_0010011 BinaryNumber_0100001 BinaryNumber_0001101 BinaryNumber_0100011 BinaryNumber_0000111 BinaryNumber_0111000 BinaryNumber_1100011 BinaryNumber_0010111
+BinaryNumber_0101101 BinaryNumber_0100000 BinaryNumber_0000000 BinaryNumber_0100010 BinaryNumber_1011000 BinaryNumber_0000100 BinaryNumber_0111111 BinaryNumber_0100101 BinaryNumber_0000011 BinaryNumber_1001111
+cpu antivirus information laptopcomputer console vacuumtube electromechanical data phone digitalcommunication
+digital integratedcircuit bit expansionslot software screen data tablet xbox microcomputer
+computerscience console compatible computerprogramming von neumann machine cell calculator machinecode digitalcommunication bit
+personalcomputer programming computercircuit desktop machine dataconverter mechanicalcomputer smartphone monitor digitalcomputer
+computercide processor cpu pornographicimages pornographicimages office calculator turingmachine automation digital
+watch android personalcomputer eniac imac computercide processor escapekey desktop eniac
+electronics automation mobile algorithm bit abacus game compatible laptop peripheral
+laptopcomputer cpu inputdevice computation phone browser desktop daw mechanicalcomputer downloader
+antivirus screen machine phone algorithm cell desktoppcs electronics dataconverter screen
+machines mechanicalcomputer computercircuit inputdevice computerscience computerhardware computerprogramming sliderule digitalcomputer programmer
+sliderule router watch pc monitor digital office inputdevice peripheral electronics
+LawnGreen Blue DodgerBlue DarkBlue LightSeaGreen DarkTurquoise DarkCyan DarkFuchsia BlanchedAlmond LightSteelBlue
+PapayaWhip LightSeaGreen Salmon Bisque DarkSalmon Gainsboro Plum SlateGray DarkSlateBlue Teal
+PaleVioletRed MistyRose Teal BlueViolet LimeGreen Olive Lavender LightBlue Tomato Wheat
+Sienna PaleVioletRed SpringGreen Bisque Indigo DarkSeaGreen RoyalBlue Fuchsia Orange DodgerBlue
+DarkSeaGreen Teal LightGray Seashell Gainsboro MistyRose RosyBrown MediumSpringGreen Aquamarine MistyRose
+DarkTurquoise PaleTurquoise BlanchedAlmond Seashell Purple MediumAquamarine Aquamarine Cornsilk LightGray Chartreuse
+Wheat OliveDrab Purple NavajoWhite LightYellow MediumSlateBlue VioletRed Beige DarkSalmon PaleGreen
+DarkFuchsia DarkSeaGreen GreenYellow DarkGoldenrod NavajoWhite LightGray Violet SpringGreen IndianRed LightGreen
+Blue Tan Olive PeachPuff Aquamarine PaleGreen IndianRed LightCyan MediumVioletRed Beige
+Coral Yellow LightGoldenrodYellow OldLace Brown Gainsboro MediumSeaGreen PapayaWhip AntiqueWhite DarkCyan
+SeaGreen Indigo DeepPink LightYellow LightSkyBlue MediumSeaGreen SkyBlue Bisque FloralWhite Green
+pig chordate octopuses epizootic fish wild zoology insectivore hourse creature
+sheep bug multicellular llamas bobcat octopuses bear reptiles insectivorous wildlife
+epizootic deer fleshly dinosaur pet animatebeing feline poikilotherm puppy jellyfish
+sheep animatebeing mammals porifera heterotroph farming pet frog pigs pups
+cats vegan object farming pigs chickens carnal pet exoticanimals clams
+raccoon fleshly thoroughbred object dogs epizootic feline shelter cats beast
+metazoan cat marineanimal dinosaur llamas poikilotherm fauna carnal ladybug shelter
+monster animalkingdom bird dogs elephants mammals bear farming cats shelter
+rabbit varmint chordate bug livestock scavenger livestock embryo plant thoroughbred
+wild animatebeing farming animatebeing fish carnal dogs exoticanimals insectivorous poikilotherm
+pigs hourse fauna animalia animatebeing zoo metazoan environmental raccoon pet
+Jackfruit Raisin Pomelo Elderberry Melon Peach Plumcot Clementine Yuzu Blueberry
+Cloudberry Loquat Lulo Fig Lulo Açaí Rambutan  Honeydew Peach Ximenia
+Jambul Loganberry Pomegranate Lime Currant Pear Lulo Mango Orange Pomelo
+Salmonberry Boysenberry Marionberry Lulo Nance Melon Kiwano Raspberry Jujube Apricot
+Melon Papaya Damson Loquat Abiu Jujube Durian Pomegranate Mandarine Date
+Ackee Damson Lemon Jujube Plantain Gooseberry Tangelo Fig Plum Strawberry
+Kumquat Nectarine Quince Pomegranate Persimmon Açaí Banana Feijoa Plantain Salmonberry
+Blueberry Sapodilla Canistel Cantaloupe Currant Nance Tangerine Apricot Marionberry Apricot
+Loquat Melon Cempedak Apple Grapefruit Ximenia Canistel Pawpaw Durian Papaya
+Loganberry Currant Salmonberry Papaya Papaya Kumquat Tayberry Prune Tayberry Boysenberry
+Quince Plum Grape Ackee Cherimoya Longan Soursop Cherimoya Satsuma Cloudberry
+PrimeNumber_47 PrimeNumber_523 PrimeNumber_71 PrimeNumber_199 PrimeNumber_457 PrimeNumber_523 PrimeNumber_101 PrimeNumber_257 PrimeNumber_167 PrimeNumber_277
+PrimeNumber_101 PrimeNumber_277 PrimeNumber_73 PrimeNumber_199 PrimeNumber_359 PrimeNumber_293 PrimeNumber_433 PrimeNumber_397 PrimeNumber_61 PrimeNumber_239
+PrimeNumber_337 PrimeNumber_29 PrimeNumber_487 PrimeNumber_7 PrimeNumber_191 PrimeNumber_89 PrimeNumber_109 PrimeNumber_5 PrimeNumber_5 PrimeNumber_263
+PrimeNumber_211 PrimeNumber_307 PrimeNumber_37 PrimeNumber_5 PrimeNumber_109 PrimeNumber_547 PrimeNumber_7 PrimeNumber_71 PrimeNumber_283 PrimeNumber_3
+PrimeNumber_229 PrimeNumber_137 PrimeNumber_461 PrimeNumber_419 PrimeNumber_257 PrimeNumber_421 PrimeNumber_2 PrimeNumber_241 PrimeNumber_163 PrimeNumber_157
+PrimeNumber_131 PrimeNumber_37 PrimeNumber_5 PrimeNumber_173 PrimeNumber_5 PrimeNumber_433 PrimeNumber_461 PrimeNumber_149 PrimeNumber_197 PrimeNumber_523
+PrimeNumber_37 PrimeNumber_523 PrimeNumber_463 PrimeNumber_107 PrimeNumber_67 PrimeNumber_463 PrimeNumber_283 PrimeNumber_293 PrimeNumber_467 PrimeNumber_11
+PrimeNumber_227 PrimeNumber_457 PrimeNumber_479 PrimeNumber_491 PrimeNumber_127 PrimeNumber_461 PrimeNumber_7 PrimeNumber_431 PrimeNumber_167 PrimeNumber_277
+PrimeNumber_107 PrimeNumber_331 PrimeNumber_23 PrimeNumber_239 PrimeNumber_197 PrimeNumber_379 PrimeNumber_379 PrimeNumber_499 PrimeNumber_353 PrimeNumber_373
+PrimeNumber_139 PrimeNumber_127 PrimeNumber_11 PrimeNumber_179 PrimeNumber_37 PrimeNumber_383 PrimeNumber_251 PrimeNumber_439 PrimeNumber_157 PrimeNumber_311
+PrimeNumber_311 PrimeNumber_347 PrimeNumber_11 PrimeNumber_197 PrimeNumber_439 PrimeNumber_181 PrimeNumber_467 PrimeNumber_13 PrimeNumber_491 PrimeNumber_409
+milk drinks cereal edible sushi pasta fruits vegetables victuals meals meals
+victuals victuals meals beef drinks meat meal fruits vegetables restaurant cheese
+eat fruits vegetables milk chicken pasta fruit restaurant fruit nourishment fruits vegetables
+vegetable cooking milk eat nutrition animal fruits vegetables pasta provender provender
+seafood chicken cheese sushi nutrient cereal animal cheese plant milk
+nourishment cereal plant plant victuals pasta meals beef pasta nourishment
+seafood beef provender meals seafood provender drinks soup pasta soup
+sushi seafood soup seafood nourishment provender nourishment drinks pasta nourishment
+meals meals soup provender restaurant drinks cheese animal meal provender
+restaurant fruits vegetables milk seafood eat nourishment fruits vegetables vegetable fruit meal
+fruits vegetables beef cheese plant soup drinks vegetable cheese restaurant fruits vegetables
+solmizate metal party section soundtracks musical harmonize studio popular music lyrics
+metre chaconne schubert rag tonic release literature art music solmizate saxophone
+compositions clapping tabs art music video melodies pitch solmizate guitar lyrics
+phenomenon subtonic bass dynamics sound merch improvisation sforzando conducting movie
+speak label playlist sounds melodies tuba action bassline genre section
+musicians opera compositions sforzando rhythm art music symphonise media production release
+studio reharmonize release modulate rockabilly sing atonal chaconne conduct clarion
+concerts conduct hymn playlist release wagner tone rag film songwriter
+studio label chaconne madrigal oboe merch harp label ambient key
+jazzfunk musical medicine metre lute tone tempo muses medicine instrument
+soundtracks songs classical mediant podcasts videos band ambience beat violoncello

@@ -1,0 +1,99 @@
+22:11 15:32 11:26 13:21 16:18 20:43 11:53 14:39 11:11 16:42
+14:12 22:44 21:25 19:12 23:16 13:24 19:10 21:59 16:13 12:44
+23:35 15:43 15:34 10:23 18:33 12:33 13:41 14:11 18:20 12:44
+15:23 13:34 19:23 15:18 12:28 18:46 18:49 19:56 20:16 16:28
+11:49 16:24 18:41 23:19 13:10 17:20 21:58 17:59 13:53 11:24
+14:51 12:22 22:17 19:47 12:20 14:30 10:42 10:59 10:39 12:56
+20:12 18:50 12:42 13:59 12:23 17:38 20:10 22:53 10:50 21:50
+18:12 19:43 15:48 17:52 10:43 17:54 12:48 13:34 15:48 11:24
+11:31 11:45 18:31 14:31 21:12 18:56 12:38 19:46 23:36 18:11
+15:28 21:31 14:30 14:17 23:55 15:17 14:44 16:51 16:58 18:14
+20:24 12:17 15:17 20:50 15:13 21:42 18:22 21:28 19:48 20:14
+Banana Jujube Jambul Jackfruit Papaya Clementine Açaí Tangerine Lemon Breadfruit
+Boysenberry Banana Quince Orange Soursop Cherry Lemon Loganberry Lime Rambutan 
+Tangerine Clementine Honeyberry Pineapple Durian Breadfruit Elderberry Jujube Pawpaw Lemon
+Cashew Elderberry Kumquat Canistel Honeydew Raisin Loganberry Nectarine Pomelo Tamarillo
+Tamarind Tayberry Grapefruit Apple Lulo Lime Currant Passionfruit Blueberry Huckleberry
+Kiwano Orange Tangelo Durian Canistel Elderberry Acerola Plum Kumquat Yuzu
+Kumquat Açaí Tamarind Grapefruit Fig Rambutan  Jujube Canistel Longan Apricot
+Gooseberry Abiu Melon Satsuma Pawpaw Pomelo Acerola Papaya Araza Loquat
+Pomelo Acerola Persimmon Apple Soursop Cantaloupe Marionberry Mangosteen Breadfruit Lulo
+Prune Pomelo Coconut Fig Satsuma Jostaberry Guava Damson Peach Lime
+Satsuma Salak Cashew Canistel Tamarind Lulo Feijoa Cranberry Sapodilla Nectarine
+LightPink MediumBlue Orchid Crimson Violet MediumBlue NavajoWhite DeepSkyBlue MediumOrchid FloralWhite
+DarkSalmon DarkCyan PeachPuff Lime LightPink MediumOrchid Red Tomato Gold MediumVioletRed
+MediumSeaGreen OliveDrab Fuchsia DarkGray LightGray Tomato MediumVioletRed RoyalBlue Crimson IndianRed
+Coral MediumBlue Purple Aquamarine PaleGreen PowderBlue MediumSpringGreen Khaki Tan LightBlue
+Cyan HotPink IndianRed SandyBrown Khaki WhiteSmoke DarkSlateBlue GhostWhite Khaki DarkSlateBlue
+MintCream SlateGray MediumSeaGreen Maroon OldLace MediumSlateBlue Thistle SteelBlue LavenderBlush Gainsboro
+Plum Firebrick LightGray WhiteSmoke DarkTurquoise LightGoldenrod SpringGreen CadetBlue Brown CornflowerBlue
+BlueViolet Cornsilk BlanchedAlmond Firebrick LightGoldenrodYellow LawnGreen Brown Gold Indigo Snow
+AliceBlue NavajoWhite Aquamarine GreenYellow LightGreen Brown Turquoise Purple Navy RoyalBlue
+LightSalmon MediumVioletRed Green Sienna OliveDrab DarkSeaGreen Crimson Wheat MidnightBlue OldLace
+Turquoise DarkSlateGray Honeydew Tomato SlateGray Thistle Lime Linen LightPink MediumTurquoise
+SquareNumber_8836 SquareNumber_3136 SquareNumber_64 SquareNumber_9801 SquareNumber_3249 SquareNumber_289 SquareNumber_8100 SquareNumber_8100 SquareNumber_1089 SquareNumber_400
+SquareNumber_3969 SquareNumber_1296 SquareNumber_64 SquareNumber_5184 SquareNumber_1156 SquareNumber_2401 SquareNumber_3481 SquareNumber_2401 SquareNumber_625 SquareNumber_7396
+SquareNumber_36 SquareNumber_3600 SquareNumber_1764 SquareNumber_3600 SquareNumber_5329 SquareNumber_49 SquareNumber_81 SquareNumber_6241 SquareNumber_1936 SquareNumber_3481
+SquareNumber_100 SquareNumber_3025 SquareNumber_1369 SquareNumber_3721 SquareNumber_3721 SquareNumber_1089 SquareNumber_7744 SquareNumber_289 SquareNumber_3025 SquareNumber_6561
+SquareNumber_7921 SquareNumber_900 SquareNumber_196 SquareNumber_9604 SquareNumber_1369 SquareNumber_5329 SquareNumber_4356 SquareNumber_5184 SquareNumber_3025 SquareNumber_4356
+SquareNumber_441 SquareNumber_2401 SquareNumber_4356 SquareNumber_144 SquareNumber_784 SquareNumber_2601 SquareNumber_1089 SquareNumber_8100 SquareNumber_7569 SquareNumber_9409
+SquareNumber_5329 SquareNumber_3364 SquareNumber_2116 SquareNumber_4225 SquareNumber_5476 SquareNumber_2116 SquareNumber_6400 SquareNumber_2809 SquareNumber_8100 SquareNumber_36
+SquareNumber_2916 SquareNumber_4900 SquareNumber_2809 SquareNumber_9801 SquareNumber_784 SquareNumber_676 SquareNumber_10000 SquareNumber_7225 SquareNumber_49 SquareNumber_1600
+SquareNumber_400 SquareNumber_6724 SquareNumber_196 SquareNumber_2601 SquareNumber_1225 SquareNumber_5776 SquareNumber_4096 SquareNumber_625 SquareNumber_1521 SquareNumber_3481
+SquareNumber_2401 SquareNumber_4624 SquareNumber_3481 SquareNumber_1681 SquareNumber_4096 SquareNumber_1296 SquareNumber_441 SquareNumber_1936 SquareNumber_1369 SquareNumber_676
+SquareNumber_1936 SquareNumber_169 SquareNumber_4761 SquareNumber_5929 SquareNumber_1936 SquareNumber_2500 SquareNumber_729 SquareNumber_1089 SquareNumber_576 SquareNumber_144
+BinaryNumber_0011000 BinaryNumber_1100000 BinaryNumber_0001000 BinaryNumber_0000001 BinaryNumber_0000001 BinaryNumber_0100111 BinaryNumber_0100000 BinaryNumber_1011001 BinaryNumber_0101101 BinaryNumber_1001001
+BinaryNumber_1000010 BinaryNumber_0001011 BinaryNumber_0010000 BinaryNumber_1000100 BinaryNumber_0011000 BinaryNumber_0100001 BinaryNumber_1011101 BinaryNumber_0001111 BinaryNumber_1001110 BinaryNumber_0110000
+BinaryNumber_1011011 BinaryNumber_1010011 BinaryNumber_0101001 BinaryNumber_0001010 BinaryNumber_1011011 BinaryNumber_0010100 BinaryNumber_0000110 BinaryNumber_1011000 BinaryNumber_0111011 BinaryNumber_1011110
+BinaryNumber_0011010 BinaryNumber_0001001 BinaryNumber_0111001 BinaryNumber_1010001 BinaryNumber_1010110 BinaryNumber_1011110 BinaryNumber_0000011 BinaryNumber_1000111 BinaryNumber_0101000 BinaryNumber_0101101
+BinaryNumber_0010101 BinaryNumber_1001100 BinaryNumber_1001100 BinaryNumber_1001111 BinaryNumber_0000000 BinaryNumber_0111010 BinaryNumber_1010000 BinaryNumber_1000100 BinaryNumber_0010010 BinaryNumber_0100110
+BinaryNumber_0010000 BinaryNumber_0010010 BinaryNumber_1100001 BinaryNumber_0110010 BinaryNumber_0110011 BinaryNumber_1010011 BinaryNumber_1100000 BinaryNumber_1000101 BinaryNumber_0000101 BinaryNumber_0111010
+BinaryNumber_0010100 BinaryNumber_0100100 BinaryNumber_0101001 BinaryNumber_0010001 BinaryNumber_0101011 BinaryNumber_0001111 BinaryNumber_1010111 BinaryNumber_0011110 BinaryNumber_0000111 BinaryNumber_1100011
+BinaryNumber_0011001 BinaryNumber_0001000 BinaryNumber_0101101 BinaryNumber_1011001 BinaryNumber_0101011 BinaryNumber_1010101 BinaryNumber_1001011 BinaryNumber_1010011 BinaryNumber_0010011 BinaryNumber_1010011
+BinaryNumber_0000011 BinaryNumber_1001101 BinaryNumber_0101110 BinaryNumber_0010100 BinaryNumber_0001101 BinaryNumber_0101110 BinaryNumber_0110001 BinaryNumber_0010001 BinaryNumber_0011001 BinaryNumber_0011100
+BinaryNumber_0001011 BinaryNumber_1010011 BinaryNumber_1000000 BinaryNumber_1000010 BinaryNumber_0011111 BinaryNumber_1100001 BinaryNumber_0111111 BinaryNumber_0000101 BinaryNumber_0100100 BinaryNumber_1011100
+BinaryNumber_1011101 BinaryNumber_0101001 BinaryNumber_0111111 BinaryNumber_1000011 BinaryNumber_0011000 BinaryNumber_0000100 BinaryNumber_1001101 BinaryNumber_1011010 BinaryNumber_1010100 BinaryNumber_1010111
+provender plant restaurant eat eat rice nourishment nourishment beef beef
+edible plant meal plant nutrition rice restaurant edible beef animal
+fruits vegetables meal meal beef seafood drinks animal nutrient meat drinks
+edible victuals victuals eat milk cooking nutrition plant meat meal
+cooking fruits vegetables meat fruits vegetables vegetable cheese rice meal meal animal
+fruit seafood seafood edible seafood restaurant cheese meat nourishment fruits vegetables
+sushi rice sushi eat cereal fruits vegetables sushi victuals eat soup
+cheese provender edible eat cereal soup soup nourishment chicken sushi
+provender fruits vegetables nutrient rice plant pasta meal nourishment meat eat
+provender nutrition restaurant pasta nutrition plant nourishment fruit nourishment chicken
+drinks meal provender soup nutrient nourishment eat seafood meal restaurant
+frightened ugliest beautiful obnoxious better panicky unsightly different hungry busy
+uptight elated friendly hilarious horrible troubled gorgeous determined tough gorgeous
+beautiful eager scary unusual lively sparkling handsome healthy nasty dangerous
+panicky filthy scary eager cautious smiling careful dangerous anxious arrogant
+cooperative successful sleepy confused gifted angry aggressive breakable enchanting creepy
+envious comfortable open long different envious obnoxious lucky arrogant proud
+tough zany happy lovely uptight ashamed breakable bright ashamed dead
+creepy lovely frightened condemned frantic obnoxious depressed jealous vast blushing
+misty tired precious disturbed hurt weary puzzled misty calm depressed
+brave powerful hilarious upset sleepy magnificent shiny excited quaint kind
+glorious cheerful perfect doubtful proud sore wide-eyed naughty fragile handsome
+laptopcomputer centralprocessing unit game sliderule sliderule arithmetic machine desktopcomputer computercircuit homecomputer
+processor visualdisplayunit automation computerscience router expansionslot spyware digital electrical electromechanical
+watch xbox hardware memory digitalcomputer bit pornographicimages microcomputer chip processor
+digitalcommunication cell router antivirus mainframe sliderule pornographicimages transistor mainframe algorithm
+computerscience machines computerprogram cpu digitalcommunication transistor visualdisplayunit data mobile software
+hardware desktopcomputer inputdevice sliderule machinecode tablet programmer machine cyber console
+daw abacus desktop phone desktop personalcomputer social analogcomputer server escapekey
+electrical router turingmachine chip browser keyboard compatible desktoppcs escapekey microcomputer
+mainframe computerscience cell spyware monitor computerscience bit compatible programming turingmachine
+spyware inputdevice spyware social incompatible laptop digitalcomputer hardware monitor astrolabe
+peripheral computerprogramming office router programmer computerhardware cell machine floppydisk computing
+animals primate dinosaur bug protist pig fish embryo superdog wild
+wild bug porifera environmental pitbull bear pigs fauna animalia reptiles
+llamas scavenger animals animalkingdom beast animal welfare pitbull porifera raccoon puppy
+animatebeing object pigs vertebrate carnivore mammals pig tiger marineanimal wildlife
+protist elephants mythical object varmint deer zooplankton farming primate livestock
+darter meat chordate mythical mammal multicellular eukaryotic chordate monster feline
+animal welfare multicellular dog feline clams reptiles demon plant zoology protist
+thoroughbred pups llamas birds carnivore insectivorous hourse heterotroph animal welfare vegan
+pet elephants ladybug heterotroph exoticanimals birds porifera zoology rodent farming
+sheep pitbull insect primate frog insectivorous multicellular fleshly eukaryotic pigs
+animal welfare pet amphibians exoticanimals superdog multicellular invertebrate superdog iguana carnivore

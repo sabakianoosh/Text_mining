@@ -1,0 +1,99 @@
+11:34 16:45 16:21 18:58 17:27 14:53 20:23 20:49 14:16 20:49
+16:48 12:27 15:19 21:57 20:12 10:33 11:57 17:21 13:24 23:26
+19:20 16:23 16:38 22:16 17:17 10:13 16:46 20:26 22:13 14:59
+17:12 21:29 19:39 16:53 15:18 19:39 13:51 16:25 10:41 10:15
+15:30 18:19 18:46 14:57 12:37 10:16 13:36 11:12 14:56 23:42
+14:36 12:43 12:21 21:10 22:39 18:59 11:59 15:12 10:54 20:54
+17:56 12:28 11:39 11:24 17:32 21:31 22:25 20:54 11:27 12:25
+11:49 17:36 21:48 21:49 14:13 12:45 13:30 11:40 17:42 23:14
+21:48 18:37 10:58 14:36 11:36 23:16 14:57 20:46 23:39 23:34
+10:22 20:26 14:33 20:51 11:57 15:11 23:25 14:25 23:12 20:30
+19:25 10:52 17:49 11:19 17:16 15:19 22:36 19:34 15:44 20:22
+SquareNumber_1156 SquareNumber_484 SquareNumber_9409 SquareNumber_10000 SquareNumber_7396 SquareNumber_841 SquareNumber_49 SquareNumber_7225 SquareNumber_9801 SquareNumber_121
+SquareNumber_2116 SquareNumber_7921 SquareNumber_8836 SquareNumber_3721 SquareNumber_7744 SquareNumber_5329 SquareNumber_400 SquareNumber_441 SquareNumber_100 SquareNumber_5929
+SquareNumber_9409 SquareNumber_361 SquareNumber_8100 SquareNumber_9 SquareNumber_3136 SquareNumber_3600 SquareNumber_8464 SquareNumber_4900 SquareNumber_1936 SquareNumber_5776
+SquareNumber_3969 SquareNumber_9 SquareNumber_5041 SquareNumber_4624 SquareNumber_9801 SquareNumber_9604 SquareNumber_7569 SquareNumber_4 SquareNumber_3025 SquareNumber_1681
+SquareNumber_196 SquareNumber_4096 SquareNumber_5041 SquareNumber_1225 SquareNumber_3025 SquareNumber_256 SquareNumber_4356 SquareNumber_6084 SquareNumber_1024 SquareNumber_10000
+SquareNumber_1764 SquareNumber_9025 SquareNumber_324 SquareNumber_256 SquareNumber_729 SquareNumber_256 SquareNumber_1369 SquareNumber_8649 SquareNumber_2209 SquareNumber_1296
+SquareNumber_625 SquareNumber_361 SquareNumber_324 SquareNumber_1521 SquareNumber_7569 SquareNumber_1444 SquareNumber_3844 SquareNumber_841 SquareNumber_3844 SquareNumber_3721
+SquareNumber_1296 SquareNumber_961 SquareNumber_729 SquareNumber_441 SquareNumber_6724 SquareNumber_841 SquareNumber_2704 SquareNumber_64 SquareNumber_7056 SquareNumber_7569
+SquareNumber_2304 SquareNumber_289 SquareNumber_1225 SquareNumber_784 SquareNumber_8464 SquareNumber_1681 SquareNumber_64 SquareNumber_225 SquareNumber_4 SquareNumber_3600
+SquareNumber_1089 SquareNumber_9801 SquareNumber_841 SquareNumber_841 SquareNumber_4225 SquareNumber_256 SquareNumber_1600 SquareNumber_841 SquareNumber_3969 SquareNumber_729
+SquareNumber_4761 SquareNumber_9604 SquareNumber_1681 SquareNumber_3600 SquareNumber_8649 SquareNumber_8649 SquareNumber_576 SquareNumber_225 SquareNumber_841 SquareNumber_6889
+BinaryNumber_0101001 BinaryNumber_0010011 BinaryNumber_1010010 BinaryNumber_0111000 BinaryNumber_0000001 BinaryNumber_1011000 BinaryNumber_0011001 BinaryNumber_0101010 BinaryNumber_0000110 BinaryNumber_0101011
+BinaryNumber_0001110 BinaryNumber_1001101 BinaryNumber_0010001 BinaryNumber_0010110 BinaryNumber_1000001 BinaryNumber_1011111 BinaryNumber_0101000 BinaryNumber_0110111 BinaryNumber_1011010 BinaryNumber_1010001
+BinaryNumber_0011011 BinaryNumber_1001101 BinaryNumber_1000100 BinaryNumber_1010100 BinaryNumber_0000100 BinaryNumber_0101110 BinaryNumber_0101011 BinaryNumber_0111000 BinaryNumber_0001110 BinaryNumber_1011000
+BinaryNumber_1011010 BinaryNumber_1000110 BinaryNumber_1011100 BinaryNumber_0010001 BinaryNumber_0010110 BinaryNumber_0001110 BinaryNumber_0110010 BinaryNumber_0000011 BinaryNumber_1100001 BinaryNumber_0100101
+BinaryNumber_1000101 BinaryNumber_0011000 BinaryNumber_1010010 BinaryNumber_0110111 BinaryNumber_0100100 BinaryNumber_0111101 BinaryNumber_0010100 BinaryNumber_1100000 BinaryNumber_0000101 BinaryNumber_0100001
+BinaryNumber_1001001 BinaryNumber_1010011 BinaryNumber_1011001 BinaryNumber_1011001 BinaryNumber_0101001 BinaryNumber_0000100 BinaryNumber_0100111 BinaryNumber_0110101 BinaryNumber_0110011 BinaryNumber_1011110
+BinaryNumber_1010011 BinaryNumber_0101001 BinaryNumber_1001011 BinaryNumber_0100000 BinaryNumber_0010110 BinaryNumber_1010101 BinaryNumber_1010101 BinaryNumber_0010110 BinaryNumber_0110011 BinaryNumber_1011010
+BinaryNumber_0100001 BinaryNumber_1000110 BinaryNumber_0110110 BinaryNumber_0001010 BinaryNumber_0000100 BinaryNumber_0000100 BinaryNumber_1011000 BinaryNumber_1010010 BinaryNumber_0000010 BinaryNumber_0110101
+BinaryNumber_1010010 BinaryNumber_0100010 BinaryNumber_0010100 BinaryNumber_0011111 BinaryNumber_1001111 BinaryNumber_0111100 BinaryNumber_1001011 BinaryNumber_0011001 BinaryNumber_0011111 BinaryNumber_0000001
+BinaryNumber_0000101 BinaryNumber_0100100 BinaryNumber_1011001 BinaryNumber_1010000 BinaryNumber_1001011 BinaryNumber_0011111 BinaryNumber_0110011 BinaryNumber_1011000 BinaryNumber_1001001 BinaryNumber_0000011
+BinaryNumber_0011001 BinaryNumber_1010000 BinaryNumber_0111010 BinaryNumber_1100010 BinaryNumber_0001111 BinaryNumber_0010101 BinaryNumber_1001111 BinaryNumber_1001101 BinaryNumber_0001011 BinaryNumber_0000101
+Cradle Footstool Lamp Furniture Desk Castor Chest Vitrine Rattle Jardinière
+Footstool Bassinet Applique Curtains Light Inlay Chair Settee Zitan Pliant
+Cupboard Sconce Seat Mirror Shelf Seat Fan Hokey Furnishings Bergere
+Vanity Hokey Cot Lounger Light Shelf Cot Volute Frieze Furnishings
+Table Seat Sconce Stool Bed Rattle Furnishings Ottoman Furniture Volute
+Drapes Upholstery Lintel Hutch Rug Screen Secretary Zitan Couch Throne
+Bookcase Seat Mirror Furniture Light Mirror Lintel Footrest Wheelchair Dresser
+Pantry Mirror Seat Wheelchair Television Rack Hassock Ottoman Furnishings Bureau
+Drapes cubbies cubbies Pillow Antique Curtains Inlay Bowfront Daybed Crib
+Easel Pillow Crib Footstool Drapes Lounger Crib Futon Crib cubbies
+Television Armoire Cabriole Lintel Futon Pantry Tallboy Couch Vanity Futon
+poison shootings missing psychological mutilation sin supernatural shoplift mafia mafia
+lift death kill political death fraud mafia bloodshed thriller criminals
+slay misdemeanour murder investigation murders government drama offense massacre skyjack
+rape government mutilation gang serial country investigation safety corrupt revenge
+structuralism snitching supernatural legislature guilt muggings mob structuralism criminal gangs
+drama criminal law racism gang law death law-breaking corrupt drug
+guilt supernatural spy accident crisis forensic sin war gangs felony
+thriller country action offense criminal snitching victim gangster crime barratry
+arrest jurisdiction mutilation terrorism action offense hijack robbery drug missing
+mutilation statutory bloodshed cop government robbery misdemeanor guilty revenge murder
+drama justice gang drug action vandalism fraud sin police investigation
+double bass rock video theme phenomenon release speak performance subdivision texture
+sounds soul musicality concertize silence performance art music electronica flute medicine
+oboe graphics bassline phone euphony banjo part prelude ambient lute
+culture tuning instruments ragtime bar concerts media bebop monophony audio
+piano pitch sforzando double bass sonata bars maps jazzfunk films album
+artist chaconne flute spotify movies podcasts bassline sonata graduation triple-tongue
+vocal part melody tonality single banjo symphonic bugle song hyperpop
+chaconne monophony instrument spotify works instruments literature timbre cadence tone
+spotify recording single podcasts prelude tweedle phenomenon musicality folk accompaniment
+design bhangra art subdivision artists videos interlude concertize art muses
+score popular music flute tongue interlude key design rhapsody hymn radio
+console proprietary digitalcomputer daw von neumann machine eniac digitalcommunication supercomputer transistor console
+computing computercircuit eniac computation machines peripheral diskette computerscience analogcomputer desktopcomputer
+pc visualdisplayunit floppydisk downloader imac browser computercide memory social computerhardware
+arithmetic computercircuit watch microcomputer dataconverter proprietary turingmachine software electronics astrolabe
+supercomputer algorithm mobile desktopcomputer turingmachine imac game imac office electromechanical
+electromechanical supercomputer digitalaudioplayer centralprocessing unit dataconverter server mainframe computerprogram von neumann machine vacuumtube
+eniac von neumann machine digital digitalcomputer incompatible computing software information sliderule sliderule
+astrolabe digital android transistor computerprogramming computation internet abacus downloader arithmetic
+computercide calculator antivirus cyber laptopcomputer dataconverter automation console microcomputer desktoppcs
+pc tablet analogcomputer proprietary laptop computerprogram camera electromechanical computing antivirus
+server server laptop machinecode abacus digitalaudioplayer supercomputer android browser android
+plant fruit victuals meal nutrient fruits vegetables edible fruits vegetables rice fruit
+plant meal vegetable vegetable sushi edible restaurant vegetable beef fruits vegetables
+animal cheese restaurant beef vegetable drinks vegetable meat rice meals
+meat meat milk nourishment pasta provender beef nourishment seafood milk
+nutrition meat eat nourishment nutrition meals edible seafood fruits vegetables cereal
+fruits vegetables fruit drinks vegetable vegetable meat nourishment nutrient fruits vegetables sushi
+rice fruit cereal vegetable nutrient sushi soup seafood meals chicken
+seafood vegetable milk cooking drinks beef sushi drinks meals provender
+meals rice fruit animal fruit seafood eat provender nourishment meals
+rice vegetable animal plant drinks milk meat beef fruits vegetables plant
+cereal plant plant beef restaurant plant cheese rice restaurant cheese
+Lens Liver Cecum Teeth Esophagus Joints Arteries Largeintestine Cecum Eardrum
+Cecum Placenta Lungs Pons Bladder Capillaries Larynx Cerebellum Lips Tongue
+Spleen skeleton Duodenum Jejunum Cranialnerves Analcanal Interstitium Lips Analcanal Bladder
+Pharynx Clitoris Uterus Ganglia Gallbladder Cecum Analcanal Bone  Uterus Tongue
+Larynx Veins Cranialnerves Iris Hypothalamus Midbrain Tastebuds Trachea Scrotum Thymus
+Kidneys Kidneys Ligaments Duodenum Pharynx Jejunum Lens Cranialnerves Spleen Ovaries
+Vulva Muscle Muscle Pons Cecum Retina Eye Lips Muscle Liver
+Smallintestine Cranialnerves Liver Placenta Smallintestine Cerebellum Cerebrum Tastebuds Uterus Pharynx
+Teeth Bladder Ganglia Gallbladder Capillaries Pharynx Trachea Heart Thymus Lens
+Largeintestine Kidneys Middleear Tendons Eardrum Cecum Ileum Mouth Cecum Rectum
+Spinalnerves Larynx Larynx Brain Vulva Ganglia Interstitium Trachea Thymus Spleen

@@ -1,0 +1,99 @@
+temperature__44c temperature__24c temperature__28c temperature__98c temperature__74c temperature__136c temperature__24c temperature__28c temperature__34c temperature__79c
+temperature__42c temperature__91c temperature__78c temperature__86c temperature__98c temperature__51c temperature__47c temperature__56c temperature__119c temperature__106c
+temperature__5c temperature__41c temperature__40c temperature__50c temperature__58c temperature__77c temperature__42c temperature__98c temperature__122c temperature__24c
+temperature__31c temperature__39c temperature__105c temperature__122c temperature__8c temperature__28c temperature__109c temperature__33c temperature__100c temperature__70c
+temperature__86c temperature__47c temperature__61c temperature__46c temperature__92c temperature__131c temperature__59c temperature__91c temperature__78c temperature__44c
+temperature__65c temperature__111c temperature__59c temperature__52c temperature__39c temperature__95c temperature__142c temperature__11c temperature__64c temperature__24c
+temperature__126c temperature__85c temperature__148c temperature__148c temperature__17c temperature__147c temperature__42c temperature__49c temperature__34c temperature__71c
+temperature__8c temperature__12c temperature__91c temperature__11c temperature__78c temperature__0c temperature__142c temperature__24c temperature__108c temperature__132c
+temperature__88c temperature__129c temperature__50c temperature__64c temperature__31c temperature__52c temperature__77c temperature__88c temperature__14c temperature__65c
+temperature__21c temperature__61c temperature__34c temperature__24c temperature__148c temperature__119c temperature__98c temperature__36c temperature__41c temperature__27c
+temperature__3c temperature__5c temperature__8c temperature__59c temperature__70c temperature__44c temperature__5c temperature__31c temperature__142c temperature__23c
+CubeNumber_4913 CubeNumber_4096 CubeNumber_2197 CubeNumber_551368 CubeNumber_175616 CubeNumber_54872 CubeNumber_373248 CubeNumber_830584 CubeNumber_681472 CubeNumber_343
+CubeNumber_681472 CubeNumber_830584 CubeNumber_314432 CubeNumber_3375 CubeNumber_636056 CubeNumber_551368 CubeNumber_103823 CubeNumber_592704 CubeNumber_778688 CubeNumber_13824
+CubeNumber_592704 CubeNumber_39304 CubeNumber_314432 CubeNumber_729000 CubeNumber_658503 CubeNumber_274625 CubeNumber_328509 CubeNumber_35937 CubeNumber_64 CubeNumber_704969
+CubeNumber_658503 CubeNumber_357911 CubeNumber_117649 CubeNumber_250047 CubeNumber_753571 CubeNumber_941192 CubeNumber_226981 CubeNumber_704969 CubeNumber_421875 CubeNumber_140608
+CubeNumber_216 CubeNumber_4096 CubeNumber_421875 CubeNumber_830584 CubeNumber_287496 CubeNumber_21952 CubeNumber_493039 CubeNumber_226981 CubeNumber_79507 CubeNumber_21952
+CubeNumber_493039 CubeNumber_328509 CubeNumber_373248 CubeNumber_729 CubeNumber_140608 CubeNumber_373248 CubeNumber_27000 CubeNumber_24389 CubeNumber_91125 CubeNumber_4913
+CubeNumber_8000 CubeNumber_175616 CubeNumber_1331 CubeNumber_54872 CubeNumber_729000 CubeNumber_681472 CubeNumber_328509 CubeNumber_64000 CubeNumber_328509 CubeNumber_704969
+CubeNumber_262144 CubeNumber_216 CubeNumber_19683 CubeNumber_681472 CubeNumber_10648 CubeNumber_46656 CubeNumber_405224 CubeNumber_216000 CubeNumber_50653 CubeNumber_287496
+CubeNumber_614125 CubeNumber_110592 CubeNumber_10648 CubeNumber_857375 CubeNumber_681472 CubeNumber_3375 CubeNumber_474552 CubeNumber_551368 CubeNumber_79507 CubeNumber_2744
+CubeNumber_357911 CubeNumber_110592 CubeNumber_54872 CubeNumber_3375 CubeNumber_1331 CubeNumber_35937 CubeNumber_250047 CubeNumber_15625 CubeNumber_357911 CubeNumber_3375
+CubeNumber_21952 CubeNumber_474552 CubeNumber_132651 CubeNumber_1728 CubeNumber_12167 CubeNumber_1000 CubeNumber_125000 CubeNumber_46656 CubeNumber_1728 CubeNumber_1331
+nutrient cereal cooking provender cheese drinks pasta chicken cooking meals
+vegetable fruits vegetables meals pasta chicken drinks nutrition plant restaurant rice
+cooking nutrient cooking restaurant cereal eat nutrition meal victuals sushi
+cooking nutrient beef nourishment fruit cereal restaurant meal meat cooking
+soup drinks meals cereal nutrition plant cereal fruit edible cheese
+pasta animal drinks fruits vegetables soup restaurant meat milk cereal restaurant
+beef eat cooking beef cooking provender fruits vegetables animal soup milk
+animal restaurant drinks vegetable beef nutrition sushi beef beef chicken
+seafood fruit nutrient cheese soup seafood rice nourishment pasta animal
+sushi rice cooking victuals cheese chicken eat sushi fruit drinks
+eat drinks eat edible plant rice meat rice cooking edible
+23:54 18:37 13:21 13:47 14:25 15:44 19:55 11:43 16:52 22:37
+12:17 19:44 19:19 17:53 22:59 17:59 10:56 20:24 12:42 18:27
+15:45 17:10 15:18 13:59 23:55 10:49 17:43 16:10 21:51 20:49
+23:10 10:50 10:38 15:32 17:15 20:58 16:37 11:10 14:38 15:32
+14:22 19:18 16:25 11:35 22:31 12:22 17:56 17:18 11:55 20:40
+10:50 10:31 16:30 18:10 17:28 13:18 13:41 21:36 14:47 10:47
+15:21 12:55 13:27 18:46 15:31 18:11 21:29 14:27 15:25 12:43
+23:17 15:34 21:56 13:30 17:32 18:26 14:32 17:46 21:17 19:27
+14:27 21:25 20:11 18:34 12:31 23:33 22:47 22:12 13:41 19:16
+22:13 21:51 20:41 11:49 11:54 23:28 17:14 22:22 11:57 17:57
+18:17 18:28 23:26 19:29 17:18 22:10 19:55 10:53 10:49 11:38
+laconic reputation tarnish tainted endorsement hypocrisy partial acolyte covert covert
+parry proxy persecution feud anonymity regime coterie fiasco defamation intimidation
+chicanery collaboration chicanery scapegoat illicit obscure claim regime plutocracy allegation
+demagogue endorsement subterfuge resignation tycoon coterie unjust proxy endorsement regime
+cadre coterie scapegoat prestidigitation plagiarism denigrate infringement debacle subterfuge integrity
+fiasco cadre blame recrimination demagogue temptation refute lobby authoritarian acolyte
+ignorant unjust reputation scapegoat deflect solicit expose allegation retaliation rebut
+mercurial reputation revelation deny conceal deception resignation incident intimidation retaliation
+tarnish ignorant embezzlement corruption tarnish reckless privilege unethical mendacity subterfuge
+opportunist deny resignation solicit mendacity resignation plagiarism malfeasance impunity accusation
+engagement recrimination infringement recrimination deception obscure fiasco solicit dictatorship prestidigitation
+Plantain Currant Kumquat Tayberry Yuzu Cashew Pawpaw Mulberry Honeyberry Rambutan 
+Lime Plumcot Fig Breadfruit Cranberry Nance Huckleberry Ackee Cantaloupe Cempedak
+Cashew Guava Sapodilla Strawberry Sapodilla Ximenia Jostaberry Damson Akebi Lime
+Blackberry Lychee Kumquat Apple Pomelo Tangelo Ackee Plantain Clementine Blackcurrant
+Clementine Cashew Sapodilla Feijoa Abiu Boysenberry Sapodilla Bilberry Gooseberry Papaya
+Tayberry Soursop Loganberry Feijoa Fig Pineberry Nectarine Melon Nectarine Açaí
+Currant Loganberry Longan Redcurrant Plum Coconut Tayberry Ackee Mango Honeyberry
+Jackfruit Passionfruit Acerola Raspberry Pineapple Currant Durian Gooseberry Pomegranate Plumcot
+Cherimoya Kiwano Clementine Fig Sapodilla Tamarillo Sapodilla Cashew Loquat Melon
+Tamarillo Tamarind Lychee Avocado Lemon Lemon Cantaloupe Cashew Cloudberry Clementine
+Kiwifruit Ximenia Pomelo Plantain Lime Elderberry Prune Banana Jackfruit Grapefruit
+personalcomputer mainframe peripheral supercomputer arithmetic ibook pc office console computerprogramming
+inputdevice game router algorithm visualdisplayunit machine mobiledevice browser von neumann machine computerprogramming
+incompatible automation screen browser laptopcomputer internet electronics diskette microcomputer cpu
+mobile integratedcircuit transistor eniac supercomputer programming automation mobile ibook game
+smartphone algorithm screen desktoppcs inputdevice visualdisplayunit cybertechnology router machines internet
+vacuumtube microcomputer keyboard visualdisplayunit eniac desktop daw game integratedcircuit machine
+calculator pornographicimages imac desktop machine software screen visualdisplayunit analogcomputer peripheral
+daw digitalaudioplayer machines inputdevice desktoppcs transistor laptopcomputer cell centralprocessing unit machinecode
+desktoppcs mainframe computation digitalcomputer expansionslot bit machines supercomputer laptop imac
+computing computation electromechanical calculator turingmachine data phone desktop von neumann machine processor
+cell programmer arithmetic pornographicimages computercide floppydisk pornographicimages automation ibook ibook
+PrimeNumber_41 PrimeNumber_227 PrimeNumber_3 PrimeNumber_109 PrimeNumber_199 PrimeNumber_19 PrimeNumber_349 PrimeNumber_53 PrimeNumber_503 PrimeNumber_389
+PrimeNumber_7 PrimeNumber_73 PrimeNumber_467 PrimeNumber_311 PrimeNumber_317 PrimeNumber_461 PrimeNumber_347 PrimeNumber_317 PrimeNumber_181 PrimeNumber_509
+PrimeNumber_61 PrimeNumber_503 PrimeNumber_277 PrimeNumber_311 PrimeNumber_409 PrimeNumber_41 PrimeNumber_509 PrimeNumber_431 PrimeNumber_109 PrimeNumber_223
+PrimeNumber_227 PrimeNumber_127 PrimeNumber_317 PrimeNumber_2 PrimeNumber_401 PrimeNumber_547 PrimeNumber_233 PrimeNumber_431 PrimeNumber_5 PrimeNumber_353
+PrimeNumber_479 PrimeNumber_311 PrimeNumber_83 PrimeNumber_7 PrimeNumber_389 PrimeNumber_433 PrimeNumber_397 PrimeNumber_41 PrimeNumber_487 PrimeNumber_317
+PrimeNumber_127 PrimeNumber_139 PrimeNumber_379 PrimeNumber_457 PrimeNumber_293 PrimeNumber_31 PrimeNumber_263 PrimeNumber_269 PrimeNumber_167 PrimeNumber_487
+PrimeNumber_23 PrimeNumber_71 PrimeNumber_163 PrimeNumber_421 PrimeNumber_269 PrimeNumber_307 PrimeNumber_113 PrimeNumber_283 PrimeNumber_173 PrimeNumber_499
+PrimeNumber_167 PrimeNumber_547 PrimeNumber_163 PrimeNumber_73 PrimeNumber_139 PrimeNumber_421 PrimeNumber_281 PrimeNumber_83 PrimeNumber_67 PrimeNumber_509
+PrimeNumber_107 PrimeNumber_433 PrimeNumber_541 PrimeNumber_149 PrimeNumber_443 PrimeNumber_233 PrimeNumber_383 PrimeNumber_19 PrimeNumber_191 PrimeNumber_373
+PrimeNumber_79 PrimeNumber_281 PrimeNumber_347 PrimeNumber_53 PrimeNumber_59 PrimeNumber_79 PrimeNumber_71 PrimeNumber_197 PrimeNumber_263 PrimeNumber_199
+PrimeNumber_317 PrimeNumber_359 PrimeNumber_523 PrimeNumber_353 PrimeNumber_173 PrimeNumber_7 PrimeNumber_409 PrimeNumber_313 PrimeNumber_113 PrimeNumber_269
+fantasy bird frog livestock carnal scavenger insect multicellular animal welfare metazoan
+thoroughbred iguana creature animal welfare dog darter sheep beast rodent pigs
+rodent plant vegan frog mammal dogs vegan mammal meat animals
+fantasy animals animalia porifera farming bobcat protist vegan tiger exoticanimals
+animal welfare rabbit wild marineanimal embryo heterotroph object mythical llamas domesticate
+feline reptiles livestock zoology reptile superdog porifera rodent superdog rabbit
+tiger octopuses wildlife bear fauna plant domesticate pups vegan pig
+pitbull amphibians bobcat reptile bird creature amphibians dogs biped exoticanimals
+dog insect puppy iguana sheep epizootic iguana tame metazoan pitbull
+llamas feline marineanimal wild amphibians bird biped farming thoroughbred multicellular
+creature elephants fish elephants deer pigs carnivore bobcat thoroughbred bobcat

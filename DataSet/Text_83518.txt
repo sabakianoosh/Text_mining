@@ -1,0 +1,99 @@
+BinaryNumber_0010001 BinaryNumber_0010000 BinaryNumber_0000000 BinaryNumber_0101111 BinaryNumber_1100011 BinaryNumber_0100001 BinaryNumber_0001110 BinaryNumber_0111111 BinaryNumber_0101011 BinaryNumber_1010001
+BinaryNumber_1011111 BinaryNumber_1010001 BinaryNumber_1001101 BinaryNumber_0101010 BinaryNumber_0001001 BinaryNumber_0000000 BinaryNumber_1010100 BinaryNumber_1000111 BinaryNumber_1001110 BinaryNumber_0111110
+BinaryNumber_1100011 BinaryNumber_0110101 BinaryNumber_0001000 BinaryNumber_0100111 BinaryNumber_1001110 BinaryNumber_1000111 BinaryNumber_0100011 BinaryNumber_0010110 BinaryNumber_0011000 BinaryNumber_0001100
+BinaryNumber_0110000 BinaryNumber_0011001 BinaryNumber_0101110 BinaryNumber_0111110 BinaryNumber_0001001 BinaryNumber_0001100 BinaryNumber_1000110 BinaryNumber_1011001 BinaryNumber_0111101 BinaryNumber_1011000
+BinaryNumber_1011101 BinaryNumber_0101100 BinaryNumber_1000001 BinaryNumber_0010000 BinaryNumber_0011101 BinaryNumber_1011011 BinaryNumber_1011010 BinaryNumber_0001101 BinaryNumber_1011100 BinaryNumber_1000010
+BinaryNumber_1010101 BinaryNumber_0110110 BinaryNumber_1010001 BinaryNumber_1000101 BinaryNumber_0110001 BinaryNumber_1000110 BinaryNumber_1001000 BinaryNumber_0110100 BinaryNumber_1000100 BinaryNumber_0110001
+BinaryNumber_0010111 BinaryNumber_1011001 BinaryNumber_0100000 BinaryNumber_0011001 BinaryNumber_1011110 BinaryNumber_1001111 BinaryNumber_0100011 BinaryNumber_0010010 BinaryNumber_1011101 BinaryNumber_1000001
+BinaryNumber_0011001 BinaryNumber_0110111 BinaryNumber_1100011 BinaryNumber_1000000 BinaryNumber_0111110 BinaryNumber_0101010 BinaryNumber_1001111 BinaryNumber_1010110 BinaryNumber_1001111 BinaryNumber_0101101
+BinaryNumber_0100110 BinaryNumber_0100100 BinaryNumber_1010001 BinaryNumber_1001011 BinaryNumber_1000010 BinaryNumber_0101001 BinaryNumber_0101011 BinaryNumber_0100111 BinaryNumber_0110010 BinaryNumber_1001010
+BinaryNumber_1011011 BinaryNumber_0100111 BinaryNumber_1001101 BinaryNumber_0000100 BinaryNumber_0100001 BinaryNumber_0110011 BinaryNumber_0001100 BinaryNumber_0110000 BinaryNumber_0100011 BinaryNumber_0111011
+BinaryNumber_0001011 BinaryNumber_0010111 BinaryNumber_0010100 BinaryNumber_0010011 BinaryNumber_0110011 BinaryNumber_0101011 BinaryNumber_1011010 BinaryNumber_0110001 BinaryNumber_1000111 BinaryNumber_0111000
+Durian Kiwifruit Pear Ximenia Honeydew Bilberry Rambutan  Ximenia Jujube Cherry
+Elderberry Guava Pomelo Loquat Fig Fig Loganberry Lulo Araza Cempedak
+Pineberry Pear Pomegranate Lychee Nectarine Blackberry Plantain Lemon Blackcurrant Bilberry
+Kumquat Acerola Currant Cantaloupe Loganberry Redcurrant Cranberry Cloudberry Canistel Pineberry
+Currant Papaya Elderberry Plantain Jujube Grapefruit Kumquat Redcurrant Salak Lychee
+Mulberry Pawpaw Cherry Grape Apple Honeyberry Pomelo Feijoa Ximenia Boysenberry
+Pineapple Plumcot Nectarine Breadfruit Raisin Tangelo Sapote Banana Prune Banana
+Mandarine Longan Rambutan  Fig Raspberry Fig Avocado Lychee Salmonberry Jujube
+Mango Cherimoya Raspberry Yuzu Currant Persimmon Pineberry Kiwifruit Plantain Kiwano
+Pineapple Akebi Canistel Cranberry Peach Tamarind Redcurrant Mandarine Honeyberry Pomegranate
+Peach Plum Fig Pear Salmonberry Tamarind Pear Yuzu Loganberry Lime
+fruit animal plant provender cooking eat cooking chicken cooking fruits vegetables
+pasta nourishment nutrient plant meals meals vegetable vegetable restaurant edible
+nutrition edible seafood provender milk meals meat restaurant meat nutrient
+restaurant plant nutrient pasta nutrient victuals pasta fruit seafood rice
+meals fruits vegetables drinks sushi nourishment cheese fruits vegetables cereal meat nutrition
+rice plant provender edible sushi plant eat meat chicken cereal
+vegetable provender animal nourishment plant provender milk meat nutrition seafood
+fruits vegetables nourishment fruit meal victuals vegetable nutrient meat provender meal
+cooking restaurant plant beef rice cooking nutrition restaurant edible eat
+beef drinks restaurant plant meal edible meals cooking meal eat
+chicken pasta plant nutrition animal milk sushi nutrition soup drinks
+harmonize saxophone tempo violoncello speak merch genre texture piano sounds
+speak conduct ambience concerto mp3s hymn singing conducting classical band
+beat bebop harp artists sonata story subtonic bpm conduct pianist
+rhythm playlist artist ragtime single karaoke composing bar dixieland noises
+instrumental trumpet trumpet time phone artists bugle metre maps pianist
+instrumentals concertise jazz noises live music popular music tongue lute classical
+albums classical work video ambience muse vocals sounds clarinet clarinet
+visual graphics rhapsody production bhangra albums single instrumental symphony saxophone
+harmonize violoncello songs melodies prelude art music story maps recapitulation genre
+folk dixieland recapitulation tweedle musicians trio bars composing fermata concerto
+record visual time concerts hip monophony sonata atonal creative bands
+temperature__57c temperature__123c temperature__63c temperature__22c temperature__50c temperature__44c temperature__111c temperature__100c temperature__90c temperature__56c
+temperature__63c temperature__57c temperature__17c temperature__136c temperature__27c temperature__130c temperature__69c temperature__16c temperature__52c temperature__88c
+temperature__140c temperature__68c temperature__30c temperature__85c temperature__141c temperature__119c temperature__21c temperature__41c temperature__79c temperature__82c
+temperature__122c temperature__26c temperature__7c temperature__146c temperature__130c temperature__69c temperature__95c temperature__82c temperature__71c temperature__61c
+temperature__34c temperature__85c temperature__63c temperature__111c temperature__90c temperature__30c temperature__119c temperature__144c temperature__41c temperature__116c
+temperature__52c temperature__90c temperature__8c temperature__90c temperature__70c temperature__84c temperature__84c temperature__50c temperature__23c temperature__6c
+temperature__71c temperature__56c temperature__79c temperature__3c temperature__91c temperature__33c temperature__10c temperature__28c temperature__122c temperature__139c
+temperature__71c temperature__84c temperature__58c temperature__120c temperature__123c temperature__39c temperature__34c temperature__116c temperature__136c temperature__59c
+temperature__51c temperature__137c temperature__53c temperature__12c temperature__148c temperature__84c temperature__40c temperature__8c temperature__123c temperature__109c
+temperature__31c temperature__68c temperature__119c temperature__61c temperature__46c temperature__139c temperature__16c temperature__57c temperature__57c temperature__85c
+temperature__16c temperature__82c temperature__63c temperature__5c temperature__147c temperature__69c temperature__23c temperature__50c temperature__88c temperature__63c
+polo tennis wipeout utility champion athletics tradition job soccer frisk
+gymnastics entertainment standard skateboard extracurricular waterski club concert team combat
+gymnastics archery offside waterski play gymnastics athletic recreation work shoot
+judo teams fighting multisport cycling rollick boast skateboarding position position
+rollick premium culture lifestyle boulder premium dive racing physical class
+waterski ineligible esports activity events lifestyle movement horseracing luge community
+exercise players gamely football volleyball challenge dirt chess field skill
+dynamic judo comfort competitive esport safari downfield boulder goal downfield
+competition teams motorsports horseracing schuss class sportaccord goal judo activities
+physical casual waterski play competitive athletes fast lark competitive skateboarding
+recreation game horseracing esports skating hockey funambulism polo spar class
+insect pigs chickens sensual elephants insects zoology frog protist chordate
+darter animal welfare epizootic birds eukaryotic bear mammals thoroughbred bear livestock
+metazoan epizootic eukaryotic mammals rodent iguana domesticate multicellular ladybug animalkingdom
+farming cat fantasy tiger sheep pitbull object wild metazoan object
+hourse domesticate pet elephants bobcat object meat chickens clams ladybug
+meat bird dog dog mammal bear cats pet elephants plant
+puppy puppy bug frog bear darter llamas llamas pig marineanimal
+pet animatebeing monster ladybug shelter animalkingdom biped feline amphibians puppy
+deer varmint sensual mammals llamas exoticanimals creature multicellular birds zooplankton
+clams superdog workanimal fantasy epizootic zoo insects predatoryanimal vertebrate chickens
+llamas porifera porifera clams birds amphibians tame superdog meat llamas
+imac incompatible centralprocessing unit visualdisplayunit mobile daw information eniac screen vacuumtube
+vacuumtube transistor pornographicimages electrical personalcomputer mainframe machine keyboard screen electromechanical
+keyboard calculator computercircuit internet computerhardware expansionslot xbox camera game game
+mobiledevice server algorithm dataconverter desktop desktoppcs machine escapekey dataconverter centralprocessing unit
+mechanicalcomputer compatible computercircuit social mobiledevice electromechanical expansionslot digitalcomputer computercircuit automation
+microprocessor browser processor expansionslot camera floppydisk diskette android diskette centralprocessing unit
+transistor memory office laptop computerprogram digital cybertechnology screen floppydisk console
+bit screen automation arithmetic digital proprietary tablet compatible mainframe ibook
+laptopcomputer dataconverter pornographicimages cell computation electromechanical expansionslot visualdisplayunit device console
+bit tablet computerscience monitor digitalcomputer spyware processor vacuumtube machines android
+electronics vacuumtube memory digitalcomputer cpu compatible analogcomputer incompatible computerscience information
+uninterested long adventurous helpful important attractive wrong graceful happy cooperative
+wicked hilarious grotesque cheerful homeless smoggy glorious cautious kind frantic
+arrogant cheerful fancy horrible unsightly distinct healthy magnificent crowded black
+innocent tense lovely drab zealous condemned ugly relieved angry long
+alive real depressed light blue-eyed disgusted defeated glamorous poised agreeable
+mysterious clumsy frantic glamorous dizzy grumpy thoughtless rich puzzled thoughtless
+determined famous alive sore stormy stupid blue-eyed crowded old-fashioned dull
+enchanting mysterious adventurous angry zany beautiful wrong condemned jolly adventurous
+ugly annoyed ill selfish gifted wicked jealous plain annoyed nasty
+grotesque sleepy stormy outrageous relieved black ill foolish nervous prickly
+annoying cute delightful hurt smoggy frantic better quaint defeated hilarious

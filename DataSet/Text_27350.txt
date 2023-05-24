@@ -1,0 +1,99 @@
+BinaryNumber_0000100 BinaryNumber_0110011 BinaryNumber_0010101 BinaryNumber_0011111 BinaryNumber_0101011 BinaryNumber_0101100 BinaryNumber_1000110 BinaryNumber_1000110 BinaryNumber_1010100 BinaryNumber_0110110
+BinaryNumber_0011010 BinaryNumber_1001100 BinaryNumber_0010010 BinaryNumber_1001101 BinaryNumber_0111110 BinaryNumber_0101000 BinaryNumber_1000011 BinaryNumber_0100010 BinaryNumber_0001100 BinaryNumber_1001011
+BinaryNumber_1001110 BinaryNumber_0111010 BinaryNumber_1010100 BinaryNumber_1000100 BinaryNumber_0110010 BinaryNumber_0110011 BinaryNumber_1000110 BinaryNumber_1011010 BinaryNumber_0001000 BinaryNumber_0111011
+BinaryNumber_0011010 BinaryNumber_0101010 BinaryNumber_0000101 BinaryNumber_0101001 BinaryNumber_0100000 BinaryNumber_1001010 BinaryNumber_1000100 BinaryNumber_0110100 BinaryNumber_1011001 BinaryNumber_0110100
+BinaryNumber_0100011 BinaryNumber_0010001 BinaryNumber_0001101 BinaryNumber_0101011 BinaryNumber_0111111 BinaryNumber_0111101 BinaryNumber_0011010 BinaryNumber_0101010 BinaryNumber_0110101 BinaryNumber_0000111
+BinaryNumber_0100001 BinaryNumber_0100110 BinaryNumber_0010010 BinaryNumber_0010111 BinaryNumber_0100100 BinaryNumber_0000111 BinaryNumber_0001010 BinaryNumber_1000110 BinaryNumber_0011000 BinaryNumber_0110110
+BinaryNumber_0100101 BinaryNumber_1100000 BinaryNumber_1011100 BinaryNumber_0011110 BinaryNumber_0100001 BinaryNumber_0100000 BinaryNumber_0000101 BinaryNumber_1010111 BinaryNumber_1100000 BinaryNumber_0010010
+BinaryNumber_0010100 BinaryNumber_0100110 BinaryNumber_1100010 BinaryNumber_0010111 BinaryNumber_1011001 BinaryNumber_0111110 BinaryNumber_0100101 BinaryNumber_0100000 BinaryNumber_1100000 BinaryNumber_1100010
+BinaryNumber_0100101 BinaryNumber_0101000 BinaryNumber_0100001 BinaryNumber_0000000 BinaryNumber_0101101 BinaryNumber_1001000 BinaryNumber_0110000 BinaryNumber_0011110 BinaryNumber_0000110 BinaryNumber_0001100
+BinaryNumber_0110111 BinaryNumber_1001111 BinaryNumber_1000011 BinaryNumber_0010000 BinaryNumber_0000100 BinaryNumber_0100000 BinaryNumber_0001000 BinaryNumber_0101110 BinaryNumber_0000010 BinaryNumber_0010011
+BinaryNumber_1011000 BinaryNumber_0111101 BinaryNumber_0111011 BinaryNumber_0001100 BinaryNumber_0110101 BinaryNumber_0111011 BinaryNumber_1010001 BinaryNumber_1100010 BinaryNumber_0000001 BinaryNumber_0000111
+PrimeNumber_149 PrimeNumber_373 PrimeNumber_347 PrimeNumber_127 PrimeNumber_521 PrimeNumber_89 PrimeNumber_277 PrimeNumber_269 PrimeNumber_431 PrimeNumber_67
+PrimeNumber_127 PrimeNumber_199 PrimeNumber_313 PrimeNumber_523 PrimeNumber_37 PrimeNumber_487 PrimeNumber_47 PrimeNumber_419 PrimeNumber_467 PrimeNumber_373
+PrimeNumber_383 PrimeNumber_353 PrimeNumber_181 PrimeNumber_89 PrimeNumber_433 PrimeNumber_271 PrimeNumber_149 PrimeNumber_431 PrimeNumber_479 PrimeNumber_263
+PrimeNumber_13 PrimeNumber_353 PrimeNumber_97 PrimeNumber_263 PrimeNumber_173 PrimeNumber_43 PrimeNumber_11 PrimeNumber_61 PrimeNumber_59 PrimeNumber_523
+PrimeNumber_239 PrimeNumber_293 PrimeNumber_443 PrimeNumber_277 PrimeNumber_409 PrimeNumber_3 PrimeNumber_359 PrimeNumber_439 PrimeNumber_283 PrimeNumber_97
+PrimeNumber_149 PrimeNumber_313 PrimeNumber_239 PrimeNumber_89 PrimeNumber_157 PrimeNumber_11 PrimeNumber_137 PrimeNumber_151 PrimeNumber_113 PrimeNumber_353
+PrimeNumber_239 PrimeNumber_89 PrimeNumber_277 PrimeNumber_389 PrimeNumber_349 PrimeNumber_419 PrimeNumber_541 PrimeNumber_337 PrimeNumber_457 PrimeNumber_461
+PrimeNumber_167 PrimeNumber_193 PrimeNumber_7 PrimeNumber_317 PrimeNumber_157 PrimeNumber_31 PrimeNumber_7 PrimeNumber_401 PrimeNumber_19 PrimeNumber_191
+PrimeNumber_197 PrimeNumber_431 PrimeNumber_373 PrimeNumber_509 PrimeNumber_419 PrimeNumber_167 PrimeNumber_151 PrimeNumber_2 PrimeNumber_109 PrimeNumber_487
+PrimeNumber_29 PrimeNumber_73 PrimeNumber_241 PrimeNumber_13 PrimeNumber_499 PrimeNumber_191 PrimeNumber_113 PrimeNumber_251 PrimeNumber_3 PrimeNumber_13
+PrimeNumber_433 PrimeNumber_107 PrimeNumber_151 PrimeNumber_311 PrimeNumber_431 PrimeNumber_2 PrimeNumber_367 PrimeNumber_73 PrimeNumber_163 PrimeNumber_269
+Vulva Lips Tendons Clitoris Duodenum Midbrain Cochlea Ligaments Pharynx Cerebellum
+Arteries Tongue Esophagus Mouth Pons Trachea Iris Pons Jejunum Smallintestine
+Smallintestine Tendons Teeth Placenta Rectum Ureter Pharynx Midbrain Spinalnerves Lips
+Bone  Earlobe Duodenum Bladder Mesentery Esophagus Lips Bone  Pharynx Eardrum
+Pharynx Muscle Cerebrum Outerear Ovaries Fallopiantubes Jejunum Ossicles Middleear Bronchi
+Smallintestine Tongue Tastebuds Nerves Thalamus Cerebrum Largeintestine Eye Eardrum Cecum
+Duodenum Middleear Trachea Bronchi Cecum Cerebrum Retina Cranialnerves Thalamus Penis
+Eardrum Scrotum Eye Heart Lymphaticvessel Cervix Bronchi Trachea Lens Sensoryorgans
+Kidneys Placenta Cervix Arteries Veins Mouth Cerebrum Larynx skeleton Innerear
+Hypothalamus Ear Rectum Uterus Largeintestine Lymphaticvessel Tastebuds skeleton Spleen Placenta
+Eardrum Arteries Ossicles Liver Tendons Cecum Heart Bronchi skeleton Clitoris
+chicken victuals chicken animal beef beef edible animal chicken nourishment
+chicken cheese nutrition provender eat provender nourishment animal meat edible
+nourishment chicken fruits vegetables victuals nutrition soup vegetable victuals beef nutrition
+cereal drinks victuals fruits vegetables sushi edible provender nourishment cooking pasta
+drinks milk cheese fruits vegetables soup cereal cereal cheese eat milk
+meat plant restaurant pasta rice cooking animal meals nutrition sushi
+meals cereal fruit cereal eat drinks pasta nutrient animal animal
+chicken edible cheese sushi cooking cheese vegetable cooking cheese provender
+victuals nourishment plant animal meals rice animal seafood soup meals
+cereal nutrient meat cereal milk seafood cheese provender plant fruits vegetables
+meat pasta plant chicken victuals nutrition chicken pasta milk nourishment
+eukaryotic elephants hourse darter farming insect octopuses insectivorous bird llamas
+bobcat vertebrate darter invertebrate dinosaur primate tufted clams poikilotherm animalkingdom
+bird birds meat metazoan biped fish feline elephants insectivorous zoology
+bug rabbit chickens puppy animal welfare octopuses bear scavenger object scavenger
+zoo raccoon cats thoroughbred vegan vertebrate epizootic dog epizootic thoroughbred
+pigs deer ladybug heterotroph fauna pig dogs zooplankton mammals fish
+bear mammals pitbull cat monster jellyfish pet animals mammal varmint
+animalkingdom birds frog mythical jellyfish wildlife farming tame porifera pet
+insectivore metazoan bird beast mythical ladybug farming shelter insects hourse
+pig amphibians zoology creature bug insectivorous environmental beast tiger amphibians
+environmental dogs dog thoroughbred zoo dogs animatebeing wildlife raccoon iguana
+physical movement volleyball dance frisk challenge premium league pack field
+football cycling goal video cavort combat industry athletes disport badminton
+frolic chess esport movement bike lead dive badminton extracurricular feature
+teams running volleyball industry blazers racing lark extracurricular horseracing games
+movement badminton basketball schuss exercises frisk movement run running social
+skating lifestyle frisk limited players bouldering boast hobbies standard teams
+standard hobby dive basketball limited bike fun premium gym competitive
+skill organization martial casual rugby referee concert gambol offside cycling
+fighting skylark multisport esports video rugby limited rowing lead motorsports
+suit game fighting concert players premium game martial racing eco
+standard show events disport culture downfield teams snowboarding hunting boulder
+Cornsilk PapayaWhip FloralWhite LimeGreen MediumAquamarine PaleVioletRed LawnGreen GreenYellow MistyRose Teal
+MediumSpringGreen LightBlue LawnGreen Gray Coral Black LimeGreen Beige Khaki Pink
+Seashell DarkKhaki Cyan Seashell DarkSlateGray DarkBlue DarkBlue Aquamarine Salmon HotPink
+DarkGreen Lavender Cornsilk DarkRed Orchid GhostWhite Blue Azure MidnightBlue MediumBlue
+LawnGreen LightCoral Goldenrod White DarkViolet SlateGray GreenYellow Orchid SaddleBrown MediumAquamarine
+Olive DimGray HotPink DarkKhaki Silver LightCyan Gainsboro LightSlateBlue Crimson CadetBlue
+MediumSpringGreen DarkSalmon PaleGoldenrod LawnGreen Bisque Tomato Linen CornflowerBlue Chartreuse Purple
+Cornsilk Wheat Peru BlueViolet DarkGreen DarkViolet Lime DarkSlateBlue Teal Cyan
+Cornsilk Firebrick MediumPurple DarkSlateBlue White Bisque Goldenrod Navy OldLace LightSlateBlue
+Sienna DarkSalmon Indigo DarkGreen Orange Red FloralWhite LightGoldenrod VioletRed Wheat
+Peru PaleVioletRed DarkOrange SandyBrown DarkSalmon SlateBlue MistyRose Plum LightSeaGreen CornflowerBlue
+machines floppydisk computerprogramming automation desktoppcs eniac dataconverter automation desktoppcs machine
+personalcomputer von neumann machine processor arithmetic watch proprietary watch router electronics desktopcomputer
+arithmetic electrical computing smartphone cell computing algorithm virtualreality desktopcomputer cyber
+visualdisplayunit machinecode monitor personalcomputer escapekey hardware centralprocessing unit programmer camera incompatible
+mobiledevice peripheral electrical browser eniac information personalcomputer social mainframe centralprocessing unit
+astrolabe screen cell visualdisplayunit mobiledevice compatible digitalaudioplayer watch pc android
+keyboard diskette electronics antivirus homecomputer machines xbox homecomputer device computing
+programmer calculator tablet digital cybertechnology computerhardware digital cybertechnology integratedcircuit escapekey
+electromechanical chip digitalcomputer vacuumtube dataconverter internet turingmachine programming escapekey sliderule
+pornographicimages information proprietary office ibook incompatible supercomputer algorithm digitalaudioplayer software
+android automation centralprocessing unit machinecode office centralprocessing unit router calculator transistor diskette
+Huckleberry Prune Salak Abiu Rambutan  Jujube Mangosteen Longan Ackee Marionberry
+Nectarine Cherimoya Tangelo Blueberry Feijoa Marionberry Bilberry Plantain Jackfruit Rambutan 
+Persimmon Grape Papaya Orange Breadfruit Nectarine Soursop Cherry Apricot Ackee
+Longan Huckleberry Soursop Feijoa Bilberry Plantain Cranberry Acerola Sapodilla Araza
+Cherry Acerola Grape Araza Ackee Plantain Araza Coconut Banana Elderberry
+Sapodilla Cashew Prune Cashew Tangerine Kumquat Sapodilla Elderberry Mango Papaya
+Cashew Yuzu Yuzu Currant Plumcot Papaya Longan Cempedak Pomelo Blackcurrant
+Pomelo Blackcurrant Salak Cashew Sapote Raisin Canistel Honeyberry Açaí Rambutan 
+Abiu Tangerine Pear Loquat Kiwifruit Jackfruit Clementine Cempedak Redcurrant Kiwano
+Tamarillo Jackfruit Peach Fig Ximenia Akebi Huckleberry Lemon Prune Cherry
+Redcurrant Redcurrant Tangelo Abiu Cantaloupe Acerola Gooseberry Guava Persimmon Yuzu

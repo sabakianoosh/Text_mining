@@ -1,0 +1,99 @@
+Pomelo Lemon Blueberry Cherry Avocado Jambul Redcurrant Banana Quince Currant
+Tangerine Nectarine Jackfruit Mulberry Banana Kumquat Plantain Apricot Apple Ximenia
+Strawberry Nectarine Boysenberry Strawberry Grapefruit Raisin Lychee Tangerine Honeydew Mangosteen
+Blueberry Pineapple Mango Quince Ximenia Huckleberry Cherry Sapodilla Persimmon Soursop
+Soursop Grape Date Melon Marionberry Huckleberry Papaya Jackfruit Araza Plum
+Tayberry Ximenia Clementine Papaya Kumquat Ackee Cloudberry Blackcurrant Date Cranberry
+Pomelo Abiu Sapodilla Huckleberry Canistel Huckleberry Loganberry Pineapple Feijoa Huckleberry
+Tayberry Longan Tayberry Bilberry Breadfruit Lemon Cashew Prune Jostaberry Coconut
+Bilberry Mangosteen Tangelo Cashew Pawpaw Bilberry Blackberry Tamarillo Peach Guava
+Tamarillo Cashew Melon Redcurrant Durian Quince Satsuma Quince Salak Boysenberry
+Blueberry Nance Tangelo Mango Kiwifruit Damson Clementine Prune Feijoa Pomelo
+domesticate biped animalia mammals embryo sheep raccoon deer llamas primate
+protist pig metazoan object dog pups livestock vertebrate animals beast
+fantasy iguana meat raccoon embryo insectivorous livestock bobcat zoo reptile
+insect eukaryotic object monster feline dog carnal animatebeing reptile puppy
+dogs varmint meat insectivorous sheep fauna ladybug dogs monster puppy
+heterotroph metazoan iguana object predatoryanimal monster pet porifera insects rabbit
+demon wildlife animal welfare animalkingdom darter insectivore zoo monster tame pig
+multicellular multicellular carnal dinosaur wildlife animalia invertebrate dog fantasy mammal
+eukaryotic biped llamas farming domesticate insectivorous plant pups rabbit beast
+deer elephants tiger shelter hourse pig chordate rabbit marineanimal thoroughbred
+puppy eukaryotic dog livestock tiger hourse heterotroph carnivore reptile varmint
+CubeNumber_1331 CubeNumber_13824 CubeNumber_729 CubeNumber_389017 CubeNumber_21952 CubeNumber_54872 CubeNumber_216 CubeNumber_1000 CubeNumber_8 CubeNumber_157464
+CubeNumber_373248 CubeNumber_704969 CubeNumber_205379 CubeNumber_39304 CubeNumber_456533 CubeNumber_493039 CubeNumber_24389 CubeNumber_328509 CubeNumber_857375 CubeNumber_857375
+CubeNumber_592704 CubeNumber_592704 CubeNumber_166375 CubeNumber_140608 CubeNumber_74088 CubeNumber_17576 CubeNumber_941192 CubeNumber_157464 CubeNumber_226981 CubeNumber_531441
+CubeNumber_405224 CubeNumber_24389 CubeNumber_50653 CubeNumber_405224 CubeNumber_778688 CubeNumber_216000 CubeNumber_15625 CubeNumber_636056 CubeNumber_250047 CubeNumber_216
+CubeNumber_185193 CubeNumber_636056 CubeNumber_110592 CubeNumber_729 CubeNumber_103823 CubeNumber_226981 CubeNumber_27 CubeNumber_5832 CubeNumber_493039 CubeNumber_1000
+CubeNumber_140608 CubeNumber_13824 CubeNumber_17576 CubeNumber_474552 CubeNumber_1728 CubeNumber_185193 CubeNumber_1331 CubeNumber_205379 CubeNumber_1331 CubeNumber_314432
+CubeNumber_46656 CubeNumber_32768 CubeNumber_117649 CubeNumber_74088 CubeNumber_10648 CubeNumber_6859 CubeNumber_59319 CubeNumber_42875 CubeNumber_314432 CubeNumber_592704
+CubeNumber_405224 CubeNumber_884736 CubeNumber_8 CubeNumber_592704 CubeNumber_250047 CubeNumber_91125 CubeNumber_421875 CubeNumber_85184 CubeNumber_17576 CubeNumber_166375
+CubeNumber_778688 CubeNumber_32768 CubeNumber_15625 CubeNumber_250047 CubeNumber_64 CubeNumber_140608 CubeNumber_64 CubeNumber_405224 CubeNumber_24389 CubeNumber_343000
+CubeNumber_54872 CubeNumber_4096 CubeNumber_8 CubeNumber_941192 CubeNumber_421875 CubeNumber_15625 CubeNumber_3375 CubeNumber_2744 CubeNumber_50653 CubeNumber_857375
+CubeNumber_287496 CubeNumber_512000 CubeNumber_551368 CubeNumber_6859 CubeNumber_21952 CubeNumber_729000 CubeNumber_35937 CubeNumber_54872 CubeNumber_64000 CubeNumber_10648
+BinaryNumber_1000011 BinaryNumber_1000000 BinaryNumber_0100000 BinaryNumber_0101101 BinaryNumber_0011011 BinaryNumber_1100001 BinaryNumber_0111001 BinaryNumber_0111010 BinaryNumber_0100001 BinaryNumber_1010010
+BinaryNumber_0000110 BinaryNumber_1011110 BinaryNumber_0100100 BinaryNumber_0000101 BinaryNumber_1010100 BinaryNumber_0010001 BinaryNumber_1000001 BinaryNumber_1010010 BinaryNumber_0111011 BinaryNumber_0011100
+BinaryNumber_0001111 BinaryNumber_0010000 BinaryNumber_1011110 BinaryNumber_0000101 BinaryNumber_0001100 BinaryNumber_1001011 BinaryNumber_0100001 BinaryNumber_1000101 BinaryNumber_0010001 BinaryNumber_0101111
+BinaryNumber_0100000 BinaryNumber_0110110 BinaryNumber_0100101 BinaryNumber_0101101 BinaryNumber_0101100 BinaryNumber_0001101 BinaryNumber_0001010 BinaryNumber_0101000 BinaryNumber_0010010 BinaryNumber_0000010
+BinaryNumber_0101101 BinaryNumber_0100011 BinaryNumber_0000010 BinaryNumber_1100001 BinaryNumber_0111111 BinaryNumber_0110110 BinaryNumber_0000110 BinaryNumber_0101011 BinaryNumber_0110111 BinaryNumber_1011101
+BinaryNumber_0111100 BinaryNumber_0100010 BinaryNumber_0000110 BinaryNumber_1100000 BinaryNumber_0000001 BinaryNumber_0010110 BinaryNumber_1010000 BinaryNumber_1010011 BinaryNumber_0110011 BinaryNumber_0110001
+BinaryNumber_1001101 BinaryNumber_1010001 BinaryNumber_0101011 BinaryNumber_1000011 BinaryNumber_0100100 BinaryNumber_0111100 BinaryNumber_0011111 BinaryNumber_1000001 BinaryNumber_0100011 BinaryNumber_1011011
+BinaryNumber_0110100 BinaryNumber_0000110 BinaryNumber_0000111 BinaryNumber_1001001 BinaryNumber_1001111 BinaryNumber_1011111 BinaryNumber_0000001 BinaryNumber_0010000 BinaryNumber_1000001 BinaryNumber_0011101
+BinaryNumber_1001101 BinaryNumber_0110111 BinaryNumber_0111111 BinaryNumber_1000001 BinaryNumber_0111110 BinaryNumber_1001100 BinaryNumber_1001111 BinaryNumber_0111111 BinaryNumber_1011011 BinaryNumber_0100000
+BinaryNumber_0011001 BinaryNumber_1010110 BinaryNumber_1001000 BinaryNumber_1010110 BinaryNumber_1001001 BinaryNumber_0111111 BinaryNumber_1001011 BinaryNumber_0100011 BinaryNumber_0001001 BinaryNumber_1000011
+BinaryNumber_1010000 BinaryNumber_1001011 BinaryNumber_0001101 BinaryNumber_1100010 BinaryNumber_1100000 BinaryNumber_0110111 BinaryNumber_1001101 BinaryNumber_1011110 BinaryNumber_0010110 BinaryNumber_1000100
+17:31 19:41 14:42 10:35 15:50 10:23 13:35 21:32 23:38 17:37
+18:33 21:27 16:58 17:25 14:16 11:36 18:46 23:45 14:53 22:35
+14:44 13:46 22:29 21:54 20:20 23:40 11:27 16:21 18:46 17:51
+23:23 10:42 16:56 10:59 13:58 11:53 17:23 13:43 20:44 13:40
+15:24 10:19 14:16 19:22 22:58 19:53 19:39 20:58 10:49 15:14
+18:17 19:14 11:22 21:32 12:30 22:15 22:45 13:53 20:26 10:20
+15:31 16:15 11:13 10:54 10:28 13:45 15:25 17:41 14:49 18:54
+11:46 19:40 10:35 14:52 11:40 21:55 19:17 14:17 20:26 16:57
+20:39 21:21 16:57 12:52 23:48 12:11 12:56 16:22 22:14 19:48
+11:51 19:43 11:55 10:21 18:20 15:50 20:52 22:34 17:29 19:35
+20:59 12:47 21:36 12:11 17:31 11:23 10:47 14:18 10:50 17:54
+trial legal legislature highjack sin robbery legal guilty abuse criminality
+barratry bloodshed drug suspense arrest snitching misdemeanour human victim shoplift
+guilt safety hijack crime detective fraud brutality justice hijack statutory
+evidence trial offence arsons cop revenge assault crisis terrorism corrupt
+robbery felony suspense story illegal law racism pirate sin forensic
+violence arsons bloodshed gun homicides robbery murders justice massacre thriller
+highjack robbery cop country gangs cop suspense jurisdiction skyjack death
+political misdemeanor illegal drug lift fraud government liberty murders prison
+cybercrime law-breaking brutality blackmail gangster country theft vandalism political gangs
+human crisis offense spy hijack misdemeanour corrupt incarceration story gun
+law gun homicide violence theft mob serial terrorism shoplift incarceration
+chicken vegetable chicken nourishment nourishment nutrient seafood meat nourishment fruit
+soup cooking eat victuals chicken meal cereal edible chicken cereal
+pasta seafood cheese beef fruits vegetables cooking fruit chicken drinks nourishment
+animal fruits vegetables nutrient rice seafood provender eat victuals nutrition fruit
+fruits vegetables meals plant milk beef seafood eat meals cooking vegetable
+nutrient drinks sushi eat meal pasta nutrient victuals beef nutrient
+edible fruit provender sushi meal nourishment cheese nourishment cereal nutrient
+pasta animal fruits vegetables plant pasta beef chicken eat plant cheese
+cereal beef chicken nutrition cheese chicken sushi cheese rice beef
+animal fruits vegetables meals eat beef animal edible cereal meal sushi
+fruits vegetables fruit nourishment rice cooking rice cereal sushi seafood pasta
+laptop downloader digitalcommunication bit device computercircuit visualdisplayunit digitalcomputer automation dataconverter
+spyware computerprogramming hardware chip cell software machinecode digitalcommunication social software
+computation tablet centralprocessing unit cybertechnology vacuumtube sliderule smartphone tablet analogcomputer programmer
+camera spyware inputdevice router transistor pornographicimages desktoppcs floppydisk camera abacus
+cyber digitalcommunication pc abacus microcomputer router browser incompatible pc phone
+floppydisk router astrolabe algorithm integratedcircuit diskette imac data android device
+compatible arithmetic desktop android ibook bit desktopcomputer internet astrolabe data
+machinecode phone integratedcircuit cpu downloader computerscience cell programming programmer server
+desktop mechanicalcomputer automation virtualreality keyboard peripheral hardware hardware desktoppcs vacuumtube
+hardware virtualreality browser centralprocessing unit screen computercircuit supercomputer cpu personalcomputer cell
+integratedcircuit pornographicimages electromechanical chip diskette programmer bit floppydisk spyware electronics
+innocent faithful perfect bad concerned motionless shy lively tender dull
+grotesque tender shy graceful foolish precious hilarious agreeable funny embarrassed
+worried light gifted real inexpensive plain crazy sore wicked determined
+bright gleaming friendly ugly shy kind scary unusual concerned easy
+worried bright gentle grieving bright thoughtless gorgeous spotless jolly curious
+long brave silly super weary dull dead gorgeous old-fashioned anxious
+super witty upset filthy worrisome motionless obnoxious amused wrong defiant
+faithful witty crazy muddy dizzy delightful bloody lonely prickly brainy
+victorious handsome clear elated hurt vast panicky fantastic impossible gorgeous
+blue cautious mushy naughty stupid famous super puzzled brave long
+embarrassed impossible spotless shy cautious hurt expensive grieving blue-eyed wide-eyed

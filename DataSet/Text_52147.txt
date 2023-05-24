@@ -1,0 +1,99 @@
+important puzzled enchanting upset agreeable poor fair stormy cheerful uptight
+super successful quaint excited funny proud vivacious aggressive relieved modern
+zealous clever wicked poor different friendly tense cheerful depressed clever
+frail dark awful repulsive bloody courageous uptight charming concerned glamorous
+jealous relieved tame uptight horrible bright lonely ugly concerned agreeable
+bright bored depressed zealous bloody brave mysterious anxious dark repulsive
+eager grotesque cheerful funny powerful jolly thoughtless thoughtless blushing troubled
+arrogant jittery relieved unusual tame troubled obedient lonely expensive wide-eyed
+uninterested tense brave tired embarrassed ugly expensive excited tense modern
+troubled grotesque grumpy witty muddy proud gorgeous plain frail hilarious
+impossible tense courageous amused anxious lively long fragile ill distinct
+BinaryNumber_0100110 BinaryNumber_1100010 BinaryNumber_0011101 BinaryNumber_1000100 BinaryNumber_0011110 BinaryNumber_0101110 BinaryNumber_0101000 BinaryNumber_0011011 BinaryNumber_1100001 BinaryNumber_0001111
+BinaryNumber_0001100 BinaryNumber_0010000 BinaryNumber_1010100 BinaryNumber_0101101 BinaryNumber_1001000 BinaryNumber_1010000 BinaryNumber_0001101 BinaryNumber_0001001 BinaryNumber_0001110 BinaryNumber_1001111
+BinaryNumber_0000011 BinaryNumber_0001000 BinaryNumber_0110110 BinaryNumber_0010101 BinaryNumber_1100011 BinaryNumber_0011000 BinaryNumber_0011011 BinaryNumber_0100001 BinaryNumber_0000001 BinaryNumber_0100101
+BinaryNumber_0110111 BinaryNumber_1010000 BinaryNumber_1010000 BinaryNumber_1100000 BinaryNumber_1010010 BinaryNumber_0111100 BinaryNumber_0000110 BinaryNumber_1011010 BinaryNumber_0001001 BinaryNumber_1001010
+BinaryNumber_1010111 BinaryNumber_0011010 BinaryNumber_1000011 BinaryNumber_0101101 BinaryNumber_0100100 BinaryNumber_1010011 BinaryNumber_1100001 BinaryNumber_1011100 BinaryNumber_0111111 BinaryNumber_1000001
+BinaryNumber_0110110 BinaryNumber_0100010 BinaryNumber_0101001 BinaryNumber_1000010 BinaryNumber_0000101 BinaryNumber_0110000 BinaryNumber_0100011 BinaryNumber_1010110 BinaryNumber_0101010 BinaryNumber_0000010
+BinaryNumber_0100101 BinaryNumber_1001110 BinaryNumber_0000010 BinaryNumber_1011101 BinaryNumber_0001100 BinaryNumber_0111000 BinaryNumber_0001111 BinaryNumber_1011000 BinaryNumber_0001110 BinaryNumber_1010100
+BinaryNumber_0010111 BinaryNumber_1011110 BinaryNumber_0111011 BinaryNumber_1000101 BinaryNumber_1000100 BinaryNumber_0100000 BinaryNumber_0110010 BinaryNumber_0110110 BinaryNumber_0100000 BinaryNumber_0000100
+BinaryNumber_0101101 BinaryNumber_0000111 BinaryNumber_1100010 BinaryNumber_0000001 BinaryNumber_0110101 BinaryNumber_1011111 BinaryNumber_1000101 BinaryNumber_1011111 BinaryNumber_0000101 BinaryNumber_0011111
+BinaryNumber_0001111 BinaryNumber_1001001 BinaryNumber_0100000 BinaryNumber_1010001 BinaryNumber_1001000 BinaryNumber_0010101 BinaryNumber_0111001 BinaryNumber_0101001 BinaryNumber_1100000 BinaryNumber_1001000
+BinaryNumber_0110111 BinaryNumber_0110000 BinaryNumber_0110010 BinaryNumber_0001111 BinaryNumber_1010101 BinaryNumber_0010011 BinaryNumber_0110011 BinaryNumber_1100001 BinaryNumber_0111011 BinaryNumber_0110110
+cell expansionslot memory downloader incompatible programming digitalcomputer electromechanical digitalcomputer ibook
+antivirus laptopcomputer browser mechanicalcomputer dataconverter social transistor console homecomputer ibook
+camera electronics inputdevice computerprogram mobiledevice digitalcommunication router device information mainframe
+digital astrolabe astrolabe android compatible von neumann machine computing machinecode daw microprocessor
+proprietary screen camera chip compatible desktop transistor monitor visualdisplayunit arithmetic
+mainframe device keyboard device von neumann machine programming laptopcomputer router data device
+computerprogram camera programmer digitalcomputer astrolabe smartphone compatible mobiledevice machinecode downloader
+floppydisk electromechanical monitor eniac abacus cell browser incompatible abacus camera
+phone von neumann machine compatible turingmachine electrical eniac virtualreality social computerprogramming supercomputer
+desktoppcs device camera antivirus vacuumtube computercircuit desktop social spyware vacuumtube
+server centralprocessing unit programming digital machine processor ibook desktop mainframe tablet
+PrimeNumber_73 PrimeNumber_331 PrimeNumber_83 PrimeNumber_409 PrimeNumber_19 PrimeNumber_457 PrimeNumber_421 PrimeNumber_5 PrimeNumber_149 PrimeNumber_271
+PrimeNumber_433 PrimeNumber_269 PrimeNumber_367 PrimeNumber_139 PrimeNumber_197 PrimeNumber_401 PrimeNumber_37 PrimeNumber_313 PrimeNumber_199 PrimeNumber_233
+PrimeNumber_227 PrimeNumber_199 PrimeNumber_337 PrimeNumber_227 PrimeNumber_163 PrimeNumber_139 PrimeNumber_503 PrimeNumber_101 PrimeNumber_11 PrimeNumber_113
+PrimeNumber_251 PrimeNumber_7 PrimeNumber_307 PrimeNumber_541 PrimeNumber_281 PrimeNumber_397 PrimeNumber_137 PrimeNumber_53 PrimeNumber_307 PrimeNumber_461
+PrimeNumber_281 PrimeNumber_269 PrimeNumber_359 PrimeNumber_307 PrimeNumber_379 PrimeNumber_353 PrimeNumber_197 PrimeNumber_127 PrimeNumber_281 PrimeNumber_61
+PrimeNumber_401 PrimeNumber_389 PrimeNumber_281 PrimeNumber_197 PrimeNumber_131 PrimeNumber_353 PrimeNumber_163 PrimeNumber_263 PrimeNumber_331 PrimeNumber_157
+PrimeNumber_127 PrimeNumber_281 PrimeNumber_181 PrimeNumber_419 PrimeNumber_461 PrimeNumber_239 PrimeNumber_263 PrimeNumber_197 PrimeNumber_223 PrimeNumber_463
+PrimeNumber_109 PrimeNumber_311 PrimeNumber_281 PrimeNumber_401 PrimeNumber_241 PrimeNumber_271 PrimeNumber_71 PrimeNumber_457 PrimeNumber_401 PrimeNumber_281
+PrimeNumber_547 PrimeNumber_239 PrimeNumber_311 PrimeNumber_107 PrimeNumber_349 PrimeNumber_103 PrimeNumber_157 PrimeNumber_157 PrimeNumber_11 PrimeNumber_271
+PrimeNumber_379 PrimeNumber_163 PrimeNumber_191 PrimeNumber_127 PrimeNumber_461 PrimeNumber_487 PrimeNumber_193 PrimeNumber_71 PrimeNumber_409 PrimeNumber_11
+PrimeNumber_47 PrimeNumber_2 PrimeNumber_239 PrimeNumber_53 PrimeNumber_359 PrimeNumber_97 PrimeNumber_233 PrimeNumber_149 PrimeNumber_157 PrimeNumber_419
+fiasco intimidation patronage blame scandal deny bamboozle blame fiasco solicit
+demagogue cadre assail scapegoat solicit tarnish solicit beleaguer obscure debacle
+resignation dictatorship corruption proxy patronage denigrate covert scapegoat alliance scandalous
+feud unethical intimidation resignation refute plagiarism cadre solicit blame malfeasance
+opportunist authoritarian embezzlement conceal unjust retaliation benefit endorsement engagement deny
+defamation retaliation corruption chicanery dictatorship endorsement reckless coterie bamboozle saga
+scandalous revelation demagogue mercurial engagement malfeasance assail career reputation recrimination
+conceal career infringement scandalous career privilege refute covert plagiarism embezzlement
+corruption deficit partial hypocrisy manipulate fray benefit malfeasance intimidation revelation
+mercurial regime retaliation plagiarism onerous mercurial manipulate debacle intimidation recrimination
+defamation collaboration deflect influence coterie recrimination claim retaliation onerous endorsement
+12:58 13:18 12:41 14:14 14:14 18:38 15:30 17:15 18:59 19:53
+18:51 14:37 21:47 11:58 15:39 17:28 10:44 23:41 14:47 18:40
+17:52 12:48 14:41 11:24 14:36 15:56 11:45 17:27 11:49 20:24
+22:29 20:24 10:43 17:39 22:27 23:45 13:57 11:19 11:49 16:31
+19:52 12:16 21:11 18:23 21:15 15:10 14:53 22:17 23:54 22:37
+15:53 20:51 13:36 18:31 22:56 16:41 23:14 14:24 18:55 14:41
+17:44 19:57 17:21 21:12 19:10 10:55 22:15 11:12 20:32 10:21
+14:29 13:54 15:23 11:53 21:17 12:44 13:35 15:32 16:18 18:12
+17:56 19:31 10:54 23:45 20:53 21:49 22:43 17:30 13:10 20:36
+20:48 16:54 13:51 14:59 23:23 23:11 23:58 14:33 22:16 17:21
+20:18 18:45 11:17 16:19 14:59 10:13 16:24 10:40 13:11 20:23
+octopuses carnal dog embryo chordate embryo chordate cats predatoryanimal animalia
+porifera animal welfare pigs zoo zoology embryo darter primate bobcat carnivore
+porifera mammal dinosaur wildlife mythical amphibians hourse feline fish superdog
+tiger bug exoticanimals animalia animalia wild dogs exoticanimals object tame
+tufted thoroughbred cats carnal cats insect ladybug primate insects puppy
+fish fantasy beast sensual biped superdog sensual mythical mythical shelter
+pups birds sheep eukaryotic animalkingdom wildlife monster reptile hourse carnal
+jellyfish plant birds reptiles bird pet animalia clams biped sensual
+dinosaur rodent tame amphibians farming vertebrate fauna zoo farming sheep
+varmint pitbull carnivore cat rabbit scavenger tufted carnivore biped thoroughbred
+eukaryotic rabbit wildlife dinosaur animal welfare reptiles carnal heterotroph pigs vegan
+tradition frolic competitive supersport concert goal skateboarding cavort gymnastics spar
+pro luge active comfort schuss basketball dirt horseracing class active
+schuss gamely champion rowing luge badminton frolic league racing feature
+game exercise boulder lead champion dance gym ski sport class
+soccerball goal exercise hobby esport yoga football champion cross teams
+dirt action pack fast physical frisk shoot gamely boulder mutant
+fitness shoot players yoga job games eco hunters romp physical
+concert pro action archery horseracing triathlon boulder shoot chess boulder
+video wipeout running competitive esport physical video cycling form skating
+referee games dynamic hiking career sportsmanship skylark wipeout sportsman comfort
+social hobbies skiing music form casual sport referee sport utility
+nourishment meat rice cheese milk beef animal fruits vegetables drinks edible
+plant pasta cooking vegetable cereal seafood nutrition eat nutrition soup
+nutrition cooking edible meal eat rice soup cereal pasta nutrition
+eat meat nutrition beef meals animal chicken pasta rice cheese
+nutrient fruits vegetables vegetable seafood seafood meals victuals provender animal animal
+plant pasta meal nutrition sushi cheese seafood beef meat milk
+milk soup soup meat sushi cooking victuals seafood chicken plant
+beef cereal nourishment beef cooking restaurant soup pasta provender plant
+beef nutrient rice rice pasta sushi drinks meat meals pasta
+meat provender restaurant plant cheese nourishment cooking animal meat provender
+chicken cooking milk restaurant provender fruits vegetables fruit nutrition meal chicken

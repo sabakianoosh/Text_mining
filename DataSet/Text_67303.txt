@@ -1,0 +1,99 @@
+temperature__3c temperature__14c temperature__136c temperature__52c temperature__85c temperature__69c temperature__3c temperature__73c temperature__124c temperature__79c
+temperature__71c temperature__147c temperature__79c temperature__12c temperature__137c temperature__141c temperature__130c temperature__8c temperature__35c temperature__138c
+temperature__47c temperature__74c temperature__92c temperature__100c temperature__7c temperature__100c temperature__11c temperature__100c temperature__79c temperature__136c
+temperature__136c temperature__53c temperature__14c temperature__78c temperature__23c temperature__41c temperature__28c temperature__132c temperature__39c temperature__109c
+temperature__77c temperature__146c temperature__6c temperature__71c temperature__36c temperature__47c temperature__10c temperature__129c temperature__16c temperature__84c
+temperature__51c temperature__57c temperature__123c temperature__120c temperature__52c temperature__58c temperature__56c temperature__47c temperature__91c temperature__138c
+temperature__71c temperature__6c temperature__98c temperature__58c temperature__11c temperature__4c temperature__64c temperature__49c temperature__30c temperature__30c
+temperature__56c temperature__122c temperature__118c temperature__54c temperature__44c temperature__77c temperature__34c temperature__91c temperature__3c temperature__58c
+temperature__105c temperature__56c temperature__39c temperature__85c temperature__50c temperature__8c temperature__105c temperature__71c temperature__12c temperature__126c
+temperature__6c temperature__74c temperature__68c temperature__93c temperature__10c temperature__59c temperature__3c temperature__140c temperature__35c temperature__71c
+temperature__61c temperature__142c temperature__137c temperature__50c temperature__140c temperature__12c temperature__36c temperature__36c temperature__71c temperature__39c
+drinks edible fruits vegetables restaurant nutrition meals nourishment milk fruits vegetables fruits vegetables
+provender vegetable animal chicken beef meals milk meals provender nutrition
+fruits vegetables provender rice cereal eat meals soup animal pasta seafood
+chicken provender cooking seafood meat vegetable beef eat edible animal
+edible cereal meat cheese beef soup meat cooking cheese edible
+nourishment provender plant drinks meat nourishment nutrition fruits vegetables soup animal
+chicken meat rice restaurant beef fruits vegetables sushi rice pasta pasta
+meals eat nutrient meat cheese soup eat nutrient pasta sushi
+edible cereal nutrition restaurant provender soup provender fruits vegetables restaurant cooking
+pasta drinks animal nutrient cooking cooking soup meat sushi vegetable
+milk restaurant beef fruits vegetables beef beef edible chicken meals cereal
+MediumSeaGreen SlateGray MediumSpringGreen Cornsilk Coral DarkTurquoise Red DarkSeaGreen Violet Green
+LightGray DarkViolet DarkViolet MintCream SkyBlue PapayaWhip DarkSeaGreen MediumBlue DarkKhaki Purple
+Olive Orchid Burlywood DeepSkyBlue PaleVioletRed Feldspar Purple Violet DarkBlue Indigo
+Feldspar DarkOliveGreen Tomato Honeydew LightSeaGreen White Silver LightSalmon Orange SlateBlue
+MediumSpringGreen MediumSpringGreen SteelBlue LawnGreen MediumSeaGreen LightGreen LemonChiffon Olive DarkGoldenrod AntiqueWhite
+Brown GreenYellow GhostWhite ForestGreen Firebrick Honeydew NavajoWhite Burlywood HotPink LightGray
+Firebrick Tomato Green LightBlue Snow Plum OldLace Lime GhostWhite LightSeaGreen
+DeepSkyBlue Thistle SteelBlue Tomato MistyRose Wheat LimeGreen DimGray MediumVioletRed Honeydew
+BlanchedAlmond WhiteSmoke Khaki LemonChiffon Pink PaleVioletRed Tan LightPink Green Cornsilk
+Green DarkFuchsia LightSeaGreen PaleGoldenrod Brown Gainsboro DarkSeaGreen PaleVioletRed GreenYellow Olive
+SeaGreen Silver ForestGreen Peru LightPink Honeydew Feldspar BlueViolet SeaGreen CornflowerBlue
+Pancreas Jejunum Ear Pharynx Thalamus Joints Urethra Uterus Ciliarybody Spinalnerves
+Tastebuds Pharynx Vagina Bone  Muscle Teeth Fallopiantubes Bronchi Pancreas Tastebuds
+Eye Cornea Teeth Interstitium Stomach Cecum Veins Cerebrum Rectum Cervix
+Ciliarybody Ligaments skeleton Lungs Esophagus Innerear Gallbladder Mesentery Kidneys Mouth
+Ovaries Cochlea Nerves Cecum Vulva Jejunum Iris skeleton Gallbladder Tonsils
+Mesentery Ureter Cervix Clitoris Iris Lips Ear Eye Bronchi Smallintestine
+Middleear Mesentery Cranialnerves Ureter Analcanal Bladder Pons Earlobe Retina Larynx
+Penis Bone  Ligaments Interstitium Cerebrum Ovaries Nerves Middleear Pancreas Bone 
+Innerear Esophagus Esophagus Vagina Bladder Tonsils Spinalnerves Largeintestine Nerves Duodenum
+Lens Outerear Interstitium Rectum Stomach skeleton Mesentery Cerebrum Lungs Earlobe
+Vagina Pharynx Eardrum Hypothalamus Eardrum Spinalnerves Arteries Middleear Ureter skeleton
+SquareNumber_1369 SquareNumber_289 SquareNumber_3136 SquareNumber_5929 SquareNumber_81 SquareNumber_1369 SquareNumber_144 SquareNumber_5929 SquareNumber_4356 SquareNumber_81
+SquareNumber_7569 SquareNumber_16 SquareNumber_3721 SquareNumber_529 SquareNumber_900 SquareNumber_10000 SquareNumber_2401 SquareNumber_4096 SquareNumber_3136 SquareNumber_4356
+SquareNumber_2704 SquareNumber_7396 SquareNumber_25 SquareNumber_529 SquareNumber_144 SquareNumber_6724 SquareNumber_441 SquareNumber_625 SquareNumber_5329 SquareNumber_1681
+SquareNumber_4489 SquareNumber_1444 SquareNumber_289 SquareNumber_1681 SquareNumber_1296 SquareNumber_2916 SquareNumber_196 SquareNumber_5329 SquareNumber_3969 SquareNumber_6084
+SquareNumber_2401 SquareNumber_2116 SquareNumber_169 SquareNumber_900 SquareNumber_10000 SquareNumber_3481 SquareNumber_441 SquareNumber_576 SquareNumber_7569 SquareNumber_64
+SquareNumber_7744 SquareNumber_2916 SquareNumber_121 SquareNumber_25 SquareNumber_9604 SquareNumber_2401 SquareNumber_4096 SquareNumber_3600 SquareNumber_3249 SquareNumber_625
+SquareNumber_5625 SquareNumber_1681 SquareNumber_484 SquareNumber_49 SquareNumber_225 SquareNumber_361 SquareNumber_256 SquareNumber_1369 SquareNumber_5041 SquareNumber_2304
+SquareNumber_256 SquareNumber_2304 SquareNumber_144 SquareNumber_5476 SquareNumber_5929 SquareNumber_484 SquareNumber_49 SquareNumber_169 SquareNumber_169 SquareNumber_7744
+SquareNumber_7569 SquareNumber_256 SquareNumber_5625 SquareNumber_625 SquareNumber_5625 SquareNumber_1089 SquareNumber_3136 SquareNumber_8100 SquareNumber_2500 SquareNumber_169
+SquareNumber_4225 SquareNumber_676 SquareNumber_576 SquareNumber_2601 SquareNumber_8100 SquareNumber_144 SquareNumber_5329 SquareNumber_81 SquareNumber_25 SquareNumber_6561
+SquareNumber_7056 SquareNumber_841 SquareNumber_1089 SquareNumber_4900 SquareNumber_7569 SquareNumber_4624 SquareNumber_484 SquareNumber_676 SquareNumber_121 SquareNumber_4096
+wildlife porifera poikilotherm plant puppy cats eukaryotic darter animal welfare animalkingdom
+bobcat animals vegan birds animal welfare pitbull eukaryotic monster scavenger darter
+metazoan amphibians exoticanimals scavenger superdog jellyfish plant environmental mammal object
+invertebrate insect zoo frog amphibians fleshly livestock plant ladybug frog
+heterotroph animalkingdom multicellular amphibians varmint insects environmental insectivorous animatebeing pitbull
+varmint bird multicellular insectivore cats sheep carnal birds fauna exoticanimals
+raccoon hourse mythical tufted chordate insects thoroughbred fauna fish porifera
+porifera metazoan livestock meat ladybug tufted bear multicellular clams hourse
+raccoon tufted primate chordate pig eukaryotic creature vertebrate animal welfare bear
+bobcat animatebeing sheep reptiles pig tufted animalia frog monster beast
+fantasy farming puppy animatebeing protist monster insect zoo insects feline
+spotless nice lucky worried hurt crowded zealous troubled bloody defeated
+confused clear fancy unsightly gifted lonely repulsive thankful foolish creepy
+combative blue-eyed defeated expensive amused blue-eyed envious sleepy puzzled fine
+curious concerned combative hurt powerful combative troubled lonely dark real
+important old-fashioned ashamed tame terrible combative muddy calm drab upset
+careful wandering pleasant hungry grieving lonely plain smiling inquisitive tense
+hurt colorful grotesque puzzled wicked outstanding long ill expensive anxious
+motionless energetic condemned relieved fancy victorious silly easy angry uninterested
+defiant bewildered puzzled doubtful dull scary stormy super combative famous
+strange zany busy grieving exuberant exuberant stupid disturbed exuberant graceful
+vast blushing disgusted sparkling blushing faithful concerned clear helpful tired
+digitalcommunication floppydisk turingmachine electrical bit computerprogramming desktopcomputer mainframe desktoppcs chip
+digital von neumann machine machine screen digitalcomputer daw algorithm machinecode personalcomputer arithmetic
+computing spyware digitalcommunication laptopcomputer laptop programmer microcomputer floppydisk processor incompatible
+visualdisplayunit mechanicalcomputer astrolabe virtualreality machine console proprietary electronics browser cell
+centralprocessing unit chip screen digitalaudioplayer server server office electronics microprocessor computerprogram
+ibook analogcomputer camera computerprogramming internet homecomputer escapekey transistor digitalaudioplayer proprietary
+turingmachine computercide console escapekey keyboard analogcomputer cpu computercircuit expansionslot social
+escapekey internet eniac von neumann machine browser cpu digitalcomputer centralprocessing unit centralprocessing unit expansionslot
+downloader social inputdevice processor analogcomputer hardware camera computation cyber supercomputer
+office computerprogram android server algorithm computerscience smartphone ibook imac software
+microcomputer social mechanicalcomputer digitalaudioplayer cyber browser router turingmachine computercide cybertechnology
+gun legislature guilt imprisonment corruption noir mutilation supernatural smuggle accident
+punitive misdemeanor arsons prostitution homelessness liberty mafia gun thrillers hijack
+jurisdiction mob abuse muggings rape suspense prison forensic prostitution thriller
+mob law-breaking guilty arsons gangs offence cop supernatural legislature unsolved
+incarceration blackmail country kill suspense mystery terrorism vandalism snitching blackmail
+crime thriller robbery smuggle poverty forensic trafficking justice lift offense
+incarceration government felony vandalism violence violence rape victim war accident
+poison pirate cybercrime shoplift thrillers incarceration detective kill legal guilty
+guilty cop liberty imprisonment rape lift trafficking homeless thriller law-breaking
+slayings legislature poison guilty gangsterism offenders vandalism homelessness theft muggings
+kill psychological detective barratry brutality crime liberty criminal investigation guilt

@@ -1,0 +1,99 @@
+BinaryNumber_0111010 BinaryNumber_0101101 BinaryNumber_0001101 BinaryNumber_0100011 BinaryNumber_0001001 BinaryNumber_1011111 BinaryNumber_0110101 BinaryNumber_1100010 BinaryNumber_0010100 BinaryNumber_0010101
+BinaryNumber_0101000 BinaryNumber_1010010 BinaryNumber_0010001 BinaryNumber_1011111 BinaryNumber_0000011 BinaryNumber_0010010 BinaryNumber_0110110 BinaryNumber_1011101 BinaryNumber_0101101 BinaryNumber_1001101
+BinaryNumber_1001001 BinaryNumber_0011100 BinaryNumber_1001101 BinaryNumber_0000000 BinaryNumber_0101100 BinaryNumber_1100001 BinaryNumber_0011111 BinaryNumber_1000111 BinaryNumber_1010111 BinaryNumber_1100010
+BinaryNumber_0010000 BinaryNumber_0101011 BinaryNumber_1011011 BinaryNumber_0100000 BinaryNumber_1011010 BinaryNumber_0110111 BinaryNumber_1000010 BinaryNumber_0100001 BinaryNumber_0011011 BinaryNumber_0011110
+BinaryNumber_0110000 BinaryNumber_0010111 BinaryNumber_0111001 BinaryNumber_0010001 BinaryNumber_0010000 BinaryNumber_0000110 BinaryNumber_0001110 BinaryNumber_0011010 BinaryNumber_1000111 BinaryNumber_1010011
+BinaryNumber_1000001 BinaryNumber_0100100 BinaryNumber_1100000 BinaryNumber_0110000 BinaryNumber_0011001 BinaryNumber_0010011 BinaryNumber_1011010 BinaryNumber_0000110 BinaryNumber_0100100 BinaryNumber_1001010
+BinaryNumber_0001010 BinaryNumber_0100100 BinaryNumber_1000110 BinaryNumber_0001011 BinaryNumber_0000111 BinaryNumber_1011010 BinaryNumber_0101111 BinaryNumber_1000011 BinaryNumber_0101110 BinaryNumber_1000101
+BinaryNumber_0011110 BinaryNumber_1010011 BinaryNumber_0000001 BinaryNumber_1001101 BinaryNumber_0010100 BinaryNumber_1000010 BinaryNumber_0100001 BinaryNumber_0100101 BinaryNumber_1000001 BinaryNumber_0001100
+BinaryNumber_1001100 BinaryNumber_0001110 BinaryNumber_0110001 BinaryNumber_1010111 BinaryNumber_0101000 BinaryNumber_0111011 BinaryNumber_0110001 BinaryNumber_1011100 BinaryNumber_0111101 BinaryNumber_1010010
+BinaryNumber_0000111 BinaryNumber_0101111 BinaryNumber_0110011 BinaryNumber_0001110 BinaryNumber_1000111 BinaryNumber_1001010 BinaryNumber_0110111 BinaryNumber_0101000 BinaryNumber_0100100 BinaryNumber_0101011
+BinaryNumber_0011011 BinaryNumber_1000100 BinaryNumber_1011011 BinaryNumber_1011001 BinaryNumber_0101101 BinaryNumber_0010010 BinaryNumber_1010001 BinaryNumber_1000101 BinaryNumber_0001001 BinaryNumber_0111101
+Tan OliveDrab Yellow MediumSpringGreen Thistle DarkGoldenrod Goldenrod SlateBlue DarkTurquoise MediumPurple
+MediumSeaGreen White Lavender Silver Moccasin DarkOrange Honeydew Tan Salmon PaleTurquoise
+DarkBlue OrangeRed CadetBlue DarkViolet OrangeRed Bisque Plum Blue Chartreuse Burlywood
+DarkKhaki Turquoise LightCoral Crimson RosyBrown DarkOrange Snow LightSlateGray Cornsilk Khaki
+DodgerBlue MediumSlateBlue WhiteSmoke Firebrick Chartreuse PaleGoldenrod Chocolate LightSeaGreen Snow LightBlue
+SkyBlue BlanchedAlmond ForestGreen SteelBlue MediumVioletRed Moccasin Seashell DarkSalmon Turquoise Gray
+LightGray DeepPink LightGoldenrodYellow MediumTurquoise Orange PapayaWhip MediumBlue LightSlateGray SpringGreen OldLace
+LimeGreen HotPink MediumSeaGreen DarkGreen BlanchedAlmond DarkSalmon Peru Gainsboro LightGray SandyBrown
+PaleGreen Orange Green Thistle LightSalmon DarkRed Green MediumVioletRed Yellow LightSeaGreen
+Goldenrod DarkSlateBlue Yellow Seashell Teal Cornsilk Tomato HotPink Chocolate DarkRed
+MintCream LightBlue Goldenrod SeaGreen Aquamarine Beige DarkSlateBlue PapayaWhip Thistle Firebrick
+zoo dogs environmental workanimal mammals superdog fauna bear poikilotherm exoticanimals
+fauna mythical dinosaur iguana monster dinosaur wild mythical frog meat
+octopuses protist biped vertebrate amphibians carnal insects zoo insects pups
+reptiles dog bear dog iguana protist demon vertebrate pitbull chordate
+fantasy sensual reptiles pups bear farming animalkingdom monster puppy plant
+heterotroph bear wild mammal wild octopuses metazoan meat protist scavenger
+ladybug vertebrate insects llamas amphibians zoology insectivorous mythical vertebrate amphibians
+biped farming puppy darter bear plant bug tiger carnivore environmental
+fish wild primate pups varmint insectivorous carnal puppy exoticanimals chickens
+tame animal welfare tiger predatoryanimal creature cat poikilotherm iguana poikilotherm heterotroph
+creature raccoon animalkingdom fantasy animalia octopuses carnal insect ladybug varmint
+centralprocessing unit dataconverter analogcomputer xbox diskette phone mechanicalcomputer escapekey microprocessor bit
+internet hardware electromechanical android ibook phone server machines monitor desktop
+peripheral machinecode mobile internet digitalcommunication desktopcomputer processor computerprogramming bit laptop
+computercide arithmetic astrolabe integratedcircuit desktopcomputer electronics social astrolabe mainframe social
+cybertechnology android dataconverter cyber imac internet desktop cell microcomputer microprocessor
+mechanicalcomputer machine peripheral memory tablet integratedcircuit hardware tablet abacus data
+daw xbox software game computerscience machines diskette proprietary mobile supercomputer
+escapekey digital eniac machines software personalcomputer supercomputer internet device digitalcommunication
+console digitalcomputer homecomputer imac console dataconverter office computing imac computerprogramming
+cybertechnology centralprocessing unit programming antivirus floppydisk cpu browser visualdisplayunit memory server
+computercircuit machines algorithm console laptopcomputer data laptop console calculator computerhardware
+SquareNumber_441 SquareNumber_1369 SquareNumber_625 SquareNumber_484 SquareNumber_7744 SquareNumber_2304 SquareNumber_1156 SquareNumber_8100 SquareNumber_6241 SquareNumber_5329
+SquareNumber_2916 SquareNumber_2601 SquareNumber_529 SquareNumber_400 SquareNumber_1296 SquareNumber_3481 SquareNumber_2116 SquareNumber_1849 SquareNumber_3600 SquareNumber_100
+SquareNumber_1225 SquareNumber_3025 SquareNumber_729 SquareNumber_900 SquareNumber_3136 SquareNumber_1764 SquareNumber_2500 SquareNumber_10000 SquareNumber_2209 SquareNumber_8649
+SquareNumber_169 SquareNumber_5184 SquareNumber_121 SquareNumber_9409 SquareNumber_289 SquareNumber_25 SquareNumber_484 SquareNumber_196 SquareNumber_7569 SquareNumber_1156
+SquareNumber_5929 SquareNumber_8649 SquareNumber_5776 SquareNumber_5184 SquareNumber_256 SquareNumber_1521 SquareNumber_8649 SquareNumber_3721 SquareNumber_169 SquareNumber_5476
+SquareNumber_2304 SquareNumber_6400 SquareNumber_7225 SquareNumber_1521 SquareNumber_196 SquareNumber_121 SquareNumber_1089 SquareNumber_1849 SquareNumber_5041 SquareNumber_8100
+SquareNumber_289 SquareNumber_576 SquareNumber_49 SquareNumber_1764 SquareNumber_484 SquareNumber_1444 SquareNumber_2916 SquareNumber_9025 SquareNumber_36 SquareNumber_196
+SquareNumber_7056 SquareNumber_196 SquareNumber_4900 SquareNumber_100 SquareNumber_3600 SquareNumber_1444 SquareNumber_4624 SquareNumber_64 SquareNumber_100 SquareNumber_1764
+SquareNumber_4225 SquareNumber_5625 SquareNumber_2601 SquareNumber_1225 SquareNumber_8100 SquareNumber_1024 SquareNumber_2916 SquareNumber_6084 SquareNumber_8649 SquareNumber_3600
+SquareNumber_1225 SquareNumber_6724 SquareNumber_256 SquareNumber_6241 SquareNumber_5625 SquareNumber_1521 SquareNumber_289 SquareNumber_1296 SquareNumber_6084 SquareNumber_1764
+SquareNumber_4624 SquareNumber_1156 SquareNumber_1444 SquareNumber_3481 SquareNumber_2025 SquareNumber_1444 SquareNumber_1764 SquareNumber_676 SquareNumber_289 SquareNumber_7921
+rebut regime privilege claim resignation integrity scapegoat persecution recrimination endorsement
+chicanery unethical empire manipulate illegal sloth coterie corruption chicanery unsavory
+lobby assail scandalous acolyte anonymity obscure scapegoat extortion manipulate intimidation
+regime coterie illicit unsavory partial opportunist bamboozle malfeasance corruption saga
+engagement deception coercion fiasco expose accusation dictatorship revelation partial accusation
+collaboration alliance recrimination saga unethical impunity lobby extortion ignorant unjust
+influence debacle lobby collaboration intimidation partial collaboration revelation chicanery bribe
+integrity alliance bribe recrimination saga solicit unjust debacle incident privilege
+tarnish expose covert career claim unethical empire dictatorship infringement influence
+deflect mercurial reckless plagiarism lobby benefit feud solicit illegal regime
+fray beleaguer deficit plagiarism saga tycoon infringement career cadre retaliation
+meat fruits vegetables nourishment seafood edible drinks meals eat meal cooking
+fruits vegetables fruit nourishment victuals milk soup meal seafood seafood meals
+nourishment meals cooking eat cheese rice victuals provender meat soup
+cooking seafood milk cooking drinks sushi fruits vegetables beef restaurant rice
+edible meals fruits vegetables victuals nourishment plant seafood milk cereal eat
+drinks sushi seafood beef nourishment meal provender edible victuals beef
+chicken milk meat cheese victuals eat animal meal beef vegetable
+vegetable nutrient eat meals animal drinks pasta cereal cooking pasta
+vegetable seafood rice vegetable rice meat cereal sushi cooking cereal
+fruits vegetables sushi sushi fruits vegetables provender pasta fruit rice meal milk
+cheese nutrient provender nourishment cooking sushi nutrient milk fruit meals
+Armoire Credenza Rug Tallboy Wheelchair Volute Secretary Bentwood Applique Chest
+Daybed Futon Wicker Volute Jardinière Clock Credenza Antique Cabriole Air-conditioner
+Wheelchair Volute Vanity Cabinet Screen Fan Cabinet cubbies Headboard Console
+Footstool Crib Buffet Furnishings Upholstery Couch Couch Pillow Sofabed Vanity
+Cushion Zitan Regency Marquetry Bureau Lounger Stool Vanity Mirror Hokey
+Vitrine Rack Rug Desk Hammock Credenza Cradle Waterbed Mantle Footstool
+Stool Chair Waterbed Headboards Curtains Antique Pliant Lamp Footstool Footstool
+Television Easel Clock Recliner Marquetry Tallboy Shelf Recliner Hokey Buffet
+Chandelier Settee Carpet Pliant Chandelier Drapes Desk Tallboy Carpet Desk
+Air-conditioner Air-conditioner Pantry Cradle Futon Bowfront Tallboy Cart Furnishings Wardrobe
+Lintel Tuffet Hassock Seat Bowfront Furniture Ottoman Footstool Recliner Television
+ska fugue melodic clarinet instrumental playlist bars singing popular music compositions
+reharmonize gospel rhapsody fermata release record visual atmosphere literature songs
+label works poetry dance modulate cultural symphony creative ensemble music
+lute bpm fugue vibe beat instrument writing instruments sfx karaoke
+ensemble talk opera gospel intonation trumpet roulade story phenomenon club
+merch hymn saxophone polyphony trio ska genre madrigal fermata music
+record prelude double bass musicality entertainment club media interlude phenomenon story
+harp tonic atonal recording arts soundtrack cultural symphony genre pizzicato
+monophony work action triple-tongue symphonise sforzando tempo soulful spotify key
+phone chorus bebop editing time rag sfx pitch tongue bebop
+jazzfunk composer chord dance key mp3s tuning creative release festival

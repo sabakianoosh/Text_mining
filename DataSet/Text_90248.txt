@@ -1,0 +1,99 @@
+BinaryNumber_0101100 BinaryNumber_0011100 BinaryNumber_0101110 BinaryNumber_0100000 BinaryNumber_1010110 BinaryNumber_1000101 BinaryNumber_0110001 BinaryNumber_1011010 BinaryNumber_0010100 BinaryNumber_0011000
+BinaryNumber_0010110 BinaryNumber_0101101 BinaryNumber_1000001 BinaryNumber_1011111 BinaryNumber_0000100 BinaryNumber_0010011 BinaryNumber_0111010 BinaryNumber_0110011 BinaryNumber_0000101 BinaryNumber_1001101
+BinaryNumber_1000101 BinaryNumber_1010010 BinaryNumber_1011010 BinaryNumber_0010101 BinaryNumber_0111010 BinaryNumber_1011001 BinaryNumber_1001100 BinaryNumber_0001010 BinaryNumber_0100000 BinaryNumber_1001111
+BinaryNumber_0011111 BinaryNumber_0101000 BinaryNumber_1011000 BinaryNumber_0111101 BinaryNumber_1011001 BinaryNumber_0001111 BinaryNumber_0000001 BinaryNumber_1001011 BinaryNumber_0111100 BinaryNumber_1011100
+BinaryNumber_0111011 BinaryNumber_1000011 BinaryNumber_0011011 BinaryNumber_0110010 BinaryNumber_0000101 BinaryNumber_0100001 BinaryNumber_0011010 BinaryNumber_0100111 BinaryNumber_0010101 BinaryNumber_0110011
+BinaryNumber_1010001 BinaryNumber_1001000 BinaryNumber_1000000 BinaryNumber_0110001 BinaryNumber_0011111 BinaryNumber_0010000 BinaryNumber_0111001 BinaryNumber_0010011 BinaryNumber_0011011 BinaryNumber_0110011
+BinaryNumber_0001110 BinaryNumber_0001110 BinaryNumber_1011110 BinaryNumber_0111110 BinaryNumber_1000100 BinaryNumber_0001101 BinaryNumber_0111110 BinaryNumber_0110111 BinaryNumber_0001110 BinaryNumber_0000001
+BinaryNumber_0110011 BinaryNumber_1001011 BinaryNumber_1000101 BinaryNumber_0001011 BinaryNumber_0101001 BinaryNumber_1001010 BinaryNumber_0111110 BinaryNumber_0010000 BinaryNumber_0100101 BinaryNumber_0101010
+BinaryNumber_0111000 BinaryNumber_1011001 BinaryNumber_0100011 BinaryNumber_0100110 BinaryNumber_0110100 BinaryNumber_0101001 BinaryNumber_0001011 BinaryNumber_0000101 BinaryNumber_0011111 BinaryNumber_1011111
+BinaryNumber_1000010 BinaryNumber_1000011 BinaryNumber_0111011 BinaryNumber_1010000 BinaryNumber_1000111 BinaryNumber_0110111 BinaryNumber_0111100 BinaryNumber_0010000 BinaryNumber_0110111 BinaryNumber_0100101
+BinaryNumber_0010000 BinaryNumber_1000000 BinaryNumber_1000010 BinaryNumber_1000011 BinaryNumber_1011001 BinaryNumber_1011101 BinaryNumber_0000111 BinaryNumber_1001011 BinaryNumber_1010101 BinaryNumber_1001110
+PrimeNumber_227 PrimeNumber_487 PrimeNumber_313 PrimeNumber_47 PrimeNumber_11 PrimeNumber_347 PrimeNumber_269 PrimeNumber_239 PrimeNumber_79 PrimeNumber_7
+PrimeNumber_347 PrimeNumber_331 PrimeNumber_521 PrimeNumber_2 PrimeNumber_419 PrimeNumber_5 PrimeNumber_229 PrimeNumber_101 PrimeNumber_317 PrimeNumber_491
+PrimeNumber_269 PrimeNumber_107 PrimeNumber_151 PrimeNumber_179 PrimeNumber_409 PrimeNumber_229 PrimeNumber_71 PrimeNumber_409 PrimeNumber_439 PrimeNumber_479
+PrimeNumber_461 PrimeNumber_163 PrimeNumber_97 PrimeNumber_379 PrimeNumber_389 PrimeNumber_409 PrimeNumber_137 PrimeNumber_421 PrimeNumber_127 PrimeNumber_409
+PrimeNumber_157 PrimeNumber_67 PrimeNumber_401 PrimeNumber_503 PrimeNumber_43 PrimeNumber_11 PrimeNumber_233 PrimeNumber_479 PrimeNumber_29 PrimeNumber_61
+PrimeNumber_317 PrimeNumber_103 PrimeNumber_47 PrimeNumber_67 PrimeNumber_47 PrimeNumber_233 PrimeNumber_251 PrimeNumber_181 PrimeNumber_349 PrimeNumber_277
+PrimeNumber_31 PrimeNumber_223 PrimeNumber_443 PrimeNumber_103 PrimeNumber_229 PrimeNumber_251 PrimeNumber_191 PrimeNumber_71 PrimeNumber_433 PrimeNumber_29
+PrimeNumber_293 PrimeNumber_107 PrimeNumber_347 PrimeNumber_317 PrimeNumber_397 PrimeNumber_31 PrimeNumber_97 PrimeNumber_181 PrimeNumber_137 PrimeNumber_19
+PrimeNumber_331 PrimeNumber_67 PrimeNumber_277 PrimeNumber_467 PrimeNumber_109 PrimeNumber_167 PrimeNumber_449 PrimeNumber_127 PrimeNumber_71 PrimeNumber_509
+PrimeNumber_83 PrimeNumber_23 PrimeNumber_449 PrimeNumber_233 PrimeNumber_389 PrimeNumber_439 PrimeNumber_109 PrimeNumber_29 PrimeNumber_223 PrimeNumber_337
+PrimeNumber_467 PrimeNumber_349 PrimeNumber_101 PrimeNumber_241 PrimeNumber_269 PrimeNumber_541 PrimeNumber_337 PrimeNumber_7 PrimeNumber_439 PrimeNumber_83
+milk beef animal milk nutrient nourishment seafood meat fruits vegetables pasta
+eat milk vegetable seafood seafood meal fruits vegetables plant drinks eat
+drinks drinks edible drinks provender restaurant edible cooking chicken soup
+cereal plant provender meals seafood seafood animal pasta edible chicken
+chicken provender plant provender cereal milk meals milk provender plant
+pasta cereal fruit victuals milk fruits vegetables victuals cooking rice nutrition
+nutrient beef fruit animal fruit fruit chicken drinks drinks sushi
+drinks drinks cooking edible cheese meat milk restaurant restaurant chicken
+meat eat pasta nutrition nourishment pasta fruits vegetables eat vegetable animal
+cereal rice milk meat victuals fruits vegetables cereal fruit restaurant nourishment
+edible seafood meal sushi nutrition milk fruit meat animal eat
+MidnightBlue MistyRose Peru DarkTurquoise DarkSalmon PowderBlue Maroon Moccasin LightSlateGray MidnightBlue
+MintCream LightGreen DarkGray Cornsilk MintCream Tomato DarkTurquoise VioletRed PaleVioletRed Beige
+LightSlateGray Turquoise MediumOrchid Bisque Peru Wheat PaleGoldenrod Honeydew RosyBrown Purple
+MidnightBlue LightGray Lavender MistyRose Pink LightCoral Gold LightSteelBlue Coral OrangeRed
+LightSlateBlue Yellow MediumAquamarine DarkGray DimGray DarkSlateBlue SpringGreen LightSeaGreen WhiteSmoke PapayaWhip
+LightSalmon SeaGreen LightCoral SlateBlue DarkSlateGray VioletRed DarkSlateGray DarkBlue SaddleBrown Brown
+LightSteelBlue Lavender MediumOrchid Blue LightGoldenrod CornflowerBlue LightGoldenrodYellow DarkRed ForestGreen Burlywood
+ForestGreen SteelBlue Gold LightSalmon Tan HotPink Lime Fuchsia PaleTurquoise BlueViolet
+Burlywood DarkViolet DarkRed MintCream Lavender PaleVioletRed Seashell DarkOrchid DodgerBlue Moccasin
+AntiqueWhite LightSlateBlue DarkSlateBlue Chartreuse Goldenrod PowderBlue DarkGray MintCream MintCream RoyalBlue
+DarkKhaki MediumSeaGreen Chocolate Brown Aquamarine Linen VioletRed LightSalmon Linen DarkOliveGreen
+temperature__71c temperature__28c temperature__5c temperature__58c temperature__54c temperature__70c temperature__46c temperature__109c temperature__71c temperature__108c
+temperature__100c temperature__118c temperature__111c temperature__10c temperature__132c temperature__73c temperature__91c temperature__35c temperature__16c temperature__17c
+temperature__53c temperature__4c temperature__26c temperature__93c temperature__131c temperature__33c temperature__31c temperature__8c temperature__39c temperature__95c
+temperature__105c temperature__2c temperature__34c temperature__10c temperature__64c temperature__42c temperature__41c temperature__79c temperature__139c temperature__47c
+temperature__46c temperature__108c temperature__23c temperature__124c temperature__39c temperature__47c temperature__148c temperature__140c temperature__33c temperature__11c
+temperature__36c temperature__49c temperature__54c temperature__21c temperature__141c temperature__56c temperature__59c temperature__2c temperature__87c temperature__137c
+temperature__16c temperature__16c temperature__144c temperature__21c temperature__132c temperature__44c temperature__106c temperature__57c temperature__8c temperature__33c
+temperature__58c temperature__40c temperature__140c temperature__33c temperature__68c temperature__140c temperature__27c temperature__129c temperature__146c temperature__17c
+temperature__42c temperature__93c temperature__78c temperature__4c temperature__136c temperature__88c temperature__56c temperature__17c temperature__59c temperature__77c
+temperature__12c temperature__16c temperature__0c temperature__41c temperature__41c temperature__49c temperature__118c temperature__50c temperature__123c temperature__82c
+temperature__28c temperature__120c temperature__86c temperature__63c temperature__26c temperature__2c temperature__56c temperature__86c temperature__35c temperature__7c
+anonymity bribe corruption anonymity mendacity intimidation coterie tycoon tycoon coercion
+scandal assail reputation reputation covert illicit cadre infringement partial recrimination
+extortion alliance incident expose incident prestidigitation claim feud unsavory chicanery
+plutocracy fray malfeasance deny partial malfeasance collaboration covert recrimination unsavory
+recrimination resignation regime revelation recrimination coercion debacle authoritarian feud tycoon
+sloth opportunist deception bamboozle covert mercurial intimidation tycoon subterfuge obscure
+cadre bamboozle blame obscure retaliation reckless debacle rebut malfeasance authoritarian
+blame coterie mendacity cadre embezzlement covert proxy defamation acolyte scandal
+manipulate manipulate plutocracy refute laconic engagement mendacity retaliation plutocracy incident
+deflect hypocrisy proxy accusation acolyte refute coercion massive unsavory coterie
+privilege hypocrisy rebut rebut regime fiasco plagiarism unsavory recrimination infringement
+zoology fish birds puppy domesticate heterotroph animals cat workanimal rodent
+bear insectivore zooplankton reptiles bug bear pet bird superdog object
+jellyfish thoroughbred mammal fauna cats vegan jellyfish shelter insectivorous rabbit
+bird insects vertebrate scavenger protist deer metazoan pigs amphibians reptile
+object multicellular carnivore mammals plant feline workanimal elephants superdog frog
+porifera pups scavenger insectivore jellyfish animalia bobcat clams varmint zoo
+darter fish fleshly biped fantasy scavenger heterotroph superdog bear rodent
+mammals dog chickens ladybug pigs amphibians ladybug sheep mammals pet
+object wild bear meat plant zoo fish livestock tiger multicellular
+tame cats pigs zoology tiger embryo poikilotherm poikilotherm meat puppy
+bird insectivore monster heterotroph chordate animal welfare dogs fauna porifera cat
+17:44 10:13 13:37 14:45 18:15 21:12 17:49 13:10 21:28 14:58
+21:50 10:59 12:59 19:35 20:41 12:19 15:42 19:52 10:59 11:37
+19:21 21:46 14:36 21:20 10:30 19:44 22:35 19:52 11:26 10:58
+15:52 12:22 13:59 10:44 23:52 22:53 17:52 18:38 19:35 16:37
+15:52 16:46 21:18 11:13 20:12 18:27 10:18 23:35 21:57 18:38
+13:34 20:24 15:28 16:21 16:43 10:10 20:59 17:23 14:44 16:35
+12:39 18:28 17:32 11:50 13:56 21:18 12:14 22:45 19:23 16:18
+15:16 13:16 20:39 15:56 14:20 15:52 18:11 12:19 12:38 23:55
+17:38 11:28 19:58 15:55 22:34 14:19 14:56 12:11 19:36 12:34
+22:56 22:15 13:25 23:44 20:37 12:33 12:50 14:56 12:23 17:31
+12:11 20:40 19:44 13:47 15:59 22:41 14:51 13:40 10:29 13:59
+musicians movies composing prelude maps conduct madrigal fermata melodic recording
+soundtracks talking folk instrument concerto ensemble playing talk poetry popular music
+ensemble dixieland jazz paleolithic melodies concerto roulade cultural clarinet sforzando
+percussion conduct prelude clapping songwriter funk symphonise chorus lute part
+podcast ensemble playlist tonality cadence harpsichord muses atonal clarinet artist
+percussion harpsichord rockabilly favorite dixieland violoncello ambient bebop ambience favorite
+party playlists schubert exposition talking podcast lyric studio arts lyrics
+ambient instrumentals art music paleolithic lights orchestra merch blues works percussion
+intonation choir bebop merch label harpsichord pitch artist roulade graduation
+movie speak conducting conduct release sounds jazz noise chaconne phone
+rag ambience schubert live carol double bass videos double bass tuning harp

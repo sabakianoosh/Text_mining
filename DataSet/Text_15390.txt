@@ -1,0 +1,99 @@
+BinaryNumber_1010110 BinaryNumber_0100010 BinaryNumber_0100111 BinaryNumber_1001011 BinaryNumber_1001110 BinaryNumber_0001100 BinaryNumber_0111000 BinaryNumber_0010110 BinaryNumber_1001111 BinaryNumber_0110111
+BinaryNumber_0100010 BinaryNumber_0100100 BinaryNumber_0101101 BinaryNumber_0011110 BinaryNumber_0100101 BinaryNumber_1010000 BinaryNumber_0111101 BinaryNumber_0011010 BinaryNumber_0000100 BinaryNumber_0111111
+BinaryNumber_1000010 BinaryNumber_1010001 BinaryNumber_0000010 BinaryNumber_0010001 BinaryNumber_1010001 BinaryNumber_0000000 BinaryNumber_0010000 BinaryNumber_1010000 BinaryNumber_1001100 BinaryNumber_0111011
+BinaryNumber_1000111 BinaryNumber_0110000 BinaryNumber_0100010 BinaryNumber_0001100 BinaryNumber_0010000 BinaryNumber_1011000 BinaryNumber_1000000 BinaryNumber_0010101 BinaryNumber_0000110 BinaryNumber_0010001
+BinaryNumber_1001010 BinaryNumber_0011110 BinaryNumber_0101111 BinaryNumber_0101001 BinaryNumber_0001001 BinaryNumber_1000110 BinaryNumber_1100011 BinaryNumber_1011011 BinaryNumber_0001000 BinaryNumber_1000101
+BinaryNumber_1001110 BinaryNumber_0000001 BinaryNumber_0011100 BinaryNumber_0111110 BinaryNumber_0101001 BinaryNumber_0011000 BinaryNumber_1001101 BinaryNumber_0100001 BinaryNumber_0100111 BinaryNumber_0110011
+BinaryNumber_1010001 BinaryNumber_0110000 BinaryNumber_0111100 BinaryNumber_0110111 BinaryNumber_1000011 BinaryNumber_1010110 BinaryNumber_1010001 BinaryNumber_1000010 BinaryNumber_0101000 BinaryNumber_0110000
+BinaryNumber_0111100 BinaryNumber_0110111 BinaryNumber_1011001 BinaryNumber_1001111 BinaryNumber_0100011 BinaryNumber_0110000 BinaryNumber_1010110 BinaryNumber_0000101 BinaryNumber_0010000 BinaryNumber_1011001
+BinaryNumber_0101100 BinaryNumber_1011111 BinaryNumber_0011100 BinaryNumber_1000101 BinaryNumber_0100101 BinaryNumber_0111000 BinaryNumber_1000001 BinaryNumber_0010101 BinaryNumber_0011100 BinaryNumber_1011100
+BinaryNumber_1001000 BinaryNumber_1010101 BinaryNumber_0000011 BinaryNumber_1010100 BinaryNumber_0111111 BinaryNumber_0011110 BinaryNumber_1011001 BinaryNumber_0011111 BinaryNumber_1000001 BinaryNumber_0100101
+BinaryNumber_1001011 BinaryNumber_0000100 BinaryNumber_1100011 BinaryNumber_0001010 BinaryNumber_0110110 BinaryNumber_1100010 BinaryNumber_1001111 BinaryNumber_0100110 BinaryNumber_0100010 BinaryNumber_0101100
+Raisin Sapodilla Grape Cloudberry Raspberry Passionfruit Salmonberry Date Coconut Blackcurrant
+Persimmon Watermelon Açaí Jackfruit Marionberry Cloudberry Mandarine Mango Bilberry Elderberry
+Melon Bilberry Raisin Feijoa Cantaloupe Elderberry Mangosteen Tamarind Grape Sapote
+Peach Elderberry Melon Melon Kiwifruit Prune Elderberry Huckleberry Durian Cempedak
+Raisin Honeyberry Satsuma Prune Fig Lychee Strawberry Mandarine Tangerine Apricot
+Coconut Tangelo Ackee Plumcot Soursop Salak Akebi Breadfruit Persimmon Jujube
+Araza Acerola Apricot Pineberry Pomegranate Cempedak Mulberry Sapodilla Loquat Tangelo
+Bilberry Sapodilla Akebi Cempedak Kiwano Sapodilla Strawberry Loganberry Acerola Quince
+Tamarind Lemon Apricot Date Papaya Canistel Salmonberry Salmonberry Tangerine Acerola
+Watermelon Redcurrant Rambutan  Quince Date Akebi Quince Yuzu Fig Blackcurrant
+Plantain Apricot Kiwano Plum Melon Apricot Cherry Loganberry Pomelo Persimmon
+23:44 12:19 22:42 15:48 13:31 22:14 15:58 17:33 19:50 22:35
+17:28 10:48 18:33 10:12 17:29 11:21 22:50 10:42 21:27 18:38
+15:39 21:11 12:36 12:35 18:42 19:47 12:22 20:33 17:25 13:11
+13:24 12:34 13:24 22:30 20:19 21:37 17:36 10:36 18:28 20:52
+17:41 23:58 13:28 10:51 15:25 21:13 15:23 11:54 19:59 18:43
+12:54 17:55 10:46 23:14 15:46 15:20 14:12 22:38 11:57 15:45
+10:30 17:23 15:12 10:56 11:55 14:56 17:29 20:55 18:36 14:46
+15:25 20:46 17:53 15:57 10:40 19:40 17:11 11:45 13:19 21:52
+12:11 16:16 23:13 11:26 12:51 23:30 16:25 11:51 14:33 11:30
+20:52 16:59 11:30 12:34 18:55 12:54 19:59 10:38 19:24 17:25
+12:35 20:29 11:37 11:58 19:40 19:52 17:21 18:44 10:13 20:41
+athletic athlete skylark waterski utility run spar motorcycling field extracurricular
+goal fun company ineligible athletic gambol motorsports music skating sportaccord
+skiing gambol hobby competition rowing social fast gym art exercise
+combat diver gambol polo tournament dynamic lark multisport archery waterski
+activities gymnastics soccerball lark basketball kill ineligible limited boulder standard
+cavort skating social position work yoga multisport hunters athlete judo
+funambulism physical hockey tournament cross exercises running ski cavort video
+comfort archery frolic schuss soccerball skateboarding suit safari club champion
+job diver bouldering boast entertainment events social hobby sportsman gamely
+industry fast rowing dive premium champion games offside movement lifestyle
+soccer gym snowboarding volleyball racing wipeout football shoot comfort job
+temperature__98c temperature__21c temperature__138c temperature__31c temperature__122c temperature__93c temperature__98c temperature__148c temperature__118c temperature__23c
+temperature__8c temperature__79c temperature__119c temperature__65c temperature__22c temperature__122c temperature__16c temperature__56c temperature__98c temperature__23c
+temperature__54c temperature__53c temperature__90c temperature__141c temperature__27c temperature__28c temperature__68c temperature__70c temperature__70c temperature__61c
+temperature__79c temperature__88c temperature__26c temperature__54c temperature__35c temperature__24c temperature__79c temperature__22c temperature__105c temperature__3c
+temperature__144c temperature__112c temperature__39c temperature__11c temperature__147c temperature__2c temperature__24c temperature__144c temperature__33c temperature__144c
+temperature__65c temperature__116c temperature__106c temperature__64c temperature__26c temperature__74c temperature__53c temperature__73c temperature__7c temperature__4c
+temperature__85c temperature__79c temperature__111c temperature__91c temperature__136c temperature__40c temperature__130c temperature__126c temperature__22c temperature__87c
+temperature__40c temperature__64c temperature__120c temperature__56c temperature__136c temperature__85c temperature__22c temperature__23c temperature__26c temperature__78c
+temperature__73c temperature__112c temperature__106c temperature__136c temperature__2c temperature__119c temperature__73c temperature__86c temperature__14c temperature__86c
+temperature__36c temperature__6c temperature__63c temperature__42c temperature__54c temperature__30c temperature__147c temperature__138c temperature__53c temperature__30c
+temperature__34c temperature__140c temperature__52c temperature__138c temperature__120c temperature__136c temperature__87c temperature__145c temperature__82c temperature__106c
+computing vacuumtube expansionslot personalcomputer floppydisk desktopcomputer computing machines analogcomputer von neumann machine
+computing electrical virtualreality daw server computerhardware software desktopcomputer tablet imac
+router turingmachine console desktoppcs screen pc desktoppcs virtualreality transistor memory
+console virtualreality computercircuit watch sliderule arithmetic machinecode desktoppcs calculator machines
+tablet algorithm cybertechnology desktoppcs integratedcircuit homecomputer peripheral mobile mainframe personalcomputer
+virtualreality computation mechanicalcomputer escapekey centralprocessing unit information computercircuit computercide memory centralprocessing unit
+cyber visualdisplayunit smartphone imac game downloader camera floppydisk mobile keyboard
+watch turingmachine machines escapekey vacuumtube software homecomputer computing ibook game
+cyber electronics cybertechnology analogcomputer screen electromechanical computercide laptopcomputer information xbox
+eniac analogcomputer smartphone memory cell incompatible server monitor cpu peripheral
+pornographicimages compatible computerprogram hardware chip floppydisk cyber spyware supercomputer pc
+Black Bisque MediumTurquoise HotPink Thistle MediumAquamarine Tan BlueViolet Purple Bisque
+Peru Tan DarkCyan DarkGreen DarkSeaGreen Wheat DarkFuchsia Lime Blue DarkGray
+Sienna Cyan LightGray DarkOrange Brown DarkSlateBlue PaleVioletRed LightSeaGreen PowderBlue SlateBlue
+LightPink DarkBlue LightSlateBlue Gray SteelBlue Ivory AliceBlue DarkSlateBlue LightBlue Crimson
+Coral Cornsilk DarkKhaki MistyRose GreenYellow DarkOrange Snow MediumPurple Cyan ForestGreen
+HotPink Gold LightGoldenrodYellow LightYellow MidnightBlue PaleVioletRed Orchid Snow DarkSalmon Coral
+PapayaWhip PaleGreen Azure WhiteSmoke MediumBlue LightSkyBlue DarkSalmon RosyBrown Chartreuse DarkCyan
+Seashell LightCoral SeaGreen MediumTurquoise Cornsilk DarkOliveGreen SandyBrown LightYellow Cornsilk LightBlue
+Tan SlateGray NavajoWhite OliveDrab PapayaWhip DarkGreen SpringGreen DarkGreen Aquamarine Azure
+DarkFuchsia Orchid LightSlateGray PaleVioletRed RosyBrown LightSeaGreen Chartreuse Moccasin DimGray LightYellow
+Turquoise LightGoldenrod LightCyan Salmon PaleGreen Crimson AliceBlue DarkRed AntiqueWhite DarkSlateBlue
+vertebrate sheep plant fauna ladybug fleshly llamas carnal exoticanimals zooplankton
+carnal sensual embryo cats pups scavenger meat elephants bobcat fantasy
+zoo fantasy predatoryanimal bird sensual pigs puppy zooplankton reptiles pig
+animals vertebrate reptile cat marineanimal plant biped dogs demon creature
+sensual biped fish sensual frog ladybug feline deer zoo primate
+animal welfare raccoon pet plant zoology raccoon predatoryanimal deer reptiles chordate
+fish vegan animalkingdom pet monster bird biped animatebeing zoology sheep
+porifera jellyfish animal welfare vertebrate deer domesticate metazoan meat environmental insect
+deer pigs pitbull superdog insectivorous invertebrate animalia fauna animalia vegan
+mammal marineanimal octopuses wild zoology demon biped primate chordate sensual
+iguana primate amphibians poikilotherm tiger animal welfare livestock zoology llamas mythical
+nourishment drinks milk fruits vegetables meat chicken cheese meal nutrition cereal
+fruits vegetables cooking beef chicken meal sushi meal meat sushi milk
+meals restaurant vegetable victuals rice sushi fruit rice cereal nourishment
+provender vegetable milk sushi meals victuals beef rice meals restaurant
+vegetable pasta seafood milk victuals meat fruit edible cooking cheese
+meat cheese pasta rice edible cereal milk nutrition nutrition cheese
+cooking meal fruit fruits vegetables milk plant beef provender nourishment meal
+fruit restaurant nourishment nutrition restaurant meal edible restaurant chicken milk
+meals edible meals meal cheese milk fruits vegetables rice cereal seafood
+cheese milk eat pasta plant restaurant eat rice sushi eat
+sushi victuals fruits vegetables restaurant meals animal fruit pasta meal beef

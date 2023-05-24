@@ -1,0 +1,99 @@
+Linen Maroon PaleGoldenrod MistyRose DarkOrange Chocolate Black Yellow MediumSlateBlue Thistle
+LightSeaGreen Coral DarkSalmon BlueViolet Tan Lavender Crimson OliveDrab Violet VioletRed
+DarkOrchid MediumPurple DeepSkyBlue MediumSpringGreen Indigo PeachPuff BlueViolet DarkCyan BlueViolet IndianRed
+LightGray LightGreen Turquoise IndianRed SlateGray OldLace Beige DarkSeaGreen DarkGreen LightSalmon
+PowderBlue Lavender Feldspar MediumVioletRed FloralWhite Maroon LemonChiffon Gold PeachPuff LightSalmon
+Cornsilk DarkRed MintCream LightSeaGreen Violet White Silver MediumAquamarine IndianRed AliceBlue
+PeachPuff Gray DarkGoldenrod Lavender Teal Bisque Sienna MediumSeaGreen Thistle LightSlateBlue
+DarkSalmon MediumVioletRed MediumVioletRed DimGray SkyBlue MediumAquamarine Orange SandyBrown Crimson LavenderBlush
+Burlywood PeachPuff Beige Gainsboro Burlywood Orchid Indigo Chartreuse Snow Orchid
+SpringGreen Orchid LightBlue Gray Aquamarine Tomato PapayaWhip Brown Silver DarkOliveGreen
+Burlywood MediumPurple LawnGreen LightPink Gold MediumOrchid LightGray HotPink DarkOrchid NavajoWhite
+10:29 18:40 20:57 12:55 22:14 23:50 16:40 14:52 13:27 15:33
+11:44 15:41 20:14 16:15 12:55 11:23 21:54 23:46 21:15 19:33
+14:20 18:11 15:22 17:22 11:48 23:49 22:19 11:20 13:23 20:10
+21:11 21:57 18:21 13:53 21:38 12:34 15:48 16:27 10:24 19:43
+12:56 13:23 10:24 17:24 23:35 17:15 15:48 14:29 21:45 16:29
+18:33 15:33 14:55 11:29 12:14 15:38 16:40 14:33 19:10 11:59
+21:50 18:54 20:36 16:32 10:18 12:48 17:22 18:33 13:56 19:24
+20:52 12:58 19:13 19:30 18:19 12:49 19:36 21:35 17:52 11:58
+18:39 13:46 19:23 12:34 11:46 10:51 14:19 17:58 12:50 14:59
+17:54 13:36 10:22 12:15 19:23 17:13 23:58 21:57 17:17 23:40
+17:26 20:48 20:44 10:22 14:14 23:25 17:57 12:42 18:59 11:48
+plant meat restaurant meat nourishment meal rice rice nutrition nutrition
+victuals nourishment meat meal meal eat edible animal cheese pasta
+chicken fruits vegetables animal meals milk vegetable animal chicken milk seafood
+victuals cooking eat vegetable vegetable nourishment seafood cooking cereal cereal
+drinks rice nourishment milk nutrient chicken pasta nutrient chicken nutrition
+meals meals cereal eat victuals fruits vegetables fruits vegetables nourishment cereal cereal
+eat eat chicken restaurant chicken fruits vegetables provender vegetable milk pasta
+nourishment eat provender rice sushi cooking beef sushi nutrient cooking
+meat nourishment fruits vegetables vegetable fruit milk drinks victuals chicken seafood
+eat rice milk milk chicken nutrition nutrient nutrient fruits vegetables fruits vegetables
+sushi nutrition drinks plant fruit vegetable milk meat fruits vegetables rice
+Tongue Bladder Ear Duodenum Liver Smallintestine Mouth Trachea Spleen Cecum
+Vulva Tongue Tastebuds Pharynx Urethra Ureter Lens Tongue Cornea Hypothalamus
+Cerebellum Hypothalamus Pancreas Pons Jejunum Brain Vulva Tongue Larynx Eardrum
+Tongue Tastebuds Largeintestine Vagina Larynx Esophagus Penis Innerear Bladder Uterus
+Rectum Midbrain Pons Interstitium Eardrum Ossicles Duodenum Brain Capillaries Ureter
+Sensoryorgans Arteries Heart Cochlea Tonsils Esophagus Uterus Brain Ileum Ovaries
+Gallbladder Retina Ligaments Heart Ear Sensoryorgans Tongue Lens Urethra Tastebuds
+Cranialnerves Clitoris Placenta Pharynx Joints Eye Bronchi Ciliarybody Bronchi Middleear
+Spinalnerves Ligaments Liver Thalamus Liver Eye Rectum Bladder Cerebrum Scrotum
+Cerebellum Thalamus Nerves Iris Bladder Pharynx Iris Duodenum Retina Scrotum
+Cerebellum Tongue Pancreas Iris Ureter Ear Stomach Clitoris Bronchi Jejunum
+BinaryNumber_0101101 BinaryNumber_0101001 BinaryNumber_0011011 BinaryNumber_0011001 BinaryNumber_1010111 BinaryNumber_0101000 BinaryNumber_0110010 BinaryNumber_0001001 BinaryNumber_0100011 BinaryNumber_0011101
+BinaryNumber_0001001 BinaryNumber_0100100 BinaryNumber_1011101 BinaryNumber_0001110 BinaryNumber_0010110 BinaryNumber_0111111 BinaryNumber_0101000 BinaryNumber_1011110 BinaryNumber_1100000 BinaryNumber_0011010
+BinaryNumber_0000100 BinaryNumber_1100011 BinaryNumber_0010101 BinaryNumber_0010110 BinaryNumber_0111010 BinaryNumber_0011110 BinaryNumber_0010000 BinaryNumber_1011100 BinaryNumber_0010111 BinaryNumber_0110001
+BinaryNumber_0010010 BinaryNumber_1011010 BinaryNumber_0000100 BinaryNumber_0011010 BinaryNumber_0010110 BinaryNumber_0010011 BinaryNumber_0010000 BinaryNumber_1100010 BinaryNumber_0111010 BinaryNumber_0001011
+BinaryNumber_1011010 BinaryNumber_1010000 BinaryNumber_0110000 BinaryNumber_0011000 BinaryNumber_1010101 BinaryNumber_0010110 BinaryNumber_0101011 BinaryNumber_0100010 BinaryNumber_0111001 BinaryNumber_1100001
+BinaryNumber_0010011 BinaryNumber_0011010 BinaryNumber_0010100 BinaryNumber_0110001 BinaryNumber_1100010 BinaryNumber_0111101 BinaryNumber_1001100 BinaryNumber_1011111 BinaryNumber_0100111 BinaryNumber_0101111
+BinaryNumber_0010111 BinaryNumber_0001011 BinaryNumber_0001011 BinaryNumber_1100010 BinaryNumber_0100101 BinaryNumber_0011000 BinaryNumber_0011111 BinaryNumber_0001111 BinaryNumber_0010100 BinaryNumber_1010010
+BinaryNumber_1000001 BinaryNumber_0000000 BinaryNumber_0101010 BinaryNumber_1011101 BinaryNumber_0101010 BinaryNumber_0010011 BinaryNumber_1010010 BinaryNumber_0110011 BinaryNumber_1100011 BinaryNumber_1001110
+BinaryNumber_0111000 BinaryNumber_1011000 BinaryNumber_1001010 BinaryNumber_0011011 BinaryNumber_0010110 BinaryNumber_0010101 BinaryNumber_0100000 BinaryNumber_0100110 BinaryNumber_0110111 BinaryNumber_1011011
+BinaryNumber_1011001 BinaryNumber_1010101 BinaryNumber_0101100 BinaryNumber_0101000 BinaryNumber_0010000 BinaryNumber_1001111 BinaryNumber_0100100 BinaryNumber_0010011 BinaryNumber_0111100 BinaryNumber_0001100
+BinaryNumber_1100000 BinaryNumber_0011100 BinaryNumber_1010101 BinaryNumber_0010100 BinaryNumber_0010110 BinaryNumber_1100010 BinaryNumber_0111111 BinaryNumber_1011101 BinaryNumber_0110001 BinaryNumber_0111100
+automation proprietary desktop data cell computerprogramming diskette compatible machines computercide
+integratedcircuit pc computerprogramming analogcomputer desktopcomputer visualdisplayunit digitalcommunication astrolabe laptop desktoppcs
+browser computercide machine chip mobiledevice visualdisplayunit computerprogramming keyboard visualdisplayunit electronics
+escapekey programmer digital abacus turingmachine desktopcomputer laptopcomputer incompatible vacuumtube pc
+automation peripheral cyber homecomputer analogcomputer bit watch tablet vacuumtube centralprocessing unit
+homecomputer router information visualdisplayunit algorithm cyber automation mobiledevice mobiledevice daw
+microcomputer diskette desktopcomputer microprocessor processor turingmachine calculator astrolabe social virtualreality
+automation transistor memory electromechanical machinecode microprocessor turingmachine escapekey computerprogramming integratedcircuit
+vacuumtube desktopcomputer office centralprocessing unit personalcomputer mainframe server processor homecomputer keyboard
+peripheral desktopcomputer computerscience electrical programming mobiledevice microprocessor office office computerhardware
+computing android centralprocessing unit vacuumtube computation downloader mechanicalcomputer memory machinecode console
+SquareNumber_2500 SquareNumber_4225 SquareNumber_8836 SquareNumber_1521 SquareNumber_81 SquareNumber_2809 SquareNumber_9216 SquareNumber_7056 SquareNumber_6241 SquareNumber_289
+SquareNumber_9 SquareNumber_8649 SquareNumber_8649 SquareNumber_49 SquareNumber_7744 SquareNumber_1600 SquareNumber_2500 SquareNumber_64 SquareNumber_8649 SquareNumber_2601
+SquareNumber_4 SquareNumber_324 SquareNumber_16 SquareNumber_5041 SquareNumber_1681 SquareNumber_676 SquareNumber_25 SquareNumber_3844 SquareNumber_9025 SquareNumber_5625
+SquareNumber_3721 SquareNumber_6561 SquareNumber_5041 SquareNumber_1681 SquareNumber_6889 SquareNumber_1225 SquareNumber_8281 SquareNumber_7569 SquareNumber_2116 SquareNumber_3025
+SquareNumber_2500 SquareNumber_625 SquareNumber_9 SquareNumber_8464 SquareNumber_196 SquareNumber_1369 SquareNumber_5776 SquareNumber_6084 SquareNumber_784 SquareNumber_289
+SquareNumber_4096 SquareNumber_2601 SquareNumber_784 SquareNumber_3025 SquareNumber_1849 SquareNumber_7744 SquareNumber_729 SquareNumber_900 SquareNumber_8836 SquareNumber_2500
+SquareNumber_5476 SquareNumber_2500 SquareNumber_3025 SquareNumber_5476 SquareNumber_3721 SquareNumber_7921 SquareNumber_289 SquareNumber_289 SquareNumber_5329 SquareNumber_4225
+SquareNumber_2916 SquareNumber_9 SquareNumber_1936 SquareNumber_81 SquareNumber_625 SquareNumber_3364 SquareNumber_1225 SquareNumber_5041 SquareNumber_784 SquareNumber_7744
+SquareNumber_6889 SquareNumber_81 SquareNumber_1296 SquareNumber_9 SquareNumber_1849 SquareNumber_36 SquareNumber_169 SquareNumber_4 SquareNumber_3969 SquareNumber_4356
+SquareNumber_841 SquareNumber_5776 SquareNumber_900 SquareNumber_1600 SquareNumber_5041 SquareNumber_49 SquareNumber_169 SquareNumber_64 SquareNumber_5625 SquareNumber_144
+SquareNumber_1849 SquareNumber_8281 SquareNumber_4900 SquareNumber_2401 SquareNumber_4489 SquareNumber_1089 SquareNumber_3364 SquareNumber_9801 SquareNumber_9216 SquareNumber_4900
+thoroughbred bear pigs mammal rabbit amphibians superdog puppy pups multicellular
+insectivore zooplankton animals wildlife meat elephants deer zoo eukaryotic plant
+eukaryotic pigs embryo birds iguana marineanimal sensual metazoan superdog rabbit
+creature beast dogs dogs carnivore object thoroughbred iguana environmental wildlife
+sensual fish meat octopuses fauna bobcat chordate insect iguana sheep
+chordate shelter poikilotherm feline workanimal vegan sensual scavenger primate sensual
+animalkingdom dog bobcat workanimal zoology zooplankton multicellular carnal heterotroph dog
+creature zoo domesticate farming tufted darter ladybug carnivore insect meat
+wildlife chickens object rabbit domesticate sensual animatebeing carnal pet fish
+zoology pups bug exoticanimals animal welfare dog pigs octopuses cats workanimal
+tufted carnivore scavenger birds chickens animalia tame tufted epizootic invertebrate
+sentence skyjack murders human lift criminals detective slay lift sentence
+sin lift drama muggings prison noir law-breaking police imprisonment offence
+crime cybercrime barratry liberty drama arsons lift fraud guilt shoplift
+assault death mystery genocide country kill criminal prostitution imprisonment investigation
+shoplift mafia mafia robbery offense gun human jurisdiction homeless shootings
+homicide corrupt drug slay snitching gangs guilty gangsterism criminal massacre
+theft legislature cop offense violence misdemeanour hijack law homelessness robbery
+trafficking human barratry offense conspiracy terrorism mob criminals dark detective
+violence liberty skyjack trial offenses murders bloodshed cybercrime poverty criminality
+gun violence law barratry political theft police vandalism corrupt lift
+muggings punishment law-breaking highjack country corruption hijack revenge vandalism felony

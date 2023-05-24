@@ -1,0 +1,99 @@
+SquareNumber_441 SquareNumber_7056 SquareNumber_25 SquareNumber_1024 SquareNumber_7056 SquareNumber_4 SquareNumber_676 SquareNumber_6241 SquareNumber_1296 SquareNumber_2916
+SquareNumber_3025 SquareNumber_7056 SquareNumber_5476 SquareNumber_7744 SquareNumber_9216 SquareNumber_4356 SquareNumber_8836 SquareNumber_9604 SquareNumber_3721 SquareNumber_3969
+SquareNumber_25 SquareNumber_1296 SquareNumber_484 SquareNumber_169 SquareNumber_5929 SquareNumber_6724 SquareNumber_10000 SquareNumber_676 SquareNumber_225 SquareNumber_7056
+SquareNumber_529 SquareNumber_2601 SquareNumber_1089 SquareNumber_3025 SquareNumber_900 SquareNumber_7396 SquareNumber_324 SquareNumber_1089 SquareNumber_5184 SquareNumber_1024
+SquareNumber_4489 SquareNumber_7569 SquareNumber_6400 SquareNumber_324 SquareNumber_7225 SquareNumber_8836 SquareNumber_1521 SquareNumber_289 SquareNumber_361 SquareNumber_1600
+SquareNumber_2304 SquareNumber_9025 SquareNumber_324 SquareNumber_7921 SquareNumber_324 SquareNumber_5625 SquareNumber_324 SquareNumber_6241 SquareNumber_3600 SquareNumber_6400
+SquareNumber_9604 SquareNumber_4761 SquareNumber_1600 SquareNumber_1849 SquareNumber_1849 SquareNumber_225 SquareNumber_1521 SquareNumber_1156 SquareNumber_1764 SquareNumber_6561
+SquareNumber_7744 SquareNumber_16 SquareNumber_3721 SquareNumber_7396 SquareNumber_2601 SquareNumber_6084 SquareNumber_676 SquareNumber_5329 SquareNumber_6241 SquareNumber_441
+SquareNumber_2025 SquareNumber_8649 SquareNumber_1764 SquareNumber_7396 SquareNumber_100 SquareNumber_1156 SquareNumber_2401 SquareNumber_8464 SquareNumber_9604 SquareNumber_1681
+SquareNumber_3481 SquareNumber_196 SquareNumber_1849 SquareNumber_4900 SquareNumber_169 SquareNumber_2704 SquareNumber_2304 SquareNumber_2116 SquareNumber_3481 SquareNumber_4356
+SquareNumber_3364 SquareNumber_529 SquareNumber_784 SquareNumber_144 SquareNumber_1296 SquareNumber_4096 SquareNumber_144 SquareNumber_36 SquareNumber_3249 SquareNumber_225
+BinaryNumber_0100110 BinaryNumber_0000000 BinaryNumber_1000011 BinaryNumber_0100000 BinaryNumber_0110111 BinaryNumber_0010001 BinaryNumber_0101111 BinaryNumber_1000101 BinaryNumber_0000010 BinaryNumber_0000111
+BinaryNumber_1100000 BinaryNumber_1000010 BinaryNumber_0001111 BinaryNumber_1010011 BinaryNumber_0100011 BinaryNumber_0110101 BinaryNumber_0001010 BinaryNumber_0100111 BinaryNumber_0000101 BinaryNumber_1010000
+BinaryNumber_1000011 BinaryNumber_0010100 BinaryNumber_0100110 BinaryNumber_1100010 BinaryNumber_0100110 BinaryNumber_1011001 BinaryNumber_0100110 BinaryNumber_0101001 BinaryNumber_0110110 BinaryNumber_1100000
+BinaryNumber_1010011 BinaryNumber_1001110 BinaryNumber_1000011 BinaryNumber_0110001 BinaryNumber_1010111 BinaryNumber_0111111 BinaryNumber_0111010 BinaryNumber_1000000 BinaryNumber_1100000 BinaryNumber_0000011
+BinaryNumber_0011110 BinaryNumber_0000000 BinaryNumber_1011001 BinaryNumber_0111011 BinaryNumber_1001001 BinaryNumber_0110001 BinaryNumber_0011110 BinaryNumber_1001111 BinaryNumber_0100001 BinaryNumber_0110010
+BinaryNumber_0001011 BinaryNumber_0001011 BinaryNumber_1001000 BinaryNumber_1010100 BinaryNumber_0001001 BinaryNumber_0011011 BinaryNumber_0011101 BinaryNumber_0010101 BinaryNumber_1001001 BinaryNumber_1001000
+BinaryNumber_1001111 BinaryNumber_1010000 BinaryNumber_0011101 BinaryNumber_0101001 BinaryNumber_0111010 BinaryNumber_1000000 BinaryNumber_0011000 BinaryNumber_1000100 BinaryNumber_0000000 BinaryNumber_0100111
+BinaryNumber_0000110 BinaryNumber_0010110 BinaryNumber_0110110 BinaryNumber_0010001 BinaryNumber_0011100 BinaryNumber_0010110 BinaryNumber_0110000 BinaryNumber_0101001 BinaryNumber_1000101 BinaryNumber_0000000
+BinaryNumber_0001011 BinaryNumber_1001111 BinaryNumber_0111001 BinaryNumber_1001001 BinaryNumber_1011100 BinaryNumber_0100111 BinaryNumber_1011000 BinaryNumber_0011100 BinaryNumber_1100011 BinaryNumber_1010101
+BinaryNumber_0100111 BinaryNumber_0101100 BinaryNumber_0010110 BinaryNumber_1010110 BinaryNumber_1001010 BinaryNumber_1011001 BinaryNumber_1001011 BinaryNumber_0101010 BinaryNumber_0101101 BinaryNumber_0100101
+BinaryNumber_1001101 BinaryNumber_0001101 BinaryNumber_1011001 BinaryNumber_0010100 BinaryNumber_0110010 BinaryNumber_0111111 BinaryNumber_0111110 BinaryNumber_1011101 BinaryNumber_1001000 BinaryNumber_0101111
+Mango Currant Loganberry Pomelo Jujube Huckleberry Loquat Peach Mandarine Mandarine
+Jackfruit Blackcurrant Grapefruit Quince Blackberry Canistel Lemon Damson Ackee Cranberry
+Rambutan  Date Persimmon Cempedak Durian Salmonberry Longan Cempedak Grapefruit Lulo
+Jambul Honeydew Loquat Cempedak Abiu Pomelo Cherimoya Cloudberry Plum Damson
+Bilberry Cantaloupe Lulo Cherimoya Nance Fig Honeyberry Açaí Lime Blackcurrant
+Loquat Breadfruit Pineberry Blackberry Jackfruit Cempedak Pawpaw Plumcot Bilberry Apple
+Honeyberry Blackcurrant Ximenia Elderberry Grape Cranberry Pomelo Papaya Quince Canistel
+Marionberry Marionberry Salak Plumcot Longan Boysenberry Lime Blackberry Lime Soursop
+Clementine Huckleberry Kiwano Pomegranate Guava Yuzu Guava Clementine Acerola Lime
+Blackberry Tamarillo Rambutan  Nance Cherry Araza Date Jostaberry Lychee Akebi
+Tamarillo Blueberry Plum Fig Plum Tangelo Plumcot Akebi Yuzu Kiwifruit
+cpu chip screen peripheral data analogcomputer processor floppydisk internet xbox
+information von neumann machine microprocessor cybertechnology office arithmetic hardware antivirus device algorithm
+hardware digitalcomputer chip screen antivirus spyware centralprocessing unit android browser computerprogram
+daw watch turingmachine analogcomputer office compatible supercomputer transistor daw monitor
+desktoppcs calculator von neumann machine device desktop digitalaudioplayer tablet calculator pornographicimages computercide
+processor integratedcircuit supercomputer xbox virtualreality machines machines programming computercide downloader
+microcomputer mobiledevice chip pornographicimages internet computerscience information abacus centralprocessing unit incompatible
+programming transistor abacus monitor electromechanical supercomputer electrical console tablet astrolabe
+supercomputer digitalcomputer laptopcomputer daw ibook data camera computercircuit digitalcommunication personalcomputer
+automation proprietary game bit server pornographicimages console computerprogramming information digitalaudioplayer
+tablet computerhardware spyware computerprogram digitalcommunication machinecode browser sliderule mechanicalcomputer keyboard
+manipulate impunity extortion illegal recrimination tycoon resignation patronage reputation beleaguer
+integrity alliance illegal persecution sloth alliance deception alliance bribe refute
+mercurial coterie mendacity influence authoritarian anonymity extortion allegation benefit tarnish
+reputation regime reputation engagement engagement onerous conceal endorsement claim unethical
+cadre reckless infringement regime mendacity demagogue engagement career beleaguer acolyte
+authoritarian lobby subterfuge conceal demagogue anonymity patriarchy obscure privilege saga
+deception beleaguer bamboozle scapegoat infringement plutocracy assail manipulate proxy deny
+patronage scapegoat regime malfeasance incident plutocracy influence lobby alliance onerous
+reputation lobby dictatorship authoritarian denigrate unethical acolyte acolyte integrity anonymity
+fiasco laconic mendacity patronage endorsement unethical cadre intimidation claim tainted
+temptation denigrate persecution laconic denigrate conceal reckless onerous privilege career
+temperature__36c temperature__61c temperature__148c temperature__100c temperature__106c temperature__10c temperature__119c temperature__70c temperature__122c temperature__4c
+temperature__139c temperature__79c temperature__69c temperature__145c temperature__24c temperature__30c temperature__58c temperature__90c temperature__52c temperature__100c
+temperature__4c temperature__140c temperature__86c temperature__138c temperature__112c temperature__17c temperature__59c temperature__31c temperature__108c temperature__31c
+temperature__10c temperature__119c temperature__44c temperature__122c temperature__6c temperature__118c temperature__137c temperature__131c temperature__85c temperature__50c
+temperature__109c temperature__144c temperature__120c temperature__11c temperature__122c temperature__139c temperature__112c temperature__137c temperature__138c temperature__34c
+temperature__56c temperature__16c temperature__69c temperature__54c temperature__136c temperature__56c temperature__124c temperature__54c temperature__116c temperature__91c
+temperature__10c temperature__142c temperature__137c temperature__132c temperature__91c temperature__24c temperature__92c temperature__140c temperature__71c temperature__68c
+temperature__84c temperature__98c temperature__146c temperature__3c temperature__69c temperature__100c temperature__39c temperature__16c temperature__35c temperature__86c
+temperature__50c temperature__95c temperature__3c temperature__23c temperature__33c temperature__3c temperature__39c temperature__69c temperature__100c temperature__46c
+temperature__112c temperature__123c temperature__109c temperature__109c temperature__82c temperature__118c temperature__61c temperature__30c temperature__63c temperature__23c
+temperature__147c temperature__79c temperature__36c temperature__44c temperature__61c temperature__70c temperature__3c temperature__69c temperature__34c temperature__122c
+Divan Buffet Cradle Wicker Sconce Applique Light Furnishings Chair Credenza
+Easel Console Valet Tansu Dresser Hutch Wicker Waterbed Sofabed Footrest
+Cart Fluting Cradle Mantle Hokey Headboards Fauteuil Screen Zitan Bureau
+Island Fauteuil Hokey Air-conditioner Lounger Buffet Curtains Lamp Vanity Drapery
+Carpet Frieze Cot Tansu Rattle Ottoman Lamp Applique Cushions Cart
+Wheelchair Wicker Sofa Desk Divan Cot Sconce Carpet Jardinière Furnishings
+Television Credenza Applique Footstool Drapery Sideboard Rattle Frieze Jardinière Vitrine
+Hassock Armchair Headboards Television Fluting Desk Footstool Frieze Island Hutch
+Bench Valet Tansu Ottoman Bowfront Pantry Breakfront Cart Lounger Castor
+Headboard Console Cart Cabriole Sconce Island Valet Daybed Breakfront Baroque
+Screen Pantry Etagère Sideboard Lintel Breakfront Bookcase Settee Footrest Armoire
+rice nutrient meat plant nourishment cheese fruits vegetables beef drinks eat
+seafood pasta victuals milk cereal vegetable rice chicken restaurant cheese
+animal edible nutrition eat sushi provender drinks sushi fruit nutrition
+drinks nutrition fruits vegetables nourishment sushi eat restaurant restaurant plant meals
+vegetable restaurant fruits vegetables milk fruits vegetables seafood fruit fruit sushi milk
+restaurant rice pasta meat cheese nourishment eat meat fruit vegetable
+cooking fruit seafood provender fruits vegetables restaurant milk animal nutrition victuals
+cereal seafood nutrient cheese edible fruits vegetables victuals victuals fruits vegetables eat
+nutrition sushi chicken vegetable animal sushi edible chicken meat nutrient
+meal meal restaurant plant victuals cooking edible drinks meal provender
+chicken meal beef cheese provender restaurant animal drinks chicken fruit
+10:18 18:55 13:46 23:18 19:40 23:39 12:20 10:19 17:30 15:55
+19:25 22:37 13:42 19:36 17:23 10:59 20:45 22:35 11:35 23:59
+22:17 22:46 19:36 17:27 12:34 13:55 20:59 13:43 15:54 11:51
+18:52 16:34 18:59 11:41 10:51 22:21 14:46 20:28 14:40 19:57
+20:37 22:44 22:16 12:29 12:50 18:38 20:12 21:20 22:30 16:15
+12:10 22:39 14:47 23:11 18:28 11:32 23:31 19:56 23:46 21:37
+23:15 14:33 21:13 18:39 23:58 12:50 11:50 14:33 22:36 14:40
+22:31 16:25 21:53 17:10 22:15 14:23 16:25 22:32 17:15 19:39
+15:38 13:13 21:27 11:30 15:12 16:55 23:48 14:52 12:26 15:25
+21:44 22:30 13:20 16:51 19:13 16:18 19:26 15:46 10:49 16:17
+12:11 11:11 11:12 14:24 19:55 21:19 18:14 22:14 14:42 21:22

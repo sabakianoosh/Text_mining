@@ -1,0 +1,99 @@
+19:48 20:40 11:55 19:23 16:56 22:45 22:26 21:53 19:11 15:26
+20:17 14:18 22:44 17:58 13:17 20:31 11:47 11:47 23:49 17:22
+13:43 10:28 17:47 14:27 14:21 12:46 22:26 15:48 19:26 14:20
+18:29 21:19 21:23 16:13 11:43 14:12 10:43 11:19 10:15 11:24
+18:31 13:48 20:28 14:48 15:32 16:10 13:10 14:12 12:25 11:23
+23:31 14:17 22:16 15:14 21:11 12:26 16:53 11:11 10:23 21:14
+17:31 13:21 10:43 21:45 12:57 22:28 12:16 18:30 15:26 11:21
+20:41 10:38 18:55 21:47 20:31 16:24 12:10 10:33 23:44 15:28
+21:31 10:50 15:15 14:40 21:18 23:32 19:19 14:35 16:42 14:33
+11:28 21:49 11:34 12:27 18:35 13:33 20:47 20:32 12:52 16:18
+10:39 12:35 21:47 13:17 19:37 12:27 12:10 15:57 15:39 19:14
+BinaryNumber_1000111 BinaryNumber_0000100 BinaryNumber_0010110 BinaryNumber_0101001 BinaryNumber_0111110 BinaryNumber_1011101 BinaryNumber_1001001 BinaryNumber_0000110 BinaryNumber_0010001 BinaryNumber_0000111
+BinaryNumber_0110010 BinaryNumber_1001001 BinaryNumber_0101110 BinaryNumber_1001100 BinaryNumber_0101011 BinaryNumber_0100011 BinaryNumber_1011111 BinaryNumber_1010111 BinaryNumber_1000011 BinaryNumber_0010001
+BinaryNumber_1011000 BinaryNumber_1000010 BinaryNumber_0001100 BinaryNumber_0000001 BinaryNumber_0010110 BinaryNumber_1001001 BinaryNumber_0100111 BinaryNumber_0010100 BinaryNumber_0111111 BinaryNumber_0011110
+BinaryNumber_1010101 BinaryNumber_0101111 BinaryNumber_0011011 BinaryNumber_0010101 BinaryNumber_1000001 BinaryNumber_0101010 BinaryNumber_0011101 BinaryNumber_0100010 BinaryNumber_0000001 BinaryNumber_0100110
+BinaryNumber_1001011 BinaryNumber_0110000 BinaryNumber_0011010 BinaryNumber_0111111 BinaryNumber_0110011 BinaryNumber_1001100 BinaryNumber_1011010 BinaryNumber_1000001 BinaryNumber_1001110 BinaryNumber_0010010
+BinaryNumber_0011100 BinaryNumber_1010010 BinaryNumber_0011100 BinaryNumber_0100011 BinaryNumber_0010011 BinaryNumber_0000100 BinaryNumber_0010000 BinaryNumber_0111101 BinaryNumber_0000111 BinaryNumber_0110010
+BinaryNumber_0000001 BinaryNumber_1011011 BinaryNumber_0000000 BinaryNumber_0110101 BinaryNumber_0100111 BinaryNumber_0010100 BinaryNumber_1010111 BinaryNumber_0011101 BinaryNumber_0010011 BinaryNumber_0111101
+BinaryNumber_0000010 BinaryNumber_0010010 BinaryNumber_1001111 BinaryNumber_1011100 BinaryNumber_0010111 BinaryNumber_0000100 BinaryNumber_0100101 BinaryNumber_1011000 BinaryNumber_0001000 BinaryNumber_0011001
+BinaryNumber_0001010 BinaryNumber_1001011 BinaryNumber_1001101 BinaryNumber_0101101 BinaryNumber_1000001 BinaryNumber_1011111 BinaryNumber_1100010 BinaryNumber_0001110 BinaryNumber_0010100 BinaryNumber_0011000
+BinaryNumber_0110111 BinaryNumber_0001101 BinaryNumber_1011111 BinaryNumber_0000000 BinaryNumber_1011010 BinaryNumber_0101000 BinaryNumber_1100001 BinaryNumber_0111000 BinaryNumber_1001100 BinaryNumber_0000110
+BinaryNumber_1001111 BinaryNumber_1011111 BinaryNumber_0001010 BinaryNumber_1011000 BinaryNumber_0110001 BinaryNumber_1001100 BinaryNumber_0011001 BinaryNumber_1011110 BinaryNumber_0101010 BinaryNumber_0010101
+Armoire Marquetry Hokey Lintel Highchair Bench Marquetry Rack Light Credenza
+Bookshelf Table Curtains Shelf Couch Valet Bookcase Secretary Drapes Shelf
+Headboards Marquetry Fan Sofa Futon Breakfront Regency Bowfront Screen Tuffet
+Drapery Bookshelf Sideboard Mirror Valet Pliant Cabinet Jardinière Rug Castor
+Chair Etagère Upholstery Console Cupboard Light Sofabed Bassinet Fluting Sideboard
+Breakfront Rattle Dresser Tansu Desk Highchair Vitrine Lamp Hokey Rack
+Vitrine Throne Chandelier Volute Fan Bentwood Armchair Daybed Bentwood Cabinet
+Sconce Pillow Pantry Cabriole Wheelchair Frieze Bowfront Sconce Pillow Mattress
+Cupboard Armchair Desk Chair Fauteuil Bowfront Headboards Furniture Easel Bowfront
+Buffet Headboard Light Rug Credenza Headboards Baroque Buffet Bureau Headboard
+Lintel Tallboy Buffet Drapery Headboard Vanity Marquetry Footstool Bed Cabriole
+calculator console smartphone bit cyber keyboard processor pornographicimages cybertechnology ibook
+mainframe electromechanical machines router software integratedcircuit watch keyboard supercomputer analogcomputer
+von neumann machine computercide diskette centralprocessing unit chip peripheral information desktopcomputer android computerprogramming
+server internet router diskette keyboard device tablet cyber cpu server
+automation cpu xbox digitalaudioplayer microprocessor cyber ibook microcomputer computerhardware keyboard
+von neumann machine inputdevice expansionslot peripheral integratedcircuit von neumann machine homecomputer hardware arithmetic server
+memory computercide cyber supercomputer daw microprocessor digitalcommunication downloader visualdisplayunit chip
+inputdevice chip xbox antivirus astrolabe programming computerscience ibook machine computerprogramming
+programmer incompatible personalcomputer spyware desktop pornographicimages downloader virtualreality digital virtualreality
+laptopcomputer machinecode machine bit router machinecode vacuumtube pc cell cybertechnology
+downloader social game electrical analogcomputer console desktoppcs tablet tablet downloader
+SquareNumber_25 SquareNumber_9 SquareNumber_3025 SquareNumber_196 SquareNumber_5776 SquareNumber_5776 SquareNumber_3249 SquareNumber_5476 SquareNumber_9801 SquareNumber_3969
+SquareNumber_8281 SquareNumber_9801 SquareNumber_9604 SquareNumber_8464 SquareNumber_144 SquareNumber_5476 SquareNumber_729 SquareNumber_8836 SquareNumber_8836 SquareNumber_6724
+SquareNumber_256 SquareNumber_9025 SquareNumber_5041 SquareNumber_7396 SquareNumber_4 SquareNumber_3136 SquareNumber_5184 SquareNumber_6561 SquareNumber_3481 SquareNumber_1600
+SquareNumber_961 SquareNumber_4356 SquareNumber_4096 SquareNumber_625 SquareNumber_484 SquareNumber_1024 SquareNumber_1600 SquareNumber_961 SquareNumber_4624 SquareNumber_9216
+SquareNumber_64 SquareNumber_8836 SquareNumber_324 SquareNumber_256 SquareNumber_5184 SquareNumber_2025 SquareNumber_7396 SquareNumber_6241 SquareNumber_4 SquareNumber_441
+SquareNumber_4 SquareNumber_441 SquareNumber_8281 SquareNumber_7744 SquareNumber_1024 SquareNumber_4489 SquareNumber_9 SquareNumber_8464 SquareNumber_1296 SquareNumber_1600
+SquareNumber_2809 SquareNumber_9025 SquareNumber_64 SquareNumber_1225 SquareNumber_1849 SquareNumber_2809 SquareNumber_4761 SquareNumber_81 SquareNumber_324 SquareNumber_3844
+SquareNumber_5184 SquareNumber_6400 SquareNumber_324 SquareNumber_2401 SquareNumber_4900 SquareNumber_6561 SquareNumber_1369 SquareNumber_289 SquareNumber_400 SquareNumber_5041
+SquareNumber_2601 SquareNumber_576 SquareNumber_3721 SquareNumber_1600 SquareNumber_49 SquareNumber_784 SquareNumber_3600 SquareNumber_625 SquareNumber_3136 SquareNumber_1849
+SquareNumber_1369 SquareNumber_2209 SquareNumber_529 SquareNumber_3025 SquareNumber_5776 SquareNumber_676 SquareNumber_6084 SquareNumber_3249 SquareNumber_3600 SquareNumber_1089
+SquareNumber_441 SquareNumber_729 SquareNumber_5184 SquareNumber_7056 SquareNumber_900 SquareNumber_144 SquareNumber_3969 SquareNumber_289 SquareNumber_10000 SquareNumber_4489
+meal cooking meals milk meals restaurant cereal meals drinks edible
+rice nutrient fruits vegetables fruits vegetables soup vegetable victuals cheese eat plant
+milk rice nourishment victuals fruits vegetables seafood drinks nutrient cereal cooking
+chicken drinks meals chicken sushi pasta drinks rice eat edible
+eat milk meat vegetable meal victuals meal nutrition plant pasta
+soup edible plant restaurant edible cooking eat cereal fruits vegetables restaurant
+vegetable meat beef cooking fruits vegetables vegetable plant fruit edible cheese
+meals provender beef meals sushi vegetable fruits vegetables provender vegetable eat
+meal victuals plant restaurant drinks animal soup seafood vegetable beef
+cheese rice plant milk beef meals nutrient meat drinks nutrition
+eat nutrient plant vegetable seafood nutrition meat drinks victuals pasta
+cultural soundtracks genre musical albums oboe flute musicology improvisation tweedle
+rhythm talk chorus studio release visual ska chord art reggae
+instruments phone instrument rockabilly metal reggae classical entertainment cadence accompaniment
+pizzicato ragtime symphonic tuba fugue chaconne single tongue vibe harpsichord
+tempo vocals blues favorite noises audio double bass playlist atonal hyperpop
+single tonic musicology melodic rock fermata key dance triple-tongue recording
+movies noise improvisation radio soundtracks mp3s wagner melody chord composer
+metal songs classical bass media harmony melodic folk bebop phone
+motif streaming reggae tonic recording symphonise songwriter reggae harpsichord orchestra
+favorite singer festival key double bass live tuning gospel harmony bluegrass
+roulade flute timbre films hymn podcast voices concerto funk phenomenon
+DarkTurquoise MistyRose DarkTurquoise RosyBrown Purple PeachPuff LightGoldenrodYellow DodgerBlue Purple OldLace
+Lime MintCream Orchid SaddleBrown Black LightGray MediumSeaGreen SlateBlue DarkGray CadetBlue
+LightGreen LightSalmon SaddleBrown Red LimeGreen ForestGreen WhiteSmoke DarkGoldenrod LightPink GhostWhite
+Cornsilk Olive MintCream Goldenrod Violet LightSeaGreen Chocolate Sienna Gold Salmon
+SpringGreen DarkBlue Cyan IndianRed Goldenrod DarkKhaki DarkSalmon MediumTurquoise CornflowerBlue MediumOrchid
+LawnGreen Sienna Gray MintCream Silver RoyalBlue Blue Chartreuse GhostWhite Wheat
+Turquoise Fuchsia Blue MediumVioletRed PaleTurquoise DarkBlue AntiqueWhite Peru PaleVioletRed DarkBlue
+LightSteelBlue PaleGoldenrod Gray LightCoral Black LightBlue SlateBlue Turquoise SlateBlue IndianRed
+DarkGray LightGoldenrod SteelBlue Aquamarine DarkRed SpringGreen Tan LawnGreen DarkGray Cyan
+LawnGreen Cornsilk FloralWhite MediumSpringGreen PowderBlue FloralWhite GhostWhite Fuchsia DeepPink Coral
+PapayaWhip Burlywood Turquoise MediumSlateBlue Olive LightSeaGreen Firebrick Brown LightSteelBlue Seashell
+CubeNumber_216000 CubeNumber_8000 CubeNumber_912673 CubeNumber_8000 CubeNumber_110592 CubeNumber_2744 CubeNumber_39304 CubeNumber_166375 CubeNumber_5832 CubeNumber_9261
+CubeNumber_357911 CubeNumber_238328 CubeNumber_110592 CubeNumber_59319 CubeNumber_24389 CubeNumber_287496 CubeNumber_175616 CubeNumber_140608 CubeNumber_658503 CubeNumber_3375
+CubeNumber_1000 CubeNumber_493039 CubeNumber_636056 CubeNumber_216000 CubeNumber_4913 CubeNumber_125 CubeNumber_1728 CubeNumber_79507 CubeNumber_2744 CubeNumber_64
+CubeNumber_704969 CubeNumber_125000 CubeNumber_2744 CubeNumber_314432 CubeNumber_551368 CubeNumber_328509 CubeNumber_343000 CubeNumber_830584 CubeNumber_328509 CubeNumber_110592
+CubeNumber_456533 CubeNumber_804357 CubeNumber_216000 CubeNumber_343000 CubeNumber_343 CubeNumber_314432 CubeNumber_42875 CubeNumber_3375 CubeNumber_681472 CubeNumber_804357
+CubeNumber_343 CubeNumber_857375 CubeNumber_571787 CubeNumber_551368 CubeNumber_884736 CubeNumber_389017 CubeNumber_29791 CubeNumber_314432 CubeNumber_512 CubeNumber_59319
+CubeNumber_39304 CubeNumber_729000 CubeNumber_5832 CubeNumber_24389 CubeNumber_15625 CubeNumber_6859 CubeNumber_32768 CubeNumber_2744 CubeNumber_262144 CubeNumber_46656
+CubeNumber_103823 CubeNumber_29791 CubeNumber_13824 CubeNumber_117649 CubeNumber_373248 CubeNumber_357911 CubeNumber_21952 CubeNumber_117649 CubeNumber_357911 CubeNumber_46656
+CubeNumber_8000 CubeNumber_357911 CubeNumber_405224 CubeNumber_389017 CubeNumber_39304 CubeNumber_13824 CubeNumber_421875 CubeNumber_373248 CubeNumber_97336 CubeNumber_27000
+CubeNumber_456533 CubeNumber_9261 CubeNumber_125000 CubeNumber_175616 CubeNumber_512 CubeNumber_456533 CubeNumber_42875 CubeNumber_1728 CubeNumber_91125 CubeNumber_614125
+CubeNumber_205379 CubeNumber_175616 CubeNumber_941192 CubeNumber_405224 CubeNumber_3375 CubeNumber_343000 CubeNumber_13824 CubeNumber_110592 CubeNumber_357911 CubeNumber_205379

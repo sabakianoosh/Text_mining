@@ -1,0 +1,99 @@
+15:40 18:36 10:48 10:55 16:18 22:55 12:52 16:31 22:53 14:25
+10:23 13:43 14:38 10:49 16:15 17:23 14:20 17:17 14:34 19:59
+20:40 16:13 14:50 17:46 17:39 15:36 14:34 23:40 14:22 10:33
+18:23 14:21 11:41 16:21 10:17 17:39 22:12 17:25 16:34 13:23
+13:21 17:30 20:18 11:52 15:56 20:51 15:39 13:21 12:48 13:40
+19:54 22:38 15:34 10:40 14:17 10:55 21:40 10:31 15:35 21:44
+16:42 15:46 16:58 23:38 11:18 23:49 15:40 21:56 13:47 21:43
+16:14 21:39 14:41 17:59 20:12 11:40 10:41 19:20 19:41 18:50
+14:53 18:29 16:40 21:39 11:25 13:18 17:59 12:26 19:22 13:53
+17:17 10:19 20:24 15:22 10:47 10:19 21:50 12:18 14:31 14:16
+10:19 22:10 18:12 22:36 23:38 11:56 14:52 16:14 10:25 12:33
+desktoppcs device computerprogram virtualreality desktopcomputer computerprogramming abacus desktopcomputer electronics automation
+centralprocessing unit computation monitor programmer digitalcomputer von neumann machine von neumann machine chip analogcomputer mainframe
+visualdisplayunit computerhardware desktopcomputer computercide machinecode centralprocessing unit computation chip computerhardware bit
+integratedcircuit sliderule mainframe peripheral phone sliderule digital smartphone von neumann machine laptopcomputer
+personalcomputer computerscience dataconverter pc digitalcomputer cybertechnology digitalcommunication monitor electronics turingmachine
+phone floppydisk turingmachine bit dataconverter server escapekey pornographicimages mobile social
+spyware memory laptopcomputer homecomputer machine electronics floppydisk diskette astrolabe spyware
+cell programmer browser digitalcomputer electronics computation mobiledevice digitalcomputer desktopcomputer eniac
+server centralprocessing unit floppydisk internet mainframe visualdisplayunit calculator electronics digital programmer
+cell phone mainframe dataconverter centralprocessing unit router spyware monitor game camera
+bit console electronics digitalaudioplayer downloader centralprocessing unit calculator transistor mainframe sliderule
+BinaryNumber_0100101 BinaryNumber_0001111 BinaryNumber_1100000 BinaryNumber_0101101 BinaryNumber_1011101 BinaryNumber_1001100 BinaryNumber_1000000 BinaryNumber_0101110 BinaryNumber_0111100 BinaryNumber_1010001
+BinaryNumber_0000000 BinaryNumber_0101110 BinaryNumber_0110011 BinaryNumber_1011110 BinaryNumber_0111011 BinaryNumber_0011111 BinaryNumber_0111111 BinaryNumber_0011011 BinaryNumber_1011100 BinaryNumber_0111011
+BinaryNumber_0010010 BinaryNumber_1000110 BinaryNumber_0100111 BinaryNumber_0000010 BinaryNumber_0110100 BinaryNumber_1010111 BinaryNumber_0010010 BinaryNumber_0011101 BinaryNumber_0101010 BinaryNumber_0011100
+BinaryNumber_1000100 BinaryNumber_1001011 BinaryNumber_0100001 BinaryNumber_0011011 BinaryNumber_1100010 BinaryNumber_1000000 BinaryNumber_0100010 BinaryNumber_0101100 BinaryNumber_0001001 BinaryNumber_1011100
+BinaryNumber_1001101 BinaryNumber_0001111 BinaryNumber_1011111 BinaryNumber_0110101 BinaryNumber_1000011 BinaryNumber_1011110 BinaryNumber_1011001 BinaryNumber_1011000 BinaryNumber_0001101 BinaryNumber_1000011
+BinaryNumber_1000100 BinaryNumber_1000110 BinaryNumber_1010101 BinaryNumber_0010000 BinaryNumber_0001011 BinaryNumber_0001101 BinaryNumber_0010111 BinaryNumber_1001010 BinaryNumber_0101101 BinaryNumber_1001100
+BinaryNumber_0111101 BinaryNumber_0001111 BinaryNumber_0001011 BinaryNumber_1010000 BinaryNumber_0111111 BinaryNumber_0100011 BinaryNumber_1011000 BinaryNumber_1011100 BinaryNumber_1011101 BinaryNumber_0010010
+BinaryNumber_1010010 BinaryNumber_0001011 BinaryNumber_0001001 BinaryNumber_0110000 BinaryNumber_0111100 BinaryNumber_0010011 BinaryNumber_1100000 BinaryNumber_0100001 BinaryNumber_1000110 BinaryNumber_0111010
+BinaryNumber_0001000 BinaryNumber_1100010 BinaryNumber_0011101 BinaryNumber_1000101 BinaryNumber_0101111 BinaryNumber_1000111 BinaryNumber_0110000 BinaryNumber_0010111 BinaryNumber_0001110 BinaryNumber_0000111
+BinaryNumber_0101010 BinaryNumber_0101111 BinaryNumber_1001100 BinaryNumber_1011000 BinaryNumber_0101001 BinaryNumber_1001111 BinaryNumber_1100001 BinaryNumber_0010000 BinaryNumber_0011001 BinaryNumber_0000100
+BinaryNumber_0100011 BinaryNumber_0100101 BinaryNumber_0111001 BinaryNumber_0010100 BinaryNumber_0101000 BinaryNumber_0110111 BinaryNumber_0111011 BinaryNumber_0010000 BinaryNumber_1001000 BinaryNumber_0011111
+SquareNumber_36 SquareNumber_529 SquareNumber_36 SquareNumber_7056 SquareNumber_361 SquareNumber_4 SquareNumber_2025 SquareNumber_1369 SquareNumber_4225 SquareNumber_196
+SquareNumber_16 SquareNumber_8649 SquareNumber_7921 SquareNumber_9025 SquareNumber_4624 SquareNumber_576 SquareNumber_841 SquareNumber_4356 SquareNumber_4096 SquareNumber_6724
+SquareNumber_9216 SquareNumber_7744 SquareNumber_1681 SquareNumber_4356 SquareNumber_196 SquareNumber_729 SquareNumber_5776 SquareNumber_1936 SquareNumber_9025 SquareNumber_121
+SquareNumber_10000 SquareNumber_1444 SquareNumber_16 SquareNumber_841 SquareNumber_7744 SquareNumber_5329 SquareNumber_6084 SquareNumber_3600 SquareNumber_1296 SquareNumber_5329
+SquareNumber_1936 SquareNumber_9 SquareNumber_8649 SquareNumber_256 SquareNumber_484 SquareNumber_4761 SquareNumber_2304 SquareNumber_1024 SquareNumber_900 SquareNumber_529
+SquareNumber_36 SquareNumber_3136 SquareNumber_169 SquareNumber_729 SquareNumber_529 SquareNumber_256 SquareNumber_6084 SquareNumber_6724 SquareNumber_16 SquareNumber_3025
+SquareNumber_4900 SquareNumber_441 SquareNumber_6889 SquareNumber_100 SquareNumber_7744 SquareNumber_289 SquareNumber_7569 SquareNumber_4 SquareNumber_1936 SquareNumber_625
+SquareNumber_529 SquareNumber_4624 SquareNumber_7921 SquareNumber_3025 SquareNumber_100 SquareNumber_625 SquareNumber_81 SquareNumber_784 SquareNumber_1089 SquareNumber_1369
+SquareNumber_6241 SquareNumber_289 SquareNumber_7744 SquareNumber_1024 SquareNumber_1764 SquareNumber_9025 SquareNumber_441 SquareNumber_100 SquareNumber_1764 SquareNumber_1681
+SquareNumber_529 SquareNumber_7225 SquareNumber_9025 SquareNumber_4356 SquareNumber_16 SquareNumber_729 SquareNumber_3844 SquareNumber_3136 SquareNumber_6400 SquareNumber_324
+SquareNumber_2025 SquareNumber_7569 SquareNumber_16 SquareNumber_64 SquareNumber_576 SquareNumber_6724 SquareNumber_7396 SquareNumber_7396 SquareNumber_1024 SquareNumber_9409
+parry denigrate refute expose benefit refute integrity rebut illicit allegation
+cadre defamation deficit plagiarism impunity empire parry partial alliance massive
+recrimination tainted scandal empire defamation assail patronage beleaguer regime authoritarian
+solicit influence fray reputation deflect coterie coercion extortion debacle illegal
+corruption deny regime scandal infringement prestidigitation regime covert unsavory bribe
+plutocracy rebut corruption unjust opportunist unethical resignation acolyte revelation opportunist
+assail saga temptation hypocrisy massive collaboration scandal bamboozle persecution assail
+revelation coterie alliance patronage saga authoritarian malfeasance persecution tainted patriarchy
+beleaguer acolyte deflect debacle bribe persecution assail career tainted assail
+subterfuge mendacity deflect sloth blame anonymity assail parry temptation blame
+parry massive persecution incident chicanery deflect deception regime expose subterfuge
+nourishment meat soup eat provender restaurant nourishment milk victuals edible
+fruits vegetables plant meal drinks cereal seafood sushi chicken seafood meals
+nutrition pasta meal provender meal fruit victuals eat nutrition chicken
+nutrition soup nutrient provender nutrition cooking rice eat plant restaurant
+provender cheese cooking animal cereal chicken vegetable nutrient soup cooking
+rice seafood fruits vegetables restaurant provender cereal soup restaurant chicken edible
+edible edible rice pasta meat beef fruits vegetables eat edible fruits vegetables
+cooking pasta eat seafood cheese fruits vegetables milk victuals milk meal
+sushi restaurant meal soup fruit animal sushi milk nutrient seafood
+fruit victuals victuals provender vegetable soup provender rice nutrient fruits vegetables
+edible nutrient meat cooking victuals cereal vegetable edible meal nourishment
+CubeNumber_512000 CubeNumber_857375 CubeNumber_85184 CubeNumber_157464 CubeNumber_148877 CubeNumber_103823 CubeNumber_15625 CubeNumber_778688 CubeNumber_46656 CubeNumber_636056
+CubeNumber_4096 CubeNumber_117649 CubeNumber_1331 CubeNumber_148877 CubeNumber_39304 CubeNumber_166375 CubeNumber_117649 CubeNumber_140608 CubeNumber_857375 CubeNumber_216
+CubeNumber_117649 CubeNumber_389017 CubeNumber_287496 CubeNumber_287496 CubeNumber_32768 CubeNumber_216000 CubeNumber_592704 CubeNumber_185193 CubeNumber_175616 CubeNumber_59319
+CubeNumber_24389 CubeNumber_493039 CubeNumber_195112 CubeNumber_493039 CubeNumber_438976 CubeNumber_778688 CubeNumber_551368 CubeNumber_571787 CubeNumber_830584 CubeNumber_175616
+CubeNumber_1331 CubeNumber_5832 CubeNumber_35937 CubeNumber_12167 CubeNumber_300763 CubeNumber_64000 CubeNumber_2197 CubeNumber_405224 CubeNumber_19683 CubeNumber_571787
+CubeNumber_29791 CubeNumber_46656 CubeNumber_830584 CubeNumber_373248 CubeNumber_12167 CubeNumber_175616 CubeNumber_148877 CubeNumber_39304 CubeNumber_343000 CubeNumber_205379
+CubeNumber_456533 CubeNumber_343 CubeNumber_2197 CubeNumber_166375 CubeNumber_238328 CubeNumber_389017 CubeNumber_10648 CubeNumber_216000 CubeNumber_24389 CubeNumber_314432
+CubeNumber_287496 CubeNumber_857375 CubeNumber_493039 CubeNumber_4913 CubeNumber_216 CubeNumber_373248 CubeNumber_110592 CubeNumber_438976 CubeNumber_205379 CubeNumber_274625
+CubeNumber_4096 CubeNumber_571787 CubeNumber_343 CubeNumber_512000 CubeNumber_110592 CubeNumber_729000 CubeNumber_681472 CubeNumber_17576 CubeNumber_148877 CubeNumber_658503
+CubeNumber_226981 CubeNumber_19683 CubeNumber_205379 CubeNumber_912673 CubeNumber_46656 CubeNumber_512 CubeNumber_912673 CubeNumber_35937 CubeNumber_9261 CubeNumber_1331
+CubeNumber_592704 CubeNumber_474552 CubeNumber_614125 CubeNumber_405224 CubeNumber_1000 CubeNumber_405224 CubeNumber_474552 CubeNumber_24389 CubeNumber_274625 CubeNumber_32768
+Sapodilla Blackberry Quince Coconut Prune Banana Acerola Cranberry Strawberry Persimmon
+Cempedak Cempedak Mulberry Ximenia Rambutan  Redcurrant Pomegranate Apple Papaya Jostaberry
+Plum Kiwifruit Bilberry Damson Sapote Lemon Plum Elderberry Grapefruit Lemon
+Pineapple Prune Acerola Jambul Salmonberry Lulo Blackcurrant Prune Tayberry Prune
+Nance Prune Huckleberry Jostaberry Plantain Papaya Redcurrant Pawpaw Redcurrant Clementine
+Avocado Cherry Cranberry Tamarillo Apricot Lime Açaí Currant Date Persimmon
+Cashew Feijoa Orange Abiu Redcurrant Mandarine Satsuma Nectarine Jostaberry Ackee
+Jackfruit Clementine Boysenberry Açaí Tangerine Apricot Ximenia Akebi Tamarillo Cherry
+Pear Longan Ackee Prune Ackee Banana Jackfruit Grapefruit Tangelo Melon
+Durian Kiwano Kiwano Raspberry Lime Tayberry Huckleberry Currant Longan Elderberry
+Satsuma Breadfruit Gooseberry Blueberry Cempedak Blueberry Persimmon Blackcurrant Soursop Persimmon
+grumpy hilarious magnificent uptight light clever crazy inexpensive plain busy
+nutty crowded obnoxious uptight elegant tired thoughtful homeless black fierce
+combative fantastic horrible tame breakable drab naughty pleasant excited fancy
+excited different delightful easy defiant adorable defeated jealous upset curious
+inquisitive kind shiny energetic combative brainy exuberant cloudy delightful rich
+naughty elated blushing adorable adventurous cute naughty super misty curious
+alive crazy dark adventurous uninterested depressed blushing lively scary grumpy
+quaint sparkling perfect disgusted elated cute grumpy concerned thoughtless silly
+graceful nasty successful hurt combative filthy tired doubtful beautiful kind
+breakable thankful gorgeous amused poised inquisitive obnoxious homely encouraging talented
+lazy bewildered concerned arrogant breakable outrageous average colorful homeless alive

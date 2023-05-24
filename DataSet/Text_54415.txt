@@ -1,0 +1,99 @@
+selfish obedient glorious fierce alive agreeable puzzled tough friendly expensive
+kind charming fantastic outstanding homely frail blue successful terrible odd
+stupid tense encouraging difficult upset hurt selfish bad outstanding lively
+expensive clever clumsy muddy cloudy tasty excited upset silly different
+modern foolish victorious successful horrible homeless wild stupid friendly tense
+strange super inquisitive fierce cruel ill jealous cloudy drab splendid
+cautious naughty dangerous sleepy muddy mysterious motionless clumsy fantastic funny
+smoggy graceful smiling depressed gorgeous courageous tasty open sleepy jolly
+excited gorgeous calm famous quaint naughty misty unusual muddy wandering
+bright ill frail poised homeless wide-eyed puzzled lovely nasty tired
+elegant horrible awful tender clever important foolish wrong shy frightened
+BinaryNumber_1000010 BinaryNumber_0001100 BinaryNumber_1001000 BinaryNumber_1100001 BinaryNumber_0100100 BinaryNumber_0000000 BinaryNumber_0101100 BinaryNumber_0001000 BinaryNumber_0010101 BinaryNumber_0000101
+BinaryNumber_0100001 BinaryNumber_1011100 BinaryNumber_0011010 BinaryNumber_0001000 BinaryNumber_0011100 BinaryNumber_0100010 BinaryNumber_0001010 BinaryNumber_1001000 BinaryNumber_0110110 BinaryNumber_0100011
+BinaryNumber_0010101 BinaryNumber_1000000 BinaryNumber_0011001 BinaryNumber_1100011 BinaryNumber_1100010 BinaryNumber_1000001 BinaryNumber_1001011 BinaryNumber_0010100 BinaryNumber_1011000 BinaryNumber_1000101
+BinaryNumber_1001101 BinaryNumber_1100001 BinaryNumber_0110100 BinaryNumber_0001011 BinaryNumber_1011010 BinaryNumber_1010010 BinaryNumber_0000010 BinaryNumber_0100000 BinaryNumber_0011100 BinaryNumber_1001101
+BinaryNumber_0110000 BinaryNumber_0011100 BinaryNumber_0011110 BinaryNumber_0101110 BinaryNumber_1011111 BinaryNumber_1010001 BinaryNumber_0111011 BinaryNumber_0001100 BinaryNumber_1011001 BinaryNumber_0010101
+BinaryNumber_0101001 BinaryNumber_0000100 BinaryNumber_1000111 BinaryNumber_0101010 BinaryNumber_0001101 BinaryNumber_0011001 BinaryNumber_0001100 BinaryNumber_0110111 BinaryNumber_1000111 BinaryNumber_1010100
+BinaryNumber_1000101 BinaryNumber_0001100 BinaryNumber_0100101 BinaryNumber_0011100 BinaryNumber_0010110 BinaryNumber_0001010 BinaryNumber_0101001 BinaryNumber_0011001 BinaryNumber_0101001 BinaryNumber_1011000
+BinaryNumber_1010110 BinaryNumber_0100110 BinaryNumber_0000010 BinaryNumber_0001010 BinaryNumber_0001010 BinaryNumber_0000101 BinaryNumber_1010011 BinaryNumber_1000100 BinaryNumber_1011001 BinaryNumber_0000111
+BinaryNumber_0000000 BinaryNumber_1000101 BinaryNumber_1010101 BinaryNumber_0011111 BinaryNumber_0010110 BinaryNumber_0101000 BinaryNumber_0110011 BinaryNumber_1011111 BinaryNumber_0011011 BinaryNumber_0110010
+BinaryNumber_0000101 BinaryNumber_0100100 BinaryNumber_1010001 BinaryNumber_1001110 BinaryNumber_0101000 BinaryNumber_0111001 BinaryNumber_0101001 BinaryNumber_1100010 BinaryNumber_0001000 BinaryNumber_1011011
+BinaryNumber_0111101 BinaryNumber_0101110 BinaryNumber_0010010 BinaryNumber_1010011 BinaryNumber_1100010 BinaryNumber_0111001 BinaryNumber_1001100 BinaryNumber_0010100 BinaryNumber_1011010 BinaryNumber_1011110
+insectivorous bobcat animatebeing invertebrate dogs dinosaur insectivorous raccoon bear poikilotherm
+environmental reptiles thoroughbred tiger monster carnal mammal plant meat jellyfish
+multicellular eukaryotic shelter mammals pups livestock plant monster raccoon ladybug
+wild tufted wild farming porifera animal welfare fauna cat metazoan chickens
+dog clams creature pigs darter scavenger meat pig octopuses primate
+ladybug scavenger amphibians iguana insects pig chickens scavenger object octopuses
+dogs pet iguana cat protist fleshly insectivorous multicellular insectivore darter
+exoticanimals fish farming epizootic epizootic deer feline eukaryotic animalkingdom embryo
+fantasy hourse exoticanimals livestock vertebrate puppy insectivorous marineanimal tufted chickens
+bobcat insectivore creature frog embryo bird chordate bird bobcat livestock
+insectivore creature beast workanimal multicellular predatoryanimal shelter deer zoology animal welfare
+computercircuit downloader programmer personalcomputer digital virtualreality desktop android astrolabe turingmachine
+electrical desktop digitalcomputer game android laptopcomputer cpu office desktoppcs data
+sliderule proprietary programming machinecode digital laptopcomputer bit computation data electrical
+arithmetic homecomputer transistor desktop computercide smartphone browser mobiledevice social peripheral
+electrical spyware floppydisk von neumann machine digital camera bit machines computerscience digital
+social escapekey machine mobiledevice social cpu programming desktoppcs sliderule incompatible
+digitalcommunication diskette eniac calculator office spyware digital computation algorithm astrolabe
+floppydisk peripheral transistor downloader cpu floppydisk hardware microcomputer camera von neumann machine
+digitalaudioplayer visualdisplayunit floppydisk computerhardware machine integratedcircuit cpu pc calculator proprietary
+desktopcomputer centralprocessing unit software diskette inputdevice screen computercircuit computerhardware bit cyber
+tablet computing astrolabe digitalcommunication homecomputer screen daw digitalcommunication desktop personalcomputer
+CubeNumber_2197 CubeNumber_110592 CubeNumber_493039 CubeNumber_250047 CubeNumber_941192 CubeNumber_8 CubeNumber_729000 CubeNumber_8000 CubeNumber_262144 CubeNumber_753571
+CubeNumber_274625 CubeNumber_238328 CubeNumber_185193 CubeNumber_125 CubeNumber_238328 CubeNumber_1728 CubeNumber_117649 CubeNumber_704969 CubeNumber_592704 CubeNumber_12167
+CubeNumber_132651 CubeNumber_24389 CubeNumber_85184 CubeNumber_74088 CubeNumber_804357 CubeNumber_2197 CubeNumber_64 CubeNumber_314432 CubeNumber_729 CubeNumber_205379
+CubeNumber_512000 CubeNumber_175616 CubeNumber_389017 CubeNumber_4096 CubeNumber_438976 CubeNumber_13824 CubeNumber_5832 CubeNumber_941192 CubeNumber_35937 CubeNumber_614125
+CubeNumber_658503 CubeNumber_681472 CubeNumber_474552 CubeNumber_287496 CubeNumber_405224 CubeNumber_10648 CubeNumber_19683 CubeNumber_166375 CubeNumber_64000 CubeNumber_421875
+CubeNumber_35937 CubeNumber_328509 CubeNumber_46656 CubeNumber_274625 CubeNumber_592704 CubeNumber_912673 CubeNumber_157464 CubeNumber_274625 CubeNumber_941192 CubeNumber_857375
+CubeNumber_912673 CubeNumber_15625 CubeNumber_912673 CubeNumber_343 CubeNumber_140608 CubeNumber_6859 CubeNumber_148877 CubeNumber_389017 CubeNumber_238328 CubeNumber_729
+CubeNumber_551368 CubeNumber_132651 CubeNumber_24389 CubeNumber_8000 CubeNumber_287496 CubeNumber_140608 CubeNumber_54872 CubeNumber_42875 CubeNumber_17576 CubeNumber_216000
+CubeNumber_91125 CubeNumber_185193 CubeNumber_205379 CubeNumber_132651 CubeNumber_140608 CubeNumber_884736 CubeNumber_97336 CubeNumber_226981 CubeNumber_1331 CubeNumber_10648
+CubeNumber_91125 CubeNumber_17576 CubeNumber_10648 CubeNumber_21952 CubeNumber_551368 CubeNumber_15625 CubeNumber_571787 CubeNumber_148877 CubeNumber_474552 CubeNumber_493039
+CubeNumber_884736 CubeNumber_857375 CubeNumber_287496 CubeNumber_39304 CubeNumber_373248 CubeNumber_68921 CubeNumber_59319 CubeNumber_262144 CubeNumber_804357 CubeNumber_704969
+football champion dirt romp company players racing pro tournament volleyball
+hobby athletes esport fast goal sportaccord triathlon game volleyball soccer
+work horseracing cross career boast performance recreation exercises career disport
+bike gym rollick disport tennis players dive art performance exercises
+gymnastics performance spar show physical show industry volleyball exercise sports
+dirt combat comfort dirt spar waterski rollick coach club athletic
+art archery athletic hunters activity feature comfort job standard challenge
+disport gamely tennis pack fast combat athletic active pack boulder
+industry champion muscle movement organization physical chess ineligible coach rollick
+events spar badminton kill gambol athletes goal luge referee music
+entertainment athlete sportaccord limited combat dance form hunting skating frolic
+temperature__58c temperature__33c temperature__33c temperature__69c temperature__59c temperature__73c temperature__140c temperature__146c temperature__39c temperature__140c
+temperature__108c temperature__51c temperature__40c temperature__77c temperature__90c temperature__137c temperature__82c temperature__146c temperature__34c temperature__126c
+temperature__16c temperature__138c temperature__46c temperature__57c temperature__122c temperature__126c temperature__23c temperature__142c temperature__23c temperature__30c
+temperature__40c temperature__124c temperature__98c temperature__137c temperature__6c temperature__35c temperature__139c temperature__77c temperature__145c temperature__119c
+temperature__140c temperature__61c temperature__10c temperature__52c temperature__79c temperature__51c temperature__141c temperature__42c temperature__79c temperature__11c
+temperature__54c temperature__8c temperature__12c temperature__109c temperature__7c temperature__31c temperature__36c temperature__78c temperature__137c temperature__0c
+temperature__88c temperature__50c temperature__68c temperature__98c temperature__116c temperature__23c temperature__64c temperature__61c temperature__119c temperature__145c
+temperature__65c temperature__47c temperature__23c temperature__87c temperature__98c temperature__105c temperature__82c temperature__109c temperature__28c temperature__93c
+temperature__79c temperature__84c temperature__141c temperature__11c temperature__30c temperature__44c temperature__90c temperature__129c temperature__23c temperature__17c
+temperature__16c temperature__42c temperature__105c temperature__58c temperature__120c temperature__65c temperature__59c temperature__51c temperature__41c temperature__119c
+temperature__4c temperature__28c temperature__120c temperature__85c temperature__148c temperature__129c temperature__58c temperature__3c temperature__35c temperature__116c
+16:19 17:12 12:22 12:32 12:32 11:59 15:54 16:37 22:44 22:32
+15:40 14:27 22:29 10:49 17:46 21:36 18:14 20:50 11:54 15:46
+21:25 14:58 18:40 15:32 23:43 16:44 16:15 10:15 14:27 15:18
+19:55 18:22 18:18 14:12 16:29 21:15 14:47 16:42 13:28 12:55
+13:40 18:59 18:21 18:29 12:29 15:50 18:26 10:35 13:40 17:17
+12:33 17:37 17:56 17:58 13:29 15:21 10:38 19:37 13:39 19:39
+21:58 15:51 11:38 11:50 20:22 19:25 17:28 10:23 18:28 13:44
+11:38 11:51 10:31 10:47 17:42 23:26 23:19 16:35 11:42 10:14
+22:40 10:42 13:18 21:48 12:31 21:17 19:59 10:37 21:24 16:58
+20:58 10:48 10:19 12:41 19:42 17:50 11:49 15:56 17:10 21:26
+19:29 10:45 20:20 20:12 23:50 11:12 19:52 14:56 20:45 12:59
+sushi animal nourishment drinks soup sushi nourishment restaurant cooking nutrient
+pasta chicken fruits vegetables nutrient restaurant vegetable meal eat milk edible
+plant eat plant drinks eat fruits vegetables cereal meat fruit cheese
+victuals eat sushi milk beef chicken meals milk chicken fruit
+nutrition milk soup seafood plant pasta edible pasta pasta beef
+victuals nutrient meals victuals chicken cereal provender edible meals victuals
+pasta restaurant victuals fruit seafood fruits vegetables sushi seafood restaurant vegetable
+meals milk rice chicken restaurant nourishment plant provender seafood restaurant
+cheese vegetable nutrition rice pasta cooking rice chicken sushi milk
+plant pasta cheese pasta fruit drinks fruits vegetables soup pasta animal
+meat cooking seafood cereal animal edible milk fruit seafood nutrient

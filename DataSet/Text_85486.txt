@@ -1,0 +1,99 @@
+SquareNumber_1849 SquareNumber_1089 SquareNumber_3600 SquareNumber_1600 SquareNumber_676 SquareNumber_16 SquareNumber_3136 SquareNumber_169 SquareNumber_2116 SquareNumber_3600
+SquareNumber_2601 SquareNumber_6889 SquareNumber_9 SquareNumber_1600 SquareNumber_6084 SquareNumber_4489 SquareNumber_7744 SquareNumber_900 SquareNumber_1225 SquareNumber_1849
+SquareNumber_3600 SquareNumber_7056 SquareNumber_36 SquareNumber_2809 SquareNumber_5329 SquareNumber_7396 SquareNumber_6889 SquareNumber_4225 SquareNumber_1600 SquareNumber_5776
+SquareNumber_2209 SquareNumber_3969 SquareNumber_5625 SquareNumber_4356 SquareNumber_1024 SquareNumber_10000 SquareNumber_16 SquareNumber_4624 SquareNumber_169 SquareNumber_5625
+SquareNumber_2209 SquareNumber_2209 SquareNumber_1156 SquareNumber_2916 SquareNumber_16 SquareNumber_1764 SquareNumber_2809 SquareNumber_324 SquareNumber_841 SquareNumber_1521
+SquareNumber_7056 SquareNumber_3364 SquareNumber_441 SquareNumber_4489 SquareNumber_36 SquareNumber_5184 SquareNumber_1225 SquareNumber_9801 SquareNumber_3844 SquareNumber_81
+SquareNumber_100 SquareNumber_9025 SquareNumber_9604 SquareNumber_196 SquareNumber_1936 SquareNumber_64 SquareNumber_1225 SquareNumber_196 SquareNumber_225 SquareNumber_6724
+SquareNumber_4489 SquareNumber_7569 SquareNumber_2916 SquareNumber_2704 SquareNumber_3844 SquareNumber_7921 SquareNumber_7225 SquareNumber_4761 SquareNumber_2401 SquareNumber_784
+SquareNumber_1764 SquareNumber_6084 SquareNumber_6889 SquareNumber_9 SquareNumber_4624 SquareNumber_6084 SquareNumber_4096 SquareNumber_16 SquareNumber_49 SquareNumber_3249
+SquareNumber_9409 SquareNumber_1296 SquareNumber_9604 SquareNumber_3844 SquareNumber_6889 SquareNumber_289 SquareNumber_8649 SquareNumber_9409 SquareNumber_361 SquareNumber_9025
+SquareNumber_5184 SquareNumber_6889 SquareNumber_7744 SquareNumber_625 SquareNumber_289 SquareNumber_9409 SquareNumber_1521 SquareNumber_3844 SquareNumber_16 SquareNumber_784
+temperature__58c temperature__41c temperature__148c temperature__106c temperature__86c temperature__21c temperature__84c temperature__39c temperature__14c temperature__92c
+temperature__12c temperature__79c temperature__26c temperature__82c temperature__112c temperature__44c temperature__42c temperature__122c temperature__85c temperature__64c
+temperature__6c temperature__21c temperature__46c temperature__84c temperature__4c temperature__69c temperature__141c temperature__22c temperature__11c temperature__0c
+temperature__85c temperature__35c temperature__112c temperature__137c temperature__122c temperature__57c temperature__120c temperature__92c temperature__31c temperature__138c
+temperature__28c temperature__7c temperature__61c temperature__147c temperature__79c temperature__58c temperature__31c temperature__109c temperature__35c temperature__90c
+temperature__10c temperature__84c temperature__28c temperature__52c temperature__124c temperature__130c temperature__71c temperature__39c temperature__7c temperature__73c
+temperature__98c temperature__61c temperature__56c temperature__92c temperature__41c temperature__111c temperature__148c temperature__2c temperature__14c temperature__36c
+temperature__95c temperature__42c temperature__14c temperature__46c temperature__0c temperature__91c temperature__140c temperature__145c temperature__51c temperature__64c
+temperature__44c temperature__0c temperature__123c temperature__71c temperature__108c temperature__118c temperature__87c temperature__64c temperature__47c temperature__131c
+temperature__111c temperature__24c temperature__124c temperature__126c temperature__11c temperature__100c temperature__71c temperature__98c temperature__136c temperature__145c
+temperature__26c temperature__73c temperature__21c temperature__132c temperature__78c temperature__74c temperature__40c temperature__84c temperature__77c temperature__47c
+cpu smartphone machinecode router desktopcomputer game programmer computerprogramming tablet downloader
+digitalcommunication office peripheral arithmetic computerprogramming downloader incompatible sliderule ibook personalcomputer
+desktoppcs browser computerprogram floppydisk dataconverter cell microprocessor computing digitalcommunication digitalcomputer
+xbox pc server mechanicalcomputer screen browser digitalcommunication turingmachine monitor abacus
+pc processor xbox laptop browser turingmachine computerprogram computercide personalcomputer computation
+device computerhardware antivirus computing vacuumtube memory proprietary browser computercide android
+microprocessor camera electrical mechanicalcomputer laptop cell programming pc mobiledevice visualdisplayunit
+transistor antivirus compatible personalcomputer desktopcomputer device desktopcomputer monitor transistor homecomputer
+game desktopcomputer server astrolabe cyber electrical electrical cpu browser downloader
+daw computerprogram analogcomputer sliderule microcomputer office desktopcomputer digitalaudioplayer turingmachine personalcomputer
+homecomputer electronics computercide game spyware software von neumann machine keyboard mobiledevice monitor
+CubeNumber_531441 CubeNumber_166375 CubeNumber_17576 CubeNumber_9261 CubeNumber_4913 CubeNumber_343000 CubeNumber_884736 CubeNumber_42875 CubeNumber_912673 CubeNumber_512
+CubeNumber_64000 CubeNumber_830584 CubeNumber_571787 CubeNumber_226981 CubeNumber_79507 CubeNumber_166375 CubeNumber_97336 CubeNumber_4913 CubeNumber_328509 CubeNumber_274625
+CubeNumber_1000 CubeNumber_216 CubeNumber_343000 CubeNumber_6859 CubeNumber_103823 CubeNumber_681472 CubeNumber_85184 CubeNumber_1728 CubeNumber_456533 CubeNumber_195112
+CubeNumber_54872 CubeNumber_148877 CubeNumber_1331 CubeNumber_830584 CubeNumber_79507 CubeNumber_512 CubeNumber_91125 CubeNumber_512 CubeNumber_328509 CubeNumber_438976
+CubeNumber_373248 CubeNumber_592704 CubeNumber_4096 CubeNumber_1000 CubeNumber_1728 CubeNumber_389017 CubeNumber_274625 CubeNumber_54872 CubeNumber_5832 CubeNumber_474552
+CubeNumber_373248 CubeNumber_32768 CubeNumber_4913 CubeNumber_373248 CubeNumber_103823 CubeNumber_405224 CubeNumber_857375 CubeNumber_551368 CubeNumber_64 CubeNumber_8
+CubeNumber_205379 CubeNumber_32768 CubeNumber_250047 CubeNumber_357911 CubeNumber_24389 CubeNumber_262144 CubeNumber_274625 CubeNumber_3375 CubeNumber_8 CubeNumber_343000
+CubeNumber_21952 CubeNumber_5832 CubeNumber_15625 CubeNumber_300763 CubeNumber_328509 CubeNumber_39304 CubeNumber_614125 CubeNumber_125 CubeNumber_13824 CubeNumber_19683
+CubeNumber_185193 CubeNumber_91125 CubeNumber_474552 CubeNumber_238328 CubeNumber_29791 CubeNumber_314432 CubeNumber_205379 CubeNumber_19683 CubeNumber_343000 CubeNumber_592704
+CubeNumber_85184 CubeNumber_3375 CubeNumber_357911 CubeNumber_46656 CubeNumber_531441 CubeNumber_46656 CubeNumber_456533 CubeNumber_5832 CubeNumber_68921 CubeNumber_3375
+CubeNumber_32768 CubeNumber_46656 CubeNumber_250047 CubeNumber_91125 CubeNumber_941192 CubeNumber_636056 CubeNumber_328509 CubeNumber_531441 CubeNumber_24389 CubeNumber_4096
+15:10 21:52 20:20 11:45 19:48 11:10 19:35 11:20 12:30 21:41
+16:36 20:40 19:20 19:14 13:29 19:21 18:29 10:52 21:27 17:43
+12:50 20:14 19:32 11:40 10:49 16:47 22:57 14:59 22:59 14:46
+11:41 18:22 17:59 22:36 23:13 11:11 19:43 17:55 10:15 12:34
+20:24 17:57 14:25 20:10 16:34 21:17 15:22 14:35 12:40 15:17
+18:24 20:26 23:42 13:23 14:27 13:33 13:38 22:47 17:50 18:27
+13:12 17:29 15:28 13:33 14:15 20:37 10:20 11:46 21:17 14:47
+13:19 16:20 11:16 10:57 14:56 22:18 11:54 19:34 21:45 17:31
+21:50 22:43 21:26 17:41 18:12 17:42 13:52 22:12 20:40 23:30
+11:17 10:14 10:11 10:38 21:54 19:47 13:21 12:53 17:31 23:13
+14:28 21:38 17:29 12:46 20:54 19:44 14:34 23:24 14:26 23:21
+utility offside entertainment blazers activity polo culture badminton spar kill
+esport standard downfield cycling play show exercise events entertainment play
+gambol frolic champion motorsports skateboard goal skateboarding sportaccord blazers hunting
+goal job recreation boulder gambol utility rugby romp boast culture
+frolic motorsports funambulism volleyball form physical motorsports comfort fighting muscle
+extracurricular running athlete casual lifestyle fighting bouldering rowing events snowboarding
+culture muscle athletics champion rugby esport badminton waterski champion activities
+events activity athlete badminton motorcycling show sportsmanship polo game sportaccord
+horseracing movement ineligible challenge ski disport limited boast badminton polo
+esports hunters show safari combat recreation bouldering hobby show gamely
+lifestyle industry exercises bouldering cross skateboard tradition club team basketball
+parry claim subterfuge deficit beleaguer extortion privilege unethical feud demagogue
+sloth reputation prestidigitation lobby patronage deficit tarnish infringement empire plutocracy
+partial collaboration bribe refute proxy infringement plagiarism deflect scandalous proxy
+impunity career acolyte deception corruption endorsement defamation regime tainted parry
+coercion endorsement integrity fray blame claim ignorant expose reckless influence
+resignation illicit tarnish opportunist bamboozle integrity plutocracy resignation demagogue intimidation
+feud rebut embezzlement regime persecution cadre malfeasance endorsement reputation deny
+persecution obscure privilege dictatorship mercurial plutocracy integrity intimidation opportunist lobby
+patronage acolyte deflect engagement ignorant expose tainted debacle deception refute
+embezzlement intimidation unethical blame alliance partial mercurial chicanery accusation obscure
+laconic embezzlement scapegoat patronage privilege deficit assail benefit coercion denigrate
+harp lyric gospel compositions writing conduct artists phone language solmizate
+art vocal bugle trio intonation tabs genre albums works media
+music bar paleolithic label atonality atonal subdivision label fugue bebop
+muses headphones art music clapping motif club muse bars rhythm pianist
+art works atmosphere graphics playing polyphony playlists tuning ska jazz
+instrumental fermata genres medicine podcasts polyphony ambience playing story choir
+beats lyric lyrics atonality action mp3s violoncello gospel live visual
+videos techno voices harmony creative harpsichord vocal recording concertize live
+melodic single interlude films soundtracks clapping fermata band intonation media
+tongue soundtracks triple-tongue movies symphonise musicology work cello headphones playing
+improvisation tabs conduct drum tonic metal playing tongue genre lyrics
+fruit pasta fruit rice drinks victuals meals plant cheese victuals
+fruit victuals restaurant chicken meat provender plant meals beef meat
+animal meat fruits vegetables fruits vegetables restaurant restaurant plant animal sushi cooking
+fruits vegetables meals cheese meal cheese cheese milk restaurant soup sushi
+fruit chicken provender victuals plant fruits vegetables soup restaurant eat meat
+nutrient fruits vegetables animal fruits vegetables meals plant vegetable beef cereal edible
+fruit eat nutrient plant seafood plant vegetable restaurant fruit soup
+animal provender seafood fruit meat sushi cheese chicken fruit nutrition
+animal seafood seafood pasta animal edible victuals nutrient fruits vegetables milk
+nutrition animal cereal fruits vegetables nutrition edible restaurant fruit provender nutrition
+nutrition vegetable meat meals milk fruits vegetables vegetable pasta meat meals

@@ -1,0 +1,99 @@
+temperature__116c temperature__36c temperature__65c temperature__129c temperature__4c temperature__64c temperature__21c temperature__61c temperature__148c temperature__49c
+temperature__5c temperature__65c temperature__57c temperature__79c temperature__71c temperature__50c temperature__88c temperature__132c temperature__98c temperature__118c
+temperature__23c temperature__36c temperature__49c temperature__92c temperature__65c temperature__64c temperature__126c temperature__92c temperature__10c temperature__4c
+temperature__140c temperature__6c temperature__65c temperature__0c temperature__124c temperature__142c temperature__109c temperature__109c temperature__64c temperature__122c
+temperature__111c temperature__118c temperature__118c temperature__112c temperature__16c temperature__73c temperature__54c temperature__23c temperature__130c temperature__77c
+temperature__130c temperature__91c temperature__44c temperature__124c temperature__0c temperature__92c temperature__51c temperature__116c temperature__58c temperature__147c
+temperature__100c temperature__65c temperature__136c temperature__130c temperature__50c temperature__95c temperature__40c temperature__0c temperature__34c temperature__30c
+temperature__118c temperature__35c temperature__112c temperature__58c temperature__57c temperature__69c temperature__123c temperature__44c temperature__4c temperature__129c
+temperature__41c temperature__93c temperature__148c temperature__118c temperature__147c temperature__118c temperature__39c temperature__141c temperature__51c temperature__23c
+temperature__93c temperature__139c temperature__145c temperature__2c temperature__51c temperature__41c temperature__0c temperature__36c temperature__50c temperature__16c
+temperature__11c temperature__111c temperature__144c temperature__129c temperature__24c temperature__56c temperature__71c temperature__6c temperature__11c temperature__118c
+Indigo Honeydew LightPink Silver CadetBlue LavenderBlush Peru Orange Wheat Crimson
+LightSeaGreen LightBlue LightBlue IndianRed OrangeRed DarkSeaGreen MintCream MediumAquamarine MediumPurple BlanchedAlmond
+LightSkyBlue DarkBlue DarkSlateBlue DarkGoldenrod MediumOrchid Seashell PaleTurquoise Cyan DarkCyan SandyBrown
+Seashell LawnGreen LightSlateGray LightGreen DarkOrchid Salmon DarkOrchid SlateGray AntiqueWhite Azure
+HotPink HotPink LightGoldenrod White Crimson Purple DarkSlateGray Bisque Pink Purple
+Navy PaleGreen DarkGray Orange MistyRose Maroon LawnGreen LightBlue CadetBlue PaleGreen
+MistyRose Linen DarkRed MistyRose Orange LightGreen DarkOrange MediumTurquoise Cyan Goldenrod
+Red LawnGreen Feldspar Yellow Sienna CadetBlue Crimson Coral LightSteelBlue Wheat
+DeepSkyBlue RoyalBlue MediumPurple MediumTurquoise DarkGoldenrod PaleGoldenrod LightSeaGreen WhiteSmoke Fuchsia IndianRed
+Cyan AntiqueWhite Burlywood LightGoldenrodYellow SpringGreen LightYellow Burlywood Salmon MediumTurquoise SlateGray
+Chocolate Azure VioletRed Moccasin MediumSeaGreen Snow VioletRed SteelBlue Burlywood Olive
+18:30 12:38 19:38 12:28 16:21 11:23 14:52 15:16 19:42 14:37
+13:41 15:16 13:48 17:50 12:21 18:52 14:39 23:22 19:22 10:41
+10:27 18:58 16:30 19:50 11:49 19:50 12:17 19:26 15:13 10:34
+11:36 23:57 10:49 12:24 10:28 19:14 20:54 11:22 23:34 19:19
+11:11 16:15 20:50 19:24 15:21 17:41 22:19 15:55 15:38 12:19
+16:49 18:44 22:55 23:57 21:14 15:10 12:28 14:28 23:11 23:11
+14:47 17:55 18:19 20:43 10:40 12:50 16:16 19:45 14:14 18:43
+23:21 12:12 22:55 17:53 19:27 20:11 21:34 12:35 14:33 20:21
+20:15 12:42 20:59 12:28 11:23 17:51 20:37 11:43 10:32 20:47
+16:29 22:56 20:59 23:57 22:25 18:48 18:18 15:58 14:52 20:13
+16:55 13:28 19:54 11:29 14:50 21:56 18:56 18:21 12:37 14:30
+CubeNumber_8 CubeNumber_5832 CubeNumber_195112 CubeNumber_912673 CubeNumber_8000 CubeNumber_729 CubeNumber_166375 CubeNumber_21952 CubeNumber_74088 CubeNumber_85184
+CubeNumber_704969 CubeNumber_8000 CubeNumber_54872 CubeNumber_226981 CubeNumber_6859 CubeNumber_103823 CubeNumber_205379 CubeNumber_13824 CubeNumber_91125 CubeNumber_250047
+CubeNumber_216 CubeNumber_343000 CubeNumber_21952 CubeNumber_636056 CubeNumber_614125 CubeNumber_531441 CubeNumber_456533 CubeNumber_29791 CubeNumber_125 CubeNumber_175616
+CubeNumber_216000 CubeNumber_64 CubeNumber_42875 CubeNumber_704969 CubeNumber_21952 CubeNumber_85184 CubeNumber_343 CubeNumber_205379 CubeNumber_27 CubeNumber_1331
+CubeNumber_421875 CubeNumber_5832 CubeNumber_175616 CubeNumber_46656 CubeNumber_39304 CubeNumber_42875 CubeNumber_250047 CubeNumber_205379 CubeNumber_357911 CubeNumber_85184
+CubeNumber_1728 CubeNumber_456533 CubeNumber_68921 CubeNumber_85184 CubeNumber_27000 CubeNumber_804357 CubeNumber_571787 CubeNumber_15625 CubeNumber_216000 CubeNumber_1000
+CubeNumber_857375 CubeNumber_830584 CubeNumber_79507 CubeNumber_941192 CubeNumber_3375 CubeNumber_804357 CubeNumber_205379 CubeNumber_753571 CubeNumber_17576 CubeNumber_185193
+CubeNumber_4096 CubeNumber_1000 CubeNumber_2197 CubeNumber_125 CubeNumber_64 CubeNumber_681472 CubeNumber_592704 CubeNumber_287496 CubeNumber_314432 CubeNumber_571787
+CubeNumber_238328 CubeNumber_12167 CubeNumber_9261 CubeNumber_132651 CubeNumber_512000 CubeNumber_238328 CubeNumber_262144 CubeNumber_884736 CubeNumber_12167 CubeNumber_24389
+CubeNumber_238328 CubeNumber_753571 CubeNumber_205379 CubeNumber_10648 CubeNumber_614125 CubeNumber_941192 CubeNumber_27000 CubeNumber_10648 CubeNumber_314432 CubeNumber_19683
+CubeNumber_551368 CubeNumber_250047 CubeNumber_13824 CubeNumber_405224 CubeNumber_226981 CubeNumber_15625 CubeNumber_4913 CubeNumber_110592 CubeNumber_274625 CubeNumber_531441
+poikilotherm frog invertebrate animals environmental animalkingdom zooplankton insectivore dinosaur bug
+eukaryotic pig elephants metazoan mythical metazoan workanimal pigs wild iguana
+fauna raccoon tiger fantasy deer fauna biped insectivore chordate mythical
+embryo carnivore cat pitbull elephants rodent poikilotherm dogs mammals sensual
+cat vertebrate biped jellyfish clams animals amphibians pet sheep pitbull
+epizootic meat cat creature puppy pups llamas demon pigs reptile
+porifera iguana amphibians raccoon multicellular wild insectivorous carnal pig fantasy
+chordate tufted frog varmint zoo iguana epizootic environmental farming exoticanimals
+beast scavenger cat mammal multicellular zoology bird vegan heterotroph pups
+sheep raccoon pitbull embryo animalia chordate livestock metazoan workanimal marineanimal
+heterotroph pitbull carnal cat primate iguana epizootic elephants dog fish
+skyjack offenses mutilation spy political structuralism gun lift massacre poverty
+evidence highjack murders human revenge heist felony drugs evidence crisis
+victim sin felony felony human legal evidence abuse muggings noir
+homicides shootings legislature homelessness terrorism safety safety offence death tort
+genocide unsolved forensic slayings misdemeanor thriller offense noir gang gun
+guilt crisis government homicide forensic fraud safety legislature brutality legislature
+muggings genocide revenge imprisonment offenses theft rape kill tort cop
+shootings political justice law poverty government sin robbery drama mystery
+criminal crisis psychological country jurisdiction human kill terrorism liberty drama
+investigation structuralism assault homeless legislature kill shoplift accident hijack mystery
+mystery political massacre prison death prison dark imprisonment incarceration revenge
+cooking cooking provender edible plant fruit meal meat drinks milk
+chicken meat edible animal meal rice fruits vegetables meal cooking provender
+eat animal restaurant cooking meat beef victuals sushi vegetable meals
+meat chicken cooking cooking animal soup cooking fruit vegetable fruits vegetables
+victuals meals meat cereal victuals pasta victuals fruit meat milk
+cheese rice drinks beef fruits vegetables nutrient beef nutrition eat edible
+restaurant fruit victuals plant vegetable vegetable nutrition fruit meat seafood
+eat nutrient meat chicken edible eat soup seafood nutrient chicken
+cereal vegetable provender cooking rice edible vegetable seafood nutrient fruits vegetables
+sushi nutrition sushi soup milk meal meal seafood pasta cooking
+fruits vegetables seafood sushi nutrition cereal vegetable plant meals meals drinks
+programmer downloader calculator desktop vacuumtube router computerscience computerscience cyber social
+personalcomputer camera sliderule mobile game information memory bit pc von neumann machine
+computerhardware mechanicalcomputer computercide dataconverter computerprogram mobiledevice desktopcomputer incompatible incompatible daw
+homecomputer bit camera screen electronics digital machine xbox proprietary algorithm
+incompatible hardware computerprogram daw vacuumtube inputdevice mainframe calculator abacus chip
+mobile mechanicalcomputer computerprogramming desktopcomputer supercomputer internet mechanicalcomputer dataconverter mobiledevice cyber
+computerprogram ibook office floppydisk desktoppcs floppydisk centralprocessing unit cell dataconverter screen
+turingmachine diskette computercircuit monitor social microprocessor xbox chip computation programmer
+device computercide smartphone laptopcomputer visualdisplayunit pc virtualreality centralprocessing unit downloader xbox
+daw digitalaudioplayer camera calculator electrical imac android machine dataconverter visualdisplayunit
+desktop mechanicalcomputer android desktop von neumann machine eniac desktop android algorithm mainframe
+fantastic upset dull enthusiastic selfish unsightly silly rich nasty amused
+happy successful graceful dizzy proud exuberant stormy elegant cloudy nervous
+cloudy nice clean puzzled naughty uptight gorgeous homeless thoughtless strange
+successful determined zealous lucky shiny obedient exuberant weary sore bloody
+faithful frantic motionless sleepy difficult healthy grumpy homeless drab funny
+blushing colorful vivacious envious troubled frail careful quaint quaint ashamed
+misty fragile zany concerned clear puzzled repulsive mysterious troubled quaint
+doubtful determined delightful dangerous grotesque drab tasty doubtful arrogant calm
+bored brainy panicky open fragile handsome eager concerned disturbed precious
+helpful outstanding outstanding agreeable nasty drab tender ashamed dull bewildered
+elegant fragile ashamed pleasant frantic envious ashamed hungry adorable condemned

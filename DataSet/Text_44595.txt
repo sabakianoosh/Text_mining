@@ -1,0 +1,99 @@
+CubeNumber_64 CubeNumber_512000 CubeNumber_1331 CubeNumber_421875 CubeNumber_884736 CubeNumber_9261 CubeNumber_753571 CubeNumber_300763 CubeNumber_125000 CubeNumber_941192
+CubeNumber_512000 CubeNumber_4096 CubeNumber_343000 CubeNumber_287496 CubeNumber_343 CubeNumber_125 CubeNumber_50653 CubeNumber_551368 CubeNumber_24389 CubeNumber_226981
+CubeNumber_614125 CubeNumber_195112 CubeNumber_2197 CubeNumber_729000 CubeNumber_64 CubeNumber_493039 CubeNumber_10648 CubeNumber_10648 CubeNumber_2197 CubeNumber_314432
+CubeNumber_493039 CubeNumber_238328 CubeNumber_884736 CubeNumber_12167 CubeNumber_830584 CubeNumber_512 CubeNumber_27000 CubeNumber_32768 CubeNumber_91125 CubeNumber_328509
+CubeNumber_10648 CubeNumber_216000 CubeNumber_421875 CubeNumber_512 CubeNumber_3375 CubeNumber_103823 CubeNumber_658503 CubeNumber_373248 CubeNumber_592704 CubeNumber_3375
+CubeNumber_1331 CubeNumber_262144 CubeNumber_1000 CubeNumber_857375 CubeNumber_912673 CubeNumber_421875 CubeNumber_35937 CubeNumber_13824 CubeNumber_753571 CubeNumber_8000
+CubeNumber_571787 CubeNumber_85184 CubeNumber_1000 CubeNumber_13824 CubeNumber_27000 CubeNumber_314432 CubeNumber_110592 CubeNumber_27000 CubeNumber_140608 CubeNumber_4913
+CubeNumber_1000 CubeNumber_8 CubeNumber_29791 CubeNumber_753571 CubeNumber_12167 CubeNumber_140608 CubeNumber_274625 CubeNumber_830584 CubeNumber_1000 CubeNumber_300763
+CubeNumber_614125 CubeNumber_857375 CubeNumber_10648 CubeNumber_226981 CubeNumber_166375 CubeNumber_8000 CubeNumber_32768 CubeNumber_175616 CubeNumber_250047 CubeNumber_85184
+CubeNumber_804357 CubeNumber_13824 CubeNumber_373248 CubeNumber_6859 CubeNumber_571787 CubeNumber_205379 CubeNumber_185193 CubeNumber_8000 CubeNumber_941192 CubeNumber_658503
+CubeNumber_1728 CubeNumber_27 CubeNumber_166375 CubeNumber_438976 CubeNumber_35937 CubeNumber_8000 CubeNumber_1331 CubeNumber_13824 CubeNumber_68921 CubeNumber_614125
+vertebrate animal welfare dinosaur monster demon dinosaur object elephants demon sheep
+vegan sheep dogs frog fish creature monster birds pet tiger
+monster rabbit bug birds vegan monster fauna mammals jellyfish rodent
+carnivore tiger zooplankton llamas insectivore dinosaur tufted plant poikilotherm tiger
+birds varmint animal welfare feline insectivore cats animals metazoan embryo object
+animatebeing pig superdog metazoan insectivore creature insectivorous scavenger raccoon fish
+amphibians chickens rabbit carnivore dinosaur insects insect rodent deer mammal
+bobcat marineanimal pet sheep hourse protist clams fish zoology darter
+varmint bird eukaryotic raccoon animals feline jellyfish workanimal bobcat pigs
+superdog farming scavenger livestock exoticanimals puppy eukaryotic environmental demon fish
+bobcat animalkingdom eukaryotic object domesticate multicellular puppy wild animal welfare wildlife
+Fauteuil Armchair Buffet Valet Vitrine Daybed Shelf Volute cubbies Chair
+Cushion Divan Sideboard Recliner Cradle Zitan Cradle Couch Air-conditioner Desk
+Pantry Bench Mantle Pew Bookshelf Screen Zitan Drapery Television Armchair
+Footrest Cradle Crib Bowfront Mantle Furniture Zitan Waterbed Armoire Armchair
+Bowfront cubbies Cot Bureau Mattress Highchair Light Applique Sconce Pillow
+Cushions Chandelier Footrest Settee Lamp Mattress Armchair Frieze Upholstery Bed
+Recliner Antique Throne Cradle Hassock Breakfront Pantry Divan Regency Headboard
+Table Bookshelf Island Bowfront Lintel Regency Frieze Drapery Rattle Chandelier
+Wardrobe Mirror Curtains Bowfront Waterbed Frieze Cot Regency Baroque Etagère
+Secretary Loveseat Credenza Seat Hutch Armchair Fluting Wicker Mantle Furniture
+Footrest Television Sideboard Rug Air-conditioner Valet Volute Upholstery Bergere Highchair
+guilt crisis punitive barratry gangster lift law-breaking evidence drama theft
+punitive vandalism skyjack heist bloodshed drugs arrest punishment sin sin
+government safety unsolved conspiracy murders snitching offenses human terrorism fraud
+cybercrime terrorism fraud political mystery hijack psychological mob felony abuse
+skyjack criminals homeless gang shootings supernatural structuralism transgression terrorism legislature
+drug homicide justice homeless racism detective gun skyjack homicide law-breaking
+robbery criminality muggings brutality law safety arsons hijack snitching thrillers
+crime thrillers offenses gangs shootings slayings murders homelessness brutality tort
+crime political missing country hijack blackmail slay homelessness vandalism noir
+arrest tort story spy cybercrime liberty rape mafia offense genocide
+statutory crisis abuse guilt gun vandalism crime legislature supernatural racism
+BinaryNumber_0110000 BinaryNumber_0110010 BinaryNumber_0111001 BinaryNumber_1100001 BinaryNumber_0011011 BinaryNumber_0110011 BinaryNumber_0011011 BinaryNumber_0010011 BinaryNumber_0111101 BinaryNumber_0000100
+BinaryNumber_0100101 BinaryNumber_0000010 BinaryNumber_0010011 BinaryNumber_0000010 BinaryNumber_0001100 BinaryNumber_1001101 BinaryNumber_1000101 BinaryNumber_0011100 BinaryNumber_0111111 BinaryNumber_0110100
+BinaryNumber_0010110 BinaryNumber_0100000 BinaryNumber_0010011 BinaryNumber_0011000 BinaryNumber_1010101 BinaryNumber_0101011 BinaryNumber_0101010 BinaryNumber_0100110 BinaryNumber_1010000 BinaryNumber_0001000
+BinaryNumber_0110011 BinaryNumber_0011100 BinaryNumber_1010111 BinaryNumber_1100001 BinaryNumber_0010001 BinaryNumber_0110010 BinaryNumber_1000100 BinaryNumber_1000101 BinaryNumber_1011110 BinaryNumber_1001001
+BinaryNumber_1000000 BinaryNumber_1011100 BinaryNumber_1001110 BinaryNumber_0010001 BinaryNumber_0000010 BinaryNumber_0100001 BinaryNumber_0110000 BinaryNumber_1100000 BinaryNumber_0100010 BinaryNumber_1011101
+BinaryNumber_0001100 BinaryNumber_0010010 BinaryNumber_0000101 BinaryNumber_0001001 BinaryNumber_0111010 BinaryNumber_0000100 BinaryNumber_0100110 BinaryNumber_0101010 BinaryNumber_1001010 BinaryNumber_0010100
+BinaryNumber_1011000 BinaryNumber_1010110 BinaryNumber_0111101 BinaryNumber_0101010 BinaryNumber_1001111 BinaryNumber_1000010 BinaryNumber_0111010 BinaryNumber_0111111 BinaryNumber_0001001 BinaryNumber_0001101
+BinaryNumber_1001100 BinaryNumber_0101100 BinaryNumber_1010010 BinaryNumber_0001100 BinaryNumber_0000000 BinaryNumber_1000111 BinaryNumber_0111101 BinaryNumber_0101000 BinaryNumber_1010110 BinaryNumber_0110110
+BinaryNumber_0011000 BinaryNumber_1010000 BinaryNumber_0100000 BinaryNumber_1011101 BinaryNumber_0101010 BinaryNumber_0011000 BinaryNumber_1001101 BinaryNumber_0111101 BinaryNumber_1010011 BinaryNumber_0010000
+BinaryNumber_0001111 BinaryNumber_0100000 BinaryNumber_0011101 BinaryNumber_1011101 BinaryNumber_1010000 BinaryNumber_0110010 BinaryNumber_0111110 BinaryNumber_1001000 BinaryNumber_1010111 BinaryNumber_1010100
+BinaryNumber_0000000 BinaryNumber_0010001 BinaryNumber_0100110 BinaryNumber_0100101 BinaryNumber_1011100 BinaryNumber_0010111 BinaryNumber_1001110 BinaryNumber_0011011 BinaryNumber_1001010 BinaryNumber_0011101
+bright ill uptight careful mushy grumpy average scary difficult fierce
+annoying aggressive crazy charming delightful easy lucky poor jealous spotless
+amused better excited worried breakable different fragile homely eager envious
+adorable fantastic motionless dizzy plain comfortable graceful proud cautious angry
+determined selfish cute colorful innocent sore glamorous weary cooperative muddy
+spotless blue-eyed energetic colorful panicky important alive wicked joyous brainy
+worrisome weary cute enthusiastic breakable careful mysterious talented bad defeated
+cloudy brainy light dark annoyed fierce crazy fancy tense cloudy
+powerful clean magnificent faithful fierce powerful clever dark lively thoughtless
+ugly colorful splendid prickly inexpensive energetic ill ill obnoxious wandering
+naughty sore rich enthusiastic homeless grotesque exuberant concerned worrisome amused
+digitalcomputer game game visualdisplayunit watch digitalcommunication game computercide computerprogramming digitalaudioplayer
+computercide desktop machine cell mainframe visualdisplayunit electrical eniac diskette vacuumtube
+chip daw digitalaudioplayer monitor computercircuit machine arithmetic xbox expansionslot desktopcomputer
+virtualreality computerhardware compatible programmer chip automation integratedcircuit turingmachine spyware computercircuit
+dataconverter screen programmer programming transistor machinecode astrolabe data daw proprietary
+digitalaudioplayer personalcomputer office automation incompatible computerprogramming computercircuit desktopcomputer calculator centralprocessing unit
+algorithm electrical peripheral compatible expansionslot transistor mobile virtualreality imac cell
+computercide homecomputer bit computercircuit machines dataconverter peripheral internet office social
+mobile machines chip diskette device arithmetic mobile cybertechnology computerprogram imac
+proprietary diskette incompatible digitalcommunication algorithm bit cybertechnology desktop desktoppcs peripheral
+computercide arithmetic electromechanical machines computation antivirus compatible desktoppcs von neumann machine von neumann machine
+seafood animal meals milk plant fruits vegetables vegetable nourishment nutrient beef
+fruits vegetables meal milk beef cheese meal vegetable seafood chicken vegetable
+milk animal drinks restaurant fruits vegetables provender cheese soup plant plant
+chicken cheese restaurant victuals victuals nutrition provender drinks cheese milk
+eat fruits vegetables cereal soup cereal chicken fruit fruit sushi victuals
+eat nutrient meat sushi nutrition soup provender provender animal milk
+eat milk nourishment meal restaurant milk edible fruit animal meals
+restaurant eat sushi cereal chicken meal nutrient rice cheese pasta
+vegetable drinks restaurant cheese pasta milk drinks cooking milk soup
+drinks pasta sushi sushi rice rice animal meal animal soup
+fruits vegetables pasta meat meal provender edible meals nourishment vegetable milk
+Banana Banana Plantain Blueberry Strawberry Raisin Raisin Mangosteen Cashew Damson
+Tangerine Pear Persimmon Tangelo Avocado Lulo Longan Honeydew Cherimoya Blueberry
+Rambutan  Banana Boysenberry Cashew Salak Melon Yuzu Kiwifruit Plumcot Tamarind
+Tangelo Kumquat Banana Banana Pineapple Currant Lime Currant Jackfruit Pear
+Cranberry Pomegranate Peach Ackee Acerola Pomegranate Coconut Plumcot Ximenia Quince
+Pomelo Prune Soursop Durian Cherimoya Loquat Gooseberry Jambul Loganberry Passionfruit
+Coconut Pineberry Redcurrant Blueberry Watermelon Salak Pawpaw Ackee Cashew Cranberry
+Melon Raspberry Blackberry Honeydew Lemon Honeydew Açaí Lulo Passionfruit Currant
+Apricot Sapodilla Pomegranate Cranberry Sapodilla Acerola Nectarine Grapefruit Avocado Papaya
+Lemon Grapefruit Pomegranate Grapefruit Jostaberry Lychee Plantain Avocado Pomelo Grapefruit
+Pomelo Pineapple Araza Tamarillo Orange Orange Elderberry Passionfruit Loganberry Cloudberry

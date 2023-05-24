@@ -1,0 +1,99 @@
+PeachPuff LavenderBlush SkyBlue Wheat DodgerBlue MediumSpringGreen PapayaWhip Goldenrod White Peru
+DarkSlateGray Moccasin SkyBlue MediumVioletRed GreenYellow Crimson LightYellow Linen LightSkyBlue Brown
+BlanchedAlmond SeaGreen SaddleBrown DeepSkyBlue DarkCyan DarkKhaki Burlywood DeepSkyBlue WhiteSmoke MediumSpringGreen
+White Maroon MidnightBlue DarkSlateBlue DarkKhaki LightSeaGreen PowderBlue PeachPuff LightGray Aquamarine
+Lavender Seashell AntiqueWhite DarkGoldenrod PaleGreen LightGoldenrodYellow DarkGreen CadetBlue LightSlateGray DarkOrange
+LightSkyBlue DarkSlateGray DarkFuchsia MediumSpringGreen Silver Aquamarine LightSteelBlue DarkKhaki DarkSeaGreen MediumVioletRed
+Turquoise Linen MediumSlateBlue Maroon LightSteelBlue Cornsilk SpringGreen LawnGreen MediumTurquoise PaleVioletRed
+Plum Aquamarine LightSalmon Green LightGreen Gray OliveDrab SandyBrown Beige MediumAquamarine
+DarkTurquoise AntiqueWhite LightGreen DarkOliveGreen DarkRed Yellow Feldspar PaleGreen MediumTurquoise MistyRose
+PaleVioletRed Plum MediumSpringGreen LightGray MediumTurquoise Linen MediumSlateBlue DarkViolet Azure DarkCyan
+SandyBrown Fuchsia Peru SteelBlue IndianRed SkyBlue WhiteSmoke LightSalmon SkyBlue PaleTurquoise
+pasta seafood provender nourishment victuals rice milk edible cheese nutrient
+victuals animal fruits vegetables provender nutrition victuals chicken restaurant milk sushi
+cheese animal sushi animal restaurant soup eat nourishment cereal nutrient
+victuals chicken restaurant drinks cooking edible nutrient cereal edible fruits vegetables
+nutrient provender vegetable cheese seafood rice fruit sushi nutrition beef
+beef meat restaurant beef restaurant meat meal fruits vegetables edible chicken
+restaurant seafood nutrient eat cereal victuals seafood edible nutrition animal
+fruits vegetables cooking animal eat nutrient vegetable meals provender drinks meal
+fruit vegetable seafood animal vegetable animal nutrition fruits vegetables nutrition milk
+cooking eat meal meal soup meal sushi nourishment meat eat
+milk soup cheese fruit vegetable restaurant soup seafood seafood pasta
+CubeNumber_343 CubeNumber_857375 CubeNumber_59319 CubeNumber_166375 CubeNumber_39304 CubeNumber_64000 CubeNumber_238328 CubeNumber_74088 CubeNumber_12167 CubeNumber_91125
+CubeNumber_551368 CubeNumber_287496 CubeNumber_941192 CubeNumber_857375 CubeNumber_3375 CubeNumber_8000 CubeNumber_941192 CubeNumber_778688 CubeNumber_35937 CubeNumber_175616
+CubeNumber_39304 CubeNumber_125000 CubeNumber_830584 CubeNumber_216000 CubeNumber_50653 CubeNumber_13824 CubeNumber_551368 CubeNumber_140608 CubeNumber_175616 CubeNumber_250047
+CubeNumber_373248 CubeNumber_125000 CubeNumber_13824 CubeNumber_300763 CubeNumber_54872 CubeNumber_592704 CubeNumber_373248 CubeNumber_24389 CubeNumber_85184 CubeNumber_592704
+CubeNumber_456533 CubeNumber_884736 CubeNumber_2744 CubeNumber_9261 CubeNumber_636056 CubeNumber_1728 CubeNumber_10648 CubeNumber_778688 CubeNumber_29791 CubeNumber_42875
+CubeNumber_140608 CubeNumber_357911 CubeNumber_912673 CubeNumber_5832 CubeNumber_39304 CubeNumber_148877 CubeNumber_79507 CubeNumber_59319 CubeNumber_6859 CubeNumber_5832
+CubeNumber_262144 CubeNumber_357911 CubeNumber_10648 CubeNumber_531441 CubeNumber_912673 CubeNumber_5832 CubeNumber_6859 CubeNumber_39304 CubeNumber_4096 CubeNumber_140608
+CubeNumber_373248 CubeNumber_64 CubeNumber_373248 CubeNumber_571787 CubeNumber_857375 CubeNumber_493039 CubeNumber_474552 CubeNumber_216 CubeNumber_140608 CubeNumber_2744
+CubeNumber_4913 CubeNumber_4913 CubeNumber_343 CubeNumber_1000 CubeNumber_148877 CubeNumber_493039 CubeNumber_35937 CubeNumber_50653 CubeNumber_205379 CubeNumber_287496
+CubeNumber_456533 CubeNumber_300763 CubeNumber_571787 CubeNumber_729000 CubeNumber_405224 CubeNumber_238328 CubeNumber_592704 CubeNumber_68921 CubeNumber_389017 CubeNumber_4096
+CubeNumber_15625 CubeNumber_79507 CubeNumber_343000 CubeNumber_216000 CubeNumber_941192 CubeNumber_389017 CubeNumber_300763 CubeNumber_175616 CubeNumber_24389 CubeNumber_250047
+PrimeNumber_41 PrimeNumber_257 PrimeNumber_487 PrimeNumber_101 PrimeNumber_239 PrimeNumber_151 PrimeNumber_509 PrimeNumber_509 PrimeNumber_383 PrimeNumber_419
+PrimeNumber_83 PrimeNumber_251 PrimeNumber_241 PrimeNumber_263 PrimeNumber_223 PrimeNumber_61 PrimeNumber_367 PrimeNumber_11 PrimeNumber_443 PrimeNumber_521
+PrimeNumber_347 PrimeNumber_13 PrimeNumber_5 PrimeNumber_503 PrimeNumber_23 PrimeNumber_2 PrimeNumber_409 PrimeNumber_541 PrimeNumber_101 PrimeNumber_313
+PrimeNumber_487 PrimeNumber_419 PrimeNumber_83 PrimeNumber_43 PrimeNumber_467 PrimeNumber_383 PrimeNumber_7 PrimeNumber_431 PrimeNumber_13 PrimeNumber_439
+PrimeNumber_401 PrimeNumber_61 PrimeNumber_53 PrimeNumber_337 PrimeNumber_463 PrimeNumber_211 PrimeNumber_271 PrimeNumber_359 PrimeNumber_23 PrimeNumber_241
+PrimeNumber_521 PrimeNumber_317 PrimeNumber_281 PrimeNumber_199 PrimeNumber_311 PrimeNumber_17 PrimeNumber_251 PrimeNumber_313 PrimeNumber_419 PrimeNumber_227
+PrimeNumber_359 PrimeNumber_53 PrimeNumber_19 PrimeNumber_229 PrimeNumber_97 PrimeNumber_197 PrimeNumber_367 PrimeNumber_271 PrimeNumber_61 PrimeNumber_331
+PrimeNumber_37 PrimeNumber_11 PrimeNumber_71 PrimeNumber_331 PrimeNumber_5 PrimeNumber_283 PrimeNumber_359 PrimeNumber_83 PrimeNumber_419 PrimeNumber_271
+PrimeNumber_79 PrimeNumber_241 PrimeNumber_293 PrimeNumber_239 PrimeNumber_107 PrimeNumber_199 PrimeNumber_373 PrimeNumber_347 PrimeNumber_7 PrimeNumber_283
+PrimeNumber_421 PrimeNumber_127 PrimeNumber_37 PrimeNumber_43 PrimeNumber_211 PrimeNumber_191 PrimeNumber_107 PrimeNumber_47 PrimeNumber_197 PrimeNumber_139
+PrimeNumber_197 PrimeNumber_179 PrimeNumber_101 PrimeNumber_503 PrimeNumber_191 PrimeNumber_269 PrimeNumber_151 PrimeNumber_109 PrimeNumber_449 PrimeNumber_337
+engagement impunity regime deficit recrimination bribe mercurial unjust manipulate deficit
+plagiarism saga fiasco persecution recrimination reckless sloth revelation defamation plutocracy
+reckless acolyte hypocrisy privilege integrity corruption endorsement influence tarnish dictatorship
+feud hypocrisy scapegoat plutocracy authoritarian regime patriarchy rebut endorsement opportunist
+expose reputation plagiarism plutocracy laconic massive reputation persecution resignation bamboozle
+blame prestidigitation onerous onerous expose influence temptation benefit parry authoritarian
+retaliation deficit opportunist deny debacle chicanery expose engagement defamation deny
+ignorant reputation conceal demagogue beleaguer plutocracy persecution patriarchy reputation opportunist
+deficit anonymity infringement proxy deflect allegation endorsement conceal career lobby
+collaboration rebut integrity deficit unsavory unjust influence blame partial onerous
+partial integrity patronage beleaguer patriarchy deny conceal tarnish feud authoritarian
+cybertechnology virtualreality sliderule arithmetic computerprogramming server daw digitalcomputer mobiledevice computerhardware
+router screen laptopcomputer cpu mechanicalcomputer calculator sliderule social digitalaudioplayer bit
+desktopcomputer office calculator digital chip microprocessor virtualreality calculator microcomputer programmer
+screen computercide desktopcomputer processor diskette pc mobile von neumann machine programming game
+electromechanical supercomputer software spyware electronics machine game antivirus ibook algorithm
+escapekey mechanicalcomputer cpu game server desktop server sliderule computerprogramming computerprogram
+social mobiledevice computing browser vacuumtube centralprocessing unit floppydisk monitor imac computerprogram
+computercircuit software server server vacuumtube console laptopcomputer antivirus cyber computercircuit
+computercircuit cpu router electrical digitalcomputer centralprocessing unit android computing computation server
+tablet programming eniac processor inputdevice hardware imac eniac incompatible computing
+digitalaudioplayer algorithm computercircuit chip computerprogramming centralprocessing unit transistor floppydisk screen calculator
+Melon Durian Araza Tayberry Tamarillo Nance Abiu Longan Akebi Cherimoya
+Elderberry Banana Lulo Grape Soursop Salak Loganberry Date Canistel Honeyberry
+Lychee Papaya Pineapple Raspberry Papaya Pineapple Kiwifruit Tangerine Fig Lemon
+Mangosteen Fig Persimmon Strawberry Jujube Plantain Pomegranate Boysenberry Fig Durian
+Feijoa Pineapple Longan Ackee Sapote Mangosteen Pear Huckleberry Coconut Cloudberry
+Raisin Marionberry Grapefruit Pineberry Huckleberry Feijoa Prune Marionberry Pomegranate Nectarine
+Tangelo Canistel Marionberry Watermelon Mandarine Açaí Plum Persimmon Pawpaw Acerola
+Pawpaw Blackberry Redcurrant Araza Pomelo Date Cranberry Canistel Marionberry Pear
+Pomelo Date Feijoa Coconut Coconut Elderberry Cherry Cantaloupe Lemon Damson
+Canistel Clementine Papaya Marionberry Sapote Durian Fig Strawberry Salmonberry Blackberry
+Pomegranate Blackcurrant Plum Canistel Tayberry Marionberry Abiu Pomegranate Loquat Ackee
+12:41 10:46 14:32 18:40 12:54 16:28 14:10 21:18 19:49 16:27
+21:54 18:51 15:37 17:46 20:52 15:32 19:46 13:21 22:57 15:21
+22:51 10:22 19:39 10:25 16:40 21:39 19:27 20:35 22:49 14:16
+17:24 10:29 10:45 13:23 22:28 13:55 12:32 20:37 17:13 12:26
+11:45 23:32 16:11 14:51 16:21 23:37 20:16 13:33 21:10 11:32
+14:36 23:47 15:35 18:17 14:53 15:12 17:56 15:35 21:16 16:49
+18:48 13:15 15:58 11:25 10:25 10:13 17:30 15:25 18:35 16:41
+18:51 20:37 17:27 22:58 21:32 12:29 20:35 22:19 20:27 14:23
+16:56 12:16 10:49 13:58 21:14 10:13 21:53 15:21 20:18 19:23
+10:24 16:13 16:31 10:52 18:35 10:10 23:16 20:22 11:43 21:47
+14:20 17:10 14:41 11:48 23:40 14:17 22:16 21:24 21:27 21:15
+BinaryNumber_1010101 BinaryNumber_1011101 BinaryNumber_0010111 BinaryNumber_0001010 BinaryNumber_1000111 BinaryNumber_1011110 BinaryNumber_1010011 BinaryNumber_0000100 BinaryNumber_0100100 BinaryNumber_0010101
+BinaryNumber_0101100 BinaryNumber_1000000 BinaryNumber_0111001 BinaryNumber_1001110 BinaryNumber_1000011 BinaryNumber_0010000 BinaryNumber_0000111 BinaryNumber_0011011 BinaryNumber_0101000 BinaryNumber_0111010
+BinaryNumber_0011010 BinaryNumber_0000111 BinaryNumber_0111001 BinaryNumber_0000001 BinaryNumber_1000111 BinaryNumber_0001011 BinaryNumber_1001000 BinaryNumber_0111011 BinaryNumber_1000011 BinaryNumber_0000100
+BinaryNumber_1010000 BinaryNumber_0110010 BinaryNumber_1100001 BinaryNumber_1001000 BinaryNumber_0100101 BinaryNumber_0101000 BinaryNumber_1001101 BinaryNumber_1000111 BinaryNumber_0110101 BinaryNumber_0101000
+BinaryNumber_0011110 BinaryNumber_1010101 BinaryNumber_0111010 BinaryNumber_0101001 BinaryNumber_0100011 BinaryNumber_0011101 BinaryNumber_1010001 BinaryNumber_1100001 BinaryNumber_1011110 BinaryNumber_0010010
+BinaryNumber_1010101 BinaryNumber_0101010 BinaryNumber_1000101 BinaryNumber_0001011 BinaryNumber_1001001 BinaryNumber_0111100 BinaryNumber_0111001 BinaryNumber_1000000 BinaryNumber_0100010 BinaryNumber_0010111
+BinaryNumber_0110111 BinaryNumber_0100110 BinaryNumber_0111101 BinaryNumber_1010110 BinaryNumber_1011100 BinaryNumber_0111100 BinaryNumber_0110011 BinaryNumber_0000001 BinaryNumber_1001100 BinaryNumber_0000000
+BinaryNumber_0110001 BinaryNumber_0110110 BinaryNumber_0101110 BinaryNumber_0000000 BinaryNumber_0001010 BinaryNumber_1000110 BinaryNumber_1010011 BinaryNumber_0110010 BinaryNumber_0010111 BinaryNumber_1011011
+BinaryNumber_0110001 BinaryNumber_0101100 BinaryNumber_0100110 BinaryNumber_1001001 BinaryNumber_0001110 BinaryNumber_0110100 BinaryNumber_1010111 BinaryNumber_1011101 BinaryNumber_1000101 BinaryNumber_1000011
+BinaryNumber_0111111 BinaryNumber_0100000 BinaryNumber_1000010 BinaryNumber_1000100 BinaryNumber_0000001 BinaryNumber_0011000 BinaryNumber_0111100 BinaryNumber_0110011 BinaryNumber_0000001 BinaryNumber_0100011
+BinaryNumber_0110100 BinaryNumber_1010111 BinaryNumber_1001111 BinaryNumber_1010101 BinaryNumber_0000100 BinaryNumber_0111101 BinaryNumber_0100101 BinaryNumber_1001000 BinaryNumber_1000011 BinaryNumber_0001101

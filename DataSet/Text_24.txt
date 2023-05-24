@@ -1,0 +1,99 @@
+15:57 13:48 14:38 13:59 18:10 13:42 22:36 18:24 15:26 22:38
+15:54 22:27 23:18 23:46 14:48 19:33 17:59 16:21 10:59 19:26
+21:39 21:37 16:16 21:41 19:25 18:42 17:41 15:46 12:54 12:37
+17:48 15:13 18:15 16:11 14:52 21:45 21:23 15:10 16:37 21:13
+23:29 16:14 16:45 15:51 14:46 22:47 22:13 12:27 19:45 22:48
+14:58 12:56 10:35 15:37 13:53 22:19 18:45 21:14 12:58 12:34
+19:58 21:11 19:33 15:23 19:36 17:14 21:58 10:45 21:21 14:13
+17:34 12:11 20:18 10:36 15:31 10:15 20:41 13:58 14:23 14:42
+15:14 20:13 17:33 19:30 15:14 19:14 20:44 11:54 22:28 17:10
+20:49 15:16 18:47 14:54 21:26 16:27 15:53 22:24 12:21 17:20
+23:56 12:19 23:19 17:10 22:51 14:24 13:26 18:30 15:37 19:30
+rice milk meal drinks beef animal restaurant pasta soup cheese
+fruit cooking seafood fruits vegetables cooking fruits vegetables cooking fruit drinks animal
+provender provender meal milk milk rice victuals pasta fruits vegetables nourishment
+cheese sushi plant eat nourishment sushi meat restaurant eat nourishment
+cheese cheese meal plant pasta nutrient soup meals eat soup
+meals cereal provender restaurant edible cereal sushi victuals nourishment nutrition
+meals nutrition nutrient fruit meat eat soup fruit seafood beef
+provender cereal eat meals cooking rice beef restaurant restaurant sushi
+fruit nutrient meal chicken plant cheese sushi cereal sushi victuals
+plant fruit seafood nutrition cheese plant cooking cheese fruit plant
+beef seafood cereal fruits vegetables plant drinks fruit sushi eat milk
+Ackee Peach Passionfruit Date Cantaloupe Redcurrant Sapodilla Banana Elderberry Ackee
+Pomelo Sapote Cloudberry Kiwano Grape Rambutan  Lulo Soursop Tamarillo Tangelo
+Pawpaw Strawberry Jujube Currant Jujube Huckleberry Tayberry Mango Clementine Canistel
+Plantain Soursop Raspberry Damson Cherry Redcurrant Yuzu Clementine Sapote Watermelon
+Apricot Plumcot Cantaloupe Jackfruit Salak Huckleberry Cantaloupe Cranberry Persimmon Loquat
+Abiu Date Gooseberry Pineberry Grapefruit Clementine Fig Cantaloupe Guava Lulo
+Cranberry Satsuma Kiwano Mangosteen Date Cherry Blackcurrant Banana Abiu Fig
+Longan Grape Acerola Plum Mangosteen Cempedak Pineberry Durian Pineapple Blackberry
+Mulberry Banana Blackcurrant Araza Mandarine Peach Grapefruit Lemon Yuzu Huckleberry
+Pawpaw Rambutan  Abiu Abiu Plum Passionfruit Prune Gooseberry Lulo Jostaberry
+Strawberry Watermelon Currant Loquat Cloudberry Honeydew Cashew Jambul Banana Plantain
+dance hobbies spar league casual team suit exercise disport champion
+badminton badminton recreation health play cavort company run rugby action
+pack snowboarding ineligible career company cavort martial events gymnastics industry
+action supersport sport referee skylark action gamely competition gymnastics lifestyle
+class basketball culture cavort football casual active sports supersport soccer
+motorsports dynamic football soccerball fighting funambulism funambulism casual skill esports
+hunters schuss goal luge archery game sports dive gambol form
+game action offside esports casual dirt job athletics suit polo
+running extracurricular ski utility skiing motorsports snowboarding skateboard position performance
+esports boast field athletes work limited job tournament ineligible field
+motorcycling athlete dynamic shoot casual ineligible motorsports music luge lead
+temperature__108c temperature__100c temperature__39c temperature__137c temperature__41c temperature__4c temperature__14c temperature__78c temperature__116c temperature__59c
+temperature__58c temperature__108c temperature__16c temperature__40c temperature__34c temperature__2c temperature__27c temperature__14c temperature__58c temperature__42c
+temperature__139c temperature__116c temperature__59c temperature__129c temperature__6c temperature__7c temperature__119c temperature__41c temperature__50c temperature__65c
+temperature__21c temperature__54c temperature__22c temperature__33c temperature__85c temperature__50c temperature__27c temperature__0c temperature__116c temperature__136c
+temperature__12c temperature__78c temperature__140c temperature__30c temperature__111c temperature__144c temperature__69c temperature__122c temperature__53c temperature__147c
+temperature__118c temperature__3c temperature__26c temperature__49c temperature__14c temperature__40c temperature__33c temperature__33c temperature__59c temperature__120c
+temperature__47c temperature__95c temperature__95c temperature__129c temperature__136c temperature__61c temperature__73c temperature__42c temperature__52c temperature__7c
+temperature__7c temperature__33c temperature__77c temperature__120c temperature__8c temperature__49c temperature__2c temperature__123c temperature__78c temperature__146c
+temperature__78c temperature__147c temperature__54c temperature__90c temperature__27c temperature__105c temperature__86c temperature__28c temperature__138c temperature__30c
+temperature__64c temperature__144c temperature__88c temperature__28c temperature__84c temperature__34c temperature__112c temperature__31c temperature__118c temperature__70c
+temperature__105c temperature__16c temperature__123c temperature__148c temperature__28c temperature__11c temperature__65c temperature__4c temperature__139c temperature__124c
+BinaryNumber_0101100 BinaryNumber_1010011 BinaryNumber_1011110 BinaryNumber_1000001 BinaryNumber_0111101 BinaryNumber_0001000 BinaryNumber_0010011 BinaryNumber_0000001 BinaryNumber_0110101 BinaryNumber_0111100
+BinaryNumber_1000101 BinaryNumber_1001100 BinaryNumber_1010011 BinaryNumber_1010000 BinaryNumber_0000100 BinaryNumber_1001000 BinaryNumber_0000100 BinaryNumber_1001100 BinaryNumber_0011111 BinaryNumber_1100011
+BinaryNumber_0111101 BinaryNumber_0111010 BinaryNumber_0000100 BinaryNumber_1001000 BinaryNumber_1010101 BinaryNumber_0110110 BinaryNumber_0001011 BinaryNumber_0010101 BinaryNumber_1000100 BinaryNumber_0111000
+BinaryNumber_1011111 BinaryNumber_0101011 BinaryNumber_0000100 BinaryNumber_0011100 BinaryNumber_0000010 BinaryNumber_1001100 BinaryNumber_0001110 BinaryNumber_1100001 BinaryNumber_1010100 BinaryNumber_0000100
+BinaryNumber_0001000 BinaryNumber_0101100 BinaryNumber_0010011 BinaryNumber_0011011 BinaryNumber_0100010 BinaryNumber_0110001 BinaryNumber_0000010 BinaryNumber_1010110 BinaryNumber_1100010 BinaryNumber_1000110
+BinaryNumber_0001011 BinaryNumber_0100100 BinaryNumber_0101101 BinaryNumber_0111110 BinaryNumber_0100000 BinaryNumber_1001011 BinaryNumber_0010011 BinaryNumber_1011001 BinaryNumber_0101001 BinaryNumber_0000011
+BinaryNumber_0100110 BinaryNumber_1011111 BinaryNumber_0011010 BinaryNumber_0000010 BinaryNumber_0111110 BinaryNumber_0111110 BinaryNumber_0000100 BinaryNumber_0110100 BinaryNumber_0111011 BinaryNumber_0001100
+BinaryNumber_0010010 BinaryNumber_0001101 BinaryNumber_0000111 BinaryNumber_0110011 BinaryNumber_1010100 BinaryNumber_0001001 BinaryNumber_0110001 BinaryNumber_0111110 BinaryNumber_1001100 BinaryNumber_1011100
+BinaryNumber_0111011 BinaryNumber_1001001 BinaryNumber_0100111 BinaryNumber_0100110 BinaryNumber_1000100 BinaryNumber_1001001 BinaryNumber_0100011 BinaryNumber_0001000 BinaryNumber_1001101 BinaryNumber_0101011
+BinaryNumber_1001110 BinaryNumber_0001000 BinaryNumber_0001101 BinaryNumber_0011001 BinaryNumber_1000101 BinaryNumber_0101001 BinaryNumber_0100010 BinaryNumber_0011001 BinaryNumber_0101010 BinaryNumber_0111011
+BinaryNumber_0011111 BinaryNumber_1011100 BinaryNumber_0011011 BinaryNumber_0010101 BinaryNumber_1001110 BinaryNumber_1000010 BinaryNumber_1001000 BinaryNumber_0111111 BinaryNumber_1001010 BinaryNumber_1010100
+rock symphony theme composing podcast solmizate reharmonize language chaconne conducting
+compositions section metre films scale pianist rhythm percussion clarion sound
+tweedle recapitulation albums sing atonal merch mediant prelude roulade ambience
+metre choir texture theme media musicology reharmonize visual recording tabs
+instrumentals composer roulade spotify rag arts lyric roulade cultural theatre
+art music design pizzicato medicine song design maps muse double bass wagner
+bassline sounds scale concerto bands creative concerts phenomenon tonality podcasts
+graphics schubert euphony movie instrument motif ska hiphop sing clarion
+genre medicine flute release opera drum madrigal hymn genre ska
+euphony musicians streaming percussion beat medicine oboe time hymn roulade
+merch instruments vocal part melodies folk lyrics harpsichord literature improvisation
+fauna sheep mythical vertebrate insect predatoryanimal thoroughbred demon dog sheep
+bear animals meat animal welfare animalkingdom bird cat hourse animalkingdom fleshly
+bird creature scavenger insectivore livestock clams poikilotherm animalia bobcat carnivore
+primate mammals livestock chickens carnal eukaryotic fish shelter amphibians mammal
+marineanimal puppy amphibians bear primate chickens fish insect porifera sheep
+object tiger tame biped vertebrate metazoan dogs meat tufted predatoryanimal
+amphibians fleshly fantasy chickens vegan heterotroph mythical biped wildlife birds
+pet raccoon cats carnal insectivore domesticate wild animatebeing sheep multicellular
+iguana reptiles thoroughbred embryo reptile sheep raccoon insectivorous livestock animalkingdom
+primate tiger iguana demon llamas wild mammals zoo llamas deer
+pigs fauna object fauna beast environmental monster insect environmental multicellular
+eniac console server microcomputer automation console data desktop browser desktopcomputer
+sliderule watch supercomputer personalcomputer von neumann machine peripheral computerhardware algorithm software computerprogram
+supercomputer peripheral analogcomputer astrolabe microcomputer android diskette personalcomputer cyber cybertechnology
+transistor computercide computerhardware visualdisplayunit computing incompatible automation hardware proprietary computerprogramming
+vacuumtube computercide compatible cyber computerprogramming router electrical dataconverter calculator floppydisk
+integratedcircuit mechanicalcomputer internet laptopcomputer information integratedcircuit electromechanical diskette centralprocessing unit smartphone
+cell phone office mainframe memory escapekey server peripheral computation electrical
+sliderule antivirus social escapekey digitalaudioplayer browser incompatible desktoppcs digitalcomputer computercircuit
+peripheral cyber cell transistor xbox digitalcomputer computerprogram eniac console electrical
+router data homecomputer electrical von neumann machine computerscience cyber computing downloader microprocessor
+console centralprocessing unit imac social programmer antivirus mobiledevice proprietary mainframe camera

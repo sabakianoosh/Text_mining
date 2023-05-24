@@ -1,0 +1,99 @@
+easy unsightly joyous hungry ugly tough dark tired precious powerful
+gentle funny breakable hurt black fancy shy blushing sore misty
+colorful real encouraging agreeable plain innocent tame alive faithful fancy
+fragile mushy funny comfortable stupid perfect tough angry frantic gleaming
+lively brainy average blue creepy foolish powerful disturbed arrogant energetic
+adventurous splendid concerned amused charming colorful confused itchy ugliest pleasant
+important fierce blushing uptight evil homely ill evil delightful defeated
+famous powerful fancy poor fine courageous repulsive worrisome expensive obedient
+perfect creepy happy light creepy disgusted naughty dangerous grieving puzzled
+famous careful lonely drab worrisome smiling quaint uninterested grotesque splendid
+distinct black condemned relieved exuberant brainy misty splendid cloudy jittery
+CubeNumber_512000 CubeNumber_46656 CubeNumber_125 CubeNumber_13824 CubeNumber_110592 CubeNumber_205379 CubeNumber_68921 CubeNumber_79507 CubeNumber_592704 CubeNumber_636056
+CubeNumber_13824 CubeNumber_729000 CubeNumber_50653 CubeNumber_195112 CubeNumber_19683 CubeNumber_10648 CubeNumber_438976 CubeNumber_50653 CubeNumber_636056 CubeNumber_68921
+CubeNumber_79507 CubeNumber_250047 CubeNumber_300763 CubeNumber_300763 CubeNumber_438976 CubeNumber_50653 CubeNumber_531441 CubeNumber_389017 CubeNumber_46656 CubeNumber_1000
+CubeNumber_85184 CubeNumber_68921 CubeNumber_10648 CubeNumber_42875 CubeNumber_912673 CubeNumber_226981 CubeNumber_262144 CubeNumber_5832 CubeNumber_68921 CubeNumber_17576
+CubeNumber_300763 CubeNumber_636056 CubeNumber_4913 CubeNumber_4096 CubeNumber_42875 CubeNumber_250047 CubeNumber_205379 CubeNumber_250047 CubeNumber_50653 CubeNumber_110592
+CubeNumber_17576 CubeNumber_12167 CubeNumber_614125 CubeNumber_941192 CubeNumber_132651 CubeNumber_6859 CubeNumber_592704 CubeNumber_778688 CubeNumber_157464 CubeNumber_343
+CubeNumber_205379 CubeNumber_8 CubeNumber_456533 CubeNumber_531441 CubeNumber_226981 CubeNumber_2744 CubeNumber_941192 CubeNumber_512000 CubeNumber_456533 CubeNumber_804357
+CubeNumber_592704 CubeNumber_512 CubeNumber_35937 CubeNumber_753571 CubeNumber_421875 CubeNumber_54872 CubeNumber_456533 CubeNumber_421875 CubeNumber_64 CubeNumber_19683
+CubeNumber_15625 CubeNumber_941192 CubeNumber_804357 CubeNumber_2197 CubeNumber_753571 CubeNumber_941192 CubeNumber_512000 CubeNumber_64000 CubeNumber_2197 CubeNumber_343
+CubeNumber_778688 CubeNumber_343 CubeNumber_50653 CubeNumber_941192 CubeNumber_27 CubeNumber_753571 CubeNumber_59319 CubeNumber_125 CubeNumber_287496 CubeNumber_2744
+CubeNumber_636056 CubeNumber_74088 CubeNumber_405224 CubeNumber_3375 CubeNumber_10648 CubeNumber_238328 CubeNumber_389017 CubeNumber_125000 CubeNumber_704969 CubeNumber_10648
+17:33 20:30 15:35 10:59 12:35 20:50 13:14 16:44 17:15 21:16
+15:31 20:59 11:20 18:27 10:13 23:34 21:20 11:59 23:58 10:20
+19:27 23:43 19:11 19:39 19:25 13:15 12:51 20:19 13:46 19:36
+13:26 12:39 18:25 14:37 18:57 13:46 16:35 12:54 14:49 15:48
+19:59 23:36 21:26 22:43 22:12 13:36 21:17 23:59 15:27 12:32
+20:58 14:50 11:33 18:46 20:27 14:48 21:51 16:14 19:34 17:31
+15:24 12:24 10:36 21:32 20:19 10:43 10:59 23:10 11:51 23:45
+10:51 23:29 10:29 14:49 21:10 16:47 18:59 11:17 14:27 11:37
+16:29 10:28 15:48 20:48 17:21 10:51 11:31 10:20 12:51 17:36
+14:50 19:38 22:32 14:19 17:59 15:52 23:17 14:12 15:55 14:10
+15:27 11:46 21:18 20:12 21:36 16:20 12:10 12:39 20:34 13:40
+protist creature ladybug plant reptiles reptiles vegan pitbull demon clams
+jellyfish pitbull llamas amphibians frog animal welfare animals zooplankton epizootic elephants
+animalia animatebeing zoology insectivorous zooplankton animal welfare pups wild meat raccoon
+shelter domesticate zoo llamas insectivorous chickens predatoryanimal mythical feline zoo
+animalia poikilotherm poikilotherm shelter livestock tiger environmental multicellular amphibians animatebeing
+reptiles zoology bear plant tufted bird invertebrate monster primate invertebrate
+mammals varmint environmental vertebrate invertebrate metazoan fantasy pups creature monster
+bear exoticanimals scavenger hourse wildlife metazoan raccoon chordate dog exoticanimals
+clams beast animalia ladybug scavenger hourse embryo rabbit exoticanimals heterotroph
+reptiles animal welfare animalia multicellular hourse sheep meat mammal dinosaur insectivorous
+demon chordate bear cats dinosaur puppy bug insectivore scavenger marineanimal
+Blue RosyBrown BlueViolet Azure MediumBlue CornflowerBlue Violet Crimson MistyRose LemonChiffon
+Brown Pink Violet LightSlateBlue Goldenrod SandyBrown OliveDrab FloralWhite OldLace DarkOliveGreen
+DarkSlateGray Sienna DarkSlateGray DarkSeaGreen LightGray MediumSlateBlue OldLace DarkGoldenrod Purple LightSalmon
+LightCoral Feldspar MediumOrchid Coral SteelBlue MediumSeaGreen Seashell Green HotPink LightSlateGray
+MediumOrchid Black MediumTurquoise Firebrick LightSlateBlue Sienna LimeGreen OrangeRed GhostWhite LightSteelBlue
+LightGoldenrodYellow Orange MediumAquamarine Tomato BlanchedAlmond CadetBlue Silver SandyBrown MistyRose Aquamarine
+Aquamarine FloralWhite LightGoldenrodYellow AliceBlue Teal DarkBlue LightGoldenrod DarkTurquoise OliveDrab Chartreuse
+Gainsboro CadetBlue LightSkyBlue White DarkGreen DarkBlue Black Navy Crimson Plum
+LightBlue Fuchsia Yellow MediumSeaGreen Gainsboro Seashell Maroon Gray Chartreuse Orange
+LightSlateBlue Orange OliveDrab DeepPink DarkSlateGray VioletRed Aquamarine Purple Ivory DarkOrchid
+Lavender Fuchsia DarkSlateGray Wheat DarkOliveGreen MediumTurquoise SaddleBrown Bisque DodgerBlue DarkGoldenrod
+Hutch Curtains Inlay Bureau Tuffet Pillow Sofabed Cradle Loveseat Throne
+cubbies Lamp Television Fauteuil Secretary Sideboard Lamp Highchair Ottoman Hutch
+Cushions Sofabed Cupboard Wicker Bed Inlay Recliner Zitan Screen Couch
+Cot Wardrobe Bookshelf Headboard Couch Dresser Hokey Chest Vitrine Hammock
+Screen Cushion Mattress Etagère Drapery Throne Cushion Television Armchair Pillow
+Couch Fan Hammock Bureau Rack Headboards Applique Fauteuil Dresser Cart
+Pew Cradle Bureau Fan Wicker Bureau Waterbed Cushions Shelf Chandelier
+Mirror Screen Screen Hammock Hammock Bookshelf Desk Upholstery Drapes Television
+Mattress Dresser Screen Fauteuil Cabriole Footstool Antique Armchair Bookshelf Bergere
+Volute Upholstery Armoire Stool Dresser Pantry Buffet Cot Fauteuil Jardinière
+Sofabed Bergere Fauteuil Regency Pantry Bookcase Upholstery Bed Bookcase Sofa
+SquareNumber_10000 SquareNumber_2025 SquareNumber_9409 SquareNumber_81 SquareNumber_1089 SquareNumber_1225 SquareNumber_729 SquareNumber_1849 SquareNumber_225 SquareNumber_625
+SquareNumber_121 SquareNumber_5184 SquareNumber_9604 SquareNumber_576 SquareNumber_5041 SquareNumber_9025 SquareNumber_1444 SquareNumber_4761 SquareNumber_1369 SquareNumber_7744
+SquareNumber_9409 SquareNumber_3721 SquareNumber_10000 SquareNumber_2116 SquareNumber_16 SquareNumber_529 SquareNumber_441 SquareNumber_1089 SquareNumber_9216 SquareNumber_8100
+SquareNumber_3969 SquareNumber_9025 SquareNumber_4096 SquareNumber_3481 SquareNumber_1225 SquareNumber_7225 SquareNumber_6084 SquareNumber_8649 SquareNumber_1681 SquareNumber_1225
+SquareNumber_1369 SquareNumber_2500 SquareNumber_49 SquareNumber_1296 SquareNumber_961 SquareNumber_81 SquareNumber_5329 SquareNumber_4761 SquareNumber_1369 SquareNumber_2704
+SquareNumber_2025 SquareNumber_676 SquareNumber_1444 SquareNumber_9801 SquareNumber_5041 SquareNumber_5476 SquareNumber_36 SquareNumber_1444 SquareNumber_2025 SquareNumber_441
+SquareNumber_1089 SquareNumber_2304 SquareNumber_400 SquareNumber_8836 SquareNumber_400 SquareNumber_4356 SquareNumber_7569 SquareNumber_1024 SquareNumber_3481 SquareNumber_8836
+SquareNumber_4096 SquareNumber_5776 SquareNumber_6724 SquareNumber_7396 SquareNumber_81 SquareNumber_4096 SquareNumber_256 SquareNumber_289 SquareNumber_8464 SquareNumber_1225
+SquareNumber_484 SquareNumber_6724 SquareNumber_7744 SquareNumber_64 SquareNumber_5929 SquareNumber_1089 SquareNumber_7744 SquareNumber_5625 SquareNumber_2500 SquareNumber_3025
+SquareNumber_8100 SquareNumber_4489 SquareNumber_400 SquareNumber_3136 SquareNumber_8281 SquareNumber_676 SquareNumber_1225 SquareNumber_1296 SquareNumber_400 SquareNumber_676
+SquareNumber_400 SquareNumber_7396 SquareNumber_1225 SquareNumber_784 SquareNumber_1764 SquareNumber_2401 SquareNumber_2209 SquareNumber_2304 SquareNumber_2209 SquareNumber_676
+analogcomputer arithmetic diskette browser eniac keyboard computerprogram desktoppcs von neumann machine digitalcomputer
+console electrical arithmetic data machines computerhardware cyber antivirus laptopcomputer sliderule
+astrolabe transistor mobiledevice programmer screen cell camera digitalcomputer inputdevice virtualreality
+floppydisk desktoppcs microcomputer ibook algorithm digital android compatible pornographicimages eniac
+computerprogramming downloader game dataconverter android console machine incompatible microprocessor automation
+incompatible peripheral ibook dataconverter server downloader supercomputer peripheral programmer smartphone
+machines office electrical electronics centralprocessing unit computercide escapekey desktoppcs calculator programming
+pornographicimages turingmachine electromechanical computercircuit digitalaudioplayer console data downloader computercircuit memory
+phone astrolabe cell antivirus transistor watch programmer keyboard electronics dataconverter
+cyber programmer tablet microcomputer sliderule mainframe desktopcomputer analogcomputer desktop xbox
+supercomputer astrolabe machine keyboard cyber memory watch chip computercircuit digitalcomputer
+soup meat provender fruit restaurant drinks victuals nutrient vegetable rice
+pasta cheese meals rice beef eat soup nutrition fruits vegetables drinks
+nutrition sushi eat meal drinks drinks sushi meat drinks restaurant
+chicken victuals nourishment seafood nutrient meal soup fruits vegetables sushi chicken
+fruit drinks seafood beef rice milk meal sushi nutrient rice
+eat meat sushi edible meal vegetable drinks meat vegetable meat
+seafood rice meals provender seafood meals cereal drinks beef meals
+fruits vegetables provender edible milk drinks nutrient restaurant chicken nourishment nourishment
+nutrient restaurant cheese fruits vegetables milk plant cereal eat meat vegetable
+vegetable beef plant beef fruit milk milk victuals vegetable pasta
+beef restaurant victuals seafood victuals victuals restaurant cooking rice eat

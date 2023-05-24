@@ -1,0 +1,99 @@
+BinaryNumber_0011011 BinaryNumber_1011011 BinaryNumber_0100011 BinaryNumber_1010000 BinaryNumber_0101100 BinaryNumber_1011000 BinaryNumber_0111000 BinaryNumber_0010010 BinaryNumber_0101101 BinaryNumber_0001101
+BinaryNumber_1010001 BinaryNumber_1010101 BinaryNumber_0010111 BinaryNumber_0101010 BinaryNumber_1000111 BinaryNumber_1010011 BinaryNumber_0010011 BinaryNumber_0010101 BinaryNumber_0011001 BinaryNumber_1000100
+BinaryNumber_0101110 BinaryNumber_1011000 BinaryNumber_1100001 BinaryNumber_0110100 BinaryNumber_0001011 BinaryNumber_1000010 BinaryNumber_1010010 BinaryNumber_0101111 BinaryNumber_0101011 BinaryNumber_1000110
+BinaryNumber_1010001 BinaryNumber_0111111 BinaryNumber_0011100 BinaryNumber_0011000 BinaryNumber_1001101 BinaryNumber_1000001 BinaryNumber_0101110 BinaryNumber_0101001 BinaryNumber_0001110 BinaryNumber_0110000
+BinaryNumber_0001110 BinaryNumber_0001101 BinaryNumber_0101110 BinaryNumber_1001010 BinaryNumber_0000111 BinaryNumber_0110011 BinaryNumber_1011011 BinaryNumber_0011111 BinaryNumber_0101011 BinaryNumber_0100101
+BinaryNumber_0110011 BinaryNumber_0011111 BinaryNumber_0110001 BinaryNumber_0111100 BinaryNumber_0011000 BinaryNumber_0110011 BinaryNumber_1000000 BinaryNumber_0111110 BinaryNumber_0101010 BinaryNumber_1000000
+BinaryNumber_0010101 BinaryNumber_1011111 BinaryNumber_0010000 BinaryNumber_0110011 BinaryNumber_1010100 BinaryNumber_0010001 BinaryNumber_1000111 BinaryNumber_0011100 BinaryNumber_0100001 BinaryNumber_0001011
+BinaryNumber_0101101 BinaryNumber_1011100 BinaryNumber_0001000 BinaryNumber_0011011 BinaryNumber_0100000 BinaryNumber_0000100 BinaryNumber_1000101 BinaryNumber_0101110 BinaryNumber_1000101 BinaryNumber_1001001
+BinaryNumber_0101010 BinaryNumber_1001001 BinaryNumber_0101100 BinaryNumber_1001101 BinaryNumber_0010110 BinaryNumber_0101001 BinaryNumber_0001001 BinaryNumber_1011011 BinaryNumber_1100011 BinaryNumber_0010100
+BinaryNumber_1001101 BinaryNumber_0110001 BinaryNumber_1011001 BinaryNumber_0110010 BinaryNumber_1000101 BinaryNumber_0011100 BinaryNumber_1011001 BinaryNumber_0111101 BinaryNumber_1100010 BinaryNumber_0010110
+BinaryNumber_1001001 BinaryNumber_0110001 BinaryNumber_1010010 BinaryNumber_1001100 BinaryNumber_0110001 BinaryNumber_0001111 BinaryNumber_0110110 BinaryNumber_0100011 BinaryNumber_0111011 BinaryNumber_0101100
+videos dance musicology phone composer party melody story beats sing
+genres atmosphere instrument sfx symphonise drum muse cultural harmony schubert
+atonal media audio graphics tuning monophony artists singing jazz party
+bhangra speak saxophone symphonic talking lyrics party soul genre lyrics
+interlude single banjo record symphonic vocals improvisation subtonic part voices
+trio talking muse concertize oboe vibe literature dixieland sfx harmonise
+schubert cadence soul spotify jazzfunk trumpet karaoke singers melody podcasts
+trio prelude funk blues cello talking harmonise tempo speak chaconne
+talk writing percussion songs blues bhangra conduct opera soundtracks record
+concerto reading section maps schubert pitch guitar percussion musical tongue
+vocals studio language madrigal ambient phenomenon radio clarion cadence reading
+CubeNumber_512000 CubeNumber_125000 CubeNumber_17576 CubeNumber_421875 CubeNumber_357911 CubeNumber_512 CubeNumber_27 CubeNumber_21952 CubeNumber_314432 CubeNumber_17576
+CubeNumber_512 CubeNumber_97336 CubeNumber_5832 CubeNumber_421875 CubeNumber_132651 CubeNumber_250047 CubeNumber_857375 CubeNumber_830584 CubeNumber_29791 CubeNumber_704969
+CubeNumber_571787 CubeNumber_35937 CubeNumber_64000 CubeNumber_148877 CubeNumber_8 CubeNumber_103823 CubeNumber_140608 CubeNumber_1728 CubeNumber_512 CubeNumber_216
+CubeNumber_97336 CubeNumber_373248 CubeNumber_373248 CubeNumber_729 CubeNumber_636056 CubeNumber_2197 CubeNumber_681472 CubeNumber_54872 CubeNumber_287496 CubeNumber_27
+CubeNumber_1728 CubeNumber_166375 CubeNumber_343000 CubeNumber_4913 CubeNumber_6859 CubeNumber_21952 CubeNumber_42875 CubeNumber_1000 CubeNumber_17576 CubeNumber_753571
+CubeNumber_1000 CubeNumber_405224 CubeNumber_140608 CubeNumber_19683 CubeNumber_941192 CubeNumber_531441 CubeNumber_636056 CubeNumber_19683 CubeNumber_2197 CubeNumber_13824
+CubeNumber_132651 CubeNumber_2197 CubeNumber_132651 CubeNumber_8 CubeNumber_804357 CubeNumber_373248 CubeNumber_493039 CubeNumber_1331 CubeNumber_195112 CubeNumber_274625
+CubeNumber_125000 CubeNumber_6859 CubeNumber_5832 CubeNumber_32768 CubeNumber_287496 CubeNumber_592704 CubeNumber_166375 CubeNumber_658503 CubeNumber_64000 CubeNumber_373248
+CubeNumber_551368 CubeNumber_9261 CubeNumber_103823 CubeNumber_39304 CubeNumber_262144 CubeNumber_1000 CubeNumber_287496 CubeNumber_300763 CubeNumber_9261 CubeNumber_46656
+CubeNumber_729000 CubeNumber_125 CubeNumber_1331 CubeNumber_250047 CubeNumber_474552 CubeNumber_21952 CubeNumber_12167 CubeNumber_148877 CubeNumber_39304 CubeNumber_2197
+CubeNumber_117649 CubeNumber_9261 CubeNumber_39304 CubeNumber_91125 CubeNumber_658503 CubeNumber_1000 CubeNumber_681472 CubeNumber_148877 CubeNumber_4913 CubeNumber_54872
+rice meat vegetable sushi chicken fruits vegetables nutrition cooking meal rice
+restaurant beef meal meat sushi meals fruit victuals pasta beef
+pasta meal sushi milk vegetable drinks cooking cooking provender soup
+restaurant fruit chicken nutrient fruits vegetables sushi meals fruit meal edible
+seafood seafood seafood nourishment soup sushi victuals cereal chicken soup
+meat sushi provender rice nutrition fruits vegetables restaurant restaurant beef chicken
+nourishment beef milk fruit soup victuals cereal nourishment cooking provender
+plant nutrition edible provender fruits vegetables drinks fruit nutrient soup meal
+seafood soup cheese sushi milk fruits vegetables rice cheese cooking meat
+vegetable rice fruits vegetables chicken meat beef nutrient animal fruit restaurant
+provender provender soup eat nourishment cheese fruits vegetables cooking seafood beef
+Console Divan Zitan Waterbed Desk Chair Footstool Footstool Sofa Carpet
+Settee Lounger Bench Console Console Pew Vitrine Futon Table Valet
+Valet Pliant Hokey Settee cubbies Bench Bureau Applique Inlay Chair
+Hokey Loveseat Vitrine Hassock Curtains Cabinet Armchair Shelf Buffet Carpet
+Table Bureau Pliant Hassock Wicker Vitrine Chandelier Cot Divan Secretary
+Light Bowfront Console Rattle Rack Cushions Highchair Hokey Mattress Wardrobe
+Inlay Sconce Tansu Chair Castor Fluting Secretary Lounger Bookcase Rattle
+Jardinière Tallboy Tansu Bench Sofa Wheelchair Hokey Wicker Etagère Divan
+Regency Sideboard Cradle Ottoman Mantle Light Mattress Bureau Sofa Mattress
+Table Furnishings Tallboy Chest Desk Pew Bookcase Cabriole Sofabed Divan
+Valet Rack Inlay Bowfront Console Fluting Footstool Cart Bed Fauteuil
+MediumTurquoise MintCream AliceBlue VioletRed SaddleBrown DarkFuchsia Cornsilk HotPink Purple LightGreen
+LightGreen Indigo Navy LightSalmon Bisque PowderBlue MediumAquamarine LightSkyBlue DarkViolet PowderBlue
+VioletRed AliceBlue Chocolate Indigo MediumVioletRed LightSteelBlue RoyalBlue LightPink DeepSkyBlue Snow
+Thistle DarkKhaki Navy SkyBlue Aquamarine Plum MediumSpringGreen LavenderBlush Chartreuse MediumVioletRed
+Fuchsia LavenderBlush DarkTurquoise BlueViolet LimeGreen NavajoWhite DarkOliveGreen RosyBrown DarkGray Coral
+Lavender OliveDrab Chartreuse DodgerBlue Azure WhiteSmoke Yellow Sienna NavajoWhite MediumPurple
+Plum LightCyan Linen MediumOrchid Chartreuse SaddleBrown Salmon LightGray Gold PaleVioletRed
+MediumSeaGreen Black Pink Honeydew SandyBrown Crimson SlateGray DarkCyan LightGoldenrodYellow Snow
+Navy Purple LightGray BlanchedAlmond Feldspar Plum Burlywood DarkOrchid NavajoWhite Chocolate
+Green DarkKhaki Maroon Tan MediumSpringGreen DarkOrchid CadetBlue LightSlateBlue LightPink LemonChiffon
+Brown Gray DarkCyan Snow VioletRed DeepSkyBlue Yellow Tan Wheat Coral
+Orange Banana Papaya Feijoa Tamarillo Elderberry Date Plum Soursop Loquat
+Pear Guava Quince Cherry Kiwifruit Redcurrant Raisin Lemon Plantain Açaí
+Apple Passionfruit Blackcurrant Cherimoya Marionberry Damson Honeyberry Kumquat Loganberry Kumquat
+Fig Damson Elderberry Durian Tayberry Cranberry Blueberry Cloudberry Tamarind Pineapple
+Cloudberry Avocado Soursop Blueberry Yuzu Jackfruit Canistel Cantaloupe Mangosteen Blueberry
+Nance Raspberry Satsuma Jackfruit Soursop Lime Sapodilla Sapote Jujube Kiwifruit
+Gooseberry Lulo Kumquat Soursop Tangelo Jambul Lemon Açaí Cashew Tamarillo
+Avocado Jostaberry Plantain Guava Strawberry Tayberry Lychee Apple Loquat Watermelon
+Salak Plantain Açaí Pineapple Kiwifruit Salak Prune Durian Jujube Sapodilla
+Rambutan  Bilberry Satsuma Nectarine Kiwifruit Nectarine Blackberry Salak Damson Satsuma
+Tamarind Clementine Sapote Cranberry Grapefruit Kiwano Kiwano Damson Ackee Mulberry
+cpu hardware keyboard vacuumtube diskette incompatible phone pc proprietary device
+vacuumtube hardware mainframe chip von neumann machine computation information cpu information ibook
+laptop social electromechanical arithmetic processor xbox integratedcircuit machines digitalcommunication screen
+centralprocessing unit turingmachine software device screen office phone spyware mobile automation
+programmer laptop floppydisk hardware machines virtualreality office digitalaudioplayer cybertechnology mechanicalcomputer
+data device floppydisk cpu cpu analogcomputer personalcomputer sliderule screen computerhardware
+astrolabe ibook memory daw proprietary processor computercide console machines proprietary
+router smartphone daw hardware integratedcircuit integratedcircuit astrolabe computerhardware router expansionslot
+monitor compatible electrical tablet mobile transistor mainframe mobiledevice algorithm cpu
+router abacus virtualreality turingmachine smartphone diskette electrical centralprocessing unit pornographicimages processor
+peripheral xbox spyware cybertechnology inputdevice router desktop imac watch imac
+Esophagus Spleen Tongue Heart Spinalnerves Pons Lips Spleen Ossicles Brain
+Nerves Heart Teeth Tongue Kidneys Lens Thalamus Cranialnerves Thymus Lungs
+Bone  Lens Tongue Vulva Bladder Tongue Sensoryorgans Thalamus Midbrain Joints
+Tongue Pharynx Jejunum Nerves Brain Kidneys Kidneys Arteries Uterus Gallbladder
+Nerves Gallbladder Vulva skeleton skeleton Ureter Cornea Veins Kidneys Stomach
+Tendons Ovaries Largeintestine Cerebrum Cervix Veins Cerebrum Ciliarybody Largeintestine Innerear
+Analcanal Outerear Ossicles Tongue Brain Interstitium Mesentery Thymus Penis Scrotum
+Cerebrum Analcanal Fallopiantubes Pons Tonsils Cranialnerves Arteries Ovaries Veins Pons
+Duodenum Clitoris Analcanal Midbrain Penis Largeintestine Middleear Rectum Kidneys Lens
+Spinalnerves Middleear Joints Ligaments Hypothalamus Scrotum Sensoryorgans Eardrum Placenta Innerear
+Nerves Ganglia Tastebuds Liver Veins Penis Spinalnerves Cranialnerves Analcanal Tendons

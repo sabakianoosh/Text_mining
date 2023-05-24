@@ -1,0 +1,99 @@
+SquareNumber_4900 SquareNumber_1024 SquareNumber_676 SquareNumber_25 SquareNumber_1521 SquareNumber_8281 SquareNumber_25 SquareNumber_9025 SquareNumber_6561 SquareNumber_3721
+SquareNumber_196 SquareNumber_576 SquareNumber_625 SquareNumber_1521 SquareNumber_1225 SquareNumber_1369 SquareNumber_289 SquareNumber_4 SquareNumber_2401 SquareNumber_676
+SquareNumber_324 SquareNumber_9604 SquareNumber_4900 SquareNumber_529 SquareNumber_4761 SquareNumber_961 SquareNumber_1600 SquareNumber_8100 SquareNumber_4096 SquareNumber_2500
+SquareNumber_9216 SquareNumber_441 SquareNumber_5329 SquareNumber_1444 SquareNumber_1521 SquareNumber_81 SquareNumber_5329 SquareNumber_1089 SquareNumber_100 SquareNumber_25
+SquareNumber_729 SquareNumber_3844 SquareNumber_841 SquareNumber_10000 SquareNumber_2704 SquareNumber_784 SquareNumber_5476 SquareNumber_5041 SquareNumber_2116 SquareNumber_400
+SquareNumber_3969 SquareNumber_484 SquareNumber_7056 SquareNumber_225 SquareNumber_841 SquareNumber_1936 SquareNumber_4624 SquareNumber_49 SquareNumber_961 SquareNumber_3844
+SquareNumber_2209 SquareNumber_1521 SquareNumber_361 SquareNumber_2809 SquareNumber_6561 SquareNumber_16 SquareNumber_3721 SquareNumber_484 SquareNumber_4096 SquareNumber_2116
+SquareNumber_5476 SquareNumber_400 SquareNumber_9025 SquareNumber_3600 SquareNumber_4624 SquareNumber_7744 SquareNumber_8464 SquareNumber_100 SquareNumber_400 SquareNumber_324
+SquareNumber_2916 SquareNumber_3844 SquareNumber_841 SquareNumber_8281 SquareNumber_2809 SquareNumber_2916 SquareNumber_676 SquareNumber_441 SquareNumber_6241 SquareNumber_4
+SquareNumber_81 SquareNumber_1681 SquareNumber_9409 SquareNumber_2916 SquareNumber_8464 SquareNumber_2304 SquareNumber_3025 SquareNumber_256 SquareNumber_100 SquareNumber_5184
+SquareNumber_36 SquareNumber_784 SquareNumber_5929 SquareNumber_6400 SquareNumber_2704 SquareNumber_900 SquareNumber_4225 SquareNumber_3136 SquareNumber_900 SquareNumber_289
+Sconce Buffet Couch Recliner Rack Chest Table Throne Applique Chandelier
+Sideboard Mantle Regency Fluting Hutch Cupboard Carpet Crib Waterbed Sofabed
+Island Pew Upholstery Vanity Carpet Bookshelf Furnishings Regency Wardrobe Pliant
+Cradle Furnishings Clock Television Drapery Ottoman Highchair Bench Futon Hutch
+Pillow Credenza Vanity Footrest Chandelier Lounger Fan Rattle Vanity Settee
+Loveseat Clock Sideboard Loveseat Bentwood Antique Lintel Headboard Carpet Hutch
+Hutch Screen Sofa Applique Antique Cushion Furnishings Antique Cupboard Waterbed
+Bed Dresser Pew Lounger Mantle Cushions Tallboy Headboards Credenza Bookcase
+Chair Tallboy Pantry Cot Drapery Recliner Chair Drapery Tuffet Shelf
+Seat Island Furniture Chandelier Futon Drapes Lounger Hassock Island Wheelchair
+Waterbed Valet Cabinet Chandelier Hutch Volute Bookshelf Ottoman Etagère Cushions
+Soursop Abiu Jostaberry Mango Abiu Kiwano Sapote Passionfruit Pomelo Tamarind
+Abiu Peach Satsuma Fig Longan Passionfruit Honeydew Tamarind Coconut Tamarind
+Fig Blackcurrant Plantain Pear Satsuma Feijoa Quince Açaí Apricot Abiu
+Plum Avocado Currant Lulo Gooseberry Salmonberry Pawpaw Plantain Pawpaw Akebi
+Grape Pineberry Passionfruit Grape Bilberry Akebi Tamarillo Açaí Grapefruit Lime
+Melon Peach Grape Avocado Currant Strawberry Loquat Huckleberry Breadfruit Akebi
+Jackfruit Clementine Jackfruit Currant Damson Lemon Avocado Quince Durian Tangelo
+Plum Quince Tamarind Redcurrant Tamarillo Cloudberry Kiwifruit Cempedak Mandarine Strawberry
+Damson Blackberry Mulberry Tangerine Abiu Nance Damson Grapefruit Papaya Banana
+Akebi Pawpaw Papaya Melon Damson Mangosteen Damson Tamarillo Ximenia Kumquat
+Grape Cantaloupe Pomelo Blackcurrant Lime Pineberry Blackcurrant Soursop Sapote Damson
+forensic dark blackmail mob homicide snitching sin human legislature law
+transgression murders sin offenders slayings thriller gang threats blackmail transgression
+thrillers crime sin human assault kill criminals human war assault
+offenses accident death guilty corruption lift war suspense homeless poverty
+investigation assault trial heist brutality legislature revenge assault mob transgression
+poverty homeless assault spy pirate homeless statutory assault trial crisis
+spy mob kill gangs revenge skyjack crisis cybercrime abuse missing
+noir offense assault fraud offence cybercrime statutory police highjack prostitution
+action mutilation robbery arsons homeless mutilation slayings gangs misdemeanour gangsterism
+investigation country brutality smuggle highjack cases arrest criminals criminality guilt
+transgression threats political serial sin theft misdemeanor homelessness poison spy
+BinaryNumber_1000001 BinaryNumber_0011111 BinaryNumber_0100000 BinaryNumber_0011001 BinaryNumber_0000011 BinaryNumber_0101011 BinaryNumber_0001010 BinaryNumber_1000100 BinaryNumber_1001110 BinaryNumber_1010001
+BinaryNumber_1100010 BinaryNumber_1011000 BinaryNumber_0000101 BinaryNumber_0100000 BinaryNumber_1001100 BinaryNumber_0011011 BinaryNumber_0111111 BinaryNumber_0000010 BinaryNumber_0101001 BinaryNumber_1100010
+BinaryNumber_0101000 BinaryNumber_0100101 BinaryNumber_0111010 BinaryNumber_0010000 BinaryNumber_0101000 BinaryNumber_1000100 BinaryNumber_0111101 BinaryNumber_0010011 BinaryNumber_1000110 BinaryNumber_1011001
+BinaryNumber_0101011 BinaryNumber_0110000 BinaryNumber_1000100 BinaryNumber_0110000 BinaryNumber_1010011 BinaryNumber_1001111 BinaryNumber_0101101 BinaryNumber_1000110 BinaryNumber_0100010 BinaryNumber_0101100
+BinaryNumber_0111011 BinaryNumber_1000011 BinaryNumber_0101011 BinaryNumber_0000000 BinaryNumber_1001010 BinaryNumber_0010101 BinaryNumber_0010101 BinaryNumber_0111010 BinaryNumber_1000001 BinaryNumber_1001111
+BinaryNumber_0100111 BinaryNumber_1001111 BinaryNumber_0010111 BinaryNumber_0001001 BinaryNumber_1010011 BinaryNumber_1010000 BinaryNumber_0101101 BinaryNumber_1010100 BinaryNumber_0101110 BinaryNumber_0001111
+BinaryNumber_0000010 BinaryNumber_1011000 BinaryNumber_0101110 BinaryNumber_1010101 BinaryNumber_1010111 BinaryNumber_1010111 BinaryNumber_0111001 BinaryNumber_0000111 BinaryNumber_0111100 BinaryNumber_0100101
+BinaryNumber_0101010 BinaryNumber_0010110 BinaryNumber_0111110 BinaryNumber_0001110 BinaryNumber_0111110 BinaryNumber_0101011 BinaryNumber_0011010 BinaryNumber_0001100 BinaryNumber_1000000 BinaryNumber_0111010
+BinaryNumber_0100010 BinaryNumber_1000010 BinaryNumber_0100100 BinaryNumber_0011010 BinaryNumber_1100011 BinaryNumber_0000001 BinaryNumber_1010000 BinaryNumber_0011110 BinaryNumber_0101111 BinaryNumber_0001100
+BinaryNumber_1010100 BinaryNumber_0110011 BinaryNumber_0010000 BinaryNumber_1100001 BinaryNumber_1010000 BinaryNumber_0000110 BinaryNumber_1010100 BinaryNumber_0001101 BinaryNumber_0011011 BinaryNumber_0010111
+BinaryNumber_0011010 BinaryNumber_1011100 BinaryNumber_0101110 BinaryNumber_0011110 BinaryNumber_0110101 BinaryNumber_0101011 BinaryNumber_0011010 BinaryNumber_0011001 BinaryNumber_0111000 BinaryNumber_0100101
+processor monitor sliderule algorithm programmer centralprocessing unit expansionslot programming monitor cpu
+computercide keyboard router arithmetic tablet proprietary internet mobiledevice antivirus vacuumtube
+electromechanical laptop transistor memory android computerhardware sliderule eniac computation office
+ibook tablet electrical compatible laptop cyber transistor console machine centralprocessing unit
+computerscience transistor von neumann machine abacus computerhardware computation cyber personalcomputer mobiledevice electromechanical
+ibook vacuumtube integratedcircuit chip abacus computation monitor computing bit homecomputer
+cybertechnology compatible integratedcircuit console machinecode proprietary social eniac computerscience supercomputer
+visualdisplayunit floppydisk device memory electrical bit virtualreality computerprogramming server cyber
+camera automation social dataconverter spyware screen electrical von neumann machine information phone
+server android virtualreality spyware visualdisplayunit office device machines mobile arithmetic
+smartphone proprietary mechanicalcomputer dataconverter eniac sliderule computercircuit digitalaudioplayer data floppydisk
+art yoga ineligible sports esport badminton activities ineligible teams dance
+performance sportsmanship recreation rugby tournament position skiing dive athlete athletics
+fitness sportsmanship wipeout suit entertainment skylark team recreation diver team
+hunting game hobby teams career soccerball lifestyle fitness job utility
+downfield skylark athletic action action position challenge hobbies wipeout goal
+casual competitive gambol esport soccerball athletics team coach combat teams
+motorsports athletic rugby entertainment skylark skylark judo sportsmanship hunters hobby
+skylark offside champion multisport blazers supersport fast organization suit tournaments
+dirt esport skating challenge bouldering archery esport company fighting job
+concert premium tournaments games entertainment judo supersport action athlete health
+tournaments club activity gambol performance skating athletes motorcycling triathlon hiking
+nutrition sushi rice plant chicken edible vegetable meal nutrition fruits vegetables
+plant milk meals restaurant beef milk pasta vegetable provender sushi
+rice chicken cereal beef pasta restaurant plant nutrition beef eat
+vegetable fruits vegetables milk cereal soup drinks vegetable rice nourishment restaurant
+vegetable cheese plant drinks meal meal meals animal cooking beef
+plant meal edible sushi vegetable cheese nutrient eat sushi pasta
+plant provender meals edible chicken soup fruit cereal fruits vegetables victuals
+pasta pasta edible beef rice vegetable chicken pasta eat beef
+provender drinks nourishment seafood rice fruits vegetables vegetable meal restaurant fruit
+meat vegetable fruits vegetables chicken cereal seafood drinks provender fruits vegetables chicken
+beef nutrient fruit victuals edible chicken restaurant fruits vegetables drinks vegetable
+Brain Nerves Pharynx Capillaries Ligaments Scrotum Outerear Cecum Capillaries Duodenum
+Thymus Pharynx Cornea Rectum Outerear Innerear Fallopiantubes Cerebellum Bladder Lymphaticvessel
+Nerves Tongue Bronchi Cornea Midbrain Brain Thymus Clitoris Heart Spleen
+Nerves Cornea Iris Outerear Kidneys Eardrum Thymus Duodenum Spinalnerves Rectum
+Heart Heart Thalamus Ear Lens Gallbladder Earlobe Placenta Spleen Mesentery
+Tendons Lips Ileum Mesentery Innerear Smallintestine Sensoryorgans skeleton Teeth Joints
+Interstitium Thymus Midbrain Pons Kidneys Iris Teeth Nerves Vulva Lungs
+Analcanal Bone  Ganglia Joints Scrotum Outerear Rectum Iris Analcanal Middleear
+Stomach Ganglia Cornea Ileum Duodenum Nerves Rectum Nerves Eardrum Heart
+Joints Nerves Bladder Trachea Veins Penis Cochlea Fallopiantubes Teeth Analcanal
+Ureter Pharynx Duodenum Cerebrum Ovaries Placenta Largeintestine Bladder Kidneys Joints

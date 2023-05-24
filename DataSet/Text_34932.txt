@@ -1,0 +1,99 @@
+SquareNumber_1936 SquareNumber_3025 SquareNumber_3600 SquareNumber_1225 SquareNumber_8100 SquareNumber_144 SquareNumber_2809 SquareNumber_2601 SquareNumber_361 SquareNumber_9
+SquareNumber_400 SquareNumber_36 SquareNumber_3249 SquareNumber_3600 SquareNumber_9216 SquareNumber_3136 SquareNumber_100 SquareNumber_9409 SquareNumber_7921 SquareNumber_5929
+SquareNumber_6241 SquareNumber_3481 SquareNumber_5184 SquareNumber_9025 SquareNumber_576 SquareNumber_484 SquareNumber_49 SquareNumber_7225 SquareNumber_7744 SquareNumber_7921
+SquareNumber_121 SquareNumber_3364 SquareNumber_6889 SquareNumber_2704 SquareNumber_196 SquareNumber_9025 SquareNumber_529 SquareNumber_2500 SquareNumber_6889 SquareNumber_1089
+SquareNumber_9801 SquareNumber_1849 SquareNumber_9604 SquareNumber_4225 SquareNumber_361 SquareNumber_6561 SquareNumber_576 SquareNumber_4900 SquareNumber_5041 SquareNumber_25
+SquareNumber_6400 SquareNumber_121 SquareNumber_1521 SquareNumber_6400 SquareNumber_4761 SquareNumber_1521 SquareNumber_2025 SquareNumber_3600 SquareNumber_441 SquareNumber_1936
+SquareNumber_1296 SquareNumber_196 SquareNumber_2704 SquareNumber_3844 SquareNumber_7921 SquareNumber_8836 SquareNumber_7396 SquareNumber_64 SquareNumber_3364 SquareNumber_10000
+SquareNumber_729 SquareNumber_1600 SquareNumber_484 SquareNumber_8100 SquareNumber_1444 SquareNumber_9801 SquareNumber_7225 SquareNumber_9604 SquareNumber_625 SquareNumber_4900
+SquareNumber_4096 SquareNumber_2304 SquareNumber_3600 SquareNumber_5184 SquareNumber_169 SquareNumber_4225 SquareNumber_3721 SquareNumber_1936 SquareNumber_1600 SquareNumber_16
+SquareNumber_1600 SquareNumber_1089 SquareNumber_3364 SquareNumber_196 SquareNumber_4489 SquareNumber_1225 SquareNumber_81 SquareNumber_361 SquareNumber_3025 SquareNumber_576
+SquareNumber_441 SquareNumber_3481 SquareNumber_4761 SquareNumber_6561 SquareNumber_1600 SquareNumber_4900 SquareNumber_1156 SquareNumber_9025 SquareNumber_5329 SquareNumber_1681
+BinaryNumber_1010011 BinaryNumber_0110100 BinaryNumber_1000000 BinaryNumber_0001011 BinaryNumber_0001111 BinaryNumber_1011010 BinaryNumber_0101001 BinaryNumber_1010110 BinaryNumber_0100101 BinaryNumber_0111100
+BinaryNumber_0001001 BinaryNumber_1001111 BinaryNumber_1010111 BinaryNumber_1001001 BinaryNumber_0010011 BinaryNumber_1001100 BinaryNumber_1100001 BinaryNumber_0011001 BinaryNumber_1000001 BinaryNumber_1001010
+BinaryNumber_0010110 BinaryNumber_1011000 BinaryNumber_0111010 BinaryNumber_0111110 BinaryNumber_0010111 BinaryNumber_0010010 BinaryNumber_0110010 BinaryNumber_1010000 BinaryNumber_0000110 BinaryNumber_0110100
+BinaryNumber_0111100 BinaryNumber_1011111 BinaryNumber_1010100 BinaryNumber_0011100 BinaryNumber_0001100 BinaryNumber_0100010 BinaryNumber_0001001 BinaryNumber_1011100 BinaryNumber_0110010 BinaryNumber_0011111
+BinaryNumber_1001001 BinaryNumber_0111101 BinaryNumber_0101111 BinaryNumber_0110010 BinaryNumber_1001100 BinaryNumber_0001111 BinaryNumber_1011011 BinaryNumber_0000000 BinaryNumber_0100101 BinaryNumber_0011000
+BinaryNumber_0111010 BinaryNumber_1011001 BinaryNumber_1001110 BinaryNumber_1011001 BinaryNumber_0000011 BinaryNumber_1011010 BinaryNumber_0111111 BinaryNumber_1000010 BinaryNumber_1000001 BinaryNumber_1011011
+BinaryNumber_0001001 BinaryNumber_1001110 BinaryNumber_0001000 BinaryNumber_1001100 BinaryNumber_0111101 BinaryNumber_0011110 BinaryNumber_1010100 BinaryNumber_0100010 BinaryNumber_0110001 BinaryNumber_0100110
+BinaryNumber_0001101 BinaryNumber_0111001 BinaryNumber_0101010 BinaryNumber_1010110 BinaryNumber_0011111 BinaryNumber_0111000 BinaryNumber_0011011 BinaryNumber_1011010 BinaryNumber_1000010 BinaryNumber_0001100
+BinaryNumber_1011101 BinaryNumber_1001001 BinaryNumber_1100000 BinaryNumber_0100100 BinaryNumber_1001100 BinaryNumber_1000010 BinaryNumber_1001010 BinaryNumber_1100000 BinaryNumber_1010001 BinaryNumber_0110110
+BinaryNumber_0101000 BinaryNumber_0001101 BinaryNumber_0001100 BinaryNumber_0000100 BinaryNumber_0110001 BinaryNumber_0111001 BinaryNumber_0101111 BinaryNumber_1010111 BinaryNumber_1010110 BinaryNumber_0010111
+BinaryNumber_0110111 BinaryNumber_1000000 BinaryNumber_0010010 BinaryNumber_0110101 BinaryNumber_0101011 BinaryNumber_1001000 BinaryNumber_1001110 BinaryNumber_0101000 BinaryNumber_0100111 BinaryNumber_0100010
+drab enthusiastic healthy cruel frail gleaming ugly successful better wide-eyed
+condemned cooperative hurt kind combative shiny tough inexpensive wandering calm
+fine clear real pleasant joyous putrid happy tender joyous selfish
+thoughtful inquisitive fancy strange horrible rich lovely jealous grieving enchanting
+beautiful thoughtful graceful famous selfish envious odd condemned kind poor
+breakable lovely depressed awful defiant shiny motionless victorious tense jolly
+anxious wild jolly gorgeous thankful angry determined nasty open vivacious
+innocent relieved stormy grotesque fantastic muddy worried tame panicky breakable
+lazy super wide-eyed inquisitive inexpensive angry tender wicked shiny concerned
+ill wicked putrid fair gifted grumpy impossible blue joyous thoughtless
+vivacious sore filthy doubtful attractive jittery open odd distinct uptight
+Tamarillo Huckleberry Marionberry Salak Strawberry Guava Lychee Mangosteen Jackfruit Tangerine
+Gooseberry Salmonberry Mandarine Apricot Raspberry Honeyberry Bilberry Huckleberry Pomegranate Canistel
+Rambutan  Jostaberry Jujube Longan Fig Pomelo Loganberry Ximenia Banana Huckleberry
+Raspberry Jackfruit Coconut Date Date Boysenberry Blackberry Abiu Guava Cherry
+Açaí Currant Watermelon Honeydew Honeydew Mulberry Canistel Rambutan  Tayberry Gooseberry
+Longan Blackcurrant Tamarillo Blackcurrant Boysenberry Loganberry Pear Date Jostaberry Canistel
+Avocado Satsuma Grape Jackfruit Orange Akebi Tangerine Soursop Plantain Cantaloupe
+Ackee Canistel Grape Guava Canistel Pear Peach Apricot Blackberry Cherimoya
+Sapodilla Elderberry Jujube Grape Salak Clementine Nance Strawberry Tangelo Honeydew
+Coconut Loquat Orange Persimmon Feijoa Akebi Cantaloupe Watermelon Salak Mango
+Grape Durian Abiu Jostaberry Nance Pawpaw Longan Redcurrant Sapote Rambutan 
+reptile amphibians sheep wild birds farming livestock protist jellyfish animal welfare
+tiger insectivorous cats cat animal welfare frog dog mythical chordate invertebrate
+plant raccoon primate animalkingdom biped deer pitbull dog reptile plant
+jellyfish bobcat pig insectivore carnivore frog tiger chordate pups jellyfish
+multicellular tame reptile bug chickens porifera iguana zoology fish dogs
+workanimal animal welfare feline mythical biped sensual insectivorous embryo heterotroph livestock
+pig superdog insect pitbull carnivore thoroughbred iguana primate bobcat dogs
+iguana heterotroph zoo eukaryotic pups hourse multicellular vertebrate mammal dog
+animals porifera fleshly scavenger eukaryotic zoology tiger mammal superdog zooplankton
+creature exoticanimals amphibians creature ladybug tame pig carnivore object plant
+animal welfare llamas insectivorous darter workanimal ladybug dog epizootic fantasy predatoryanimal
+13:19 18:31 15:58 10:40 18:10 15:52 18:53 11:26 16:10 11:30
+11:57 11:51 15:46 13:20 23:15 22:43 16:33 23:27 19:26 20:28
+14:45 23:24 18:35 23:13 20:50 13:30 20:17 14:20 23:58 14:21
+18:14 10:10 16:58 18:27 18:23 20:50 12:59 16:48 14:50 12:11
+23:17 16:52 17:52 13:54 11:26 23:25 23:36 20:21 10:23 22:19
+13:50 12:46 11:34 18:46 13:57 21:58 19:40 17:36 10:58 21:44
+20:26 15:26 18:27 16:11 13:44 12:20 15:36 21:22 15:50 20:16
+19:22 20:37 12:12 16:35 14:17 21:33 19:36 21:41 12:46 17:55
+13:51 23:50 22:39 15:37 10:46 22:23 10:32 19:44 17:25 18:12
+12:30 22:21 21:52 10:35 21:13 13:33 13:17 21:35 21:18 10:12
+20:32 16:21 15:11 14:55 20:10 22:20 18:10 23:45 18:14 20:11
+police gangsterism accident cybercrime theft corruption dark dark political barratry
+safety drama snitching brutality trial guilt safety homicide skyjack political
+investigation offense misdemeanour poison missing drug slay homelessness cybercrime theft
+terrorism suspense racism gun police country muggings law-breaking hijack snitching
+crime pirate offenders highjack unsolved dark abuse crisis conspiracy arsons
+robbery arrest psychological political arsons transgression homicides murders political crime
+crime government theft drugs blackmail prison drug illegal trafficking hijack
+punishment homicides homeless imprisonment war racism suspense homeless human criminality
+robbery imprisonment supernatural barratry offenses country snitching terrorism muggings story
+legislature terrorism rape justice snitching gangs structuralism brutality mystery action
+mutilation cases lift forensic crime arrest thrillers racism guilty sin
+cpu floppydisk ibook screen machinecode processor digital watch chip chip
+phone phone desktop supercomputer visualdisplayunit automation floppydisk router game electronics
+screen imac automation device astrolabe peripheral phone personalcomputer eniac vacuumtube
+browser phone monitor sliderule monitor floppydisk transistor computation smartphone electromechanical
+arithmetic personalcomputer desktoppcs xbox turingmachine hardware information automation digitalcomputer computation
+game pc incompatible antivirus ibook computerhardware ibook algorithm daw tablet
+electrical homecomputer machine downloader personalcomputer daw server tablet von neumann machine desktoppcs
+device cpu laptopcomputer daw homecomputer spyware analogcomputer centralprocessing unit eniac smartphone
+computing computation hardware office vacuumtube personalcomputer algorithm analogcomputer supercomputer computation
+memory ibook virtualreality monitor automation floppydisk machine hardware virtualreality console
+machinecode processor desktoppcs chip mechanicalcomputer pc cell programming mainframe android
+pasta nutrition drinks pasta animal nutrient beef nourishment sushi fruits vegetables
+seafood edible rice meat fruits vegetables meal meals cooking cooking meals
+meat cooking meat victuals victuals nourishment rice milk fruits vegetables chicken
+cereal meals edible chicken seafood drinks seafood fruits vegetables sushi edible
+restaurant edible rice fruits vegetables beef animal nutrition beef restaurant fruits vegetables
+fruits vegetables nutrient restaurant soup sushi provender cooking fruit cooking rice
+milk fruits vegetables drinks nutrition cereal chicken pasta fruit drinks restaurant
+cheese drinks provender fruits vegetables meat milk fruits vegetables animal cheese nourishment
+restaurant nourishment eat drinks pasta meals fruits vegetables provender restaurant cheese
+vegetable cereal chicken soup meat nutrition victuals nutrient cereal rice
+beef animal cereal fruit cereal drinks seafood cooking victuals victuals
